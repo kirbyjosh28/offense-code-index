@@ -1,4 +1,53 @@
 const phraseAliases = [
+  ["one headlight is out", "improper lighting one headlamp"],
+  ["one headlight out", "improper lighting one headlamp"],
+  ["left headlight is out", "improper lighting one headlamp"],
+  ["right headlight is out", "improper lighting one headlamp"],
+  ["headlights not working", "improper lighting one headlamp"],
+  ["headlight not working", "improper lighting one headlamp"],
+  ["broken headlights", "improper lighting one headlamp"],
+  ["broken headlight", "improper lighting one headlamp"],
+  ["headlight is out", "improper lighting one headlamp"],
+  ["headlight out", "improper lighting one headlamp"],
+  ["tail lights not working", "no red taillight"],
+  ["taillights not working", "no red taillight"],
+  ["taillight not working", "no red taillight"],
+  ["broken tail lights", "no red taillight"],
+  ["broken taillights", "no red taillight"],
+  ["broken taillight", "no red taillight"],
+  ["tail light is out", "no red taillight"],
+  ["taillight is out", "no red taillight"],
+  ["tail light out", "no red taillight"],
+  ["taillight out", "no red taillight"],
+  ["brake lights not working", "no stop light signal lamp"],
+  ["brake light not working", "no stop light signal lamp"],
+  ["brake lights out", "no stop light signal lamp"],
+  ["brake light out", "no stop light signal lamp"],
+  ["broken brake lights", "no stop light signal lamp"],
+  ["broken brake light", "no stop light signal lamp"],
+  ["windshield wipers not working", "no windshield clearing device"],
+  ["broken windshield wipers", "no windshield clearing device"],
+  ["windshield wipers", "windshield clearing device"],
+  ["cracked windshield", "defective windshield"],
+  ["broken windshield", "defective windshield"],
+  ["loud exhaust system", "muffler loud excessive noise"],
+  ["loud exhaust", "muffler loud excessive noise"],
+  ["no exhaust", "no muffler"],
+  ["bald tires", "unsafe tire tread"],
+  ["worn out tires", "unsafe tire tread"],
+  ["worn tires", "unsafe tire tread"],
+  ["ran through a red light", "disobeying traffic control signal"],
+  ["ran through red light", "disobeying traffic control signal"],
+  ["went through a red light", "disobeying traffic control signal"],
+  ["went through red light", "disobeying traffic control signal"],
+  ["ran a red light", "disobeying traffic control signal"],
+  ["ran red light", "disobeying traffic control signal"],
+  ["rolled through a stop sign", "disobeying stop sign"],
+  ["rolled through stop sign", "disobeying stop sign"],
+  ["did not stop at stop sign", "disobeying stop sign"],
+  ["passed a stopped school bus", "passed school bus loading unloading"],
+  ["passed stopped school bus", "passed school bus loading unloading"],
+  ["school bus stop arm", "passed school bus loading unloading"],
   ["texting on my phone while driving", "electronic communication device"],
   ["using a phone while driving", "electronic communication device"],
   ["driving without car insurance", "operating uninsured motor vehicle"],
@@ -47,6 +96,12 @@ const phraseAliases = [
   ["fake id", "false identification"],
   ["stolen car", "stolen motor vehicle"],
   ["weed possession", "cannabis possession"],
+  ["headlights", "headlamp"],
+  ["headlight", "headlamp"],
+  ["tail lights", "taillight"],
+  ["taillights", "taillight"],
+  ["brake lights", "stop light"],
+  ["wipers", "clearing device"],
 ].sort((left, right) => right[0].length - left[0].length);
 
 const synonyms = new Map([
@@ -85,6 +140,19 @@ const synonyms = new Map([
   ["stolen", ["theft", "steal"]],
   ["seatbelt", ["seat", "belt", "restraint"]],
   ["fake", ["false", "fraudulent"]],
+  ["broken", ["defective", "failure", "improper", "unsafe", "no"]],
+  ["defective", ["broken", "failure", "improper", "unsafe", "no"]],
+  ["out", ["no", "without", "defective", "failure", "improper", "insufficient"]],
+  ["headlamp", ["headlight", "headlights"]],
+  ["headlight", ["headlamp", "headlights"]],
+  ["taillight", ["taillights"]],
+  ["brake", ["stop", "signal"]],
+  ["wiper", ["wipers", "clearing", "device"]],
+  ["exhaust", ["muffler", "noise"]],
+  ["bald", ["unsafe", "worn", "tread"]],
+  ["tires", ["tire", "tread"]],
+  ["tire", ["tires", "tread"]],
+  ["red", ["traffic", "signal"]],
 ]);
 
 const stopWords = new Set([
@@ -188,9 +256,9 @@ const canonicalCodeFor = (offense) =>
     ? `625 ILCS 5/${offense.code}`
     : offense.code ?? "";
 
-export const buildOffenseSearchDocument = (offense) => {
-  const aliases = [];
+export const buildOffensePrimarySearchDocument = (offense) => {
   const description = normalizeText(offense.description);
+  const aliases = [];
 
   if (description.includes("under the influence")) {
     aliases.push("dui dwi drunk driving impaired driving");
@@ -218,15 +286,64 @@ export const buildOffenseSearchDocument = (offense) => {
   if (description.includes("cannabis")) aliases.push("weed marijuana pot");
   if (description.includes("firearm") || description.includes("weapon")) aliases.push("gun");
 
+  if (
+    description.includes("headlamp") ||
+    description.includes("headlight") ||
+    description.includes("driving without lights when required")
+  ) {
+    aliases.push("headlight headlights head lamp headlamp headlamps front light front lights");
+  }
+  if (description.includes("taillight") || description.includes("tail lamp")) {
+    aliases.push("taillight taillights tail light tail lights rear light rear lights");
+  }
+  if (description.includes("driving without lights when required")) {
+    aliases.push("taillight taillights tail light tail lights rear light rear lights");
+  }
+  if (description.includes("stop light") || description.includes("signal lamp")) {
+    aliases.push("brake light brake lights stop lamp stop lamps");
+  }
+  if (description.includes("back-up lights")) aliases.push("backup light backup lights reverse lights");
+  if (description.includes("windshield clearing device")) {
+    aliases.push("windshield wiper windshield wipers wiper blades broken wipers");
+  }
+  if (description.includes("defective windshield")) {
+    aliases.push("cracked windshield broken windshield damaged windshield");
+  }
+  if (description.includes("muffler")) aliases.push("exhaust loud exhaust exhaust system");
+  if (description.includes("unsafe tire") || description.includes("tread groove depth")) {
+    aliases.push("bald tire bald tires worn tire worn tires tire tread");
+  }
+  if (description.includes("disobeying traffic control signal")) {
+    aliases.push("ran red light run red light went through red light traffic light violation");
+  }
+  if (description.includes("disobeying stop sign")) {
+    aliases.push("rolled stop sign ran stop sign did not stop stop sign violation");
+  }
+  if (description.includes("passed school bus") && description.includes("loading or unloading")) {
+    aliases.push("school bus stop arm stopped school bus flashing bus lights");
+  }
+  if (description.includes("left-side mirrors") || description === "mirrors") {
+    aliases.push("rearview mirror side mirror broken mirror no mirror");
+  }
+
   return normalizeText(
     [
-      offense.searchText,
+      offense.description,
+      offense.code,
       canonicalCodeFor(offense),
       offense.reportingCodes.map(({ value, role }) => `${value} ${role ?? ""}`).join(" "),
       aliases.join(" "),
     ].join(" ")
   );
 };
+
+export const buildOffenseSearchDocument = (offense) =>
+  normalizeText(
+    [
+      offense.primarySearchDocument ?? buildOffensePrimarySearchDocument(offense),
+      offense.searchText,
+    ].join(" ")
+  );
 
 const matchToken = (queryToken, documentTokens) => {
   const candidates = [queryToken, ...(synonyms.get(queryToken) ?? [])];
@@ -254,6 +371,16 @@ const matchToken = (queryToken, documentTokens) => {
   return best;
 };
 
+const scoreTokens = (queryTokens, documentTokens, baseScore) => {
+  let score = baseScore;
+  for (const queryToken of queryTokens) {
+    const tokenScore = matchToken(queryToken, documentTokens);
+    if (!Number.isFinite(tokenScore)) return Number.POSITIVE_INFINITY;
+    score += tokenScore;
+  }
+  return score;
+};
+
 export const scoreOffenseMatch = (offense, query) => {
   const normalizedQuery = normalizeText(query);
   if (!normalizedQuery) return 0;
@@ -277,19 +404,22 @@ export const scoreOffenseMatch = (offense, query) => {
   if (expandedQuery.includes("uninsured motor vehicle") && offense.code === "3-707") {
     return 0.5;
   }
-  const searchDocument = offense.searchDocument ?? buildOffenseSearchDocument(offense);
-  if (searchDocument.includes(expandedQuery)) return 1;
 
+  const description = normalizeText(offense.description);
+  if (description.includes(expandedQuery)) return 0.75;
+
+  const searchDocument = offense.searchDocument ?? buildOffenseSearchDocument(offense);
   const queryTokens = tokensFor(expandedQuery);
-  const documentTokens = searchDocument.split(" ");
   if (!queryTokens.length) return Number.POSITIVE_INFINITY;
 
-  let score = 2;
-  for (const queryToken of queryTokens) {
-    const tokenScore = matchToken(queryToken, documentTokens);
-    if (!Number.isFinite(tokenScore)) return Number.POSITIVE_INFINITY;
-    score += tokenScore;
-  }
+  const primaryDocument =
+    offense.primarySearchDocument ?? buildOffensePrimarySearchDocument(offense);
+  if (primaryDocument.includes(expandedQuery)) return 1;
 
-  return score;
+  const primaryScore = scoreTokens(queryTokens, primaryDocument.split(" "), 2);
+  if (Number.isFinite(primaryScore)) return primaryScore;
+
+  if (searchDocument.includes(expandedQuery)) return 20;
+
+  return scoreTokens(queryTokens, searchDocument.split(" "), 21);
 };

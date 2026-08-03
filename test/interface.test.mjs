@@ -18,6 +18,7 @@ test("the one-page document exposes navigation, search, all sections, and source
   assert.match(html, /<header class="site-header">[\s\S]*class="search-dock"[\s\S]*role="search"/);
   assert.match(html, /type="search"/);
   assert.match(html, /maxlength="120"/);
+  assert.match(html, /Everyday-language search · searches all categories/);
   assert.match(html, /role="search"/);
   assert.match(html, /aria-live="polite"/);
   assert.match(html, /id="offenses"/);
@@ -75,6 +76,8 @@ test("search and filters preserve useful keyboard and URL contracts", () => {
   assert.match(app, /url\.hash = offense\.id/);
   assert.match(app, /elements\.searchPrompts\.forEach/);
   assert.match(app, /prompt\.dataset\.searchQuery/);
+  assert.match(app, /const clearBrowseFilters = \(\) =>/);
+  assert.match(app, /if \(state\.query\) clearBrowseFilters\(\)/);
   assert.match(app, /document\.getElementById\(window\.location\.hash\.slice\(1\)\)/);
   assert.doesNotMatch(app, /document\.querySelector\(window\.location\.hash\)/);
 });

@@ -1,4 +1,9 @@
-import { buildOffenseSearchDocument, normalizeText, scoreOffenseMatch } from "./src/search.js";
+import {
+  buildOffensePrimarySearchDocument,
+  buildOffenseSearchDocument,
+  normalizeText,
+  scoreOffenseMatch,
+} from "./src/search.js";
 
 const DATA_URL = "./src/data/offense-codes.json";
 const SOURCE_PDF = "https://www.ilsos.gov/content/dam/departments/police/offense_code24.pdf";
@@ -326,15 +331,19 @@ const renderOffenses = () => {
   syncUrl();
 };
 
-const resetFilters = () => {
-  state.query = "";
+const clearBrowseFilters = () => {
   state.family = "all";
   state.chapter = "all";
   state.mandatoryOnly = false;
-  elements.search.value = "";
   elements.familyFilter.value = "all";
   elements.chapterFilter.value = "all";
   elements.mandatoryFilter.checked = false;
+};
+
+const resetFilters = () => {
+  state.query = "";
+  elements.search.value = "";
+  clearBrowseFilters();
   renderOffenses();
 };
 
@@ -446,6 +455,7 @@ const bindEvents = () => {
     window.clearTimeout(searchTimer);
     searchTimer = window.setTimeout(() => {
       state.query = elements.search.value.slice(0, MAX_QUERY_LENGTH);
+      if (state.query) clearBrowseFilters();
       renderOffenses();
     }, 100);
   });
@@ -479,6 +489,7 @@ const bindEvents = () => {
     prompt.addEventListener("click", () => {
       state.query = prompt.dataset.searchQuery.slice(0, MAX_QUERY_LENGTH);
       elements.search.value = state.query;
+      clearBrowseFilters();
       renderOffenses();
       elements.search.focus();
       document.getElementById("offenses").scrollIntoView({ block: "start" });
@@ -526,6 +537,7 @@ const init = async () => {
     state.data = await response.json();
     state.data.offenses.forEach((offense) => {
       offense.family = familyFor(offense);
+      offense.primarySearchDocument = buildOffensePrimarySearchDocument(offense);
       offense.searchDocument = buildOffenseSearchDocument(offense);
     });
     buildFilters();

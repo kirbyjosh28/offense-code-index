@@ -1,7 +1,11 @@
 import test from "node:test";
 import assert from "node:assert/strict";
 import fs from "node:fs";
-import { buildOffenseSearchDocument, scoreOffenseMatch } from "../src/search.js";
+import {
+  buildOffensePrimarySearchDocument,
+  buildOffenseSearchDocument,
+  scoreOffenseMatch,
+} from "../src/search.js";
 
 const data = JSON.parse(
   fs.readFileSync(new URL("../src/data/offense-codes.json", import.meta.url), "utf8")
@@ -9,6 +13,7 @@ const data = JSON.parse(
 
 const offenses = data.offenses.map((offense) => ({
   ...offense,
+  primarySearchDocument: buildOffensePrimarySearchDocument(offense),
   searchDocument: buildOffenseSearchDocument(offense),
 }));
 
@@ -51,6 +56,25 @@ test("colloquial safety and licensing searches resolve related records", () => {
   assert.match(matchesFor("no car seat for a child")[0].offense.description, /child.*restraint/i);
   assert.match(matchesFor("handicap parking")[0].offense.description, /disabilities/i);
   assert.match(matchesFor("over the legal limit")[0].offense.description, /0\.08|alcohol concentration/i);
+});
+
+test("vehicle-equipment searches understand everyday names and broken-part language", () => {
+  assert.ok(matchesFor("headlights").length >= 2);
+  assert.match(matchesFor("headlight out")[0].offense.description, /one headlamp/i);
+  assert.match(matchesFor("taillights")[0].offense.description, /taillight|tail lamp/i);
+  assert.match(matchesFor("tail light out")[0].offense.description, /taillight/i);
+  assert.match(matchesFor("brake lights")[0].offense.description, /stop light|signal lamp/i);
+  assert.match(matchesFor("broken windshield wipers")[0].offense.description, /clearing device/i);
+  assert.match(matchesFor("cracked windshield")[0].offense.description, /defective windshield/i);
+  assert.match(matchesFor("loud exhaust")[0].offense.description, /muffler/i);
+  assert.match(matchesFor("bald tires")[0].offense.description, /unsafe tire/i);
+});
+
+test("plain-language driving behavior outranks incidental chapter wording", () => {
+  assert.match(matchesFor("reckless driving")[0].offense.description, /^reckless driving/i);
+  assert.match(matchesFor("ran a red light")[0].offense.description, /traffic control signal/i);
+  assert.match(matchesFor("rolled through stop sign")[0].offense.description, /stop sign/i);
+  assert.match(matchesFor("school bus stop arm")[0].offense.description, /passed school bus/i);
 });
 
 test("minor spelling mistakes remain useful without matching every record", () => {

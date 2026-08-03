@@ -2,7 +2,7 @@
 
 A searchable, responsive web edition of the Illinois Secretary of State Police's February 2024 Offense Code Index. It organizes 953 offense records and nine guide cards for the publication's procedural and reference material.
 
-The interface is a single continuous page with a persistent, centered pill search. Search ranks exact ILCS and Secretary of State Police reporting codes first, while also understanding partial wording, natural questions, common phrases such as “driving drunk” and “no insurance,” and minor spelling mistakes. Family, chapter, and court-appearance filters persist in the URL so a result set can be shared.
+The interface is a single continuous page with a persistent, centered pill search. Search ranks exact ILCS and Secretary of State Police reporting codes first, while also understanding partial wording, natural questions, vehicle-equipment terms such as “headlight out” and “bald tires,” common phrases such as “driving drunk” and “no insurance,” and minor spelling mistakes. Starting a new search clears browse-only filters so valid matches cannot stay hidden; search and filter state still persist in shared URLs.
 
 ## Run locally
 
