@@ -46,7 +46,7 @@ test("the Sites worker serves the finished index and its defensive headers", asy
   assert.match(await response.text(), /Illinois Offense Code Index/);
   assert.match(
     await readFile(path.join(root, "index.html"), "utf8"),
-    /illinois-offense-code-index-2024\.kirbyjosh28\.chatgpt\.site\/og\.png/
+    /illinois-offense-code-index-2024\.kirbyjosh28\.chatgpt\.site\/og-v2\.png/
   );
 });
 
@@ -56,6 +56,17 @@ test("the Sites bundle contains the complete structured dataset", async () => {
   const data = await response.json();
   assert.equal(data.offenses.length, 953);
   assert.equal(data.counties.length, 103);
+});
+
+test("the Sites bundle serves fuzzy search and the current social preview", async () => {
+  const [searchModule, socialPreview] = await Promise.all([
+    render("/src/search.js"),
+    render("/og-v2.png"),
+  ]);
+  assert.equal(searchModule.status, 200);
+  assert.match(await searchModule.text(), /scoreOffenseMatch/);
+  assert.equal(socialPreview.status, 200);
+  assert.ok((await socialPreview.arrayBuffer()).byteLength > 100_000);
 });
 
 test("the Sites worker rejects mutating HTTP methods", async () => {

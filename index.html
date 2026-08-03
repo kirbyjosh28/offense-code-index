@@ -15,7 +15,7 @@
     />
     <meta
       property="og:image"
-      content="https://illinois-offense-code-index-2024.kirbyjosh28.chatgpt.site/og.png"
+      content="https://illinois-offense-code-index-2024.kirbyjosh28.chatgpt.site/og-v2.png"
     />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="Illinois Offense Code Index" />
@@ -25,198 +25,146 @@
     />
     <meta
       name="twitter:image"
-      content="https://illinois-offense-code-index-2024.kirbyjosh28.chatgpt.site/og.png"
+      content="https://illinois-offense-code-index-2024.kirbyjosh28.chatgpt.site/og-v2.png"
     />
-    <meta name="theme-color" content="#f4f4f1" />
+    <meta name="theme-color" content="#f3f2ed" />
     <title>Illinois Offense Code Index</title>
     <link rel="stylesheet" href="./styles.css" />
     <script type="module" src="./app.js"></script>
   </head>
   <body>
-    <a class="skip-link" href="#results">Skip to results</a>
+    <a class="skip-link" href="#offenses">Skip to offenses</a>
 
     <header class="site-header">
-      <a class="wordmark" href="./" aria-label="Illinois Offense Code Index home">
-        <span class="wordmark-mark" aria-hidden="true"></span>
-        <span>
-          <strong>Illinois Code Index</strong>
-          <small>2024 reference</small>
-        </span>
-      </a>
-
-      <nav class="header-actions" aria-label="Utility navigation">
+      <nav class="pill-nav" aria-label="Primary navigation">
+        <a href="#offenses">Offenses <span>953</span></a>
+        <a href="#counties">Counties <span>103</span></a>
+        <a href="#guides">Guides <span>9</span></a>
         <a
-          class="quiet-link source-link"
           href="https://www.ilsos.gov/content/dam/departments/police/offense_code24.pdf"
           target="_blank"
           rel="noreferrer"
-        >
-          Source PDF
-          <svg aria-hidden="true" viewBox="0 0 20 20">
-            <path d="M7 4h9v9M16 4 7 13M13 10v6H4V7h6" />
-          </svg>
-        </a>
-        <button class="icon-button" id="theme-toggle" type="button" aria-label="Use dark theme">
-          <svg class="theme-icon theme-icon-sun" aria-hidden="true" viewBox="0 0 20 20">
-            <circle cx="10" cy="10" r="3.2" />
-            <path d="M10 1.5v2M10 16.5v2M1.5 10h2M16.5 10h2M4 4l1.4 1.4M14.6 14.6 16 16M16 4l-1.4 1.4M5.4 14.6 4 16" />
-          </svg>
-          <svg class="theme-icon theme-icon-moon" aria-hidden="true" viewBox="0 0 20 20">
-            <path d="M16.7 12.3A7 7 0 0 1 7.7 3.3a7 7 0 1 0 9 9Z" />
-          </svg>
-        </button>
+        >Source</a>
+        <button id="theme-toggle" type="button" aria-label="Use dark theme">Dark</button>
       </nav>
     </header>
 
     <main>
       <section class="intro" aria-labelledby="page-title">
-        <div class="eyebrow-row">
-          <p class="eyebrow">Illinois Secretary of State Police</p>
-          <p class="edition">February 2024</p>
-        </div>
-        <h1 id="page-title">Find the right code.<br /> Fast.</h1>
+        <p class="eyebrow">Illinois Secretary of State Police · February 2024</p>
+        <h1 id="page-title">Offense Code Index</h1>
         <p class="intro-copy">
-          Search the complete reference by statute, four-digit reporting code, county, description,
-          or guide topic.
+          Search every offense by code or plain language. Browse the complete index, county codes,
+          and reference guides on one page.
         </p>
 
-        <div class="search-shell">
-          <svg class="search-icon" aria-hidden="true" viewBox="0 0 24 24">
-            <circle cx="11" cy="11" r="6.5" />
-            <path d="m16 16 4.2 4.2" />
-          </svg>
-          <label class="sr-only" for="search">Search the directory</label>
+        <div class="search-shell" role="search">
+          <span class="search-icon" aria-hidden="true"></span>
+          <label class="sr-only" for="search">Search offenses by code or description</label>
           <input
             id="search"
             type="search"
             inputmode="search"
             autocomplete="off"
             spellcheck="false"
-            placeholder="Search 11-501, 2490, DUI…"
+            maxlength="120"
+            placeholder="Try “driving drunk,” “no insurance,” or 11-501…"
           />
           <kbd aria-hidden="true">/</kbd>
           <button class="clear-search" id="clear-search" type="button" aria-label="Clear search">
             Clear
           </button>
         </div>
+        <p class="search-note">Search understands common phrases, partial wording, and minor typos.</p>
 
         <div class="notice" role="note">
-          <svg aria-hidden="true" viewBox="0 0 20 20">
-            <circle cx="10" cy="10" r="8" />
-            <path d="M10 8v5M10 5.4v.2" />
-          </svg>
-          <p>
-            2024 reference only. This index is not exhaustive; verify the current ILCS section
-            before choosing a charge or procedure. Four-digit reporting codes may differ by agency.
-          </p>
+          <strong>2024 reference only.</strong>
+          <span>
+            Verify the current ILCS before choosing a charge or procedure. Reporting codes may
+            differ by agency.
+          </span>
         </div>
       </section>
 
-      <section class="workspace" aria-label="Code directory">
-        <div class="workspace-topbar">
-          <div class="view-tabs" role="tablist" aria-label="Directory view">
-            <button class="view-tab is-active" id="offenses-tab" role="tab" aria-selected="true" aria-controls="results" tabindex="0" data-view="offenses">
-              Offenses <span id="offense-tab-count"></span>
-            </button>
-            <button class="view-tab" id="counties-tab" role="tab" aria-selected="false" aria-controls="results" tabindex="-1" data-view="counties">
-              County codes <span id="county-tab-count"></span>
-            </button>
-            <button class="view-tab" id="guides-tab" role="tab" aria-selected="false" aria-controls="results" tabindex="-1" data-view="guides">
-              Guides <span id="guide-tab-count">9</span>
-            </button>
+      <section class="content-section offenses-section" id="offenses" aria-labelledby="offenses-heading">
+        <header class="section-heading">
+          <div>
+            <p class="section-number">01 / OFFENSES</p>
+            <h2 id="offenses-heading">Complete offense index</h2>
+            <p>All 953 records are available below—nothing is hidden behind pagination.</p>
           </div>
-          <button class="filter-trigger" id="filter-trigger" type="button" aria-expanded="false" aria-controls="filters">
-            <svg aria-hidden="true" viewBox="0 0 20 20"><path d="M3 5h14M5.5 10h9M8 15h4" /></svg>
-            Filters
-            <span class="filter-count" id="filter-count" hidden>0</span>
-          </button>
+          <div class="results-meta">
+            <p id="result-summary" aria-live="polite" aria-atomic="true">Loading offenses…</p>
+            <button class="text-button" id="copy-link" type="button">Copy search link</button>
+          </div>
+        </header>
+
+        <div class="filter-bar" aria-label="Filter offenses">
+          <label>
+            <span>Code family</span>
+            <select id="family-filter" aria-label="Code family">
+              <option value="all">All code families</option>
+            </select>
+          </label>
+          <label>
+            <span>Chapter</span>
+            <select id="chapter-filter" aria-label="Chapter">
+              <option value="all">All chapters</option>
+            </select>
+          </label>
+          <label class="appearance-filter">
+            <input id="mandatory-filter" type="checkbox" />
+            <span>Court appearance required</span>
+          </label>
+          <button class="reset-filters" id="reset-filters" type="button">Clear all</button>
         </div>
 
-        <div class="directory-layout">
-          <aside class="filters" id="filters" aria-label="Filter offenses">
-            <div class="filters-mobile-heading">
-              <strong>Filters</strong>
-              <button class="icon-button" id="close-filters" type="button" aria-label="Close filters">
-                <svg aria-hidden="true" viewBox="0 0 20 20"><path d="m5 5 10 10M15 5 5 15" /></svg>
-              </button>
-            </div>
+        <div class="record-key" aria-label="How to read an offense record">
+          <span><strong>ILCS</strong> statute section</span>
+          <span><strong>SOS</strong> Secretary of State Police reporting code</span>
+          <span><i aria-hidden="true"></i> court appearance required</span>
+        </div>
 
-            <fieldset>
-              <legend>Code family</legend>
-              <div class="filter-options" id="family-filters"></div>
-            </fieldset>
+        <div class="results" id="results" role="list" aria-busy="true"></div>
 
-            <fieldset>
-              <legend>Appearance</legend>
-              <label class="check-row">
-                <input id="mandatory-filter" type="checkbox" />
-                <span class="custom-check" aria-hidden="true"></span>
-                <span>Mandatory court appearance</span>
-              </label>
-            </fieldset>
-
-            <fieldset>
-              <label class="select-label" for="chapter-filter">Chapter</label>
-              <select id="chapter-filter">
-                <option value="all">All chapters</option>
-              </select>
-            </fieldset>
-
-            <button class="reset-filters" id="reset-filters" type="button">Clear all filters</button>
-          </aside>
-
-          <div class="filter-backdrop" id="filter-backdrop" hidden></div>
-
-          <div class="results-column">
-            <div class="results-header">
-              <p id="result-summary" aria-live="polite" aria-atomic="true">Loading index…</p>
-              <button class="quiet-button" id="copy-link" type="button">
-                <svg aria-hidden="true" viewBox="0 0 20 20">
-                  <path d="M7.5 12.5 12.5 7.5M6 14l-1 1a3 3 0 0 1-4-4l3-3a3 3 0 0 1 4 0M14 6l1-1a3 3 0 0 1 4 4l-3 3a3 3 0 0 1-4 0" />
-                </svg>
-                Copy view link
-              </button>
-            </div>
-
-            <div class="results" id="results" role="tabpanel" aria-labelledby="offenses-tab" tabindex="-1" aria-busy="true"></div>
-
-            <div class="empty-state" id="empty-state" hidden>
-              <p class="empty-kicker">No exact matches</p>
-              <h2>Try a broader search.</h2>
-              <p>Check the code format, remove a filter, or search a shorter description.</p>
-              <button class="primary-button" id="empty-reset" type="button">Clear search and filters</button>
-            </div>
-
-            <button class="load-more" id="load-more" type="button" hidden>Show more results</button>
-          </div>
+        <div class="empty-state" id="empty-state" hidden>
+          <p class="section-number">NO MATCHES</p>
+          <h3>Try fewer or simpler words.</h3>
+          <p>For example: “drunk driving,” “expired plates,” “no insurance,” or a partial code.</p>
+          <button class="primary-button" id="empty-reset" type="button">Clear search and filters</button>
         </div>
       </section>
 
-      <section class="key" aria-labelledby="key-heading">
-        <p class="eyebrow">How to read the index</p>
-        <h2 id="key-heading">Two codes. One clear record.</h2>
-        <div class="key-grid">
+      <section class="content-section" id="counties" aria-labelledby="counties-heading">
+        <header class="section-heading">
           <div>
-            <span class="key-number">01</span>
-            <h3>ILCS section</h3>
-            <p>The Illinois Compiled Statutes section listed for the offense.</p>
+            <p class="section-number">02 / COUNTY CODES</p>
+            <h2 id="counties-heading">Illinois county codes</h2>
+            <p>All 102 counties plus the City of Chicago reporting entry.</p>
           </div>
+          <p class="section-count">103 codes</p>
+        </header>
+        <div class="county-list" id="county-list" role="list"></div>
+      </section>
+
+      <section class="content-section" id="guides" aria-labelledby="guides-heading">
+        <header class="section-heading">
           <div>
-            <span class="key-number">02</span>
-            <h3>Secretary of State Police reporting code</h3>
-            <p>The four-digit reporting code used by Secretary of State Police, when supplied.</p>
+            <p class="section-number">03 / GUIDES</p>
+            <h2 id="guides-heading">Guides and references</h2>
+            <p>Direct paths to the procedural and reference material included in the publication.</p>
           </div>
-          <div>
-            <span class="key-number">03</span>
-            <h3>Court appearance required</h3>
-            <p>The publication marks these records with an asterisk; this site uses explicit text.</p>
-          </div>
-        </div>
+          <p class="section-count">9 guides</p>
+        </header>
+        <div class="guide-list" id="guide-list" role="list"></div>
       </section>
     </main>
 
     <footer>
-      <p>Independent digital reference built from the February 2024 public index.</p>
+      <div>
+        <strong>Illinois Offense Code Index</strong>
+        <p>Independent digital reference built from the February 2024 public index.</p>
+      </div>
       <a
         href="https://www.ilsos.gov/departments/police.html"
         target="_blank"
