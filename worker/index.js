@@ -1,3 +1,5 @@
+const indexHtml = "__INDEX_HTML__";
+
 const securityHeaders = {
   "Content-Security-Policy": [
     "default-src 'self'",
@@ -40,7 +42,13 @@ const worker = {
     }
 
     const assetUrl = new URL(request.url);
-    if (assetUrl.pathname === "/") assetUrl.pathname = "/index.html";
+    if (assetUrl.pathname === "/" || assetUrl.pathname === "/index.html") {
+      return withSecurityHeaders(
+        new Response(request.method === "HEAD" ? null : indexHtml, {
+          headers: { "Content-Type": "text/html; charset=utf-8" },
+        })
+      );
+    }
     const assetRequest = new Request(assetUrl, request);
     return withSecurityHeaders(await env.ASSETS.fetch(assetRequest));
   },

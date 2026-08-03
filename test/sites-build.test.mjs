@@ -44,6 +44,10 @@ test("the Sites worker serves the finished index and its defensive headers", asy
   assert.match(response.headers.get("content-security-policy") ?? "", /default-src 'self'/);
   assert.equal(response.headers.get("x-frame-options"), "DENY");
   assert.match(await response.text(), /Illinois Offense Code Index/);
+  assert.match(
+    await readFile(path.join(root, "index.html"), "utf8"),
+    /illinois-offense-code-index-2024\.kirbyjosh28\.chatgpt\.site\/og\.png/
+  );
 });
 
 test("the Sites bundle contains the complete structured dataset", async () => {
