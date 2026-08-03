@@ -11,21 +11,21 @@
     <meta property="og:title" content="Illinois Offense Code Index" />
     <meta
       property="og:description"
-      content="Search 953 offenses, 103 county codes, and the February 2024 reference guides."
+      content="Search all 953 Illinois offenses by code, common wording, or a plain-language question."
     />
     <meta
       property="og:image"
-      content="https://illinois-offense-code-index-2024.kirbyjosh28.chatgpt.site/og-v2.png"
+      content="https://illinois-offense-code-index-2024.kirbyjosh28.chatgpt.site/og-v3.png"
     />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="Illinois Offense Code Index" />
     <meta
       name="twitter:description"
-      content="Search 953 offenses, 103 county codes, and the February 2024 reference guides."
+      content="Search all 953 Illinois offenses by code, common wording, or a plain-language question."
     />
     <meta
       name="twitter:image"
-      content="https://illinois-offense-code-index-2024.kirbyjosh28.chatgpt.site/og-v2.png"
+      content="https://illinois-offense-code-index-2024.kirbyjosh28.chatgpt.site/og-v3.png"
     />
     <meta name="theme-color" content="#f3f2ed" />
     <title>Illinois Offense Code Index</title>
@@ -38,7 +38,6 @@
     <header class="site-header">
       <nav class="pill-nav" aria-label="Primary navigation">
         <a href="#offenses">Offenses <span>953</span></a>
-        <a href="#counties">Counties <span>103</span></a>
         <a href="#guides">Guides <span>9</span></a>
         <a
           href="https://www.ilsos.gov/content/dam/departments/police/offense_code24.pdf"
@@ -47,20 +46,11 @@
         >Source</a>
         <button id="theme-toggle" type="button" aria-label="Use dark theme">Dark</button>
       </nav>
-    </header>
 
-    <main>
-      <section class="intro" aria-labelledby="page-title">
-        <p class="eyebrow">Illinois Secretary of State Police · February 2024</p>
-        <h1 id="page-title">Offense Code Index</h1>
-        <p class="intro-copy">
-          Search every offense by code or plain language. Browse the complete index, county codes,
-          and reference guides on one page.
-        </p>
-
+      <div class="search-dock">
         <div class="search-shell" role="search">
           <span class="search-icon" aria-hidden="true"></span>
-          <label class="sr-only" for="search">Search offenses by code or description</label>
+          <label class="sr-only" for="search">Search offenses by code or plain language</label>
           <input
             id="search"
             type="search"
@@ -68,14 +58,34 @@
             autocomplete="off"
             spellcheck="false"
             maxlength="120"
-            placeholder="Try “driving drunk,” “no insurance,” or 11-501…"
+            aria-describedby="search-capability"
+            placeholder="Describe what happened or enter a code…"
           />
           <kbd aria-hidden="true">/</kbd>
           <button class="clear-search" id="clear-search" type="button" aria-label="Clear search">
             Clear
           </button>
         </div>
-        <p class="search-note">Search understands common phrases, partial wording, and minor typos.</p>
+        <p class="search-capability" id="search-capability"><span aria-hidden="true"></span> Plain-language offense search</p>
+      </div>
+    </header>
+
+    <main>
+      <section class="intro" aria-labelledby="page-title">
+        <p class="eyebrow">Illinois Secretary of State Police · February 2024</p>
+        <h1 id="page-title">Offense Code Index</h1>
+        <p class="intro-copy">
+          Start with the search above. Use an exact code, a few remembered words, or simply describe
+          what happened.
+        </p>
+
+        <div class="search-prompts" aria-label="Example searches">
+          <span>Try</span>
+          <button type="button" data-search-query="driving drunk">driving drunk</button>
+          <button type="button" data-search-query="no insurance">no insurance</button>
+          <button type="button" data-search-query="hit and run">hit and run</button>
+          <button type="button" data-search-query="license was taken away">license taken away</button>
+        </div>
 
         <div class="notice" role="note">
           <strong>2024 reference only.</strong>
@@ -135,22 +145,10 @@
         </div>
       </section>
 
-      <section class="content-section" id="counties" aria-labelledby="counties-heading">
-        <header class="section-heading">
-          <div>
-            <p class="section-number">02 / COUNTY CODES</p>
-            <h2 id="counties-heading">Illinois county codes</h2>
-            <p>All 102 counties plus the City of Chicago reporting entry.</p>
-          </div>
-          <p class="section-count">103 codes</p>
-        </header>
-        <div class="county-list" id="county-list" role="list"></div>
-      </section>
-
       <section class="content-section" id="guides" aria-labelledby="guides-heading">
         <header class="section-heading">
           <div>
-            <p class="section-number">03 / GUIDES</p>
+            <p class="section-number">02 / GUIDES</p>
             <h2 id="guides-heading">Guides and references</h2>
             <p>Direct paths to the procedural and reference material included in the publication.</p>
           </div>

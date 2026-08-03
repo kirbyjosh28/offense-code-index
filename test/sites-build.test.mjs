@@ -46,7 +46,7 @@ test("the Sites worker serves the finished index and its defensive headers", asy
   assert.match(await response.text(), /Illinois Offense Code Index/);
   assert.match(
     await readFile(path.join(root, "index.html"), "utf8"),
-    /illinois-offense-code-index-2024\.kirbyjosh28\.chatgpt\.site\/og-v2\.png/
+    /illinois-offense-code-index-2024\.kirbyjosh28\.chatgpt\.site\/og-v3\.png/
   );
 });
 
@@ -61,7 +61,7 @@ test("the Sites bundle contains the complete structured dataset", async () => {
 test("the Sites bundle serves fuzzy search and the current social preview", async () => {
   const [searchModule, socialPreview] = await Promise.all([
     render("/src/search.js"),
-    render("/og-v2.png"),
+    render("/og-v3.png"),
   ]);
   assert.equal(searchModule.status, 200);
   assert.match(await searchModule.text(), /scoreOffenseMatch/);

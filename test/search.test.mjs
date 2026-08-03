@@ -30,6 +30,29 @@ test("common phrases find the intended offenses without exact wording", () => {
   assert.match(matchesFor("hit and run")[0].offense.description, /leaving scene/i);
 });
 
+test("plain-language questions ignore filler words and resolve common intent", () => {
+  assert.match(
+    matchesFor("I was caught driving without insurance")[0].offense.description,
+    /uninsured/i
+  );
+  assert.match(
+    matchesFor("what is the code for leaving after a car accident")[0].offense.description,
+    /leaving scene/i
+  );
+  assert.match(
+    matchesFor("texting on my phone while driving")[0].offense.description,
+    /electronic communication device/i
+  );
+  assert.match(matchesFor("my tags are expired")[0].offense.description, /expired registration/i);
+});
+
+test("colloquial safety and licensing searches resolve related records", () => {
+  assert.match(matchesFor("license was taken away")[0].offense.description, /license suspended/i);
+  assert.match(matchesFor("no car seat for a child")[0].offense.description, /child.*restraint/i);
+  assert.match(matchesFor("handicap parking")[0].offense.description, /disabilities/i);
+  assert.match(matchesFor("over the legal limit")[0].offense.description, /0\.08|alcohol concentration/i);
+});
+
 test("minor spelling mistakes remain useful without matching every record", () => {
   const matches = matchesFor("intoxicatd");
   assert.ok(matches.length > 0);

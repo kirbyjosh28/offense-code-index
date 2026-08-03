@@ -87,6 +87,7 @@ const state = {
 };
 
 const elements = {
+  siteHeader: document.querySelector(".site-header"),
   search: document.querySelector("#search"),
   searchShell: document.querySelector(".search-shell"),
   clearSearch: document.querySelector("#clear-search"),
@@ -98,8 +99,8 @@ const elements = {
   chapterFilter: document.querySelector("#chapter-filter"),
   mandatoryFilter: document.querySelector("#mandatory-filter"),
   resetFilters: document.querySelector("#reset-filters"),
-  countyList: document.querySelector("#county-list"),
   guideList: document.querySelector("#guide-list"),
+  searchPrompts: document.querySelectorAll("[data-search-query]"),
   copyLink: document.querySelector("#copy-link"),
   themeToggle: document.querySelector("#theme-toggle"),
   toast: document.querySelector("#toast"),
@@ -241,18 +242,6 @@ const createOffenseRow = (offense) => {
   return row;
 };
 
-const createCountyRow = (county) => {
-  const row = document.createElement("div");
-  row.className = "county-row";
-  row.setAttribute("role", "listitem");
-  const name = document.createElement("span");
-  name.textContent = county.name;
-  const code = document.createElement("code");
-  code.textContent = county.code;
-  row.append(name, code);
-  return row;
-};
-
 const createGuideRow = (guide, index) => {
   const row = document.createElement("article");
   row.className = "guide-row";
@@ -386,25 +375,69 @@ const hydrateStateFromUrl = () => {
 };
 
 const renderStaticSections = () => {
-  const counties = document.createDocumentFragment();
-  state.data.counties.forEach((county) => counties.append(createCountyRow(county)));
-  elements.countyList.replaceChildren(counties);
-
   const guideFragment = document.createDocumentFragment();
   guides.forEach((guide, index) => guideFragment.append(createGuideRow(guide, index)));
   elements.guideList.replaceChildren(guideFragment);
+};
+
+const prefersReducedMotion = () => matchMedia("(prefers-reduced-motion: reduce)").matches;
+
+const applyTheme = (theme, persist = false) => {
+  document.documentElement.dataset.theme = theme;
+  if (persist) localStorage.setItem("offense-index-theme", theme);
+  elements.themeToggle.textContent = theme === "dark" ? "Light" : "Dark";
+  elements.themeToggle.setAttribute(
+    "aria-label",
+    theme === "dark" ? "Use light theme" : "Use dark theme"
+  );
 };
 
 const setupTheme = () => {
   const storedTheme = localStorage.getItem("offense-index-theme");
   const systemDark = matchMedia("(prefers-color-scheme: dark)").matches;
   const theme = storedTheme ?? (systemDark ? "dark" : "light");
-  document.documentElement.dataset.theme = theme;
-  elements.themeToggle.textContent = theme === "dark" ? "Light" : "Dark";
-  elements.themeToggle.setAttribute(
-    "aria-label",
-    theme === "dark" ? "Use light theme" : "Use dark theme"
+  applyTheme(theme);
+};
+
+const setupHeaderScrollState = () => {
+  let framePending = false;
+
+  const update = () => {
+    elements.siteHeader.classList.toggle("is-scrolled", window.scrollY > 24);
+    framePending = false;
+  };
+
+  update();
+  window.addEventListener(
+    "scroll",
+    () => {
+      if (framePending) return;
+      framePending = true;
+      window.requestAnimationFrame(update);
+    },
+    { passive: true }
   );
+};
+
+const setupRevealMotion = () => {
+  if (prefersReducedMotion() || !("IntersectionObserver" in window)) return;
+
+  const targets = document.querySelectorAll(".section-heading, .guide-row");
+  document.documentElement.classList.add("motion-ready");
+  targets.forEach((target) => target.classList.add("is-reveal-ready"));
+
+  const observer = new IntersectionObserver(
+    (entries) => {
+      entries.forEach((entry) => {
+        if (!entry.isIntersecting) return;
+        entry.target.classList.add("is-revealed");
+        observer.unobserve(entry.target);
+      });
+    },
+    { threshold: 0.12 }
+  );
+
+  targets.forEach((target) => observer.observe(target));
 };
 
 const bindEvents = () => {
@@ -442,6 +475,16 @@ const bindEvents = () => {
   elements.resetFilters.addEventListener("click", resetFilters);
   elements.emptyReset.addEventListener("click", resetFilters);
 
+  elements.searchPrompts.forEach((prompt) => {
+    prompt.addEventListener("click", () => {
+      state.query = prompt.dataset.searchQuery.slice(0, MAX_QUERY_LENGTH);
+      elements.search.value = state.query;
+      renderOffenses();
+      elements.search.focus();
+      document.getElementById("offenses").scrollIntoView({ block: "start" });
+    });
+  });
+
   elements.copyLink.addEventListener("click", () => {
     const url = new URL(window.location.href);
     url.hash = "";
@@ -450,13 +493,12 @@ const bindEvents = () => {
 
   elements.themeToggle.addEventListener("click", () => {
     const next = document.documentElement.dataset.theme === "dark" ? "light" : "dark";
-    document.documentElement.dataset.theme = next;
-    localStorage.setItem("offense-index-theme", next);
-    elements.themeToggle.textContent = next === "dark" ? "Light" : "Dark";
-    elements.themeToggle.setAttribute(
-      "aria-label",
-      next === "dark" ? "Use light theme" : "Use dark theme"
-    );
+    const updateTheme = () => applyTheme(next, true);
+    if (document.startViewTransition && !prefersReducedMotion()) {
+      document.startViewTransition(updateTheme);
+    } else {
+      updateTheme();
+    }
   });
 
   document.addEventListener("keydown", (event) => {
@@ -474,6 +516,7 @@ const bindEvents = () => {
 
 const init = async () => {
   setupTheme();
+  setupHeaderScrollState();
   hydrateStateFromUrl();
   bindEvents();
 
@@ -488,6 +531,7 @@ const init = async () => {
     buildFilters();
     renderStaticSections();
     renderOffenses();
+    setupRevealMotion();
 
     if (window.location.hash) {
       window.requestAnimationFrame(() => {

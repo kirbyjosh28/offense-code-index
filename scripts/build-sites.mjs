@@ -26,6 +26,7 @@ await Promise.all([
   cp(path.join(root, "src", "search.js"), path.join(client, "src", "search.js")),
   cp(path.join(root, "public", "og.png"), path.join(client, "og.png")),
   cp(path.join(root, "public", "og-v2.png"), path.join(client, "og-v2.png")),
+  cp(path.join(root, "public", "og-v3.png"), path.join(client, "og-v3.png")),
   cp(
     path.join(root, "src", "data", "offense-codes.json"),
     path.join(client, "src", "data", "offense-codes.json")
