@@ -1,0 +1,12 @@
+{
+  "name": "illinois-offense-code-index",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build-sites.mjs",
+    "dev": "node scripts/server.mjs",
+    "test": "node --test",
+    "validate:data": "node scripts/validate-data.mjs"
+  }
+}
