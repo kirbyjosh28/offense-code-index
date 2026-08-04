@@ -18,7 +18,9 @@ test("the one-page document exposes navigation, search, all sections, and source
   assert.match(html, /<header class="site-header">[\s\S]*class="search-dock"[\s\S]*role="search"/);
   assert.match(html, /type="search"/);
   assert.match(html, /maxlength="120"/);
-  assert.match(html, /Everyday-language search · searches all categories/);
+  assert.doesNotMatch(html, /Everyday-language search · searches all categories/);
+  assert.doesNotMatch(html, /class="search-capability"/);
+  assert.doesNotMatch(html, /aria-describedby="search-capability"/);
   assert.match(html, /role="search"/);
   assert.match(html, /aria-live="polite"/);
   assert.match(html, /id="offenses"/);
@@ -52,6 +54,21 @@ test("motion uses cohesive tokens, targeted properties, and reduced-motion safeg
   assert.match(css, /::view-transition-old\(root\)/);
   assert.doesNotMatch(css, /transition:\s*all/);
   assert.doesNotMatch(css, /\bease-in\b(?!-out)/);
+});
+
+test("the search pill responds to pointer input without moving for reduced motion", () => {
+  assert.match(css, /\.site-header \.search-shell\.is-pressed\s*\{[^}]*transform:\s*scale\(0\.985\)[^}]*transition-duration:\s*160ms[^}]*transition-timing-function:\s*var\(--ease-out\)/s);
+  assert.match(css, /\.site-header \.search-shell\.is-engaged\s*\{[^}]*transform:\s*scale\(1\.018\)[^}]*transition-duration:\s*var\(--duration-fast\)[^}]*transition-timing-function:\s*var\(--ease-out\)/s);
+  assert.match(css, /\.search-shell\.is-engaged \.search-icon\s*\{[^}]*transform:\s*rotate\(-8deg\) scale\(1\.08\)[^}]*transition-duration:\s*var\(--duration-fast\)/s);
+  assert.match(css, /\.search-shell\.is-engaged \.search-icon::before\s*\{[^}]*opacity:\s*0\.28[^}]*transform:\s*scale\(1\)[^}]*transition-duration:\s*var\(--duration-fast\)/s);
+  assert.doesNotMatch(css, /\.search-icon\s*\{[^}]*opacity var\(--duration-medium\)/s);
+  assert.match(css, /@media\s*\(prefers-reduced-motion:\s*reduce\)[\s\S]*\.site-header \.search-shell\.is-pressed,[\s\S]*\.site-header \.search-shell\.is-engaged,[\s\S]*\.search-shell\.is-engaged \.search-icon,[\s\S]*\.search-shell\.is-engaged \.search-icon::before,[\s\S]*\{\s*transform:\s*none/s);
+
+  assert.match(app, /addEventListener\("pointerdown", \(event\) => \{[\s\S]*event\.button !== 0 \|\| prefersReducedMotion\(\)[\s\S]*classList\.add\("is-pressed"\)/);
+  assert.match(app, /window\.addEventListener\("pointerup"[\s\S]*classList\.replace\("is-pressed", "is-engaged"\)/);
+  assert.match(app, /window\.addEventListener\("pointercancel"[\s\S]*classList\.remove\("is-pressed"\)/);
+  assert.match(app, /searchShell\.addEventListener\("click", \(event\)[\s\S]*event\.target\.closest\("button"\)[\s\S]*elements\.search\.focus\(\)/);
+  assert.match(app, /searchShell\.addEventListener\("focusout"[\s\S]*requestAnimationFrame[\s\S]*contains\(document\.activeElement\)[\s\S]*classList\.remove\("is-pressed", "is-engaged"\)/);
 });
 
 test("all offenses and guides render without pagination or a county section", () => {

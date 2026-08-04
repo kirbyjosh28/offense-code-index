@@ -451,6 +451,34 @@ const setupRevealMotion = () => {
 
 const bindEvents = () => {
   let searchTimer;
+
+  elements.searchShell.addEventListener("pointerdown", (event) => {
+    if (event.button !== 0 || prefersReducedMotion()) return;
+    elements.searchShell.classList.remove("is-engaged");
+    elements.searchShell.classList.add("is-pressed");
+  });
+
+  window.addEventListener("pointerup", () => {
+    if (!elements.searchShell.classList.contains("is-pressed")) return;
+    elements.searchShell.classList.replace("is-pressed", "is-engaged");
+  });
+
+  window.addEventListener("pointercancel", () => {
+    elements.searchShell.classList.remove("is-pressed");
+  });
+
+  elements.searchShell.addEventListener("click", (event) => {
+    if (event.target.closest("button")) return;
+    elements.search.focus();
+  });
+
+  elements.searchShell.addEventListener("focusout", () => {
+    window.requestAnimationFrame(() => {
+      if (elements.searchShell.contains(document.activeElement)) return;
+      elements.searchShell.classList.remove("is-pressed", "is-engaged");
+    });
+  });
+
   elements.search.addEventListener("input", () => {
     window.clearTimeout(searchTimer);
     searchTimer = window.setTimeout(() => {
