@@ -70,6 +70,14 @@ test("vehicle-equipment searches understand everyday names and broken-part langu
   assert.match(matchesFor("bald tires")[0].offense.description, /unsafe tire/i);
 });
 
+test("common traffic-stop shortcuts rank the intended records first", () => {
+  assert.match(matchesFor("no rear registration light")[0].offense.description, /rear registration plate light/i);
+  assert.match(matchesFor("expired registration")[0].offense.description, /expired registration/i);
+  assert.match(matchesFor("speeding")[0].offense.description, /^speeding/i);
+  assert.match(matchesFor("headlight out")[0].offense.description, /one headlamp/i);
+  assert.match(matchesFor("taillight out")[0].offense.description, /taillight|tail lamp/i);
+});
+
 test("plain-language driving behavior outranks incidental chapter wording", () => {
   assert.match(matchesFor("reckless driving")[0].offense.description, /^reckless driving/i);
   assert.match(matchesFor("ran a red light")[0].offense.description, /traffic control signal/i);

@@ -15,7 +15,7 @@
     />
     <meta
       property="og:image"
-      content="https://illinois-offense-code-index-2024.kirbyjosh28.chatgpt.site/og-v5.png"
+      content="https://illinois-offense-code-index.vercel.app/og-v5.png"
     />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="Illinois Offense Code Index" />
@@ -25,7 +25,7 @@
     />
     <meta
       name="twitter:image"
-      content="https://illinois-offense-code-index-2024.kirbyjosh28.chatgpt.site/og-v5.png"
+      content="https://illinois-offense-code-index.vercel.app/og-v5.png"
     />
     <meta name="theme-color" content="#f3f2ed" />
     <title>Illinois Offense Code Index</title>
@@ -48,48 +48,78 @@
       </nav>
 
       <div class="search-dock">
-        <div class="search-shell" role="search">
-          <span class="search-icon" aria-hidden="true"></span>
-          <label class="sr-only" for="search">Search offenses by code or plain language</label>
-          <input
-            id="search"
-            type="search"
-            inputmode="search"
-            autocomplete="off"
-            spellcheck="false"
-            maxlength="120"
-            placeholder="Describe what happened or enter a code…"
-          />
-          <kbd aria-hidden="true">/</kbd>
-          <button class="clear-search" id="clear-search" type="button" aria-label="Clear search">
-            Clear
-          </button>
+        <div class="search-experience" id="search-experience">
+          <div class="search-shell" role="search">
+            <span class="search-icon" aria-hidden="true"></span>
+            <div class="search-input-wrap">
+              <label class="sr-only" for="search">Search offenses by code or plain language</label>
+              <input
+                id="search"
+                type="search"
+                inputmode="search"
+                autocomplete="off"
+                spellcheck="false"
+                maxlength="120"
+                aria-describedby="search-assist"
+                placeholder="Search all 953 offenses…"
+              />
+              <span class="typewriter-placeholder" aria-hidden="true">
+                <span id="typewriter-text">Search all 953 offenses…</span><i></i>
+              </span>
+            </div>
+            <kbd aria-hidden="true">/</kbd>
+            <button class="clear-search" id="clear-search" type="button" aria-label="Clear search">
+              Clear
+            </button>
+          </div>
+
+          <div class="search-tools" id="search-tools" role="group" aria-label="Quick filters">
+            <span class="search-tools-label">Quick filters</span>
+            <button class="quick-filter" type="button" data-family-filter="Vehicle Code" aria-pressed="false">
+              Traffic
+            </button>
+            <button class="quick-filter" type="button" data-family-filter="Criminal Code" aria-pressed="false">
+              Criminal
+            </button>
+            <button class="quick-filter" id="quick-mandatory" type="button" aria-pressed="false">
+              Court required
+            </button>
+            <button class="more-filters" id="more-filters" type="button">
+              More filters <span aria-hidden="true">↓</span>
+            </button>
+          </div>
         </div>
+        <p class="sr-only" id="search-assist">Results update as you type. Press slash from anywhere to focus search.</p>
       </div>
     </header>
 
     <main>
       <section class="intro" aria-labelledby="page-title">
-        <p class="eyebrow">Illinois Secretary of State Police · February 2024</p>
-        <h1 id="page-title">Offense Code Index</h1>
-        <p class="intro-copy">
-          Start with the search above. Use an exact code, a few remembered words, or simply describe
-          what happened.
-        </p>
+        <div class="intro-heading">
+          <div>
+            <p class="eyebrow">Illinois Secretary of State Police · February 2024</p>
+            <h1 id="page-title">Offense Code Index</h1>
+          </div>
+          <p class="intro-summary">
+            Find the record, open its official source page, then confirm the current ILCS before
+            writing a citation.
+          </p>
+        </div>
 
-        <div class="search-prompts" aria-label="Example searches">
-          <span>Try</span>
-          <button type="button" data-search-query="driving drunk">driving drunk</button>
-          <button type="button" data-search-query="no insurance">no insurance</button>
-          <button type="button" data-search-query="hit and run">hit and run</button>
-          <button type="button" data-search-query="license was taken away">license taken away</button>
+        <div class="search-prompts" aria-label="Common traffic stop searches">
+          <span>Common stops</span>
+          <button type="button" data-search-query="no rear registration light">No rear registration light</button>
+          <button type="button" data-search-query="expired registration">Expired registration</button>
+          <button type="button" data-search-query="speeding">Speeding</button>
+          <button type="button" data-search-query="headlight out">Headlight out</button>
+          <button type="button" data-search-query="taillight out">Taillight out</button>
         </div>
 
         <div class="notice" role="note">
-          <strong>2024 reference only.</strong>
+          <strong>Source-first results.</strong>
           <span>
-            Verify the current ILCS before choosing a charge or procedure. Reporting codes may
-            differ by agency.
+            Every offense opens to its exact page in the official 2024 index. The index is a
+            reference—not current law—and reporting codes may differ by agency.
           </span>
         </div>
       </section>

@@ -46,8 +46,15 @@ test("the Sites worker serves the finished index and its defensive headers", asy
   assert.match(await response.text(), /Illinois Offense Code Index/);
   assert.match(
     await readFile(path.join(root, "index.html"), "utf8"),
-    /illinois-offense-code-index-2024\.kirbyjosh28\.chatgpt\.site\/og-v5\.png/
+    /illinois-offense-code-index\.vercel\.app\/og-v5\.png/
   );
+});
+
+test("the static Vercel bundle contains the finished index document", async () => {
+  const staticIndex = await readFile(path.join(root, "dist", "client", "index.html"), "utf8");
+  assert.match(staticIndex, /Illinois Offense Code Index/);
+  assert.match(staticIndex, /id="search-experience"/);
+  assert.match(staticIndex, /id="search-tools"/);
 });
 
 test("the Sites bundle contains the complete structured dataset", async () => {

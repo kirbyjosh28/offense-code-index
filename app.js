@@ -5,9 +5,24 @@ import {
   scoreOffenseMatch,
 } from "./src/search.js";
 
+document.documentElement.classList.add("js");
+
 const DATA_URL = "./src/data/offense-codes.json";
 const SOURCE_PDF = "https://www.ilsos.gov/content/dam/departments/police/offense_code24.pdf";
 const MAX_QUERY_LENGTH = 120;
+const TYPEWRITER_SUGGESTIONS = [
+  "Try “driving drunk”",
+  "Try “no insurance”",
+  "Try “625 ILCS 5/11-501”",
+  "Try “license was taken away”",
+];
+const TYPEWRITER_TIMING = {
+  type: 54,
+  erase: 28,
+  hold: 1800,
+  next: 420,
+  resume: 600,
+};
 
 const guides = [
   {
@@ -93,8 +108,11 @@ const state = {
 
 const elements = {
   siteHeader: document.querySelector(".site-header"),
+  searchExperience: document.querySelector("#search-experience"),
   search: document.querySelector("#search"),
   searchShell: document.querySelector(".search-shell"),
+  searchTools: document.querySelector("#search-tools"),
+  typewriterText: document.querySelector("#typewriter-text"),
   clearSearch: document.querySelector("#clear-search"),
   results: document.querySelector("#results"),
   resultSummary: document.querySelector("#result-summary"),
@@ -103,6 +121,10 @@ const elements = {
   familyFilter: document.querySelector("#family-filter"),
   chapterFilter: document.querySelector("#chapter-filter"),
   mandatoryFilter: document.querySelector("#mandatory-filter"),
+  quickFamilyFilters: document.querySelectorAll("[data-family-filter]"),
+  quickMandatory: document.querySelector("#quick-mandatory"),
+  moreFilters: document.querySelector("#more-filters"),
+  filterBar: document.querySelector(".filter-bar"),
   resetFilters: document.querySelector("#reset-filters"),
   guideList: document.querySelector("#guide-list"),
   searchPrompts: document.querySelectorAll("[data-search-query]"),
@@ -209,8 +231,30 @@ const createOffenseRow = (offense) => {
   description.append(highlight(offense.description, state.query));
   const context = document.createElement("p");
   context.className = "offense-context";
-  context.textContent = `${offense.chapter} · ${offense.section} · PDF page ${offense.page}`;
-  descriptionColumn.append(description, context);
+  context.textContent = `${offense.chapter} · ${offense.section}`;
+
+  const sourceLink = document.createElement("a");
+  sourceLink.className = "source-proof";
+  sourceLink.href = `${SOURCE_PDF}#page=${offense.page}`;
+  sourceLink.target = "_blank";
+  sourceLink.rel = "noopener noreferrer";
+  sourceLink.setAttribute(
+    "aria-label",
+    `Open the official 2024 Illinois Secretary of State offense index to PDF page ${offense.page} for ILCS section ${displayCode} in a new tab`
+  );
+
+  const sourceLabel = document.createElement("span");
+  sourceLabel.className = "source-proof-label";
+  sourceLabel.textContent = "Official source";
+  const sourceDetail = document.createElement("span");
+  sourceDetail.className = "source-proof-detail";
+  sourceDetail.textContent = `2024 Illinois SOS index · PDF page ${offense.page}`;
+  const sourceAction = document.createElement("span");
+  sourceAction.className = "source-proof-action";
+  sourceAction.textContent = "Open exact page ↗";
+  sourceLink.append(sourceLabel, sourceDetail, sourceAction);
+
+  descriptionColumn.append(description, context, sourceLink);
 
   const actions = document.createElement("div");
   actions.className = "offense-actions";
@@ -315,6 +359,29 @@ const renderSummary = (count) => {
   elements.resultSummary.replaceChildren(strong, document.createTextNode(`${noun}${suffix}`));
 };
 
+const hasActiveBrowseFilters = () =>
+  state.family !== "all" || state.chapter !== "all" || state.mandatoryOnly;
+
+const setSearchExperienceOpen = (open) => {
+  elements.searchExperience.classList.toggle("is-open", open);
+  elements.searchTools.inert = !open;
+  elements.searchTools.setAttribute("aria-hidden", String(!open));
+};
+
+const syncSearchControls = () => {
+  const hasQuery = Boolean(state.query);
+  const hasContext = hasQuery || hasActiveBrowseFilters();
+  const ownsFocus = elements.searchExperience.contains(document.activeElement);
+
+  elements.searchShell.classList.toggle("has-value", hasQuery);
+  elements.searchExperience.classList.toggle("has-context", hasContext);
+  elements.quickFamilyFilters.forEach((filter) => {
+    filter.setAttribute("aria-pressed", String(state.family === filter.dataset.familyFilter));
+  });
+  elements.quickMandatory.setAttribute("aria-pressed", String(state.mandatoryOnly));
+  setSearchExperienceOpen(hasContext || ownsFocus);
+};
+
 const renderOffenses = () => {
   if (!state.data) return;
   const offenses = getFilteredOffenses();
@@ -324,7 +391,7 @@ const renderOffenses = () => {
   elements.results.setAttribute("aria-busy", "false");
   elements.results.hidden = offenses.length === 0;
   elements.emptyState.hidden = offenses.length > 0;
-  elements.searchShell.classList.toggle("has-value", Boolean(state.query));
+  syncSearchControls();
   elements.resetFilters.disabled =
     !state.query && state.family === "all" && state.chapter === "all" && !state.mandatoryOnly;
   renderSummary(offenses.length);
@@ -390,6 +457,60 @@ const renderStaticSections = () => {
 };
 
 const prefersReducedMotion = () => matchMedia("(prefers-reduced-motion: reduce)").matches;
+
+const setupTypewriter = () => {
+  let suggestionIndex = 0;
+  let characterIndex = 0;
+  let deleting = false;
+  let timer;
+
+  const schedule = (callback, delay) => {
+    window.clearTimeout(timer);
+    timer = window.setTimeout(callback, delay);
+  };
+
+  const step = () => {
+    const suggestion = TYPEWRITER_SUGGESTIONS[suggestionIndex];
+
+    if (!deleting && characterIndex < suggestion.length) {
+      characterIndex += 1;
+      elements.typewriterText.textContent = suggestion.slice(0, characterIndex);
+      schedule(step, TYPEWRITER_TIMING.type);
+      return;
+    }
+
+    if (!deleting) {
+      deleting = true;
+      schedule(step, TYPEWRITER_TIMING.hold);
+      return;
+    }
+
+    if (characterIndex > 0) {
+      characterIndex -= 1;
+      elements.typewriterText.textContent = suggestion.slice(0, characterIndex);
+      schedule(step, TYPEWRITER_TIMING.erase);
+      return;
+    }
+
+    deleting = false;
+    suggestionIndex = (suggestionIndex + 1) % TYPEWRITER_SUGGESTIONS.length;
+    schedule(step, TYPEWRITER_TIMING.next);
+  };
+
+  const sync = () => {
+    window.clearTimeout(timer);
+    if (prefersReducedMotion()) {
+      elements.typewriterText.textContent = "Search all 953 offenses…";
+      return;
+    }
+    if (document.hidden || elements.search.value) return;
+    schedule(step, TYPEWRITER_TIMING.resume);
+  };
+
+  elements.search.addEventListener("input", sync);
+  document.addEventListener("visibilitychange", sync);
+  sync();
+};
 
 const applyTheme = (theme, persist = false) => {
   document.documentElement.dataset.theme = theme;
@@ -479,6 +600,14 @@ const bindEvents = () => {
     });
   });
 
+  elements.searchExperience.addEventListener("focusin", () => {
+    setSearchExperienceOpen(true);
+  });
+
+  elements.searchExperience.addEventListener("focusout", () => {
+    window.requestAnimationFrame(syncSearchControls);
+  });
+
   elements.search.addEventListener("input", () => {
     window.clearTimeout(searchTimer);
     searchTimer = window.setTimeout(() => {
@@ -508,6 +637,28 @@ const bindEvents = () => {
   elements.mandatoryFilter.addEventListener("change", () => {
     state.mandatoryOnly = elements.mandatoryFilter.checked;
     renderOffenses();
+  });
+
+  elements.quickFamilyFilters.forEach((filter) => {
+    filter.addEventListener("click", () => {
+      const family = filter.dataset.familyFilter;
+      state.family = state.family === family ? "all" : family;
+      state.chapter = "all";
+      elements.familyFilter.value = state.family;
+      elements.chapterFilter.value = "all";
+      renderOffenses();
+    });
+  });
+
+  elements.quickMandatory.addEventListener("click", () => {
+    state.mandatoryOnly = !state.mandatoryOnly;
+    elements.mandatoryFilter.checked = state.mandatoryOnly;
+    renderOffenses();
+  });
+
+  elements.moreFilters.addEventListener("click", () => {
+    elements.filterBar.scrollIntoView({ block: "center" });
+    window.requestAnimationFrame(() => elements.familyFilter.focus({ preventScroll: true }));
   });
 
   elements.resetFilters.addEventListener("click", resetFilters);
@@ -545,12 +696,18 @@ const bindEvents = () => {
       event.preventDefault();
       elements.search.focus();
     }
-    if (event.key === "Escape" && document.activeElement === elements.search && elements.search.value) {
-      state.query = "";
-      elements.search.value = "";
-      renderOffenses();
+    if (event.key === "Escape" && document.activeElement === elements.search) {
+      if (elements.search.value) {
+        state.query = "";
+        elements.search.value = "";
+        renderOffenses();
+      } else {
+        elements.search.blur();
+      }
     }
   });
+
+  syncSearchControls();
 };
 
 const init = async () => {
@@ -558,6 +715,7 @@ const init = async () => {
   setupHeaderScrollState();
   hydrateStateFromUrl();
   bindEvents();
+  setupTypewriter();
 
   try {
     const response = await fetch(DATA_URL);

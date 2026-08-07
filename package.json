@@ -6,7 +6,7 @@
   "scripts": {
     "build": "node scripts/build-sites.mjs",
     "dev": "node scripts/server.mjs",
-    "test": "node --test",
+    "test": "npm run build && node --test",
     "validate:data": "node scripts/validate-data.mjs"
   }
 }

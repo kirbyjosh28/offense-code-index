@@ -11,6 +11,14 @@ test("the extracted index has no unresolved code records", () => {
   assert.equal(data.offenses.filter((record) => record.citationPlaceholder).length, 2);
 });
 
+test("every offense preserves a valid page target in the official source PDF", () => {
+  assert.ok(
+    data.offenses.every(
+      ({ page }) => Number.isInteger(page) && page >= 1 && page <= data.meta.sourcePages
+    )
+  );
+});
+
 test("representative records preserve statute, uniform code, and appearance marker", () => {
   const uninsured = data.offenses.find((record) => record.code === "3-707");
   assert.equal(uninsured.uniformCode, "2461");

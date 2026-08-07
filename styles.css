@@ -10,6 +10,8 @@
   --border-strong: #aaa99f;
   --accent: #3149b7;
   --accent-soft: #e8ebfa;
+  --accent-warm: #c57d24;
+  --glass: rgba(255, 255, 255, 0.78);
   --danger: #a32b22;
   --focus: #3957d4;
   --nav-background: rgba(255, 255, 255, 0.92);
@@ -19,6 +21,7 @@
   --duration-fast: 140ms;
   --duration-medium: 220ms;
   --duration-enter: 260ms;
+  --duration-expand: 420ms;
   --font-sans: "Avenir Next", Avenir, "Helvetica Neue", Helvetica, sans-serif;
   --font-mono: "SFMono-Regular", "Roboto Mono", Consolas, monospace;
   --page-gutter: clamp(1rem, 4vw, 3.5rem);
@@ -37,6 +40,8 @@
   --border-strong: #727268;
   --accent: #aab5ff;
   --accent-soft: #2b3155;
+  --accent-warm: #f0b76d;
+  --glass: rgba(36, 36, 31, 0.82);
   --danger: #ffaaa1;
   --focus: #c0c8ff;
   --nav-background: rgba(36, 36, 31, 0.94);
@@ -90,6 +95,34 @@ html {
   to {
     opacity: 1;
     transform: translateY(0);
+  }
+}
+
+@keyframes search-border-drift {
+  from {
+    background-position: 0 0, 0% 50%;
+  }
+
+  to {
+    background-position: 0 0, 200% 50%;
+  }
+}
+
+@keyframes typewriter-caret {
+  50% {
+    opacity: 0;
+  }
+}
+
+@keyframes prompt-enter {
+  from {
+    opacity: 0;
+    transform: translateY(7px) scale(0.97);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
   }
 }
 
@@ -247,6 +280,17 @@ a {
   animation: surface-enter var(--duration-enter) var(--ease-out) 50ms both;
 }
 
+.search-experience {
+  width: min(100%, 520px);
+  pointer-events: auto;
+  transition: width var(--duration-expand) var(--ease-in-out);
+}
+
+.search-experience.is-open,
+.search-experience.has-context {
+  width: min(100%, 820px);
+}
+
 .site-header.is-scrolled .pill-nav {
   opacity: 0.72;
   transform: scale(0.97);
@@ -266,7 +310,13 @@ footer {
 
 .intro {
   padding: clamp(1rem, 2.5vw, 1.8rem) 0 clamp(1.75rem, 3.5vw, 3rem);
-  text-align: center;
+}
+
+.intro-heading {
+  display: grid;
+  max-width: 1080px;
+  gap: 0.85rem;
+  margin: 0 auto;
 }
 
 .eyebrow,
@@ -294,37 +344,51 @@ footer {
   animation: surface-enter var(--duration-enter) var(--ease-out) 150ms both;
 }
 
-.intro-copy {
-  max-width: 650px;
-  margin: 0.7rem auto 0;
+.intro-summary {
+  max-width: 550px;
+  margin: 0;
   color: var(--text-soft);
-  font-size: clamp(1rem, 2vw, 1.12rem);
-  line-height: 1.65;
-  animation: surface-enter var(--duration-enter) var(--ease-out) 200ms both;
+  font-size: clamp(1rem, 2vw, 1.08rem);
+  line-height: 1.6;
+  animation: surface-enter var(--duration-enter) var(--ease-out) 180ms both;
 }
 
 .search-shell {
   position: relative;
   display: flex;
-  width: min(100%, 780px);
+  width: 100%;
   min-height: 62px;
   align-items: center;
   margin: 0 auto;
   padding: 0 0.75rem 0 1.15rem;
-  border: 1px solid var(--border-strong);
+  border: 1px solid transparent;
   border-radius: 999px;
-  background: var(--surface-strong);
+  background:
+    linear-gradient(var(--glass), var(--glass)) padding-box,
+    linear-gradient(
+        110deg,
+        var(--border-strong) 0%,
+        var(--accent) 28%,
+        var(--accent-warm) 52%,
+        var(--accent) 76%,
+        var(--border-strong) 100%
+      )
+      border-box;
+  background-size: 100% 100%, 220% 100%;
+  backdrop-filter: blur(18px) saturate(1.18);
   box-shadow: 0 12px 30px rgba(27, 27, 23, 0.09);
-  pointer-events: auto;
   text-align: left;
   transform-origin: center;
   transition:
+    box-shadow var(--duration-medium) var(--ease-out),
     transform var(--duration-medium) var(--ease-in-out);
 }
 
 .search-shell:focus-within {
-  border-color: var(--accent);
-  box-shadow: 0 0 0 4px var(--accent-soft);
+  box-shadow:
+    0 0 0 4px var(--accent-soft),
+    0 18px 46px color-mix(in srgb, var(--accent) 18%, transparent);
+  animation: search-border-drift 3.8s linear infinite;
 }
 
 .site-header .search-shell.is-pressed {
@@ -387,6 +451,14 @@ footer {
   transition-duration: var(--duration-fast);
 }
 
+.search-input-wrap {
+  position: relative;
+  display: flex;
+  min-width: 0;
+  flex: 1 1 auto;
+  align-items: center;
+}
+
 .search-shell input {
   width: 100%;
   min-width: 0;
@@ -402,6 +474,41 @@ footer {
 .search-shell input::placeholder {
   color: var(--text-faint);
   opacity: 1;
+}
+
+.search-shell input::-webkit-search-cancel-button {
+  -webkit-appearance: none;
+  appearance: none;
+}
+
+.js .search-shell input::placeholder {
+  color: transparent;
+}
+
+.typewriter-placeholder {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  min-width: 0;
+  align-items: center;
+  overflow: hidden;
+  color: var(--text-faint);
+  font-size: 1rem;
+  pointer-events: none;
+  white-space: nowrap;
+}
+
+.search-shell.has-value .typewriter-placeholder {
+  display: none;
+}
+
+.typewriter-placeholder i {
+  width: 1px;
+  height: 1.05em;
+  flex: 0 0 auto;
+  margin-left: 0.12rem;
+  background: var(--accent);
+  animation: typewriter-caret 900ms steps(1, end) infinite;
 }
 
 .search-shell kbd {
@@ -436,35 +543,141 @@ footer {
   justify-content: center;
 }
 
-.search-prompts {
+.search-tools {
   display: flex;
-  max-width: 760px;
-  flex-wrap: wrap;
+  width: 100%;
+  align-items: center;
+  gap: 0.45rem;
+  overflow-x: auto;
+  scrollbar-width: none;
+}
+
+.search-tools::-webkit-scrollbar {
+  display: none;
+}
+
+.js .search-tools {
+  max-height: 0;
+  margin-top: 0;
+  opacity: 0;
+  pointer-events: none;
+  transform: translateY(-8px) scale(0.98);
+  visibility: hidden;
+  transition:
+    max-height var(--duration-expand) var(--ease-in-out),
+    margin-top var(--duration-medium) var(--ease-out),
+    opacity var(--duration-medium) var(--ease-out),
+    transform var(--duration-expand) var(--ease-out),
+    visibility 0s linear var(--duration-medium);
+}
+
+.js .search-experience.is-open .search-tools,
+.js .search-experience.has-context .search-tools {
+  max-height: 52px;
+  margin-top: 0.45rem;
+  opacity: 1;
+  pointer-events: auto;
+  transform: translateY(0) scale(1);
+  visibility: visible;
+  transition-delay: 0s;
+}
+
+.search-tools-label {
+  flex: 0 0 auto;
+  margin-right: 0.1rem;
+  color: var(--text-faint);
+  font-size: 0.68rem;
+  font-weight: 750;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.quick-filter,
+.more-filters {
+  display: inline-flex;
+  min-height: 44px;
+  flex: 0 0 auto;
   align-items: center;
   justify-content: center;
+  gap: 0.35rem;
+  padding: 0 0.85rem;
+  border: 1px solid color-mix(in srgb, var(--border) 86%, transparent);
+  border-radius: 999px;
+  background: color-mix(in srgb, var(--surface-strong) 82%, transparent);
+  color: var(--text-soft);
+  font-size: 0.76rem;
+  font-weight: 720;
+  cursor: pointer;
+  backdrop-filter: blur(14px);
+  transition:
+    background-color var(--duration-fast) ease,
+    border-color var(--duration-fast) ease,
+    color var(--duration-fast) ease,
+    transform 100ms var(--ease-out);
+}
+
+.quick-filter[aria-pressed="true"] {
+  border-color: color-mix(in srgb, var(--accent) 52%, var(--border));
+  background: var(--accent-soft);
+  color: var(--accent);
+}
+
+.more-filters {
+  margin-left: auto;
+}
+
+.quick-filter:active,
+.more-filters:active {
+  transform: scale(0.97);
+}
+
+.search-prompts {
+  display: flex;
+  max-width: 1080px;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: flex-start;
   gap: 0.45rem;
-  margin: 1rem auto 0;
-  animation: surface-enter var(--duration-enter) var(--ease-out) 250ms both;
+  margin: 1.35rem auto 0;
 }
 
 .search-prompts > span {
   margin-right: 0.15rem;
   color: var(--text-faint);
-  font-size: 0.76rem;
-  font-weight: 700;
+  font-size: 0.7rem;
+  font-weight: 750;
+  letter-spacing: 0.08em;
   text-transform: uppercase;
+  animation: surface-enter var(--duration-enter) var(--ease-out) 190ms both;
 }
 
 .search-prompts button {
+  display: inline-flex;
   min-height: 44px;
+  align-items: center;
+  gap: 0.5rem;
   padding: 0 0.8rem;
-  border: 1px solid var(--border);
+  border: 1px solid transparent;
   border-radius: 999px;
-  background: var(--surface);
+  background:
+    linear-gradient(
+        color-mix(in srgb, var(--surface) 88%, transparent),
+        color-mix(in srgb, var(--surface) 88%, transparent)
+      )
+      padding-box,
+    linear-gradient(
+        120deg,
+        var(--border),
+        color-mix(in srgb, var(--accent) 36%, var(--border)),
+        var(--border)
+      )
+      border-box;
   color: var(--text-soft);
   font-size: 0.78rem;
   font-weight: 700;
   cursor: pointer;
+  transform-origin: center;
+  animation: prompt-enter 240ms var(--ease-out) both;
   transition:
     transform 100ms var(--ease-out),
     background-color var(--duration-fast) ease,
@@ -472,13 +685,50 @@ footer {
     color var(--duration-fast) ease;
 }
 
+.search-prompts button::before {
+  width: 6px;
+  height: 6px;
+  flex: 0 0 auto;
+  border-radius: 50%;
+  background: var(--accent);
+  box-shadow: 0 0 0 3px var(--accent-soft);
+  content: "";
+  opacity: 0.74;
+  transition:
+    opacity var(--duration-fast) ease,
+    transform var(--duration-fast) var(--ease-out);
+}
+
+.search-prompts button:nth-of-type(1) {
+  animation-delay: 220ms;
+}
+
+.search-prompts button:nth-of-type(2) {
+  animation-delay: 260ms;
+}
+
+.search-prompts button:nth-of-type(3) {
+  animation-delay: 300ms;
+}
+
+.search-prompts button:nth-of-type(4) {
+  animation-delay: 340ms;
+}
+
+.search-prompts button:nth-of-type(5) {
+  animation-delay: 380ms;
+}
+
 .notice {
   display: flex;
-  max-width: 820px;
-  align-items: baseline;
-  justify-content: center;
-  gap: 0.45rem;
-  margin: 0.8rem auto 0;
+  max-width: 1080px;
+  align-items: flex-start;
+  gap: 0.55rem;
+  margin: 0.9rem auto 0;
+  padding: 0.8rem 0.95rem;
+  border: 1px solid color-mix(in srgb, var(--accent) 22%, var(--border));
+  border-radius: 14px;
+  background: color-mix(in srgb, var(--accent-soft) 42%, transparent);
   color: var(--text-soft);
   font-size: 0.84rem;
   line-height: 1.55;
@@ -487,7 +737,7 @@ footer {
 
 .notice strong {
   flex: 0 0 auto;
-  color: var(--text);
+  color: var(--accent);
 }
 
 .content-section {
@@ -671,6 +921,8 @@ footer {
   gap: 1rem;
   padding: 1.45rem 0;
   border-top: 1px solid var(--border);
+  contain-intrinsic-size: auto 156px;
+  content-visibility: auto;
   scroll-margin-top: 170px;
   transition:
     background-color var(--duration-fast) ease,
@@ -760,6 +1012,57 @@ footer {
   letter-spacing: 0.025em;
   line-height: 1.55;
   text-transform: uppercase;
+}
+
+.source-proof {
+  display: flex;
+  min-height: 44px;
+  max-width: 820px;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.35rem 0.7rem;
+  margin-top: 0.75rem;
+  padding: 0.45rem 0.7rem;
+  border: 1px solid color-mix(in srgb, var(--accent) 22%, var(--border));
+  border-radius: 10px;
+  background: color-mix(in srgb, var(--accent-soft) 30%, transparent);
+  color: var(--text-soft);
+  font-size: 0.75rem;
+  line-height: 1.4;
+  text-decoration: none;
+  transition:
+    background-color var(--duration-fast) ease,
+    border-color var(--duration-fast) ease,
+    color var(--duration-fast) ease,
+    transform 100ms var(--ease-out);
+}
+
+.source-proof-label {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  color: var(--text);
+  font-weight: 750;
+}
+
+.source-proof-label::before {
+  width: 6px;
+  height: 6px;
+  flex: 0 0 auto;
+  border-radius: 50%;
+  background: var(--accent);
+  box-shadow: 0 0 0 3px var(--accent-soft);
+  content: "";
+}
+
+.source-proof-detail {
+  min-width: 0;
+}
+
+.source-proof-action {
+  margin-left: auto;
+  color: var(--accent);
+  font-weight: 750;
 }
 
 .offense-actions {
@@ -963,12 +1266,15 @@ footer a {
 .row-action:active,
 .primary-button:active,
 .text-button:active,
+.source-proof:active,
 .guide-row a:active {
   transform: scale(0.97);
   transition-duration: var(--duration-fast);
 }
 
 @media (hover: hover) and (pointer: fine) {
+  .quick-filter:hover,
+  .more-filters:hover,
   .search-prompts button:hover,
   .row-action:hover,
   .primary-button:hover,
@@ -976,12 +1282,76 @@ footer a {
     transform: translateY(-1px);
   }
 
+  .search-prompts button:hover::before {
+    opacity: 1;
+    transform: scale(1.18);
+  }
+
   .offense-row:hover {
     background: color-mix(in srgb, var(--surface) 58%, transparent);
+  }
+
+  .source-proof:hover {
+    border-color: color-mix(in srgb, var(--accent) 48%, var(--border));
+    background: color-mix(in srgb, var(--accent-soft) 58%, transparent);
+    color: var(--text);
+    transform: translateY(-1px);
   }
 }
 
 @media (max-width: 480px) {
+  .site-header {
+    padding-right: 0.55rem;
+    padding-left: 0.55rem;
+  }
+
+  .search-shell {
+    min-height: 56px;
+    padding-right: 0.45rem;
+    padding-left: 1rem;
+  }
+
+  .search-shell input {
+    min-height: 54px;
+    font-size: 0.94rem;
+  }
+
+  .typewriter-placeholder {
+    font-size: 0.9rem;
+  }
+
+  .search-tools-label {
+    display: none;
+  }
+
+  .more-filters {
+    margin-left: 0;
+  }
+
+  .search-prompts {
+    max-width: 100%;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    padding-bottom: 0.35rem;
+    overflow-x: auto;
+    overscroll-behavior-inline: contain;
+    scroll-snap-type: inline proximity;
+    scrollbar-width: none;
+  }
+
+  .search-prompts::-webkit-scrollbar {
+    display: none;
+  }
+
+  .search-prompts > span,
+  .search-prompts button {
+    flex: 0 0 auto;
+  }
+
+  .search-prompts button {
+    scroll-snap-align: start;
+  }
+
   .pill-nav span {
     display: none;
   }
@@ -998,6 +1368,11 @@ footer a {
 
   .notice strong {
     display: block;
+  }
+
+  .source-proof-action {
+    width: 100%;
+    margin-left: 0;
   }
 
   .section-heading {
@@ -1018,6 +1393,17 @@ footer a {
 }
 
 @media (min-width: 700px) {
+  .intro-heading {
+    grid-template-columns: minmax(0, 1.15fr) minmax(300px, 0.85fr);
+    align-items: end;
+    gap: clamp(2rem, 6vw, 5rem);
+  }
+
+  .intro-summary {
+    padding-left: 1.25rem;
+    border-left: 1px solid var(--border-strong);
+  }
+
   .pill-nav a,
   .pill-nav button {
     padding: 0 1rem;
@@ -1091,15 +1477,21 @@ footer a {
 
   .pill-nav,
   .search-dock,
+  .search-shell:focus-within,
+  .typewriter-placeholder i,
   .eyebrow,
   .intro h1,
-  .intro-copy,
+  .intro-summary,
   .search-prompts,
+  .search-prompts > span,
+  .search-prompts button,
   .notice {
     animation: none;
   }
 
   .site-header.is-scrolled .pill-nav,
+  .search-experience,
+  .js .search-tools,
   .site-header.is-scrolled .search-shell,
   .site-header .search-shell.is-pressed,
   .site-header .search-shell.is-engaged,
@@ -1111,12 +1503,18 @@ footer a {
   .row-action:active,
   .primary-button:active,
   .text-button:active,
+  .source-proof:active,
   .guide-row a:active,
   .motion-ready .section-heading.is-reveal-ready,
   .motion-ready .guide-row.is-reveal-ready,
   .motion-ready .section-heading.is-revealed,
   .motion-ready .guide-row.is-revealed {
     transform: none;
+  }
+
+  .search-experience,
+  .js .search-tools {
+    transition-duration: 0.01ms;
   }
 
   .motion-ready .section-heading.is-reveal-ready,

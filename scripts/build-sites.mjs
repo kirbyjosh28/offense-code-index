@@ -21,6 +21,7 @@ if (!workerTemplate.includes('"__INDEX_HTML__"')) {
 }
 
 await Promise.all([
+  writeFile(path.join(client, "index.html"), indexHtml),
   cp(path.join(root, "styles.css"), path.join(client, "styles.css")),
   cp(path.join(root, "app.js"), path.join(client, "app.js")),
   cp(path.join(root, "src", "search.js"), path.join(client, "src", "search.js")),
@@ -39,4 +40,4 @@ await Promise.all([
   ),
 ]);
 
-console.log("Built Sites bundle in dist/");
+console.log("Built static client and Sites worker bundles in dist/");

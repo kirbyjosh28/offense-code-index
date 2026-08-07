@@ -2,7 +2,9 @@
 
 A searchable, responsive web edition of the Illinois Secretary of State Police's February 2024 Offense Code Index. It organizes 953 offense records and nine guide cards for the publication's procedural and reference material.
 
-The interface is a single continuous page with a persistent, centered pill search. Search ranks exact ILCS and Secretary of State Police reporting codes first, while also understanding partial wording, natural questions, vehicle-equipment terms such as “headlight out” and “bald tires,” common phrases such as “driving drunk” and “no insurance,” and minor spelling mistakes. Starting a new search clears browse-only filters so valid matches cannot stay hidden; search and filter state still persist in shared URLs.
+The interface is a single continuous page with an expanding, centered search pill and quick filters. Search ranks exact ILCS and Secretary of State Police reporting codes first, while also understanding partial wording, natural questions, vehicle-equipment terms such as “headlight out” and “bald tires,” common phrases such as “driving drunk” and “no insurance,” and minor spelling mistakes. Starting a new search clears browse-only filters so valid matches cannot stay hidden; search and filter state still persist in shared URLs.
+
+Live site: [illinois-offense-code-index.vercel.app](https://illinois-offense-code-index.vercel.app)
 
 ## Run locally
 
@@ -18,6 +20,8 @@ Open `http://127.0.0.1:4173`.
 npm test
 npm run validate:data
 ```
+
+`npm run build` emits the Vercel-ready static site in `dist/client` and preserves the existing Sites worker bundle in `dist/server`.
 
 The site has no runtime dependencies. The structured data was generated from positioned text extracted from the supplied 57-page PDF; validation checks ensure every detected primary code was consumed and every four-digit uniform code belongs to a record.
 
