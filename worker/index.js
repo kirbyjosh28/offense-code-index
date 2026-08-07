@@ -14,9 +14,12 @@ const securityHeaders = {
     "object-src 'none'",
   ].join("; "),
   "Permissions-Policy": "camera=(), geolocation=(), microphone=()",
+  "Strict-Transport-Security": "max-age=63072000; includeSubDomains; preload",
   "Referrer-Policy": "strict-origin-when-cross-origin",
   "X-Content-Type-Options": "nosniff",
   "X-Frame-Options": "DENY",
+  "Cross-Origin-Resource-Policy": "same-origin",
+  "Cross-Origin-Opener-Policy": "same-origin",
 };
 
 const withSecurityHeaders = (response) => {

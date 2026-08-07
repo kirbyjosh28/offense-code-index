@@ -11,6 +11,7 @@ const DATA_URL = "./src/data/offense-codes.json";
 const SOURCE_PDF = "https://www.ilsos.gov/content/dam/departments/police/offense_code24.pdf";
 const MAX_QUERY_LENGTH = 120;
 const MAX_HASH_LENGTH = 220;
+const THEME_STORAGE_KEY = "offense-index-theme";
 const TYPEWRITER_SUGGESTIONS = [
   "Try “driving drunk”",
   "Try “no insurance”",
@@ -192,6 +193,22 @@ const writeClipboard = async (text, successMessage) => {
     setToast(successMessage);
   } catch {
     setToast("Copy failed. Select and copy the text manually.");
+  }
+};
+
+const readThemePreference = () => {
+  try {
+    return localStorage.getItem(THEME_STORAGE_KEY);
+  } catch {
+    return null;
+  }
+};
+
+const writeThemePreference = (theme) => {
+  try {
+    localStorage.setItem(THEME_STORAGE_KEY, theme);
+  } catch {
+    // Intentionally ignore storage failures in restricted/private contexts.
   }
 };
 
@@ -525,7 +542,7 @@ const setupTypewriter = () => {
 
 const applyTheme = (theme, persist = false) => {
   document.documentElement.dataset.theme = theme;
-  if (persist) localStorage.setItem("offense-index-theme", theme);
+  if (persist) writeThemePreference(theme);
   elements.themeToggle.textContent = theme === "dark" ? "Light" : "Dark";
   elements.themeToggle.setAttribute(
     "aria-label",
@@ -534,7 +551,7 @@ const applyTheme = (theme, persist = false) => {
 };
 
 const setupTheme = () => {
-  const storedTheme = localStorage.getItem("offense-index-theme");
+  const storedTheme = readThemePreference();
   const systemDark = matchMedia("(prefers-color-scheme: dark)").matches;
   const theme = storedTheme ?? (systemDark ? "dark" : "light");
   applyTheme(theme);
