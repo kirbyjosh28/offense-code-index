@@ -26,3 +26,4 @@ npm run validate:data
 The site has no runtime dependencies. The structured data was generated from positioned text extracted from the supplied 57-page PDF; validation checks ensure every detected primary code was consumed and every four-digit uniform code belongs to a record.
 
 This is a reference interface, not legal advice or a substitute for the current Illinois Compiled Statutes.
+ 
