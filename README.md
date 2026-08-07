@@ -4,7 +4,9 @@ A searchable, responsive web edition of the Illinois Secretary of State Police's
 
 The interface is a single continuous page with an expanding, centered search pill and quick filters. Search ranks exact ILCS and Secretary of State Police reporting codes first, while also understanding partial wording, natural questions, vehicle-equipment terms such as “headlight out” and “bald tires,” common phrases such as “driving drunk” and “no insurance,” and minor spelling mistakes. Starting a new search clears browse-only filters so valid matches cannot stay hidden; search and filter state still persist in shared URLs.
 
-Live site: [illinois-offense-code-index.vercel.app](https://illinois-offense-code-index.vercel.app)
+Live site: [illinois-offense-code-index-nnnmfconx.vercel.app](https://illinois-offense-code-index-nnnmfconx.vercel.app)
+
+If you later add a short alias (for example `illinois-offense-code-index.vercel.app`), the README should be updated again so links match the canonical domain.
 
 ## Run locally
 

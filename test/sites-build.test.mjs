@@ -46,7 +46,7 @@ test("the Sites worker serves the finished index and its defensive headers", asy
   assert.match(await response.text(), /Illinois Offense Code Index/);
   assert.match(
     await readFile(path.join(root, "index.html"), "utf8"),
-    /illinois-offense-code-index\.vercel\.app\/og-v5\.png/
+    /illinois-offense-code-index(?:-nnnmfconx)?\.vercel\.app\/og-v5\.png/
   );
 });
 

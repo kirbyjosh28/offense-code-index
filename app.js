@@ -10,6 +10,7 @@ document.documentElement.classList.add("js");
 const DATA_URL = "./src/data/offense-codes.json";
 const SOURCE_PDF = "https://www.ilsos.gov/content/dam/departments/police/offense_code24.pdf";
 const MAX_QUERY_LENGTH = 120;
+const MAX_HASH_LENGTH = 220;
 const TYPEWRITER_SUGGESTIONS = [
   "Try “driving drunk”",
   "Try “no insurance”",
@@ -131,6 +132,16 @@ const elements = {
   copyLink: document.querySelector("#copy-link"),
   themeToggle: document.querySelector("#theme-toggle"),
   toast: document.querySelector("#toast"),
+};
+
+const decodeHash = (value) => {
+  if (!value) return null;
+  if (value.length > MAX_HASH_LENGTH) return null;
+  try {
+    return decodeURIComponent(value);
+  } catch {
+    return null;
+  }
 };
 
 const familyFor = (offense) => {
@@ -282,7 +293,7 @@ const createOffenseRow = (offense) => {
   linkButton.setAttribute("aria-label", `Copy direct link to ILCS section ${displayCode}`);
   linkButton.addEventListener("click", () => {
     const url = new URL(window.location.href);
-    url.hash = offense.id;
+    url.hash = encodeURIComponent(offense.id);
     writeClipboard(url.toString(), `Link to ${displayCode} copied`);
   });
   actions.append(copyButton, linkButton);
@@ -314,7 +325,7 @@ const createGuideRow = (guide, index) => {
   const link = document.createElement("a");
   link.href = `${SOURCE_PDF}#page=${guide.pdfPage}`;
   link.target = "_blank";
-  link.rel = "noreferrer";
+  link.rel = "noopener noreferrer";
   link.textContent = "Open PDF";
   link.setAttribute("aria-label", `Open ${guide.title} in the source PDF`);
 
@@ -731,9 +742,12 @@ const init = async () => {
     renderOffenses();
     setupRevealMotion();
 
-    if (window.location.hash) {
+    const targetId = decodeHash(window.location.hash.replace(/^#/, ""));
+    const target = targetId ? document.getElementById(targetId) : null;
+
+    if (window.location.hash && target) {
       window.requestAnimationFrame(() => {
-        document.getElementById(window.location.hash.slice(1))?.scrollIntoView({ block: "start" });
+        target.scrollIntoView({ block: "start" });
       });
     }
   } catch (error) {

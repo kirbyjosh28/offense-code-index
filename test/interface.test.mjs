@@ -139,7 +139,7 @@ test("search and filters preserve useful keyboard and URL contracts", () => {
   assert.match(app, /url\.searchParams\.set\("q", state\.query\)/);
   assert.match(app, /url\.searchParams\.set\("family", state\.family\)/);
   assert.match(app, /url\.searchParams\.set\("chapter", state\.chapter\)/);
-  assert.match(app, /url\.hash = offense\.id/);
+  assert.match(app, /url\.hash = encodeURIComponent\(offense\.id\)/);
   assert.match(app, /elements\.searchPrompts\.forEach/);
   assert.match(app, /prompt\.dataset\.searchQuery/);
   assert.match(app, /const clearBrowseFilters = \(\) =>/);
@@ -147,7 +147,8 @@ test("search and filters preserve useful keyboard and URL contracts", () => {
   assert.match(app, /quickFamilyFilters\.forEach/);
   assert.match(app, /quickMandatory\.addEventListener\("click"/);
   assert.match(app, /familyFilter\.focus\(\{ preventScroll: true \}\)/);
-  assert.match(app, /document\.getElementById\(window\.location\.hash\.slice\(1\)\)/);
+  assert.match(app, /decodeHash\(window\.location\.hash/);
+  assert.match(app, /document\.getElementById\(targetId\)/);
   assert.doesNotMatch(app, /document\.querySelector\(window\.location\.hash\)/);
 });
 
@@ -184,4 +185,8 @@ test("the local server rejects traversal and emits defensive response headers", 
   assert.match(server, /filePath\.startsWith\(`\$\{root\}\$\{path\.sep\}`\)/);
   assert.match(server, /X-Content-Type-Options/);
   assert.match(server, /Referrer-Policy/);
+  assert.match(server, /try \{/);
+  assert.match(server, /decodeURIComponent\(pathname\)/);
+  assert.match(server, /response\.writeHead\(400/);
+  assert.match(server, /"Bad request"/);
 });
