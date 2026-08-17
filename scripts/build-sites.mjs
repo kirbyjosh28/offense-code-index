@@ -35,14 +35,23 @@ const complianceFiles = [
   "release-checklist.md",
 ];
 
+const appSource = await readFile(path.join(root, "app.js"), "utf8");
+
+/**
+ * Client modules, derived from what app.js imports rather than listed by hand.
+ *
+ * A hand-maintained list shipped a build whose app.js imported ./src/family.js while the
+ * build copied only three of the four modules: the import 404'd, the module graph never
+ * evaluated, and the site rendered nothing. The dev server serves from the repo root, so
+ * only the built output was ever broken. Deriving the list removes that whole class.
+ */
+const clientModules = [...appSource.matchAll(/from\s+"\.\/(src\/[\w./-]+\.js)"/g)].map((match) => match[1]);
+if (!clientModules.length) throw new Error("No client modules found in app.js imports.");
+
 const [
   indexHtml,
   workerTemplate,
-  appSource,
   stylesSource,
-  searchSource,
-  freshnessSource,
-  shareStateSource,
   offenseData,
   sourceVersion,
   releaseGovernance,
@@ -55,11 +64,7 @@ const [
 ] = await Promise.all([
   readFile(path.join(root, "index.html"), "utf8"),
   readFile(path.join(root, "worker", "index.js"), "utf8"),
-  readFile(path.join(root, "app.js"), "utf8"),
   readFile(path.join(root, "styles.css"), "utf8"),
-  readFile(path.join(root, "src", "search.js"), "utf8"),
-  readFile(path.join(root, "src", "freshness.js"), "utf8"),
-  readFile(path.join(root, "src", "share-state.js"), "utf8"),
   readFile(path.join(root, "src", "data", "offense-codes.json"), "utf8"),
   readFile(path.join(root, "config", "source-version.json"), "utf8"),
   readFile(path.join(root, "config", "release-governance.json"), "utf8"),
@@ -68,16 +73,18 @@ const [
   readFile(path.join(root, "vercel.json"), "utf8"),
   readFile(path.join(root, "package-lock.json"), "utf8"),
   readFile(fileURLToPath(import.meta.url), "utf8"),
+  ...clientModules.map((file) => readFile(path.join(root, file), "utf8")),
   ...trustFiles.map((file) => readFile(path.join(root, "trust", file), "utf8")),
   ...publicImages.map((file) => readFile(path.join(root, "public", file))),
   ...complianceFiles.map((file) => readFile(path.join(root, "compliance", file), "utf8")),
 ]);
-const trustDocuments = hashedAssets.slice(0, trustFiles.length);
+const clientModuleContents = hashedAssets.slice(0, clientModules.length);
+const trustDocuments = hashedAssets.slice(clientModules.length, clientModules.length + trustFiles.length);
 const publicImageContents = hashedAssets.slice(
-  trustFiles.length,
-  trustFiles.length + publicImages.length
+  clientModules.length + trustFiles.length,
+  clientModules.length + trustFiles.length + publicImages.length
 );
-const complianceDocuments = hashedAssets.slice(trustFiles.length + publicImages.length);
+const complianceDocuments = hashedAssets.slice(clientModules.length + trustFiles.length + publicImages.length);
 
 if (!workerTemplate.includes('"__INDEX_HTML__"')) {
   throw new Error("Sites worker template is missing its HTML placeholder.");
@@ -114,9 +121,7 @@ const buildId = createBuildId([
   ["index.html", indexHtml],
   ["app.js", appSource],
   ["styles.css", stylesSource],
-  ["src/search.js", searchSource],
-  ["src/freshness.js", freshnessSource],
-  ["src/share-state.js", shareStateSource],
+  ...clientModules.map((file, index) => [file, clientModuleContents[index]]),
   ["src/data/offense-codes.json", offenseData],
   ["src/data/lookup-index.json", lookupIndexJson],
   ...sectionFiles.map((file, index) => [`src/data/enrichment/sections/${file}`, sectionContents[index]]),
@@ -155,9 +160,7 @@ await Promise.all([
   writeFile(path.join(client, "version.json"), versionManifest),
   cp(path.join(root, "styles.css"), path.join(client, "styles.css")),
   cp(path.join(root, "app.js"), path.join(client, "app.js")),
-  cp(path.join(root, "src", "search.js"), path.join(client, "src", "search.js")),
-  cp(path.join(root, "src", "freshness.js"), path.join(client, "src", "freshness.js")),
-  cp(path.join(root, "src", "share-state.js"), path.join(client, "src", "share-state.js")),
+  ...clientModules.map((file) => cp(path.join(root, file), path.join(client, file))),
   ...trustFiles.map((file) =>
     cp(path.join(root, "trust", file), path.join(client, "trust", file))
   ),

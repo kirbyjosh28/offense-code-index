@@ -136,3 +136,19 @@ test("the build emits a checksummed owner-attested compliance evidence package",
   assert.match(threatModel, /Query disclosure/);
   assert.match(rollback, /Application and corpus versions are independent/);
 });
+
+test("the bundle ships every module the client actually imports", async () => {
+  // A hand-maintained copy list once shipped an app.js importing ./src/family.js that
+  // the build never copied. The import 404'd, the module graph never evaluated, and the
+  // deployed site rendered no offences at all — while the dev server, which serves from
+  // the repo root, worked perfectly. Only the built output was ever broken.
+  const appSource = await readFile(new URL("../app.js", import.meta.url), "utf8");
+  const imported = [...appSource.matchAll(/from\s+"\.\/(src\/[\w./-]+\.js)"/g)].map((match) => match[1]);
+
+  assert.ok(imported.length >= 4, `expected app.js to import client modules, found ${imported.length}`);
+
+  for (const modulePath of imported) {
+    const response = await render(`/${modulePath}`);
+    assert.equal(response.status, 200, `${modulePath} is imported by app.js but missing from the bundle`);
+  }
+});
