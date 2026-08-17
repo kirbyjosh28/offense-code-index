@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "id": "ilsos-offense-code-index-2024-02",
+  "publisher": "Illinois Secretary of State Police",
+  "documentTitle": "2024 Illinois Offense Code Index",
+  "publicationDate": "2024-02",
+  "retrievedDate": "2026-08-10",
+  "canonicalUrl": "https://www.ilsos.gov/content/dam/departments/police/offense_code24.pdf",
+  "sourceArtifact": {
+    "includedInRepository": false,
+    "verificationPath": null,
+    "sha256": null,
+    "hashStatus": "not-independently-verified"
+  },
+  "corpus": {
+    "path": "src/data/offense-codes.json",
+    "version": "2024-02.extract-v1",
+    "sha256": "e036cc4e77e8378f5a80228f15b8e1b3950c9c76a77c9b2cd88ed63ef407d94a",
+    "recordCount": 953,
+    "sourcePageCount": 57,
+    "recordPageRange": {
+      "first": 8,
+      "last": 51
+    }
+  },
+  "review": {
+    "status": "active",
+    "lastReviewedDate": "2026-08-10",
+    "nextReviewDate": "2026-11-10",
+    "supersededBy": null
+  },
+  "rights": {
+    "status": "owner-attested-public-source-use",
+    "approvalReference": "OWNER-ATTESTATION-SOURCE-2026-08-10"
+  }
+}

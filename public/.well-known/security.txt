@@ -1,0 +1,5 @@
+# Do not include PII, CJI, credentials, case details, or sensitive operational data.
+Contact: https://github.com/kirbyjosh28/offense-code-index/issues
+Expires: 2027-02-10T00:00:00.000Z
+Preferred-Languages: en
+Policy: https://illinois-offense-code-index.vercel.app/trust/security.html

@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "app": {
+    "version": "1.0.0"
+  },
+  "corpus": {
+    "version": "2024-02.extract-v1",
+    "sourceVersionId": "ilsos-offense-code-index-2024-02",
+    "status": "active",
+    "enabled": true
+  },
+  "emergencyControl": {
+    "supported": true,
+    "disabledStatus": "disabled",
+    "publicMessage": "Lookup is temporarily unavailable while the source or corpus is reviewed."
+  }
+}

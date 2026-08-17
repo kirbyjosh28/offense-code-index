@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Security information for the Independent Illinois Offense Code Reference." />
+    <title>Security · Independent Illinois Offense Code Reference</title>
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body class="trust-page">
+    <a class="skip-link" href="#main-content">Skip to security information</a>
+    <header class="site-header">
+      <nav class="pill-nav" aria-label="Trust center navigation">
+        <a href="/">Index</a>
+        <a href="/trust/security.html" aria-current="page">Security</a>
+        <a href="/trust/privacy.html">Privacy</a>
+      </nav>
+    </header>
+
+    <main id="main-content" tabindex="-1">
+      <section class="intro" aria-labelledby="page-title">
+        <div class="intro-heading">
+          <div>
+            <p class="eyebrow">Independent project · Owner-reviewed</p>
+            <h1 id="page-title">Security</h1>
+          </div>
+          <p class="intro-summary">A small, static, privacy-minimizing surface with no account or CJI-processing capability.</p>
+        </div>
+      </section>
+
+      <section class="content-section" aria-labelledby="boundary-heading">
+        <header class="section-heading">
+          <div>
+            <p class="section-number">01 / BOUNDARY</p>
+            <h2 id="boundary-heading">Public reference, not an operational system</h2>
+            <p>The site has no accounts, application database, server-side search, submission form, CAD/RMS/MDT connection, or intended CJI workflow. Users must not enter personal information, CJI, plates, identifiers, case numbers, or narratives.</p>
+          </div>
+        </header>
+        <p>No CJIS compliance claim is made. Adding identity, stored history, telemetry, agency integrations, or sensitive-data processing requires a new security and legal architecture review.</p>
+      </section>
+
+      <section class="content-section" aria-labelledby="controls-heading">
+        <header class="section-heading">
+          <div>
+            <p class="section-number">02 / CONTROLS</p>
+            <h2 id="controls-heading">Current controls</h2>
+            <p>The release uses a restrictive Content Security Policy, HTTPS and HSTS, framing protection, a restrictive referrer policy, bounded inputs, text-only result rendering, no third-party runtime scripts, deterministic builds, dependency inventory, and reproducible checksums.</p>
+          </div>
+        </header>
+        <p>Hosting-provider request and security metadata remain inside the infrastructure trust boundary. No security certification, CJIS authorization, penetration-test claim, or government authorization is made.</p>
+      </section>
+
+      <section class="content-section" aria-labelledby="report-heading">
+        <header class="section-heading">
+          <div>
+            <p class="section-number">03 / REPORTING</p>
+            <h2 id="report-heading">Report a vulnerability</h2>
+            <p>Submit a minimal report through <a href="https://github.com/kirbyjosh28/offense-code-index/issues">https://github.com/kirbyjosh28/offense-code-index/issues</a> or follow the published <a href="/.well-known/security.txt">security.txt</a> instructions. Reports filed in the public tracker may be visible to others.</p>
+          </div>
+        </header>
+        <p>Do not include PII, CJI, credentials, case information, or unnecessary exploit data in an initial report. Do not test against other users, government systems, or data you do not own or have express authorization to test.</p>
+      </section>
+
+      <section class="content-section" aria-labelledby="status-heading">
+        <header class="section-heading">
+          <div>
+            <p class="section-number">04 / STATUS</p>
+            <h2 id="status-heading">Evidence before claims</h2>
+            <p>Threat modeling, header verification, hostile-input testing, dependency review, rollback guidance, and artifact checksums are part of the release evidence. Review was performed by the owner and automated checks, not by an independent security assessor.</p>
+          </div>
+        </header>
+        <p>Operated by the <strong>Independent Illinois Offense Code Reference project</strong>. Owner-reviewed August 10, 2026.</p>
+      </section>
+    </main>
+
+    <footer>
+      <div>
+        <strong>Independent Illinois Offense Code Reference</strong>
+        <p>Independent reference. Not a CJI system.</p>
+      </div>
+      <a href="/trust/privacy.html">Privacy notice</a>
+    </footer>
+  </body>
+</html>

@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 1,
+  "releaseId": "2026-08-10-owner-attested",
+  "releaseMode": "production",
+  "operator": {
+    "legalName": "Independent Illinois Offense Code Reference project",
+    "contact": "https://github.com/kirbyjosh28/offense-code-index/issues"
+  },
+  "owners": {
+    "content": "Project maintainer",
+    "privacy": "Project maintainer",
+    "security": "Project maintainer",
+    "accessibility": "Project maintainer"
+  },
+  "contacts": {
+    "privacy": "https://github.com/kirbyjosh28/offense-code-index/issues",
+    "security": "https://github.com/kirbyjosh28/offense-code-index/issues",
+    "accessibility": "https://github.com/kirbyjosh28/offense-code-index/issues"
+  },
+  "approvals": {
+    "counsel": { "status": "not-obtained", "reference": "NO-EXTERNAL-LEGAL-REVIEW-2026-08-10", "approvedAt": "2026-08-10" },
+    "sourceRights": { "status": "owner-attested", "reference": "OWNER-ATTESTATION-SOURCE-2026-08-10", "approvedAt": "2026-08-10" },
+    "content": { "status": "owner-attested", "reference": "OWNER-ATTESTATION-CONTENT-2026-08-10", "approvedAt": "2026-08-10" },
+    "accessibility": { "status": "owner-attested", "reference": "OWNER-ATTESTATION-ACCESSIBILITY-2026-08-10", "approvedAt": "2026-08-10" },
+    "securityPrivacy": { "status": "owner-attested", "reference": "OWNER-ATTESTATION-SECURITY-PRIVACY-2026-08-10", "approvedAt": "2026-08-10" }
+  },
+  "approvedArtifactSha256": {
+    "trust/privacy.html": "2e43dca56b95bccbd510f3cda940f94c39031735fdf26049ffe55d0f359a89df",
+    "trust/terms.html": "53c129b1ea2d6bafcfeef967c302fa3d7ac0acd56ac9793a9e7841afcb7be90d",
+    "trust/accessibility.html": "1ccb2552c3682def5acf255b8c6d98072768067fc33134da47cb2896e4e24a7c",
+    "trust/security.html": "2c3454019953605abc824be8e845ac121ff49fd8dda07ee202ad093359ab866e",
+    "trust/sources.html": "eb9d21528f559447ec4e21997485812b16500027fbd355c1a79b30c6187057e0",
+    "trust/corrections.html": "d9896e2b65ebbd2f3d2fc135a19634681c78bac94e5d3a1c26e5d45186ddd92c",
+    "public/.well-known/security.txt": "f34fffe045754ea6f2c1a81ab62607c0dc8a0043f6462300d78b6e308f166edc"
+  },
+  "corrections": {
+    "contact": "https://github.com/kirbyjosh28/offense-code-index/issues",
+    "responseSlaBusinessDays": 10
+  },
+  "productionBlocked": false,
+  "blockers": []
+}
