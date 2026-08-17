@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-6-301.1",
+  "citation": "625 ILCS 5/6-301.1",
+  "docName": "062500050K6-301.1",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K6-301.1",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:21:45.033Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/6-301.1",
+  "headingText": "Sec. 6-301.1. Fictitious or unlawfully altered driver's license or permit.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/6-301.1) (from Ch. 95 1/2, par. 6-301.1)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 6-301.1. Fictitious or unlawfully altered driver's license or permit."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) As used in this Section:"
+    },
+    {
+      "type": "paragraph",
+      "text": "1. \"A fictitious driver's license or permit\" means any issued license or permit for which a computerized number and file have been created by the Secretary of State or other official driver's license agency in another jurisdiction which contains false information concerning the identity of the individual issued the license or permit. 2. \"False information\" means:"
+    },
+    {
+      "type": "subsection",
+      "label": "(A)",
+      "text": "(A) Any information concerning an individual's legal name, address, sex, date of birth, or social security number that (i) falsifies all or in part the actual identity of the individual issued the license or permit, (ii) in the case of information concerning an address, is information concerning a non-existent address that is used to obtain the license or permit, or (iii) is any combination of items (i) and (ii) of this subparagraph (A). (B) Any photograph that falsifies all or in part the actual identity of the individual issued the license or permit. 3. \"An unlawfully altered driver's license or permit\" means any issued license or permit for which a computerized number and file have been created by the Secretary of State or other official driver's license agency in another jurisdiction which has been physically altered or changed in such a manner that false information appears upon the license or permit. 4. \"A document capable of defrauding another\" includes, but is not limited to, any document by which any right, obligation, or power with reference to any person or property may be created, transferred, altered, or terminated. 5. \"An identification document\" means any document made or issued by or under the authority of the United States Government, the State of Illinois, or any other state or political subdivision thereof, or any other governmental or quasi-governmental organization which, when completed with information concerning the individual, is of a type intended or commonly accepted for the purpose of identification of an individual. 6. \"Common carrier\" means any public or private provider of transportation, whether by land, air, or water. (b) It is a violation of this Section for any person:"
+    },
+    {
+      "type": "paragraph",
+      "text": "1. To knowingly possess any fictitious or unlawfully altered driver's license or permit; 2. To knowingly possess, display, or cause to be displayed any fictitious or unlawfully altered driver's license or permit for the purpose of obtaining any account, credit, credit card, or debit card from a bank, financial institution, or retail mercantile establishment; 3. To knowingly possess any fictitious or unlawfully altered driver's license or permit with the intent to commit a theft, deception, or credit or debit card fraud in violation of any law of this State or any law of any other jurisdiction; 4. To knowingly possess any fictitious or unlawfully altered driver's license or permit with the intent to commit any other violation of any law of this State or any law of any other jurisdiction for which a sentence to a term of imprisonment in a penitentiary for one year or more is provided; 5. To knowingly possess any fictitious or unlawfully altered driver's license or permit while in possession without authority of any document, instrument, or device capable of defrauding another; 6. To knowingly possess any fictitious or unlawfully altered driver's license or permit with the intent to use the license or permit to acquire any other identification document; 7. To knowingly issue or assist in the issuance of any fictitious driver's license or permit; 8. To knowingly alter or attempt to alter any driver's license or permit; 9. To knowingly manufacture, possess, transfer, or provide any identification document whether real or fictitious for the purpose of obtaining a fictitious driver's license or permit; 10. To knowingly use any fictitious or unlawfully altered driver's license or permit to purchase or attempt to purchase any ticket for a common carrier or to board or attempt to board any common carrier; 11. To knowingly possess any fictitious or unlawfully altered driver's license or permit if the person has at the time a different driver's license issued by the Illinois Secretary of State or other official driver's license agency in another jurisdiction that is suspended or revoked. (c) Sentence."
+    },
+    {
+      "type": "paragraph",
+      "text": "1. Any person convicted of a violation of paragraph 1 of subsection (b) of this Section shall be guilty of a Class A misdemeanor and shall be sentenced to minimum fine of $500 or 50 hours of community service, preferably at an alcohol abuse prevention program, if available. A person convicted of a second or subsequent violation shall be guilty of a Class 4 felony. 2. Any person convicted of a violation of paragraph 3 of subsection (b) of this Section who at the time of arrest had in his possession two or more fictitious or unlawfully altered driver's licenses or permits shall be guilty of a Class 4 felony. 3. Any person convicted of a violation of any of paragraphs 2 through 11 of subsection (b) of this Section shall be guilty of a Class 4 felony. A person convicted of a second or subsequent violation shall be guilty of a Class 3 felony. (d) This Section does not prohibit any lawfully authorized investigative, protective, law enforcement, or other activity of any agency of the United States, State of Illinois, or any other state or political subdivision thereof."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 96-1120, eff. 1-1-11.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 96-1120, eff. 1-1-11.)",
+  "publicActs": [
+    {
+      "publicAct": "96-1120",
+      "effectiveDate": "1-1-11"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "1b2cc1d2f3878354090bcf9b18f0fc0443a927f554cbe0de791cf29ba085cf2a",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0139",
+    "offense-0140"
+  ]
+}

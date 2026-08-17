@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-12-804",
+  "citation": "625 ILCS 5/12-804",
+  "docName": "062500050K12-804",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K12-804",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:19:13.365Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/12-804",
+  "headingText": "Sec. 12-804. Other vehicles - Color, stop signal arm and identification. No vehicle other than a school bus shall be identified with the sign \"SCHOOL BUS\", shall be equipped with a stop signal arm, shall be equipped with a strobe lamp or shall be equipped with a warning lamp system as described in Section 12-805 of this Act. No commuter van or bus other than a school bus shall be painted national school bus glossy yellow or a color that closely resembles national school bus glossy yellow.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/12-804) (from Ch. 95 1/2, par. 12-804)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 12-804. Other vehicles - Color, stop signal arm and identification. No vehicle other than a school bus shall be identified with the sign \"SCHOOL BUS\", shall be equipped with a stop signal arm, shall be equipped with a strobe lamp or shall be equipped with a warning lamp system as described in Section 12-805 of this Act. No commuter van or bus other than a school bus shall be painted national school bus glossy yellow or a color that closely resembles national school bus glossy yellow."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 81-509; 81-740; 81-1509.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 81-509; 81-740; 81-1509.)",
+  "publicActs": [
+    {
+      "publicAct": "81-509",
+      "effectiveDate": null
+    },
+    {
+      "publicAct": "81-740",
+      "effectiveDate": null
+    },
+    {
+      "publicAct": "81-1509",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "b5db2f5c8f61e5eaad70d052a2955bb73d6674277f5dd3c4d521619ba140d6f3",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0418"
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-308",
+  "citation": "625 ILCS 5/11-308",
+  "docName": "062500050K11-308",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-308",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:16:31.186Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-308",
+  "headingText": "Sec. 11-308. Lane-control signals. Whenever lane-control signals are used in conjunction with official signs, they shall have the following meanings:",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-308) (from Ch. 95 1/2, par. 11-308)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-308. Lane-control signals. Whenever lane-control signals are used in conjunction with official signs, they shall have the following meanings:"
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) Downward-pointing green arrow. A driver facing this indication is permitted to drive in the lane over which the arrow signal is located. Otherwise he shall obey all other traffic controls present and follow normal safe driving practices."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Red X symbol. A driver facing this indication shall not drive in the lane over which the signal is located, and this indication shall modify accordingly the meaning of all other traffic controls present. Otherwise he shall obey all other traffic controls and follow normal safe driving practices."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Yellow X (steady). A driver facing this indication should prepare to vacate the lane over which the signal is located, in a safe manner to avoid, if possible, occupying that lane when a steady red X is displayed."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) Flashing yellow arrow. A driver facing this indication may use the lane only for the purpose of approaching and making a left turn."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 81-552.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 81-552.)",
+  "publicActs": [
+    {
+      "publicAct": "81-552",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "64efe685707a19c0070e3fa73bafd4cd1d91864941660d9fbfde9fb30c3fdab3",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0185"
+  ]
+}

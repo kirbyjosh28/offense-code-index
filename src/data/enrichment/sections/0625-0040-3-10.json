@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0040-3-10",
+  "citation": "625 ILCS 40/3-10",
+  "docName": "062500400K3-10",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500400K3-10",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:22:27.082Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 40/3-10",
+  "headingText": "Sec. 3-10. Penalty.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 40/3-10) (from Ch. 95 1/2, par. 603-10)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 3-10. Penalty."
+    },
+    {
+      "type": "paragraph",
+      "text": "No person shall at any time falsely alter or change in any manner the certificate of number issued under the provisions hereof, or falsify any record required by this Act, or counterfeit any form of license provided for by this Act."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 77-1312.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 77-1312.)",
+  "publicActs": [
+    {
+      "publicAct": "77-1312",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "668aa2a0c0e7e9c6c3d3a700e9a55249afed0e56f1c09919b66e664ff6bdb1d1",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0484"
+  ]
+}

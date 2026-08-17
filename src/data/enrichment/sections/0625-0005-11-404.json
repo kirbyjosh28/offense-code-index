@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-404",
+  "citation": "625 ILCS 5/11-404",
+  "docName": "062500050K11-404",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-404",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:16:44.698Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-404",
+  "headingText": "Sec. 11-404. Duty upon damaging unattended vehicle or other property.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-404) (from Ch. 95 1/2, par. 11-404)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-404. Duty upon damaging unattended vehicle or other property."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) The driver of any vehicle which collides with or is involved in a motor vehicle crash with any vehicle which is unattended, or other property, resulting in any damage to such other vehicle or property shall immediately stop and shall then and there either locate and notify the operator or owner of such vehicle or other property of the driver's name, address, registration number and owner of the vehicle the driver was operating or shall attach securely in a conspicuous place on or in the vehicle or other property struck a written notice giving the driver's name, address, registration number and owner of the vehicle the driver was driving and shall without unnecessary delay notify the nearest office of a duly authorized police authority and shall make a written report of such crash when and as required in Section 11-407. Every such stop shall be made without obstructing traffic more than is necessary. If a damaged vehicle is obstructing traffic lanes, the driver of the vehicle must make every reasonable effort to move the vehicle or have it moved so as not to block the traffic lanes."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Any person failing to comply with this Section shall be guilty of a Class A misdemeanor."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) If any peace officer or highway authority official finds (i) a vehicle standing upon a highway or toll highway in violation of a prohibition, limitation, or restriction on stopping, standing, or parking imposed under this Code or (ii) a disabled vehicle that obstructs the roadway of a highway or toll highway, the peace officer or highway authority official is authorized to move the vehicle or to require the operator of the vehicle to move the vehicle to the shoulder of the road, to a position where parking is permitted, or to public parking or storage premises. The removal may be performed by, or under the direction of, the peace officer or highway authority official or may be contracted for by local authorities. After the vehicle has been removed, the peace officer or highway authority official shall follow appropriate procedures, as provided in Section 4-203 of this Code."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) A towing service, its officers, and its employees are not liable for loss of or damages to any real or personal property that occurs as the result of the removal or towing of any vehicle under subsection (c), as provided in subsection (b) of Section 4-213."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 102-982, eff. 7-1-23; 103-1047, eff. 1-1-25.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 102-982, eff. 7-1-23; 103-1047, eff. 1-1-25.)",
+  "publicActs": [
+    {
+      "publicAct": "102-982",
+      "effectiveDate": "7-1-23"
+    },
+    {
+      "publicAct": "103-1047",
+      "effectiveDate": "1-1-25"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "522e43f9f33a5bd02fbe6ef4331ed24a6d438cdf1dc28c2be128b477126b12aa",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0195"
+  ]
+}

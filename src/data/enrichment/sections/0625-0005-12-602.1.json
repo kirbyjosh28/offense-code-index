@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-12-602.1",
+  "citation": "625 ILCS 5/12-602.1",
+  "docName": "062500050K12-602.1",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K12-602.1",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:18:28.620Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/12-602.1",
+  "headingText": "Sec. 12-602.1. Excessive engine braking noise signs.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/12-602.1)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 12-602.1. Excessive engine braking noise signs."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A county or municipality may post signs that prohibit the driver of a commercial vehicle, as defined in Section 1-111.8 of this Code, from operating or actuating any engine braking system that emits excessive noise. The Department of Transportation may erect and maintain the signs on interstate highways near weigh stations that are adjacent to residential areas or communities."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) The sign shall state, \"EXCESSIVE ENGINE BRAKING NOISE PROHIBITED\". The Department of Transportation shall adopt rules providing for the erection and placement of these signs."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) This Section does not apply to the use of an engine braking system that has an adequate sound muffling system in proper working order that prevents excessive noise."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) It is a defense to this Section that the driver used an engine braking system that emits excessive noise in an emergency to avoid a collision with a person or another vehicle on the highway."
+    },
+    {
+      "type": "subsection",
+      "label": "(e)",
+      "text": "(e) A violation of this Section is an equipment violation punishable by a fine of $75."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 96-523, eff. 1-1-10.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 96-523, eff. 1-1-10.)",
+  "publicActs": [
+    {
+      "publicAct": "96-523",
+      "effectiveDate": "1-1-10"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "c95752eda77a52ae222adbebe21b5a96dadd75e2d3bf2125f47d77258984246a",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0383"
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-9-2.1",
+  "citation": "720 ILCS 5/9-2.1",
+  "docName": "072000050K9-2.1",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K9-2.1",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:30:41.127Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/9-2.1",
+  "headingText": "Sec. 9-2.1. Voluntary manslaughter of an unborn child.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/9-2.1) (from Ch. 38, par. 9-2.1)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 9-2.1. Voluntary manslaughter of an unborn child."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person who kills an unborn child without lawful justification commits voluntary manslaughter of an unborn child if at the time of the killing he is acting under a sudden and intense passion resulting from serious provocation by another whom the offender endeavors to kill, but he negligently or accidentally causes the death of the unborn child."
+    },
+    {
+      "type": "paragraph",
+      "text": "Serious provocation is conduct sufficient to excite an intense passion in a reasonable person."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) A person who intentionally or knowingly kills an unborn child commits voluntary manslaughter of an unborn child if at the time of the killing he believes the circumstances to be such that, if they existed, would justify or exonerate the killing under the principles stated in Article 7 of this Code, but his belief is unreasonable."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Sentence. Voluntary manslaughter of an unborn child is a Class 1 felony."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) For purposes of this Section, (1) \"unborn child\" shall mean any individual of the human species from the implantation of an embryo until birth, and (2) \"person\" shall not include the pregnant individual whose unborn child is killed."
+    },
+    {
+      "type": "subsection",
+      "label": "(e)",
+      "text": "(e) This Section shall not apply to acts which cause the death of an unborn child if those acts were committed during any abortion, as defined in Section 1-10 of the Reproductive Health Act, to which the pregnant individual has consented. This Section shall not apply to acts which were committed pursuant to usual and customary standards of medical practice during diagnostic testing or therapeutic treatment."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 101-13, eff. 6-12-19.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 101-13, eff. 6-12-19.)",
+  "publicActs": [
+    {
+      "publicAct": "101-13",
+      "effectiveDate": "6-12-19"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "d2626d5a55b9169558941f29b625b0381f4dbccac0e99929d205b4a8b44c8fe2",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0553"
+  ]
+}

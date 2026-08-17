@@ -1,0 +1,83 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0035-0135-30",
+  "citation": "35 ILCS 135/30",
+  "docName": "003501350K30",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=003501350K30",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:14:08.520Z",
+  "transport": "cache",
+  "canonicalCitation": "35 ILCS 135/30",
+  "headingText": "Sec. 30. Punishment for sale or possession of unstamped packages of cigarettes, other than by a licensed distributor or transporter.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(35 ILCS 135/30) (from Ch. 120, par. 453.60)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 30. Punishment for sale or possession of unstamped packages of cigarettes, other than by a licensed distributor or transporter."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) Possession or sale of more than 9 but less than 101 unstamped packages of cigarettes. With the exception of licensed distributors, licensed secondary distributors, or licensed transporters, as defined in Section 9c of the Cigarette Tax Act, any person who has in his or her possession or sells more than 9 but less than 101 original packages of contraband cigarettes is guilty of a Class A misdemeanor and a Class 4 felony for each subsequent offense occurring within 12 months of a prior offense."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Possession or sale of more than 100 but less than 251 unstamped packages of cigarettes. With the exception of licensed distributors, licensed secondary distributors, or licensed transporters, as defined in Section 9c of the Cigarette Tax Act, any person who has in his or her possession or sells more than 100 but less than 251 original packages of contraband cigarettes is guilty of a Class A misdemeanor for the first offense and a Class 4 felony for each subsequent offense."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Possession or sale of more than 250 but less than 1,001 unstamped packages of cigarettes. With the exception of licensed distributors, licensed secondary distributors, or licensed transporters, as defined in Section 9c of the Cigarette Tax Act, any person who has in his or her possession or sells more than 250 but less than 1,001 original packages of contraband cigarettes is guilty of a Class 4 felony."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) Possession or sale of more than 1,000 contraband packages of cigarettes. With the exception of licensed distributors, licensed secondary distributors, or licensed transporters, as defined in Section 9c of the Cigarette Tax Act, any person who has in his or her possession or sells, more than 1,000 original packages of contraband cigarettes is guilty of a Class 3 felony."
+    },
+    {
+      "type": "subsection",
+      "label": "(e)",
+      "text": "(e) Any person licensed as a distributor, secondary distributor, or transporter, as defined in Section 9c of the Cigarette Tax Act, who has in his or her possession or sells 100 or less original packages of contraband cigarettes is guilty of a Class A misdemeanor and a Class 4 felony for each subsequent offense occurring within 12 months of a prior offense."
+    },
+    {
+      "type": "subsection",
+      "label": "(f)",
+      "text": "(f) Any person licensed as a distributor, secondary distributor, or transporter, as defined in Section 9c of the Cigarette Tax Act, who has in his or her possession or sells more than 100 original packages of contraband cigarettes is guilty of a Class 4 felony."
+    },
+    {
+      "type": "subsection",
+      "label": "(g)",
+      "text": "(g) Notwithstanding subsections (e) through (f), licensed distributors and transporters, as defined in Section 9c of the Cigarette Tax Act, may possess unstamped packages of cigarettes. Notwithstanding subsections (e) through (f), licensed distributors may possess cigarettes that bear a tax stamp of another state or taxing jurisdiction. Notwithstanding subsections (e) through (f), a licensed distributor or licensed secondary distributor may possess contraband cigarettes returned to the distributor or licensed secondary distributor by a retailer if the distributor or licensed secondary distributor immediately conducts an inventory of the cigarettes being returned, the distributor or licensed secondary distributor and the retailer returning the contraband cigarettes sign the inventory, the distributor or licensed secondary distributor provides a copy of the signed inventory to the retailer, and the distributor or licensed secondary distributor retains the inventory in its books and records and promptly notifies the Department of Revenue."
+    },
+    {
+      "type": "subsection",
+      "label": "(h)",
+      "text": "(h) Notwithstanding subsections (a) through (d) of this Section, a retailer unknowingly possessing contraband cigarettes obtained from a licensed distributor or licensed secondary distributor or knowingly possessing contraband cigarettes obtained from a licensed distributor or licensed secondary distributor is not subject to penalties under this Section if the retailer, within 48 hours after discovering that the cigarettes are contraband cigarettes, excluding Saturdays, Sundays, and holidays: (i) notifies the Department and the licensed distributor or licensed secondary distributor from whom the cigarettes were obtained, orally and in writing, that he or she possesses contraband cigarettes obtained from a licensed distributor or licensed secondary distributor; (ii) places the contraband cigarettes in one or more containers and seals those containers; and (iii) places on the containers the following or similar language: \"Contraband Cigarettes. Not For Sale.\" All contraband cigarettes in the possession of a retailer remain subject to forfeiture under the provisions of this Act."
+    },
+    {
+      "type": "paragraph",
+      "text": "Any retailer who knowingly possesses packages of cigarettes with a counterfeit stamp with intent to sell is guilty of a Class 2 felony. Any retailer who knowingly possesses unstamped packages of cigarettes with intent to sell is guilty of a Class 4 felony. A retailer shall not be liable for unknowingly possessing, selling, or distributing to consumers cigarettes that contain an old stamp if the correct tax was collected at the point of sale and the cigarettes were obtained from a distributor licensed under this Act."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 98-1055, eff. 1-1-16.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 98-1055, eff. 1-1-16.)",
+  "publicActs": [
+    {
+      "publicAct": "98-1055",
+      "effectiveDate": "1-1-16"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "4c460a55e00782867f2a9103fd9c4d76bc49ae8e4101b8c1f9c6fa92489c93a4",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0520"
+  ]
+}

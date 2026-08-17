@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-12C-10",
+  "citation": "720 ILCS 5/12C-10",
+  "docName": "072000050K12C-10",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K12C-10",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:25:09.277Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/12C-10",
+  "headingText": "Sec. 12C-10. Child abandonment.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/12C-10) (was 720 ILCS 5/12-21.5)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 12C-10. Child abandonment."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits child abandonment when he or she, as a parent, guardian, or other person having physical custody or control of a child, without regard for the mental or physical health, safety, or welfare of that child, knowingly permits a child to engage in independent activities that were unreasonable under the circumstances or for an unreasonable period of time without regard for the minor's mental or physical health, safety, or well-being. For the purposes of this Section, no specific age shall be determinative of reasonableness. Reasonableness shall be determined by the maturity of each individual child. It is not a violation of this Section for a person to relinquish a child in accordance with the Abandoned Newborn Infant Protection Act."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) For the purposes of determining whether the child was left without regard for the mental or physical health, safety, or welfare of that child, the trier of fact shall consider the following factors:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) the age of the child;"
+    },
+    {
+      "type": "subsection",
+      "label": "(2)",
+      "text": "(2) the number of children left at the location;"
+    },
+    {
+      "type": "subsection",
+      "label": "(3)",
+      "text": "(3) special needs of the child, including whether the child is a person with a physical or mental disability, or otherwise in need of ongoing prescribed medical treatment such as periodic doses of insulin or other medications; (4) the duration of time in which the child was left without supervision; (5) the condition and location of the place where the child was left without supervision; (6) the time of day or night when the child was left without supervision; (7) the weather conditions, including whether the child was left in a location with adequate protection from the natural elements such as adequate heat or light; (8) the location of the parent, guardian, or other person having physical custody or control of the child at the time the child was left without supervision, the physical distance the child was from the parent, guardian, or other person having physical custody or control of the child at the time the child was without supervision; (9) whether the child's movement was restricted, or the child was otherwise locked within a room or other structure; (10) whether the child was given a phone number of a person or location to call in the event of an emergency and whether the child was capable of making an emergency call; (11) whether there was food and other provision left for the child; (12) whether any of the conduct is attributable to economic hardship or illness and the parent, guardian or other person having physical custody or control of the child made a good faith effort to provide for the health and safety of the child; (13) the age and physical and mental capabilities of the person or persons who provided supervision for the child; (14) any other factor that would endanger the health or safety of that particular child; (15) whether the child was left under the supervision of another person. (c) Child abandonment is a Class 4 felony. A second or subsequent offense after a prior conviction is a Class 3 felony. A parent, who is found to be in violation of this Section with respect to his or her child, may be sentenced to probation for this offense pursuant to Section 12C-15."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 103-233, eff. 6-30-23.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 103-233, eff. 6-30-23.)",
+  "publicActs": [
+    {
+      "publicAct": "103-233",
+      "effectiveDate": "6-30-23"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "f546b5793922f087b27b83a467cf7f423e99988d7f97c8c348350bcb29cf5494",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0655"
+  ]
+}

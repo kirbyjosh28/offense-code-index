@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0550-5",
+  "citation": "720 ILCS 550/5",
+  "docName": "072005500K5",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072005500K5",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:30:51.629Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 550/5",
+  "headingText": "Sec. 5. Except as otherwise provided in the Cannabis Regulation and Tax Act, the Industrial Hemp Act, and the Illinois Hemp Act, it is unlawful for any person knowingly to manufacture, deliver, or possess with intent to deliver, or manufacture, cannabis. Any person who violates this Section with respect to:",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 550/5) (from Ch. 56 1/2, par. 705)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 5. Except as otherwise provided in the Cannabis Regulation and Tax Act, the Industrial Hemp Act, and the Illinois Hemp Act, it is unlawful for any person knowingly to manufacture, deliver, or possess with intent to deliver, or manufacture, cannabis. Any person who violates this Section with respect to:"
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) not more than 2.5 grams of any substance containing cannabis is guilty of a Class B misdemeanor; (b) more than 2.5 grams but not more than 10 grams of any substance containing cannabis is guilty of a Class A misdemeanor; (c) more than 10 grams but not more than 60 grams of any substance containing cannabis is guilty of a Class 4 felony; (d) more than 60 grams but not more than 500 grams of any substance containing cannabis is guilty of a Class 3 felony for which a fine not to exceed $50,000 may be imposed; (e) more than 500 grams but not more than 2,000 grams of any substance containing cannabis is guilty of a Class 2 felony for which a fine not to exceed $100,000 may be imposed; (f) more than 2,000 grams but not more than 5,000 grams of any substance containing cannabis is guilty of a Class 1 felony for which a fine not to exceed $150,000 may be imposed; (g) more than 5,000 grams of any substance containing cannabis is guilty of a Class X felony for which a fine not to exceed $200,000 may be imposed.(Source: P.A. 104-463, eff. 6-12-26.)"
+    }
+  ],
+  "sourceLine": null,
+  "publicActs": [],
+  "repealed": false,
+  "bodyHash": "61569321850ab5d97fc55c5154bc9b9267fe466e6afe61f3614e2bdd609e82c7",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0917",
+    "offense-0918",
+    "offense-0919",
+    "offense-0920",
+    "offense-0921"
+  ]
+}

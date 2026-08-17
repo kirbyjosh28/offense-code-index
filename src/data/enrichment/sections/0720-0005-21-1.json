@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-21-1",
+  "citation": "720 ILCS 5/21-1",
+  "docName": "072000050K21-1",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K21-1",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:27:16.904Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/21-1",
+  "headingText": "Sec. 21-1. Criminal damage to property.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/21-1) (from Ch. 38, par. 21-1)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 21-1. Criminal damage to property."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits criminal damage to property when he or she:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) knowingly damages any property of another;"
+    },
+    {
+      "type": "subsection",
+      "label": "(2)",
+      "text": "(2) recklessly by means of fire or explosive damages property of another; (3) knowingly starts a fire on the land of another;"
+    },
+    {
+      "type": "subsection",
+      "label": "(4)",
+      "text": "(4) knowingly injures a domestic animal of another without his or her consent; (5) knowingly deposits on the land or in the building of another any stink bomb or any offensive smelling compound and thereby intends to interfere with the use by another of the land or building; (6) knowingly damages any property, other than as described in paragraph (2) of subsection (a) of Section 20-1, with intent to defraud an insurer; (7) knowingly shoots a firearm at any portion of a railroad train; (8) knowingly, without proper authorization, cuts, injures, damages, defaces, destroys, or tampers with any fire hydrant or any public or private fire fighting equipment, or any apparatus appertaining to fire fighting equipment; or (9) intentionally, without proper authorization, opens any fire hydrant. (b) When the charge of criminal damage to property exceeding a specified value is brought, the extent of the damage is an element of the offense to be resolved by the trier of fact as either exceeding or not exceeding the specified value."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) It is an affirmative defense to a violation of paragraph (1), (3), or (5) of subsection (a) of this Section that the owner of the property or land damaged consented to the damage."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) Sentence."
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) A violation of subsection (a) shall have the following penalties: (A) A violation of paragraph (8) or (9) is a Class B misdemeanor. (B) A violation of paragraph (1), (2), (3), (5), or (6) is a Class A misdemeanor when the damage to property does not exceed $500. (C) A violation of paragraph (1), (2), (3), (5), or (6) is a Class 4 felony when the damage to property does not exceed $500 and the damage occurs to property of a school or place of worship or to farm equipment or immovable items of agricultural production, including but not limited to grain elevators, grain bins, and barns or property which memorializes or honors an individual or group of police officers, fire fighters, members of the United States Armed Forces, National Guard, or veterans. (D) A violation of paragraph (4) is a Class 4 felony when the damage to property does not exceed $10,000. (E) A violation of paragraph (7) is a Class 4 felony. (F) A violation of paragraph (1), (2), (3), (5) or (6) is a Class 4 felony when the damage to property exceeds $500 but does not exceed $10,000. (G) A violation of paragraphs (1) through (6) is a Class 3 felony when the damage to property exceeds $500 but does not exceed $10,000 and the damage occurs to property of a school or place of worship or to farm equipment or immovable items of agricultural production, including but not limited to grain elevators, grain bins, and barns or property which memorializes or honors an individual or group of police officers, fire fighters, members of the United States Armed Forces, National Guard, or veterans. (H) A violation of paragraphs (1) through (6) is a Class 3 felony when the damage to property exceeds $10,000 but does not exceed $100,000. (I) A violation of paragraphs (1) through (6) is a Class 2 felony when the damage to property exceeds $10,000 but does not exceed $100,000 and the damage occurs to property of a school or place of worship or to farm equipment or immovable items of agricultural production, including but not limited to grain elevators, grain bins, and barns or property which memorializes or honors an individual or group of police officers, fire fighters, members of the United States Armed Forces, National Guard, or veterans. (J) A violation of paragraphs (1) through (6) is a Class 2 felony when the damage to property exceeds $100,000. A violation of paragraphs (1) through (6) is a Class 1 felony when the damage to property exceeds $100,000 and the damage occurs to property of a school or place of worship or to farm equipment or immovable items of agricultural production, including but not limited to grain elevators, grain bins, and barns or property which memorializes or honors an individual or group of police officers, fire fighters, members of the United States Armed Forces, National Guard, or veterans. (2) When the damage to property exceeds $10,000, the court shall impose upon the offender a fine equal to the value of the damages to the property. (3) In addition to any other sentence that may be imposed, a court shall order any person convicted of criminal damage to property to perform community service for not less than 30 and not more than 120 hours, if community service is available in the jurisdiction and is funded and approved by the county board of the county where the offense was committed. In addition, whenever any person is placed on supervision for an alleged offense under this Section, the supervision shall be conditioned upon the performance of the community service. The community service requirement does not apply when the court imposes a sentence of incarceration. (4) In addition to any criminal penalties imposed for a violation of this Section, if a person is convicted of or placed on supervision for knowingly damaging or destroying crops of another, including crops intended for personal, commercial, research, or developmental purposes, the person is liable in a civil action to the owner of any crops damaged or destroyed for money damages up to twice the market value of the crops damaged or destroyed. (5) For the purposes of this subsection (d), \"farm equipment\" means machinery or other equipment used in farming. (Source: P.A. 98-315, eff. 1-1-14; 99-631, eff. 1-1-17.)"
+    }
+  ],
+  "sourceLine": null,
+  "publicActs": [],
+  "repealed": false,
+  "bodyHash": "eb359377b645efc828347da301e1597879efcda46c9a24a5c1acde94bef1d4a0",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0760",
+    "offense-0761"
+  ]
+}

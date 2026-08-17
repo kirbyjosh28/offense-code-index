@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-12-20.6",
+  "citation": "720 ILCS 5/12-20.6",
+  "docName": "072000050K12-20.6",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K12-20.6",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:24:16.713Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/12-20.6",
+  "headingText": "Sec. 12-20.6. Abuse of a corpse.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/12-20.6)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 12-20.6. Abuse of a corpse."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) In this Section:"
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Corpse\" means the dead body of a human being."
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Sexual conduct\" has the meaning ascribed to the term in Section 11-0.1 of this Code."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) A person commits abuse of a corpse if he or she intentionally:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) engages in sexual conduct with a corpse or involving a corpse; or (2) removes or carries away a corpse and is not authorized by law to do so. (c) Sentence."
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) A person convicted of violating paragraph (1) of subsection (b) of this Section is guilty of a Class 2 felony. (2) A person convicted of violating paragraph (2) of subsection (b) of this Section is guilty of a Class 4 felony. (d) Paragraph (2) of subsection (b) of this Section does not apply to:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) persons employed by a county medical examiner's office or coroner's office acting within the scope of their employment; (2) the acts of a licensed funeral director or embalmer while performing acts authorized by the Funeral Directors and Embalmers Licensing Code; (3) cemeteries and cemetery personnel while performing acts pursuant to a bona fide request from the involved cemetery consumer or his or her heirs, or pursuant to an interment or disinterment permit or a court order, or as authorized under Section 14.5 of the Cemetery Protection Act, or any other actions legally authorized for cemetery employees; (4) the acts of emergency medical personnel or physicians performed in good faith and according to the usual and customary standards of medical practice in an attempt to resuscitate a life; (5) physicians licensed to practice medicine in all of its branches or holding a visiting professor, physician, or resident permit under the Medical Practice Act of 1987, performing acts in accordance with usual and customary standards of medical practice, or a currently enrolled student in an accredited medical school in furtherance of his or her education at the accredited medical school; or (6) removing or carrying away a corpse by the employees, independent contractors, or other persons designated by the federally designated organ procurement agency engaged in the organ and tissue procurement process. (Source: P.A. 97-1072, eff. 8-24-12.)"
+    }
+  ],
+  "sourceLine": null,
+  "publicActs": [],
+  "repealed": false,
+  "bodyHash": "e8d2f7e0acce7841b16e5a8d42de869dd1c51965f34275ec5c725879272579c0",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0647"
+  ]
+}

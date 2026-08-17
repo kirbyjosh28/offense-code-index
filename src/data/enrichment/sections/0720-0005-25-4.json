@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-25-4",
+  "citation": "720 ILCS 5/25-4",
+  "docName": "072000050K25-4",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K25-4",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:28:21.475Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/25-4",
+  "headingText": "Sec. 25-4. Looting by individuals.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/25-4)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 25-4. Looting by individuals."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits looting when he or she knowingly without authority of law or the owner enters any home or dwelling or upon any premises of another, or enters any commercial, mercantile, business, or industrial building, plant, or establishment, in which normal security of property is not present by virtue of a hurricane, fire, or vis major of any kind or by virtue of a riot, mob, or other human agency, and obtains or exerts control over property of the owner."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Sentence. Looting is a Class 4 felony. In addition to any other penalty imposed, the court shall impose a sentence of at least 100 hours of community service as determined by the court and shall require the defendant to make restitution to the owner of the property looted pursuant to Section 5-5-6 of the Unified Code of Corrections."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 96-710, eff. 1-1-10; 97-1108, eff. 1-1-13.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 96-710, eff. 1-1-10; 97-1108, eff. 1-1-13.)",
+  "publicActs": [
+    {
+      "publicAct": "96-710",
+      "effectiveDate": "1-1-10"
+    },
+    {
+      "publicAct": "97-1108",
+      "effectiveDate": "1-1-13"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "339cbf69be3994bb84e61d8eac6141040d87dfbb8fe1ba46039a3168dc1724c5",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0804"
+  ]
+}

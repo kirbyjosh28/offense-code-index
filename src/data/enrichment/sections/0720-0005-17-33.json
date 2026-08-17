@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-17-33",
+  "citation": "720 ILCS 5/17-33",
+  "docName": "072000050K17-33",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K17-33",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:26:18.356Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/17-33",
+  "headingText": "Sec. 17-33. Possession of lost or mislaid credit or debit card. A person who receives a credit card or debit card that he or she knows to have been lost or mislaid and who retains possession with intent to use it or to sell it or to transfer it to a person other than the issuer or the cardholder is guilty of a Class 4 felony.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/17-33)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 17-33. Possession of lost or mislaid credit or debit card. A person who receives a credit card or debit card that he or she knows to have been lost or mislaid and who retains possession with intent to use it or to sell it or to transfer it to a person other than the issuer or the cardholder is guilty of a Class 4 felony."
+    },
+    {
+      "type": "paragraph",
+      "text": "A person who, in a single transaction, violates this Section with respect to 3 or more credit cards or debit cards each issued to different cardholders other than himself or herself is guilty of a Class 3 felony."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 96-1551, eff. 7-1-11.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 96-1551, eff. 7-1-11.)",
+  "publicActs": [
+    {
+      "publicAct": "96-1551",
+      "effectiveDate": "7-1-11"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "725e02148c389e2443ce52c032a907ec3ff6dbec10e17fb08c59d3ef248650b3",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0730"
+  ]
+}

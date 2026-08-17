@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-17-35",
+  "citation": "720 ILCS 5/17-35",
+  "docName": "072000050K17-35",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K17-35",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:26:21.348Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/17-35",
+  "headingText": "Sec. 17-35. Use of credit or debit card as security for debt. A person who, with intent to defraud either the issuer, or a person providing an item or items of value, or any other person, obtains control over a credit card or debit card as security for debt or transfers, conveys, or gives control over a credit card or debit card as security for debt is guilty of a Class 4 felony.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/17-35)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 17-35. Use of credit or debit card as security for debt. A person who, with intent to defraud either the issuer, or a person providing an item or items of value, or any other person, obtains control over a credit card or debit card as security for debt or transfers, conveys, or gives control over a credit card or debit card as security for debt is guilty of a Class 4 felony."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 96-1551, eff. 7-1-11.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 96-1551, eff. 7-1-11.)",
+  "publicActs": [
+    {
+      "publicAct": "96-1551",
+      "effectiveDate": "7-1-11"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "787a3b2cbcaa95e945d4aff9ee1b61d0588dc70347f59891b7a7529393fb24cc",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0732"
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-1406",
+  "citation": "625 ILCS 5/11-1406",
+  "docName": "062500050K11-1406",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-1406",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:15:26.882Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-1406",
+  "headingText": "Sec. 11-1406. Obstruction of driver's view or driving mechanism. (a) No person shall drive a vehicle when it is so loaded, or when there are in the front seat such a number of persons, exceeding three, as to obstruct the view of the driver to the front or sides of the vehicle or as to interfere with the driver's control over the driving mechanism of the vehicle.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-1406) (from Ch. 95 1/2, par. 11-1406)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-1406. Obstruction of driver's view or driving mechanism. (a) No person shall drive a vehicle when it is so loaded, or when there are in the front seat such a number of persons, exceeding three, as to obstruct the view of the driver to the front or sides of the vehicle or as to interfere with the driver's control over the driving mechanism of the vehicle."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) No passenger in a vehicle or streetcar shall ride in such position as to interfere with the driver's or motorman's view ahead or to the sides, or to interfere with his control over the driving mechanism of the vehicle or streetcar."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) No passenger on a school bus may ride or stand in a position as to interfere with the driver's view ahead or to the side or to the rear, or to interfere with his control of the driving mechanism of the bus."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 79-1069.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 79-1069.)",
+  "publicActs": [
+    {
+      "publicAct": "79-1069",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "9e8d3150cb10c502c53c4037cf70b11cd394d4e7e5ffd2a295a7821a669631fb",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0294"
+  ]
+}

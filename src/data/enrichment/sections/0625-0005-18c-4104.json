@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-18c-4104",
+  "citation": "625 ILCS 5/18c-4104",
+  "docName": "062500050K18c-4104",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K18c-4104",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:19:55.422Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/18c-4104",
+  "headingText": "Sec. 18c-4104. Unlawful Operations.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/18c-4104) (from Ch. 95 1/2, par. 18c-4104)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 18c-4104. Unlawful Operations."
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) Prohibition. Except as provided in Article I of this Sub-chapter, and subject to the provisions stated herein, it shall be unlawful for any person to:"
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) Operate as an intrastate motor carrier of property without a license from the Commission; or as an interstate motor carrier of property without a registration from the Commission. (b) Operate as an intrastate household goods carrier in excess of the scope of a license issued to it by the Commission in regard to any of the following: 1. hauling unauthorized commodities;"
+    },
+    {
+      "type": "paragraph",
+      "text": "2. operating outside authorized territory; or"
+    },
+    {
+      "type": "paragraph",
+      "text": "3. violating other restrictions."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Operate, as an intrastate motor carrier of property, any motor vehicle which does not carry a copy of a valid, current license issued by the Commission to such carrier; or operate, as an interstate motor carrier of property, any motor vehicle which does not carry a copy of a valid, current registration issued by the Commission to such carrier; or fail to produce such copy on request; provided that an authorized interstate motor carrier of property shall be exempted from the requirement that a copy of its registration be carried in each motor vehicle. (d) Operate, as an intrastate household goods carrier, any motor vehicle not owned by the carrier, or operate as an intrastate public carrier, any motor vehicle not owned by the carrier or another intrastate public carrier, for which a valid lease is not on file in compliance with Section 18c-4103 of this Chapter, Commission regulations and orders. (e) Operate, as an intrastate household goods carrier, any motor vehicle not owned by the carrier, or operate as an intrastate public carrier, any motor vehicle not owned by the carrier or another intrastate public carrier, which does not carry an executed copy of the lease required in paragraph (d) of this subsection; or fail to produce such copy on request. (f) Operate, as an intrastate motor carrier of property, any motor vehicle for which the carrier has not executed a prescribed intrastate cab card, with current Illinois intrastate identifier printed thereon; or, as an interstate motor carrier of property, any motor vehicle for which the carrier has not executed a prescribed interstate cab card, with current Illinois interstate identifier affixed or printed thereon. (g) Operate, as an intrastate motor carrier of property, any motor vehicle which does not carry the properly executed intrastate cab card, with current Illinois intrastate identifier printed thereon; or, as an interstate motor carrier of property, any motor vehicle which does not carry the properly executed interstate cab card, with current Illinois interstate identifier affixed or printed thereon. (h) Operate, as an intrastate or interstate motor carrier of property, any motor vehicle which is not identified or is not properly identified in compliance with Section 18c-4701 of this Chapter, Commission regulations and orders. (i) Operate, as an intrastate motor carrier of property, in violation of transfer requirements in Section 18c-4307 of this Chapter. (j) Provide, as an intrastate household goods carrier, service at rates other than those contained in lawfully applicable tariffs or schedules for such service. (k) Otherwise operate as a motor carrier of property in violation of any provision of this Chapter, Commission regulations and orders, or any other law of this State. (l) Aid or abet any other person in a violation of this Chapter, Commission regulations or orders, by soliciting, receiving, or compensating service from a person not authorized to provide such service, or at other than lawful rates for such service, or otherwise. (2) Provisos."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) Presentation of Documents at Hearing as Defense. Presentation, at hearing, of a copy of a current license or registration issued by the Commission to the carrier which was valid on the date the violation occurred shall, if no concurrent violations of this Chapter, Commission regulations or orders are found, excuse the carrier from any penalties under paragraph (c) of subsection (1) of this Section. Presentation, at hearing, of an executed copy of the current lease in the form prescribed by and on file with the Commission shall, if no concurrent violations of this Chapter, Commission regulations or orders are found, excuse the carrier from penalties under paragraph (d) of subsection (1) of this Section. Presentation, at hearing, of the required intrastate or interstate cab card, with the required Illinois intrastate or interstate identifier affixed or printed thereon, if valid on the date the violation occurred, and if no concurrent violations are found, shall excuse the carrier from penalties under paragraph (g) of subsection (1) of this Section. (b) Lease Form Prescribed by the Commission. A lease shall, for purposes of paragraph (d) of subsection (1) of this Section, be deemed to be in the form prescribed by the Commission if it contains all provisions called for in the Commission-prescribed lease and does not contain any provisions inconsistent therewith. (Source: P.A. 89-444, eff. 1-25-96.)"
+    }
+  ],
+  "sourceLine": null,
+  "publicActs": [],
+  "repealed": false,
+  "bodyHash": "fa4efb8c8b20ee711370c7ba56f368cf022e0d4af93581540af35c36f1a535fa",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0457",
+    "offense-0458",
+    "offense-0459",
+    "offense-0460",
+    "offense-0461",
+    "offense-0462",
+    "offense-0463",
+    "offense-0464",
+    "offense-0465",
+    "offense-0466",
+    "offense-0467",
+    "offense-0468",
+    "offense-0469",
+    "offense-0470",
+    "offense-0471",
+    "offense-0472",
+    "offense-0473"
+  ]
+}

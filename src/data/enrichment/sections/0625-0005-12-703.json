@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-12-703",
+  "citation": "625 ILCS 5/12-703",
+  "docName": "062500050K12-703",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K12-703",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:18:55.345Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/12-703",
+  "headingText": "Sec. 12-703. Road oil vehicles-Dripping on certain highways forbidden.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/12-703) (from Ch. 95 1/2, par. 12-703)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 12-703. Road oil vehicles-Dripping on certain highways forbidden."
+    },
+    {
+      "type": "paragraph",
+      "text": "No person shall operate, on a durable all-weather highway of a type other than gravel or crushed stone, any vehicle used for the purpose of applying road oil, liquid asphalt or similar material to road surfaces unless such vehicle is so equipped as to absolutely prevent such material from dripping on such highway, nor shall such material be allowed to drip on any such highway."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 77-37.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 77-37.)",
+  "publicActs": [
+    {
+      "publicAct": "77-37",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "79193e55a85b6b110f135c3396e180ecca6f546c504366335bf2eee51803e97e",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0406"
+  ]
+}

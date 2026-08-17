@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-20-1.1",
+  "citation": "720 ILCS 5/20-1.1",
+  "docName": "072000050K20-1.1",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K20-1.1",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:27:12.400Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/20-1.1",
+  "headingText": "Sec. 20-1.1. Aggravated Arson.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/20-1.1) (from Ch. 38, par. 20-1.1)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 20-1.1. Aggravated Arson."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits aggravated arson when in the course of committing arson he or she knowingly damages, partially or totally, any building or structure, including any adjacent building or structure, including all or any part of a school building, house trailer, watercraft, motor vehicle, or railroad car, and (1) he knows or reasonably should know that one or more persons are present therein or (2) any person suffers great bodily harm, or permanent disability or disfigurement as a result of the fire or explosion or (3) a fireman, policeman, or correctional officer who is present at the scene acting in the line of duty is injured as a result of the fire or explosion. For purposes of this Section, property \"of another\" means a building or other property, whether real or personal, in which a person other than the offender has an interest that the offender has no authority to defeat or impair, even though the offender may also have an interest in the building or property; and \"school building\" means any public or private preschool, elementary or secondary school, community college, college, or university."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Sentence. Aggravated arson is a Class X felony."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 93-335, eff. 7-24-03; 94-127, eff. 7-7-05; 94-393, eff. 8-1-05.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 93-335, eff. 7-24-03; 94-127, eff. 7-7-05; 94-393, eff. 8-1-05.)",
+  "publicActs": [
+    {
+      "publicAct": "93-335",
+      "effectiveDate": "7-24-03"
+    },
+    {
+      "publicAct": "94-127",
+      "effectiveDate": "7-7-05"
+    },
+    {
+      "publicAct": "94-393",
+      "effectiveDate": "8-1-05"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "a783995acc0057a36ed743e087918d8a586610a3e6d7eea47e6452c0a05e13e5",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0758"
+  ]
+}

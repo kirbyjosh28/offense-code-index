@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0605-0005-9-128",
+  "citation": "605 ILCS 5/9-128",
+  "docName": "060500050K9-128",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=060500050K9-128",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:14:38.569Z",
+  "transport": "cache",
+  "canonicalCitation": "605 ILCS 5/9-128",
+  "headingText": "Sec. 9-128. Any person who intentionally damages or removes an official sign or other traffic control device erected by the proper authority having jurisdiction over such highway authorized by Chapter 11, Article III of The Illinois Vehicle Code, as now or hereafter amended, or any other sign authorized and approved by this Code shall be guilty of a Class C misdemeanor, punishable by a fine of at least $250 in addition to any other penalties which may be imposed. This Section does not apply to persons properly authorized to repair or remove such signs or other traffic control device.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(605 ILCS 5/9-128) (from Ch. 121, par. 9-128)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 9-128. Any person who intentionally damages or removes an official sign or other traffic control device erected by the proper authority having jurisdiction over such highway authorized by Chapter 11, Article III of The Illinois Vehicle Code, as now or hereafter amended, or any other sign authorized and approved by this Code shall be guilty of a Class C misdemeanor, punishable by a fine of at least $250 in addition to any other penalties which may be imposed. This Section does not apply to persons properly authorized to repair or remove such signs or other traffic control device."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 83-672.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 83-672.)",
+  "publicActs": [
+    {
+      "publicAct": "83-672",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "954b5a74da3c77433742ea5ab2c97e494b1e12f844d25b82388662a130e64466",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0547"
+  ]
+}

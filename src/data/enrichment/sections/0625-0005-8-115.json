@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-8-115",
+  "citation": "625 ILCS 5/8-115",
+  "docName": "062500050K8-115",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K8-115",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:22:16.571Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/8-115",
+  "headingText": "Sec. 8-115. Display of certificate-Enforcement. The certificate issued pursuant to Section 8-114 shall be displayed upon a window of the motor vehicle for which it was issued, in such manner as to be visible to the passengers carried therein. This Section and Section 8-114 shall be enforced by the Illinois State Police, the Secretary of State, and other police officers.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/8-115) (from Ch. 95 1/2, par. 8-115)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 8-115. Display of certificate-Enforcement. The certificate issued pursuant to Section 8-114 shall be displayed upon a window of the motor vehicle for which it was issued, in such manner as to be visible to the passengers carried therein. This Section and Section 8-114 shall be enforced by the Illinois State Police, the Secretary of State, and other police officers."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 102-538, eff. 8-20-21.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 102-538, eff. 8-20-21.)",
+  "publicActs": [
+    {
+      "publicAct": "102-538",
+      "effectiveDate": "8-20-21"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "9d97f91884b72e0a4ccb0ddd3df09c12e29d7dcc7e9b1594d7b4ea20c5f2acce",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0177"
+  ]
+}

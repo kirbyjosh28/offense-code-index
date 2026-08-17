@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-1412",
+  "citation": "625 ILCS 5/11-1412",
+  "docName": "062500050K11-1412",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-1412",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:15:34.130Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-1412",
+  "headingText": "Sec. 11-1412. Crossing fire hose.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-1412) (from Ch. 95 1/2, par. 11-1412)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-1412. Crossing fire hose."
+    },
+    {
+      "type": "paragraph",
+      "text": "No vehicle shall be driven over any unprotected hose of a fire department when laid down on any street, private road or driveway to be used at any fire or alarm of fire, without the consent of the fire department official in command."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 76-1736.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 76-1736.)",
+  "publicActs": [
+    {
+      "publicAct": "76-1736",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "a40c091ef1eab03fc7f85eaba1284eaf7f035436acc3f2e39d66fde11b79fa70",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0299"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-606",
+  "citation": "625 ILCS 5/11-606",
+  "docName": "062500050K11-606",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-606",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:17:07.233Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-606",
+  "headingText": "Sec. 11-606. Minimum speed regulation. (a) No person shall drive a motor vehicle at such a slow speed as to impede or block the normal and reasonable movement of traffic except when reduced speed is necessary for safe operation of his vehicle or in compliance with law.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-606) (from Ch. 95 1/2, par. 11-606)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-606. Minimum speed regulation. (a) No person shall drive a motor vehicle at such a slow speed as to impede or block the normal and reasonable movement of traffic except when reduced speed is necessary for safe operation of his vehicle or in compliance with law."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Whenever the Department, The Illinois State Toll Highway Authority, or a local authority described in Section 11-604 of this Chapter determines, upon the basis of an engineering and traffic investigation concerning a highway or street under its jurisdiction that slow vehicle speeds along any part or zone of such highway or street consistently impede the normal and reasonable movement of traffic, the Department, the Toll Highway Authority, or local authority (as appropriate) may determine and declare by proper regulation or ordinance a minimum speed limit below which no person shall drive except when necessary for safe operation of his vehicle or in compliance with law. A limit so determined and declared becomes effective when appropriate signs giving notice of the limit are erected along such part or zone of the highway or street."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 81-840.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 81-840.)",
+  "publicActs": [
+    {
+      "publicAct": "81-840",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "af9569c8e83b1c904e48aa92ea118cc51cad88334b0c747138b181cb7bbae4a4",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0223"
+  ]
+}

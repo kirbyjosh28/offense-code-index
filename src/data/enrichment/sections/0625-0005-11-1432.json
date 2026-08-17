@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-1432",
+  "citation": "625 ILCS 5/11-1432",
+  "docName": "062500050K11-1432",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-1432",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:16:02.654Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-1432",
+  "headingText": "Sec. 11-1432. Prohibit smoking in a motor vehicle with a minor present.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-1432)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-1432. Prohibit smoking in a motor vehicle with a minor present."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) For purposes of this Section:"
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Smoke\" means to inhale, exhale, burn, or carry a lighted cigarette, cigar, pipe, weed, plant, regulated narcotic, or other combustible substance."
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Vehicle\" has the same meaning as defined in Section 1-217 of this Code and does not include motorcycles as defined in Section 1-147."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) A person shall not smoke in a motor vehicle, whether it is in motion or at rest, if a person under 18 years of age is in the vehicle, regardless of whether the vehicle's windows are open. This subsection does not apply to a person who is the sole occupant of a vehicle."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) A police officer may not stop or detain a motor vehicle or its driver nor inspect or search the vehicle, the contents of the vehicle, or the operator or passenger of the vehicle solely for a violation or suspected violation of this Section."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) A violation of this Section is a petty offense punishable by a fine not to exceed $100 and, for a second or subsequent offense, a fine not to exceed $250."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 101-468, eff. 6-1-20.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 101-468, eff. 6-1-20.)",
+  "publicActs": [
+    {
+      "publicAct": "101-468",
+      "effectiveDate": "6-1-20"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "af58eaafa49eb1d2c35ff96fdae32be62ff6b2503992f9342401163e57a600b8",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0320"
+  ]
+}

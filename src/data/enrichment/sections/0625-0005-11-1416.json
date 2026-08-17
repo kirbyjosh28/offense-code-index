@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-1416",
+  "citation": "625 ILCS 5/11-1416",
+  "docName": "062500050K11-1416",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-1416",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:15:41.635Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-1416",
+  "headingText": "Sec. 11-1416. Obstructing person in highways. No person shall wilfully and unnecessarily hinder, obstruct or delay, or wilfully and unnecessarily attempt to delay, hinder or obstruct any other person in lawfully driving or traveling along or upon any highway within this State or offer for barter or sale merchandise on said highway so as to interfere with the effective movement of traffic.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-1416) (from Ch. 95 1/2, par. 11-1416)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-1416. Obstructing person in highways. No person shall wilfully and unnecessarily hinder, obstruct or delay, or wilfully and unnecessarily attempt to delay, hinder or obstruct any other person in lawfully driving or traveling along or upon any highway within this State or offer for barter or sale merchandise on said highway so as to interfere with the effective movement of traffic."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 80-911.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 80-911.)",
+  "publicActs": [
+    {
+      "publicAct": "80-911",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "8952d2f0e9049337825137be03f2633c2526f26b48af98651c5668d4b8a1aee9",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0305"
+  ]
+}

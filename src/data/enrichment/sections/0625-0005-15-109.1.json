@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-15-109.1",
+  "citation": "625 ILCS 5/15-109.1",
+  "docName": "062500050K15-109.1",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K15-109.1",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:19:41.896Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/15-109.1",
+  "headingText": "Sec. 15-109.1. Covers or tarpaulins required for certain loads.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/15-109.1) (from Ch. 95 1/2, par. 15-109.1)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 15-109.1. Covers or tarpaulins required for certain loads."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) No person shall operate or cause to be operated, on a highway, any second division vehicle loaded with dirt, aggregate, garbage, refuse, or other similar material, when any portion of the load is falling, sifting, blowing, dropping or in any way escaping from the vehicle."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) No person shall operate or cause to be operated, on a highway, any second division vehicle having a gross vehicle weight rating of 8,000 pounds or more loaded with dirt, aggregate, garbage, refuse, or other similar material in or on any part of the vehicle other than in the cargo area. In addition, no person shall operate on any highway, such vehicle unless the tailgate on the vehicle is in good repair and operating condition and closes securely so as to prevent any load, residue, or other material from escaping."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) This Section shall not apply to the operation of highway maintenance vehicles engaged in removing snow and ice from the roadway, nor to implements of husbandry or other farm vehicles while transporting agricultural products to or from the original place of production."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) For the purpose of this Section \"aggregate\" shall include all ores, minerals, sand, gravel, shale, coal, clay, limestone or any other ore or mineral which may be mined."
+    },
+    {
+      "type": "subsection",
+      "label": "(e)",
+      "text": "(e) Notwithstanding any other penalty, whenever a police officer determines that the operator of a vehicle is in violation of this Section, as evidenced by the issuance of a citation for a violation of Section 15-109.1 of this Code, or where a police officer determines that a dangerous condition exists whereby any portion of the load may fall, sift, blow, drop, or in any way escape or fall from the vehicle, the police officer shall require the operator to stop the vehicle in a suitable place and keep such vehicle stationary until the load has either been reduced, secured, or covered with a cover or tarpaulin of sufficient size to prevent any further violation of this Section."
+    },
+    {
+      "type": "subsection",
+      "label": "(f)",
+      "text": "(f) No person shall operate or cause to be operated, on a highway, a commercial motor vehicle, with the exception of a highway maintenance vehicle, transporting garbage or refuse unless the tailgate on the vehicle is in good working repair, good operating condition, and closes securely, with a cover or tarpaulin of sufficient size attached, so as to prevent any load, residue, or other material from escaping."
+    },
+    {
+      "type": "subsection",
+      "label": "(g)",
+      "text": "(g) Any violation of the provisions of this Section shall be a petty offense punishable by a fine not to exceed $150. In addition, a person, firm, or corporation convicted of 4 or more violations of subsection (f) within a 12-month period shall be fined an additional amount of $150 for the fourth and each subsequent conviction within the 12-month period. Regarding a firm or corporation, a fourth or subsequent conviction means a fourth or subsequent conviction attributable to one employee-driver."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 103-730, eff. 1-1-25.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 103-730, eff. 1-1-25.)",
+  "publicActs": [
+    {
+      "publicAct": "103-730",
+      "effectiveDate": "1-1-25"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "aaee54c026c71a459b96db82be7e16b13e26d3bf80be973f4b68a9f73bb28f68",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0439"
+  ]
+}

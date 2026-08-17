@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-33E-4",
+  "citation": "720 ILCS 5/33E-4",
+  "docName": "072000050K33E-4",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K33E-4",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:30:06.578Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/33E-4",
+  "headingText": "Sec. 33E-4. Bid rotating. A person commits the offense of bid rotating when, pursuant to any collusive scheme or agreement with another, he engages in a pattern over time (which, for the purposes of this Section, shall include at least 3 contract bids within a period of 10 years, the most recent of which occurs after the effective date of this amendatory Act of 1988) of submitting sealed bids to units of State or local government with the intent that the award of such bids rotates, or is distributed among, persons or business entities which submit bids on a substantial number of the same contracts. Bid rotating is a Class 2 felony. Any person convicted of this offense or any similar offense of any state or the United States which contains the same elements as this offense shall be permanently barred from contracting with any unit of State or local government. No corporation shall be barred from contracting with any unit of State or local government as a result of a conviction under this Section of any employee or agent of such corporation if the employee so convicted is no longer employed by the corporation and: (1) it has been finally adjudicated not guilty or (2) if it demonstrates to the governmental entity with which it seeks to contract and that entity finds that the commission of the offense was neither authorized, requested, commanded, nor performed by a director, officer or a high managerial agent in behalf of the corporation as provided in paragraph (2) of subsection (a) of Section 5-4 of this Code.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/33E-4) (from Ch. 38, par. 33E-4)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 33E-4. Bid rotating. A person commits the offense of bid rotating when, pursuant to any collusive scheme or agreement with another, he engages in a pattern over time (which, for the purposes of this Section, shall include at least 3 contract bids within a period of 10 years, the most recent of which occurs after the effective date of this amendatory Act of 1988) of submitting sealed bids to units of State or local government with the intent that the award of such bids rotates, or is distributed among, persons or business entities which submit bids on a substantial number of the same contracts. Bid rotating is a Class 2 felony. Any person convicted of this offense or any similar offense of any state or the United States which contains the same elements as this offense shall be permanently barred from contracting with any unit of State or local government. No corporation shall be barred from contracting with any unit of State or local government as a result of a conviction under this Section of any employee or agent of such corporation if the employee so convicted is no longer employed by the corporation and: (1) it has been finally adjudicated not guilty or (2) if it demonstrates to the governmental entity with which it seeks to contract and that entity finds that the commission of the offense was neither authorized, requested, commanded, nor performed by a director, officer or a high managerial agent in behalf of the corporation as provided in paragraph (2) of subsection (a) of Section 5-4 of this Code."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 86-150.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 86-150.)",
+  "publicActs": [
+    {
+      "publicAct": "86-150",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "2c4b7389a3af585b2dd0c4664566ea84a1a9e67f10af215f4f94e3d73ff425e1",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0885"
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-4-103",
+  "citation": "625 ILCS 5/4-103",
+  "docName": "062500050K4-103",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K4-103",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:20:50.977Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/4-103",
+  "headingText": "Sec. 4-103. Offenses relating to motor vehicles and other vehicles - Felonies.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/4-103) (from Ch. 95 1/2, par. 4-103)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 4-103. Offenses relating to motor vehicles and other vehicles - Felonies."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) Except as provided in subsection (a-1), it is a violation of this Chapter for:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) A person not entitled to the possession of a vehicle or essential part of a vehicle to receive, possess, conceal, sell, dispose, or transfer it, knowing it to have been stolen or converted. Knowledge that a vehicle or essential part is stolen or converted may be inferred: (A) from the surrounding facts and circumstances, which would lead a reasonable person to believe that the vehicle or essential part is stolen or converted; or (B) if the person exercises exclusive unexplained possession over the stolen or converted vehicle or essential part, regardless of whether the date on which the vehicle or essential part was stolen is recent or remote; (2) A person to knowingly remove, alter, deface, destroy, falsify, or forge a manufacturer's identification number of a vehicle or an engine number of a motor vehicle or any essential part thereof having an identification number; (3) A person to knowingly conceal or misrepresent the identity of a vehicle or any essential part thereof; (4) A person to buy, receive, possess, sell or dispose of a vehicle, or any essential part thereof, with knowledge that the identification number of the vehicle or any essential part thereof having an identification number has been removed or falsified; (5) A person to knowingly possess, buy, sell, exchange, give away, or offer to buy, sell, exchange or give away, any manufacturer's identification number plate, mylar sticker, federal certificate label, State police reassignment plate, Secretary of State assigned plate, rosette rivet, or facsimile of such which has not yet been attached to or has been removed from the original or assigned vehicle. It is an affirmative defense to subsection (a) of this Section that the person possessing, buying, selling or exchanging a plate mylar sticker or label described in this paragraph is a police officer doing so as part of his official duties, or is a manufacturer's authorized representative who is replacing any manufacturer's identification number plate, mylar sticker or Federal certificate label originally placed on the vehicle by the manufacturer of the vehicle or any essential part thereof; (6) A person to knowingly make a false report of the theft or conversion of a vehicle to any police officer of this State or any employee of a law enforcement agency of this State designated by the law enforcement agency to take, receive, process, or record reports of vehicle theft or conversion. (a-1) A person engaged in the repair or servicing of vehicles does not violate this Chapter by knowingly possessing a manufacturer's identification number plate for the purpose of reaffixing it on the same damaged vehicle from which it was originally taken, if the person reaffixes or intends to reaffix the original manufacturer's identification number plate in place of the identification number plate affixed on a new dashboard that has been or will be installed in the vehicle. The person must notify the Secretary of State each time the original manufacturer's identification number plate is reaffixed on a vehicle. The person must keep a record indicating that the identification number plate affixed on the new dashboard has been removed and has been replaced by the manufacturer's identification number plate originally affixed on the vehicle. The person also must keep a record regarding the status and location of the identification number plate removed from the replacement dashboard. The Secretary shall adopt rules for implementing this subsection (a-1)."
+    },
+    {
+      "type": "paragraph",
+      "text": "(a-2) The owner of a vehicle repaired under subsection (a-1) must, within 90 days of the date of the repairs, contact an officer of the Illinois State Police Vehicle Inspection Bureau and arrange for an inspection of the vehicle, by the officer or the officer's designee, at a mutually agreed upon date and location."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Sentence. A person convicted of a violation of this Section shall be guilty of a Class 2 felony."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) The offenses set forth in subsection (a) of this Section shall not include the offense set forth in Section 4-103.2 of this Code."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 100-745, eff. 8-10-18.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 100-745, eff. 8-10-18.)",
+  "publicActs": [
+    {
+      "publicAct": "100-745",
+      "effectiveDate": "8-10-18"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "fe965c3796426eda58cb18fc5f4b878a5f8e8ad1a2b03e6ad2e7ef33ffab484f",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0054",
+    "offense-0055",
+    "offense-0056",
+    "offense-0057",
+    "offense-0058",
+    "offense-0059"
+  ]
+}

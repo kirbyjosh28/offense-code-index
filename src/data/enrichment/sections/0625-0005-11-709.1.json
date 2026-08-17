@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-709.1",
+  "citation": "625 ILCS 5/11-709.1",
+  "docName": "062500050K11-709.1",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-709.1",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:17:23.749Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-709.1",
+  "headingText": "Sec. 11-709.1. Driving on the shoulder.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-709.1) (from Ch. 95 1/2, par. 11-709.1)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-709.1. Driving on the shoulder."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) Vehicles shall be driven on a roadway, and shall only be driven on the shoulder for the purpose of stopping or accelerating from a stop while merging into traffic. It shall be a violation of this Section if while merging into traffic and while on the shoulder, the vehicle passes any other vehicle on the roadway adjacent to it."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) This Section shall not apply to any authorized emergency vehicle, to any authorized transit bus, to any bicycle, to any farm tractor or implement of husbandry, to any service vehicle while engaged in maintenance of the highway or related work, or to any authorized vehicle within a designated construction zone."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 100-359, eff. 1-1-18.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 100-359, eff. 1-1-18.)",
+  "publicActs": [
+    {
+      "publicAct": "100-359",
+      "effectiveDate": "1-1-18"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "6edda0e67cd70f2ec4cd8fe11c23a56fc78aa2172fff7a5619ecf6ea41173113",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0239"
+  ]
+}

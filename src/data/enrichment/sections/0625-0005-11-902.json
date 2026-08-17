@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-902",
+  "citation": "625 ILCS 5/11-902",
+  "docName": "062500050K11-902",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-902",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:17:35.761Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-902",
+  "headingText": "Sec. 11-902. Vehicle turning left. The driver of a vehicle intending to turn to the left within an intersection or into an alley, private road, or driveway shall yield the right-of-way to any vehicle approaching from the opposite direction which is so close as to constitute an immediate hazard, but said driver, having so yielded may proceed at such time as a safe interval occurs.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-902) (from Ch. 95 1/2, par. 11-902)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-902. Vehicle turning left. The driver of a vehicle intending to turn to the left within an intersection or into an alley, private road, or driveway shall yield the right-of-way to any vehicle approaching from the opposite direction which is so close as to constitute an immediate hazard, but said driver, having so yielded may proceed at such time as a safe interval occurs."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 76-1586.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 76-1586.)",
+  "publicActs": [
+    {
+      "publicAct": "76-1586",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "3e82204ffa14b40f6fe9600b7bc74bb3af3d5bf0b10b944cd3006f478ab22462",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0248"
+  ]
+}

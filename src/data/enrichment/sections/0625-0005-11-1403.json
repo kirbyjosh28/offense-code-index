@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-1403",
+  "citation": "625 ILCS 5/11-1403",
+  "docName": "062500050K11-1403",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-1403",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:15:19.111Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-1403",
+  "headingText": "Sec. 11-1403. Riding on motorcycles.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-1403) (from Ch. 95 1/2, par. 11-1403)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-1403. Riding on motorcycles."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person operating a motorcycle shall ride only upon the permanent and regular seat attached thereto, and such operator shall not carry any other person nor shall any other person ride on a motorcycle unless such motorcycle is designed to carry more than one person, in which event a passenger may ride upon the permanent and regular seat if designed for 2 persons, or upon another seat firmly attached to the motorcycle at the rear or side of the operator."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) A person shall ride upon a motorcycle only while sitting astride the seat, facing forward, with one leg on each side of the motorcycle."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) No person shall operate any motorcycle with handlebar grips higher than the height of the head of the operator when the operator is seated in the normal driving position astride that portion of the seat or saddle occupied by the operator."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) The operator of any motorcycle shall keep at least one hand on a handlebar grip at all times the motorcycle is in motion."
+    },
+    {
+      "type": "subsection",
+      "label": "(e)",
+      "text": "(e) The operator of a motorcycle may not transport a passenger unless the passenger is capable of resting a foot on the footrest while the motorcycle is in motion."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 102-344, eff. 1-1-22.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 102-344, eff. 1-1-22.)",
+  "publicActs": [
+    {
+      "publicAct": "102-344",
+      "effectiveDate": "1-1-22"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "f6d6d03900bfab8570d9da8907653df9e709df0f97b089b3c176dcf98110242a",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0286",
+    "offense-0287",
+    "offense-0288"
+  ]
+}

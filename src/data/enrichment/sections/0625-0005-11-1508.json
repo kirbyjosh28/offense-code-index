@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-1508",
+  "citation": "625 ILCS 5/11-1508",
+  "docName": "062500050K11-1508",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-1508",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:16:16.171Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-1508",
+  "headingText": "Sec. 11-1508. Bicycle identifying number. A person engaged in the business of selling bicycles at retail shall not sell any bicycle unless the bicycle has an identifying number permanently stamped or cast on its frame.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-1508) (from Ch. 95 1/2, par. 11-1508)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-1508. Bicycle identifying number. A person engaged in the business of selling bicycles at retail shall not sell any bicycle unless the bicycle has an identifying number permanently stamped or cast on its frame."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 82-132.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 82-132.)",
+  "publicActs": [
+    {
+      "publicAct": "82-132",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "c258776a8669327d772ef98466417b34bbfb78db7ef9a1d7c4e7481fdc6631db",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0329"
+  ]
+}

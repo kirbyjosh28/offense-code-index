@@ -1,0 +1,104 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-18c-5101",
+  "citation": "625 ILCS 5/18c-5101",
+  "docName": "062500050K18c-5101",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K18c-5101",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:19:58.420Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/18c-5101",
+  "headingText": "Sec. 18c-5101. Unlawful Activities. It shall be unlawful for any person:",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/18c-5101) (from Ch. 95 1/2, par. 18c-5101)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 18c-5101. Unlawful Activities. It shall be unlawful for any person:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) To act as a broker without a license in good standing issued to it by the Commission;"
+    },
+    {
+      "type": "subsection",
+      "label": "(2)",
+      "text": "(2) To act as a broker in violation of any provision of this Chapter, Commission regulations and orders, or any other law of this state;"
+    },
+    {
+      "type": "subsection",
+      "label": "(3)",
+      "text": "(3) To act as a broker of any shipment which the person owns or in which the person has a beneficial interest;"
+    },
+    {
+      "type": "subsection",
+      "label": "(4)",
+      "text": "(4) To act as a broker of any shipment over which the person is able to exercise control because the person acting as a broker owns or controls the shipper, the shipper owns or controls the person acting as a broker, or there is a common ownership or control of the two;"
+    },
+    {
+      "type": "subsection",
+      "label": "(5)",
+      "text": "(5) Which is also a broker to act or represent itself as a shipper in dealing with a common or contract carrier of property by motor vehicle;"
+    },
+    {
+      "type": "subsection",
+      "label": "(6)",
+      "text": "(6) To act as a broker in connection with transportation by a person other than an authorized common or contract carrier of property by motor vehicle, unless the carrier does not require authorization to transport the shipment;"
+    },
+    {
+      "type": "subsection",
+      "label": "(7)",
+      "text": "(7) To act as a broker in connection with transportation at other than lawfully applicable rates for the motor carrier service;"
+    },
+    {
+      "type": "subsection",
+      "label": "(8)",
+      "text": "(8) To act as a broker in any name other than that which appears on its Commission license;"
+    },
+    {
+      "type": "subsection",
+      "label": "(9)",
+      "text": "(9) To act as a broker without fully disclosing its brokering status;"
+    },
+    {
+      "type": "subsection",
+      "label": "(10)",
+      "text": "(10) To provide transportation service with regard to freight for which it was the broker;"
+    },
+    {
+      "type": "subsection",
+      "label": "(11)",
+      "text": "(11) To receive any compensation for brokering services other than a fee assessed to the shipper or, alternatively, to the carrier, in addition to freight charges at lawfully applicable rates for the motor carrier service;"
+    },
+    {
+      "type": "subsection",
+      "label": "(12)",
+      "text": "(12) To advertise, offer, or give anything of value to a shipper, consignor, or consignee, other than inexpensive promotional items; or"
+    },
+    {
+      "type": "subsection",
+      "label": "(13)",
+      "text": "(13) Act as a broker of household goods."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 84-796.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 84-796.)",
+  "publicActs": [
+    {
+      "publicAct": "84-796",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "23b83d853bd7cc878966dc1a65a41380d20977673baae2a5ff0ec8cb9b9e9a09",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0475"
+  ]
+}

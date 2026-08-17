@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-12-210",
+  "citation": "625 ILCS 5/12-210",
+  "docName": "062500050K12-210",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K12-210",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:18:01.283Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/12-210",
+  "headingText": "Sec. 12-210. Use of head lamps and auxiliary driving lamps.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/12-210) (from Ch. 95 1/2, par. 12-210)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 12-210. Use of head lamps and auxiliary driving lamps."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) Whenever the driver of any vehicle equipped with an electric driving head lamp, driving head lamps, auxiliary driving lamp or auxiliary driving lamps is within 500 feet of another vehicle approaching from the opposite direction, the driver shall dim or drop such head lamp or head lamps and shall extinguish all auxiliary driving lamps."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) The driver of any vehicle equipped with an electric driving head lamp, head lamps, auxiliary driving lamp or auxiliary driving lamps shall dim or drop such head lamp or head lamps and shall extinguish all auxiliary driving lamps when there is another vehicle traveling in the same direction less than 300 feet to the front of him."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) No vehicle shall have the lighting system modified to allow more than 2 electric head lamps to be lighted while operating in the dimmed or dropped position."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) Nothing in this Section shall prohibit the use of 2 lamps mounted on the frontmost of the motor vehicle that emit white or amber light without glare, installed by the manufacturer at the original point of assembly, when used in conjunction with head lamps. All lamps, including auxiliary driving lamps, shall be adjusted and so aimed that the glaring rays are not projected into the eyes of drivers of oncoming vehicles. As used in this subsection, \"auxiliary driving lamp\" means a lamp, whether temporarily or permanently installed on a vehicle, not originally installed by the manufacturer at the original point of assembly."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 103-706, eff. 1-1-25.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 103-706, eff. 1-1-25.)",
+  "publicActs": [
+    {
+      "publicAct": "103-706",
+      "effectiveDate": "1-1-25"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "a3af87ca611c2459d493e3bac140967d10e4146305fc481e54f8dd7275628c26",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0347"
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-24-3.1",
+  "citation": "720 ILCS 5/24-3.1",
+  "docName": "072000050K24-3.1",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K24-3.1",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:27:55.953Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/24-3.1",
+  "headingText": "Sec. 24-3.1. Unlawful possession of firearms and firearm ammunition.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/24-3.1) (from Ch. 38, par. 24-3.1)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 24-3.1. Unlawful possession of firearms and firearm ammunition."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits the offense of unlawful possession of firearms or firearm ammunition when:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) He is under 18 years of age and has in his possession any firearm of a size which may be concealed upon the person; or (2) He is under 21 years of age, has been convicted of a misdemeanor other than a traffic offense or adjudged delinquent and has any firearms or firearm ammunition in his possession; or (3) He is a narcotic addict and has any firearms or firearm ammunition in his possession; or (4) He has been a patient in a mental institution within the past 5 years and has any firearms or firearm ammunition in his possession. For purposes of this paragraph (4): \"Mental institution\" means any hospital, institution, clinic, evaluation facility, mental health center, or part thereof, which is used primarily for the care or treatment of persons with mental illness. \"Patient in a mental institution\" means the person was admitted, either voluntarily or involuntarily, to a mental institution for mental health treatment, unless the treatment was voluntary and solely for an alcohol abuse disorder and no other secondary substance abuse disorder or mental illness; or (5) He is a person with an intellectual disability and has any firearms or firearm ammunition in his possession; or (6) He has in his possession any explosive bullet."
+    },
+    {
+      "type": "paragraph",
+      "text": "For purposes of this paragraph \"explosive bullet\" means the projectile portion of an ammunition cartridge which contains or carries an explosive charge which will explode upon contact with the flesh of a human or an animal. \"Cartridge\" means a tubular metal case having a projectile affixed at the front thereof and a cap or primer at the rear end thereof, with the propellant contained in such tube between the projectile and the cap."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Sentence."
+    },
+    {
+      "type": "paragraph",
+      "text": "Unlawful possession of firearms, other than handguns, and firearm ammunition is a Class A misdemeanor. Unlawful possession of handguns is a Class 4 felony. The possession of each firearm or firearm ammunition in violation of this Section constitutes a single and separate violation."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Nothing in paragraph (1) of subsection (a) of this Section prohibits a person under 18 years of age from participating in any lawful recreational activity with a firearm such as, but not limited to, practice shooting at targets upon established public or private target ranges or hunting, trapping, or fishing in accordance with the Wildlife Code or the Fish and Aquatic Life Code."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 99-143, eff. 7-27-15.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 99-143, eff. 7-27-15.)",
+  "publicActs": [
+    {
+      "publicAct": "99-143",
+      "effectiveDate": "7-27-15"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "f09ce0c1f75f0e5f831e4bd79a170048249dc689576aeaa896462219b52f1172",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0788"
+  ]
+}

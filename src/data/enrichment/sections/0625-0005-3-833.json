@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-3-833",
+  "citation": "625 ILCS 5/3-833",
+  "docName": "062500050K3-833",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K3-833",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:20:43.458Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/3-833",
+  "headingText": "Sec. 3-833. Unlawful acts.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/3-833) (from Ch. 95 1/2, par. 3-833)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 3-833. Unlawful acts."
+    },
+    {
+      "type": "paragraph",
+      "text": "It shall be unlawful for any person to own or operate a vehicle on the public highways of this State without complying with this Act."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 76-1586.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 76-1586.)",
+  "publicActs": [
+    {
+      "publicAct": "76-1586",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "68833595cca88a9fa9b77196de77389f29e9b7ff4378fd6c2eb6a52c5f2b8670",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0047"
+  ]
+}

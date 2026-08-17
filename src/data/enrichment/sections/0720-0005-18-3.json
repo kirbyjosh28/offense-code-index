@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-18-3",
+  "citation": "720 ILCS 5/18-3",
+  "docName": "072000050K18-3",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K18-3",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:26:55.863Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/18-3",
+  "headingText": "Sec. 18-3. Vehicular hijacking.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/18-3)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 18-3. Vehicular hijacking."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits vehicular hijacking when he or she knowingly takes a motor vehicle from the person or the immediate presence of another by the use of force or by threatening the imminent use of force."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Sentence. Vehicular hijacking is a Class 1 felony."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 97-1108, eff. 1-1-13.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 97-1108, eff. 1-1-13.)",
+  "publicActs": [
+    {
+      "publicAct": "97-1108",
+      "effectiveDate": "1-1-13"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "428cbb373afae5a4b31340a6b369636c118b94d5fc22546c5f750ac70cbfdcbf",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0747"
+  ]
+}

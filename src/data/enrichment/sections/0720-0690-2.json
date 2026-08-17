@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0690-2",
+  "citation": "720 ILCS 690/2",
+  "docName": "072006900K2",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072006900K2",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:31:33.682Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 690/2",
+  "headingText": "Sec. 2. Sale or delivery prohibited.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 690/2) (from Ch. 38, par. 81-2)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 2. Sale or delivery prohibited."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) No person shall knowingly sell or offer for sale, deliver or give to any person under 17 years of age, unless upon written order of such person's parent or guardian, any compound, liquid, or chemical containing toluol, hexane, trichloroethylene, acetone, toluene, ethyl acetate, methyl ethyl ketone, trichloroethane, isopropanol, methyl isobutyl ketone, methyl cellosolve acetate, cyclohexanone, or any other substance which will induce an intoxicated condition, as defined herein, when the seller, offeror, or deliverer knows or has reason to know that the compound is intended for use to induce such condition."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) No person shall knowingly sell or offer for sale, deliver, or give to any person any compound, liquid, or chemical containing alkaloids atropine, hyoscyamine, or scopolamine when the seller, offeror, or deliverer knows or has reason to know that the compound, liquid, or chemical is intended for use to induce an intoxicated condition."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 89-235, eff. 8-4-95; 89-640, eff. 1-1-97.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 89-235, eff. 8-4-95; 89-640, eff. 1-1-97.)",
+  "publicActs": [
+    {
+      "publicAct": "89-235",
+      "effectiveDate": "8-4-95"
+    },
+    {
+      "publicAct": "89-640",
+      "effectiveDate": "1-1-97"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "73300fa4b9a357106197553955b828664cb99683f70adb75f9c363831b8ad2f5",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0951"
+  ]
+}

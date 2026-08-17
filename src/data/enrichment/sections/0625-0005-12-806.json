@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-12-806",
+  "citation": "625 ILCS 5/12-806",
+  "docName": "062500050K12-806",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K12-806",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:19:14.870Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/12-806",
+  "headingText": "Sec. 12-806. Identification, stop signal arms and special lighting when not used as a school bus.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/12-806) (from Ch. 95 1/2, par. 12-806)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 12-806. Identification, stop signal arms and special lighting when not used as a school bus."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) Except as provided in Section 12-806a, whenever a school bus is operated for the purpose of transporting passengers over 18 years of age other than persons in connection with an activity of the school or religious organization which owns the school bus or for which the school bus is operated, the \"SCHOOL BUS\" signs shall be covered or concealed and the stop signal arm and flashing signal system shall not be operable through normal controls."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) If a school district, religious organization, vendor of school buses, or school bus company whose main source of income is contracting with a school district or religious organization for the provision of transportation services in connection with the activities of a school district or religious organization, discards through either sale or donation, a school bus to an individual or entity that is not one of the aforementioned entities above, then the recipient of such school bus shall be responsible for immediately removing, covering, or concealing the \"SCHOOL BUS\" signs and any other insignia or words indicating the vehicle is a school bus, rendering inoperable or removing entirely the stop signal arm and flashing signal system, and painting the school bus a different color from those under Section 12-801 of this Code."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 100-277, eff. 1-1-18; 100-791, eff. 1-1-19; 100-863, eff. 8-14-18.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 100-277, eff. 1-1-18; 100-791, eff. 1-1-19; 100-863, eff. 8-14-18.)",
+  "publicActs": [
+    {
+      "publicAct": "100-277",
+      "effectiveDate": "1-1-18"
+    },
+    {
+      "publicAct": "100-791",
+      "effectiveDate": "1-1-19"
+    },
+    {
+      "publicAct": "100-863",
+      "effectiveDate": "8-14-18"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "ab50ebb8b0047a66b3a5d6a906784aa1e54883e23aa642aaba7104f3aa6b89a5",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0419"
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-47-15",
+  "citation": "720 ILCS 5/47-15",
+  "docName": "072000050K47-15",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K47-15",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:30:17.096Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/47-15",
+  "headingText": "Sec. 47-15. Dumping garbage upon real property.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/47-15)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 47-15. Dumping garbage upon real property."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) It is unlawful for a person to dump, deposit, or place garbage, rubbish, trash, or refuse upon real property not owned by that person without the consent of the owner or person in possession of the real property."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) A person who violates this Section is liable to the owner or person in possession of the real property on which the garbage, rubbish, trash, or refuse is dumped, deposited, or placed for the reasonable costs incurred by the owner or person in possession for cleaning up and properly disposing of the garbage, rubbish, trash, or refuse, and for reasonable attorneys' fees."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) A person violating this Section is guilty of a Class B misdemeanor for which the court must impose a minimum fine of $500. A second conviction for an offense committed after the first conviction is a Class A misdemeanor for which the court must impose a minimum fine of $500. A third or subsequent violation, committed after a second conviction, is a Class 4 felony for which the court must impose a minimum fine of $500. A person who violates this Section and who has an equity interest in a motor vehicle used in violation of this Section is presumed to have the financial resources to pay the minimum fine not exceeding his or her equity interest in the vehicle. Personal property used by a person in violation of this Section shall on the third or subsequent conviction of the person be forfeited to the county where the violation occurred and disposed of at a public sale. Before the forfeiture, the court shall conduct a hearing to determine whether property is subject to forfeiture under this Section. At the forfeiture hearing the State has the burden of establishing by a preponderance of the evidence that property is subject to forfeiture under this Section. Property seized or forfeited under this Section is subject to reporting under the Seizure and Forfeiture Reporting Act."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) The statutory minimum fine required by subsection (c) is not subject to reduction or suspension unless the defendant is indigent. If the defendant files a motion with the court asserting his or her inability to pay the mandatory fine required by this Section, the court must set a hearing on the motion before sentencing. The court must require an affidavit signed by the defendant containing sufficient information to ascertain the assets and liabilities of the defendant. If the court determines that the defendant is indigent, the court must require that the defendant choose either to pay the minimum fine of $500 or to perform 100 hours of community service."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 100-512, eff. 7-1-18.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 100-512, eff. 7-1-18.)",
+  "publicActs": [
+    {
+      "publicAct": "100-512",
+      "effectiveDate": "7-1-18"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "3c78ef19e094f31b17caed8a7450b06dd450807edf99b566daeefa5ba592631a",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0898"
+  ]
+}

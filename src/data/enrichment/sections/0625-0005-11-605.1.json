@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-605.1",
+  "citation": "625 ILCS 5/11-605.1",
+  "docName": "062500050K11-605.1",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-605.1",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:17:04.216Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-605.1",
+  "headingText": "Sec. 11-605.1. Special limit while traveling through a highway construction or maintenance speed zone.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-605.1)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-605.1. Special limit while traveling through a highway construction or maintenance speed zone."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person may not operate a motor vehicle in a construction or maintenance speed zone at a speed in excess of the posted speed limit when workers are present."
+    },
+    {
+      "type": "paragraph",
+      "text": "(a-5) A person may not operate a motor vehicle in a construction or maintenance speed zone at a speed in excess of the posted speed limit when workers are not present."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Nothing in this Chapter prohibits the use of electronic speed-detecting devices within 500 feet of signs within a construction or maintenance speed zone indicating the zone, as defined in this Section, nor shall evidence obtained by use of those devices be inadmissible in any prosecution for speeding, provided the use of the device shall apply only to the enforcement of the speed limit in the construction or maintenance speed zone."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) As used in this Section, a \"construction or maintenance speed zone\" is an area in which the Department, Toll Highway Authority, or local agency has posted signage advising drivers that a construction or maintenance speed zone is being approached, or in which the Department, Authority, or local agency has posted a lower speed limit with a highway construction or maintenance speed zone special speed limit sign after determining that the preexisting established speed limit through a highway construction or maintenance project is greater than is reasonable or safe with respect to the conditions expected to exist in the construction or maintenance speed zone."
+    },
+    {
+      "type": "paragraph",
+      "text": "If it is determined that the preexisting established speed limit is safe with respect to the conditions expected to exist in the construction or maintenance speed zone, additional speed limit signs which conform to the requirements of this subsection (c) shall be posted."
+    },
+    {
+      "type": "paragraph",
+      "text": "Highway construction or maintenance speed zone special speed limit signs shall be of a design approved by the Department. The signs must give proper due warning that a construction or maintenance speed zone is being approached and must indicate the maximum speed limit in effect. The signs also must state the amount of the minimum fine for a violation."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) Except as provided under subsection (d-5), a person who violates this Section is guilty of a petty offense. Violations of this Section are punishable with a minimum fine of $250 for the first violation and a minimum fine of $750 for the second or subsequent violation."
+    },
+    {
+      "type": "paragraph",
+      "text": "(d-5) A person committing a violation of this Section is guilty of aggravated special speed limit while traveling through a highway construction or maintenance speed zone when he or she drives a motor vehicle at a speed that is:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) 26 miles per hour or more but less than 35 miles per hour in excess of the applicable special speed limit established under this Section or a similar provision of a local ordinance and is guilty of a Class B misdemeanor; or (2) 35 miles per hour or more in excess of the applicable special speed limit established under this Section or a similar provision of a local ordinance and is guilty of a Class A misdemeanor. (e) (Blank)."
+    },
+    {
+      "type": "paragraph",
+      "text": "(e-5) The Illinois State Police and the local county police department have concurrent jurisdiction over any violation of this Section that occurs on an interstate highway."
+    },
+    {
+      "type": "subsection",
+      "label": "(f)",
+      "text": "(f) The Transportation Safety Highway Hire-back Fund, which was created by Public Act 92-619, shall continue to be a special fund in the State treasury. Subject to appropriation by the General Assembly and approval by the Secretary, the Secretary of Transportation shall use all moneys in the Transportation Safety Highway Hire-back Fund to hire off-duty Illinois State Police officers to monitor construction or maintenance zones."
+    },
+    {
+      "type": "paragraph",
+      "text": "(f-5) Each county shall create a Transportation Safety Highway Hire-back Fund. The county shall use the moneys in its Transportation Safety Highway Hire-back Fund to hire off-duty county police officers to monitor construction or maintenance zones in that county on highways other than interstate highways. The county, in its discretion, may also use a portion of the moneys in its Transportation Safety Highway Hire-back Fund to purchase equipment for county law enforcement and fund the production of materials to educate drivers on construction zone safe driving habits."
+    },
+    {
+      "type": "subsection",
+      "label": "(g)",
+      "text": "(g) For a second or subsequent violation of this Section within 2 years of the date of the previous violation, the Secretary of State shall suspend the driver's license of the violator for a period of 90 days. This suspension shall only be imposed if the current violation of this Section and at least one prior violation of this Section occurred during a period when workers were present in the construction or maintenance zone."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 102-538, eff. 8-20-21.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 102-538, eff. 8-20-21.)",
+  "publicActs": [
+    {
+      "publicAct": "102-538",
+      "effectiveDate": "8-20-21"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "ff81a8e5058631f5c89fecd79c99d6f4b174060e778ee9b4af15722c2e5e39a9",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0221"
+  ]
+}

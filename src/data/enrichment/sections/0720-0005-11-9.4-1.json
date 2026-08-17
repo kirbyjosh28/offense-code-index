@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-11-9.4-1",
+  "citation": "720 ILCS 5/11-9.4-1",
+  "docName": "072000050K11-9.4-1",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K11-9.4-1",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:24:06.213Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/11-9.4-1",
+  "headingText": "Sec. 11-9.4-1. Sexual predator and child sex offender; presence or loitering in or near public parks prohibited.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/11-9.4-1)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-9.4-1. Sexual predator and child sex offender; presence or loitering in or near public parks prohibited."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) For the purposes of this Section:"
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Child sex offender\" has the meaning ascribed to it in subsection (d) of Section 11-9.3 of this Code, but does not include as a sex offense under paragraph (2) of subsection (d) of Section 11-9.3, the offenses under subsections (b) and (c) of Section 11-1.50 or subsections (b) and (c) of Section 12-15 of this Code. \"Public park\" includes a park, forest preserve, bikeway, trail, or conservation area under the jurisdiction of the State or a unit of local government. \"Loiter\" means:"
+    },
+    {
+      "type": "subsection",
+      "label": "(i)",
+      "text": "(i) Standing, sitting idly, whether or not the person is in a vehicle or remaining in or around public park property. (ii) Standing, sitting idly, whether or not the person is in a vehicle or remaining in or around public park property, for the purpose of committing or attempting to commit a sex offense. \"Sexual predator\" has the meaning ascribed to it in subsection (E) of Section 2 of the Sex Offender Registration Act. (b) It is unlawful for a sexual predator or a child sex offender to knowingly be present in any public park building or on real property comprising any public park."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) It is unlawful for a sexual predator or a child sex offender to knowingly loiter on a public way within 500 feet of a public park building or real property comprising any public park. For the purposes of this subsection (c), the 500 feet distance shall be measured from the edge of the property comprising the public park building or the real property comprising the public park."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) Sentence. A person who violates this Section is guilty of a Class A misdemeanor, except that a second or subsequent violation is a Class 4 felony."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 96-1099, eff. 1-1-11; 97-698, eff. 1-1-13; 97-1109, eff. 1-1-13.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 96-1099, eff. 1-1-11; 97-698, eff. 1-1-13; 97-1109, eff. 1-1-13.)",
+  "publicActs": [
+    {
+      "publicAct": "96-1099",
+      "effectiveDate": "1-1-11"
+    },
+    {
+      "publicAct": "97-698",
+      "effectiveDate": "1-1-13"
+    },
+    {
+      "publicAct": "97-1109",
+      "effectiveDate": "1-1-13"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "b2738009ff05f1109776d3e2be6a7aa530dfc6c9819d930ad8e3dfb7a7d9f832",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0585"
+  ]
+}

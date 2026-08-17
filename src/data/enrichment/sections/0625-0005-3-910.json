@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-3-910",
+  "citation": "625 ILCS 5/3-910",
+  "docName": "062500050K3-910",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K3-910",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:20:46.466Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/3-910",
+  "headingText": "Sec. 3-910. Records of transactions.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/3-910) (from Ch. 95 1/2, par. 3-910)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 3-910. Records of transactions."
+    },
+    {
+      "type": "paragraph",
+      "text": "Each licensee shall maintain for a period of three years the following records with reference to each transaction involving a remittance:"
+    },
+    {
+      "type": "paragraph",
+      "text": "1. The address of the location at which the transaction occurred."
+    },
+    {
+      "type": "paragraph",
+      "text": "2. The name and address of the remitter."
+    },
+    {
+      "type": "paragraph",
+      "text": "3. The name and address of the remittee."
+    },
+    {
+      "type": "paragraph",
+      "text": "4. The purpose of the remittance."
+    },
+    {
+      "type": "paragraph",
+      "text": "5. The amount of money received for remittance."
+    },
+    {
+      "type": "paragraph",
+      "text": "6. The date of receipt of the money for remittance by the licensee."
+    },
+    {
+      "type": "paragraph",
+      "text": "7. The date such money was forwarded to the remittee."
+    },
+    {
+      "type": "paragraph",
+      "text": "8. If applicable, the date the license plate, vehicle tax sticker, license or other instrument issued by the remittee, was delivered to the remitter by the licensee."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 76-1705.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 76-1705.)",
+  "publicActs": [
+    {
+      "publicAct": "76-1705",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "e83970ae67f277b42e64caf728d276b3530079aaec8e336a486040747e8c741c",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0049"
+  ]
+}

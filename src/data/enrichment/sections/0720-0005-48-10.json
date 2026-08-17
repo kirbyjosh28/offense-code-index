@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-48-10",
+  "citation": "720 ILCS 5/48-10",
+  "docName": "072000050K48-10",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K48-10",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:30:23.095Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/48-10",
+  "headingText": "Sec. 48-10. Dangerous animals.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/48-10)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 48-10. Dangerous animals."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) Definitions. As used in this Section, unless the context otherwise requires:"
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Dangerous animal\" means a lion, tiger, leopard, ocelot, jaguar, cheetah, margay, mountain lion, lynx, bobcat, jaguarundi, bear, hyena, wolf or coyote. Dangerous animal does not mean any herptiles included in the Herptiles-Herps Act. \"Owner\" means any person who (1) has a right of property in a dangerous animal or primate, (2) keeps or harbors a dangerous animal or primate, (3) has a dangerous animal or primate in his or her care, or (4) acts as custodian of a dangerous animal or primate. \"Person\" means any individual, firm, association, partnership, corporation, or other legal entity, any public or private institution, the State, or any municipal corporation or political subdivision of the State. \"Primate\" means a nonhuman member of the order primate, including but not limited to chimpanzee, gorilla, orangutan, bonobo, gibbon, monkey, lemur, loris, aye-aye, and tarsier. (b) Dangerous animal or primate offense. No person shall have a right of property in, keep, harbor, care for, act as custodian of or maintain in his or her possession any dangerous animal or primate except at a properly maintained zoological park, federally licensed exhibit, circus, college or university, scientific institution, research laboratory, veterinary hospital, hound running area, or animal refuge in an escape-proof enclosure."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Exemptions."
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) This Section does not prohibit a person who had lawful possession of a primate before January 1, 2011, from continuing to possess that primate if the person registers the animal by providing written notification to the local animal control administrator on or before April 1, 2011. The notification shall include: (A) the person's name, address, and telephone number; and (B) the type of primate, the age, a photograph, a description of any tattoo, microchip, or other identifying information, and a list of current inoculations. (2) This Section does not prohibit a person who has a permanent disability with a severe mobility impairment from possessing a single capuchin monkey to assist the person in performing daily tasks if: (A) the capuchin monkey was obtained from and trained at a licensed nonprofit organization described in Section 501(c)(3) of the Internal Revenue Code of 1986, the nonprofit tax status of which was obtained on the basis of a mission to improve the quality of life of severely mobility-impaired individuals; and (B) the person complies with the notification requirements as described in paragraph (1) of this subsection (c). (d) A person who registers a primate shall notify the local animal control administrator within 30 days of a change of address. If the person moves to another locality within the State, the person shall register the primate with the new local animal control administrator within 30 days of moving by providing written notification as provided in paragraph (1) of subsection (c) and shall include proof of the prior registration."
+    },
+    {
+      "type": "subsection",
+      "label": "(e)",
+      "text": "(e) A person who registers a primate shall notify the local animal control administrator immediately if the primate dies, escapes, or bites, scratches, or injures a person."
+    },
+    {
+      "type": "subsection",
+      "label": "(f)",
+      "text": "(f) It is no defense to a violation of subsection (b) that the person violating subsection (b) has attempted to domesticate the dangerous animal. If there appears to be imminent danger to the public, any dangerous animal found not in compliance with the provisions of this Section shall be subject to seizure and may immediately be placed in an approved facility. Upon the conviction of a person for a violation of subsection (b), the animal with regard to which the conviction was obtained shall be confiscated and placed in an approved facility, with the owner responsible for all costs connected with the seizure and confiscation of the animal. Approved facilities include, but are not limited to, a zoological park, federally licensed exhibit, humane society, veterinary hospital or animal refuge."
+    },
+    {
+      "type": "subsection",
+      "label": "(g)",
+      "text": "(g) Sentence. Any person violating this Section is guilty of a Class C misdemeanor. Any corporation or partnership, any officer, director, manager or managerial agent of the partnership or corporation who violates this Section or causes the partnership or corporation to violate this Section is guilty of a Class C misdemeanor. Each day of violation constitutes a separate offense."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 98-752, eff. 1-1-15; 99-143, eff. 7-27-15.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 98-752, eff. 1-1-15; 99-143, eff. 7-27-15.)",
+  "publicActs": [
+    {
+      "publicAct": "98-752",
+      "effectiveDate": "1-1-15"
+    },
+    {
+      "publicAct": "99-143",
+      "effectiveDate": "7-27-15"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "a4241591c6f508d642a44a9af8cc27b6208768ce0d78ffbceed9795dac6c84b5",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0905"
+  ]
+}

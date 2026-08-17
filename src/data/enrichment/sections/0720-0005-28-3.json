@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-28-3",
+  "citation": "720 ILCS 5/28-3",
+  "docName": "072000050K28-3",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K28-3",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:28:40.994Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/28-3",
+  "headingText": "Sec. 28-3. Keeping a gambling place. A \"gambling place\" is any real estate, vehicle, boat, or any other property whatsoever used for the purposes of gambling other than gambling conducted in the manner authorized by the Illinois Gambling Act, the Sports Wagering Act, or the Video Gaming Act. Any person who knowingly permits any premises or property owned or occupied by him or under his control to be used as a gambling place commits a Class A misdemeanor. Each subsequent offense is a Class 4 felony. When any premises is determined by the circuit court to be a gambling place:",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/28-3) (from Ch. 38, par. 28-3)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 28-3. Keeping a gambling place. A \"gambling place\" is any real estate, vehicle, boat, or any other property whatsoever used for the purposes of gambling other than gambling conducted in the manner authorized by the Illinois Gambling Act, the Sports Wagering Act, or the Video Gaming Act. Any person who knowingly permits any premises or property owned or occupied by him or under his control to be used as a gambling place commits a Class A misdemeanor. Each subsequent offense is a Class 4 felony. When any premises is determined by the circuit court to be a gambling place:"
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) Such premises is a public nuisance and may be proceeded against as such, and (b) All licenses, permits or certificates issued by the State of Illinois or any subdivision or public agency thereof authorizing the serving of food or liquor on such premises shall be void; and no license, permit or certificate so cancelled shall be reissued for such premises for a period of 60 days thereafter; nor shall any person convicted of keeping a gambling place be reissued such license for one year from his conviction and, after a second conviction of keeping a gambling place, any such person shall not be reissued such license, and (c) Such premises of any person who knowingly permits thereon a violation of any Section of this Article shall be held liable for, and may be sold to pay any unsatisfied judgment that may be recovered and any unsatisfied fine that may be levied under any Section of this Article. (Source: P.A. 101-31, Article 25, Section 25-915, eff. 6-28-19; 101-31, Article 35, Section 35-80, eff. 6-28-19; 102-558, eff. 8-20-21.)"
+    }
+  ],
+  "sourceLine": null,
+  "publicActs": [],
+  "repealed": false,
+  "bodyHash": "af77dc1207aed3331d7268ea9e72617d3391e9fb71eac2d84459d4dd22aa0337",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0828"
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-6-106.11",
+  "citation": "625 ILCS 5/6-106.11",
+  "docName": "062500050K6-106.11",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K6-106.11",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:21:31.518Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/6-106.11",
+  "headingText": "Sec. 6-106.11. (a) Any individual, corporation, partnership or association, who through contractual arrangements with a school district transports students, teachers or other personnel of that district for compensation, shall not permit any person to operate a school bus or any first division vehicle including taxis when used for a purpose that requires a school bus driver permit pursuant to that contract if the driver has not complied with the provisions of Sections 6-106.1 of this Code or such other rules or regulations that the Secretary of State may prescribe for the classification, restriction or licensing of school bus driver permit holders.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/6-106.11) (from Ch. 95 1/2, par. 6-106.11)"
+    },
+    {
+      "type": "version-note",
+      "text": "(Text of Section from P.A. 97-224)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 6-106.11. (a) Any individual, corporation, partnership or association, who through contractual arrangements with a school district transports students, teachers or other personnel of that district for compensation, shall not permit any person to operate a school bus or any first division vehicle including taxis when used for a purpose that requires a school bus driver permit pursuant to that contract if the driver has not complied with the provisions of Sections 6-106.1 of this Code or such other rules or regulations that the Secretary of State may prescribe for the classification, restriction or licensing of school bus driver permit holders."
+    },
+    {
+      "type": "paragraph",
+      "text": "(a-5) Any individual, corporation, partnership, association, or entity that has a contractual arrangement referred to in subsection (a) of this Section must provide the school district with (i) the names of all drivers who will be operating a vehicle requiring a school bus driver permit pursuant to the contract with the school district; and (ii) a copy of each driver's school bus driver permit. Upon notification by the Secretary of State to the employer of the school bus driver permit holder that an employee's school bus driver permit has been suspended or cancelled, the employer must notify the school district of the suspension or cancellation within 2 business days."
+    },
+    {
+      "type": "paragraph",
+      "text": "(a-10) An individual, corporation, partnership, association, or entity that has a contractual arrangement referred to in subsection (a) of this Section may not:"
+    },
+    {
+      "type": "subsection",
+      "label": "(i)",
+      "text": "(i) utilize a vehicle in the performance of the contract that has previously been in salvage or junk status; or (ii) allow smoking in a vehicle while the vehicle is in the performance of the contract. (b) A violation of this Section is a business offense and shall subject the offender to a fine of no less than $1,000 nor more than $10,000 for a first offense, no less than $1,500 nor more than $15,000 for a second offense, and no less than $2,000 nor more than $20,000 for a third or subsequent offense. In addition to any fines imposed under this subsection, any offender who has been convicted three times under the provisions of subsection (a) shall, upon a fourth or subsequent conviction be prohibited from transporting or contracting to transport students, teachers or other personnel of a school district for a period of five years beginning with the date of conviction of such fourth or subsequent conviction."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 97-224, eff. 7-28-11.)"
+    },
+    {
+      "type": "version-note",
+      "text": "(Text of Section from P.A. 97-229)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 6-106.11. (a) Any individual, corporation, partnership or association, who through contractual arrangements with a school district transports students, teachers or other personnel of that district for compensation, shall not permit any person to operate a school bus or any other motor vehicle requiring a school bus driver permit pursuant to that contract if the driver has not complied with the provisions of Sections 6-106.1 of this Code or such other rules or regulations that the Secretary of State may prescribe for the classification, restriction or licensing of the school bus driver permit holder."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) A violation of this Section is a business offense and shall subject the offender to a fine of no less than $1,000 nor more than $10,000 for a first offense, no less than $1,500 nor more than $15,000 for a second offense, and no less than $2,000 nor more than $20,000 for a third or subsequent offense. In addition to any fines imposed under this subsection, any offender who has been convicted three times under the provisions of subsection (a) shall, upon a fourth or subsequent conviction be prohibited from transporting or contracting to transport students, teachers or other personnel of a school district for a period of five years beginning with the date of conviction of such fourth or subsequent conviction."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 97-229, eff. 7-28-11.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 97-224, eff. 7-28-11.)",
+  "publicActs": [
+    {
+      "publicAct": "97-224",
+      "effectiveDate": "7-28-11"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "885cd0f496300dfad75e5167cb07fdfbe72119a8684842220a4fb461fc2ec236",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0121"
+  ]
+}

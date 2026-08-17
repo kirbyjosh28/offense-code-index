@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-4-103.3",
+  "citation": "625 ILCS 5/4-103.3",
+  "docName": "062500050K4-103.3",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K4-103.3",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:20:55.481Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/4-103.3",
+  "headingText": "Sec. 4-103.3. Organizer of an aggravated vehicle theft conspiracy.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/4-103.3) (from Ch. 95 1/2, par. 4-103.3)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 4-103.3. Organizer of an aggravated vehicle theft conspiracy."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits the offense of organizer of a vehicle theft conspiracy if:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) the person intentionally violates Section 4-103.2 of this Code with the agreement of 3 or more persons; and (2) the person is known by other co-conspirators as the organizer, supervisor, financier or otherwise leader of the conspiracy. (b) No person may be convicted of organizer of a vehicle theft conspiracy unless an overt act in furtherance of the agreement is alleged and proved to have been committed by him or by a co-conspirator, and the accused is part of a common plan or scheme to engage in the unlawful activity."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) It shall not be a defense to organizer of a vehicle theft conspiracy that the person or persons with whom the accused is alleged to have conspired:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) has not been prosecuted or convicted;"
+    },
+    {
+      "type": "subsection",
+      "label": "(2)",
+      "text": "(2) has been convicted of a different offense;"
+    },
+    {
+      "type": "subsection",
+      "label": "(3)",
+      "text": "(3) is not amenable to justice;"
+    },
+    {
+      "type": "subsection",
+      "label": "(4)",
+      "text": "(4) has been acquitted; or"
+    },
+    {
+      "type": "subsection",
+      "label": "(5)",
+      "text": "(5) lacked the capacity to commit an offense."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) Notwithstanding Section 8-5 of the Criminal Code of 2012, a person may be convicted and sentenced for both the offense of organizer of a vehicle theft conspiracy and any other offense in this Chapter which is the object of the conspiracy."
+    },
+    {
+      "type": "subsection",
+      "label": "(e)",
+      "text": "(e) Organizer of a vehicle theft conspiracy is a Class X felony."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 97-1150, eff. 1-25-13.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 97-1150, eff. 1-25-13.)",
+  "publicActs": [
+    {
+      "publicAct": "97-1150",
+      "effectiveDate": "1-25-13"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "b5416a129cb47b17096a8d4803e430a9477a6ab3367ff711c26cec351e3df7be",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0069"
+  ]
+}

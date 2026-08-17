@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-4-103.2",
+  "citation": "625 ILCS 5/4-103.2",
+  "docName": "062500050K4-103.2",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K4-103.2",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:20:53.968Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/4-103.2",
+  "headingText": "Sec. 4-103.2. Aggravated offenses relating to motor vehicles and other vehicles-Felonies.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/4-103.2) (from Ch. 95 1/2, par. 4-103.2)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 4-103.2. Aggravated offenses relating to motor vehicles and other vehicles-Felonies."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) Except as provided in subsection (a-1), it is a violation of this Chapter for:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) a person not entitled to the possession of 3 or more vehicles, 3 or more essential parts of different vehicles, or a combination thereof, to receive, possess, conceal, sell, dispose of or transfer, those vehicles or parts of vehicles at the same time or within a one year period knowing that these vehicles or parts of vehicles are stolen or converted; (2) a person to buy, receive, possess, sell or dispose of 3 or more vehicles, 3 or more essential parts of different vehicles, or a combination thereof, at the same time or within a one year period, knowing that the identification numbers of the vehicles or the essential parts with an identification number have been removed or falsified; (3) a person not entitled to the possession of a vehicle having a value of $25,000 or greater to receive, possess, conceal, sell, dispose or transfer the vehicle, knowing that the vehicle has been stolen or converted; (4) a person to knowingly possess, buy, sell, exchange or give away, at the same time or within a one year period, 3 or more manufacturer's identification number plates, mylar stickers, federal certificate labels, State Police reassignment plates, Secretary of State assigned plates or a facsimile of those items, or a combination thereof, which have not yet been attached to or have been removed from an original or assigned vehicle or essential part of a vehicle. It is an affirmative defense that the person possessing, buying, selling or exchanging a plate, mylar sticker or label is a police officer doing so as part of his official duties, or is a manufacturer's authorized representative who is replacing any manufacturer's identification number plate, mylar sticker or federal certificate label originally placed on a vehicle by the manufacturer of a vehicle or any essential part of a vehicle; (5) a person not entitled to the possession of any second division vehicle, semitrailer, farm tractor, tow truck, rescue squad vehicle, medical transport vehicle, fire engine, special mobile equipment, dump truck, truck mounted transit mixer, crane or the engine, transmission, cab, cab clip or vehicle cowl of any of the above vehicles, to receive, possess, conceal, sell, dispose of or transfer the vehicle or vehicle part described in this paragraph knowing it is stolen or converted; (6) a person not entitled to the possession of a vehicle which is owned or operated by a law enforcement agency to receive, possess, conceal, sell, or dispose of or transfer such vehicle knowing it is the property of a law enforcement agency and knowing it to be stolen or converted; (7) a person:"
+    },
+    {
+      "type": "subsection",
+      "label": "(A)",
+      "text": "(A) who is the driver or operator of a vehicle and is not entitled to the possession of that vehicle and who knows the vehicle is stolen or converted, or (B) who is the driver or operator of a vehicle being used to transport or haul a vehicle or essential part of a vehicle and is not entitled to the possession of that vehicle or essential part being transported or hauled and who knows the transported or hauled vehicle or essential part is stolen or converted, who has been given a signal by a peace officer directing him to bring the vehicle to a stop, to willfully fail or refuse to obey such direction, increase his speed, extinguish his lights or otherwise flee or attempt to elude the officer. The signal given by the peace officer may be by hand, voice, siren, or red or blue light. The officer giving the signal, if driving a vehicle, shall display the vehicle's illuminated, oscillating, rotating or flashing red or blue lights, which when used in conjunction with an audible horn or siren would indicate that the vehicle is an official police vehicle. Such requirement shall not preclude the use of amber or white oscillating, rotating or flashing lights in conjunction with red or blue oscillating, rotating or flashing lights as required in Section 12-215 of this Code; or (8) a person, at the same time or within a one year period, to make a false report of the theft or conversion of 3 or more vehicles to any police officer or police officers of this State. (a-1) A person engaged in the repair or servicing of vehicles does not violate this Chapter by knowingly possessing a manufacturer's identification number plate for the purpose of reaffixing it on the same damaged vehicle from which it was originally taken, if the person reaffixes or intends to reaffix the original manufacturer's identification number plate in place of the identification number plate affixed on a new dashboard that has been or will be installed in the vehicle. The person must notify the Secretary of State each time the original manufacturer's identification number plate is reaffixed on a vehicle. The person must keep a record indicating that the identification number plate affixed on the new dashboard has been removed and has been replaced by the manufacturer's identification number plate originally affixed on the vehicle. The person also must keep a record regarding the status and location of the identification number plate removed from the replacement dashboard. The Secretary shall adopt rules for implementing this subsection (a-1)."
+    },
+    {
+      "type": "paragraph",
+      "text": "(a-2) The owner of a vehicle repaired under subsection (a-1) must, within 90 days of the date of the repairs, contact an officer of the Illinois State Police Vehicle Inspection Bureau and arrange for an inspection of the vehicle, by the officer or the officer's designee, at a mutually agreed upon date and location."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) The inference contained in paragraph (1) of subsection (a) of Section 4-103 of this Code shall apply to subsection (a) of this Section."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) A person convicted of violating this Section shall be guilty of a Class 1 felony."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) The offenses set forth in subsection (a) of this Section shall not include the offenses set forth in Section 4-103 of this Code."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 93-456, eff. 8-8-03.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 93-456, eff. 8-8-03.)",
+  "publicActs": [
+    {
+      "publicAct": "93-456",
+      "effectiveDate": "8-8-03"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "bb91fdefa444dbb5ef4eb4d9a04a4d6ce7db34f541c5785710bda926ad4b9527",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0061",
+    "offense-0062",
+    "offense-0063",
+    "offense-0064",
+    "offense-0065",
+    "offense-0066",
+    "offense-0067",
+    "offense-0068"
+  ]
+}

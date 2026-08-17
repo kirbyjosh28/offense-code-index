@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-12-710",
+  "citation": "625 ILCS 5/12-710",
+  "docName": "062500050K12-710",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K12-710",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:19:05.865Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/12-710",
+  "headingText": "Sec. 12-710. Rear fender splash guards. It is unlawful for any person to operate any vehicle of the second division, except a truck tractor, to which this Section is applicable upon any highway of this State unless such vehicle is equipped with rear fender splash guards of either the contour type or the flap type which comply with the specifications provided in this Section for the type of splash guards used on the vehicle, and which are so attached as to prevent the splashing of mud or water upon the windshield of other motor vehicles.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/12-710) (from Ch. 95 1/2, par. 12-710)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 12-710. Rear fender splash guards. It is unlawful for any person to operate any vehicle of the second division, except a truck tractor, to which this Section is applicable upon any highway of this State unless such vehicle is equipped with rear fender splash guards of either the contour type or the flap type which comply with the specifications provided in this Section for the type of splash guards used on the vehicle, and which are so attached as to prevent the splashing of mud or water upon the windshield of other motor vehicles."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) Specifications for contour type splash guards. When contour type rear fender splash guards are used, they shall contour the wheel in such a manner that the relationship of the inside surface of any such splash guard to the tread surface of the tire or wheel shall be relatively parallel, both laterally and across the wheel, at least throughout the top 90 degrees of the rear 180 degrees of the wheel surface; provided however, on vehicles which have a clearance of less than 5 inches between the top of the tire or wheel and that part of the body of the vehicle directly above the tire or wheel when the vehicle is loaded to maximum legal capacity, the curved portion of the splash guard need only extend from a point directly behind the center of the rear axle and to the rear of the wheel surface upwards to within at least 2 inches of the bottom line of the body when the vehicle is loaded to maximum legal capacity. There shall be a downward extension of the curved surface which shall end not more than 12 inches from the ground when the vehicle is loaded to maximum legal capacity. This downward extension shall be part of the curved surface or attached directly to such curved surface, but it need not contour the wheel. Such contour type splash guards shall be wide enough to cover the full tread width of the tire or tires being protected and shall be installed not more than 6 inches from the tread surface of the tire or wheel when the vehicle is loaded to maximum legal capacity. The splash guard shall have a lip or flange on its outside edge to minimize side throw and splash. The lip or flange shall extend toward the center of the wheel, and shall be perpendicular to and extend not less than 2 inches below the inside or bottom surface line or plane of the guard. Such contour type splash guards may be constructed of either a rigid or flexible material, but shall be attached in such a manner that, regardless of movement either by the splash guards or the vehicle, the splash guards will retain their general parallel relationship to the tread surface of the tire or wheel under all ordinary operating conditions."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Specifications for flap type splash guards. When flap type splash guards are used, they shall be wide enough to cover the full tread width of the tire or tires being protected; shall be so installed that they extend from the underside of the vehicle in a vertical plane behind the rear wheels to within 12 inches of the ground, when the vehicle is loaded to maximum legal capacity; shall be so constructed and attached so that when the vehicle is in forward motion such splash guard will not deviate or move backward from the vertical plane by an angle of more than 30 degrees measured from the vertical plane and so that when the forward motion of the vehicle causes such splash guard to deviate from the vertical plane, the bottom of such flap type splash guard will not be more than 15 inches from the ground, when the vehicle is loaded to maximum legal capacity. Such flap type splash guard may be constructed of either a rigid or flexible material."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Exemptions. This Section shall not apply to vehicles the construction or design of which does not require such splash guards, nor to vehicles in-transit and capable only of using temporary splash guards prescribed by the Department, nor to pole trailers."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 89-117, eff. 7-7-95.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 89-117, eff. 7-7-95.)",
+  "publicActs": [
+    {
+      "publicAct": "89-117",
+      "effectiveDate": "7-7-95"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "d1ca14fc813e14b1ceef78697212b529ae96a8edff5f42068a2d31abd0882d00",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0413"
+  ]
+}

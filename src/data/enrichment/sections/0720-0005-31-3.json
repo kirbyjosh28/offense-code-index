@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-31-3",
+  "citation": "720 ILCS 5/31-3",
+  "docName": "072000050K31-3",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K31-3",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:29:11.027Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/31-3",
+  "headingText": "Sec. 31-3. Obstructing service of process.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/31-3) (from Ch. 38, par. 31-3)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 31-3. Obstructing service of process."
+    },
+    {
+      "type": "paragraph",
+      "text": "Whoever knowingly resists or obstructs the authorized service or execution of any civil or criminal process or order of any court commits a Class B misdemeanor."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 77-2638.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 77-2638.)",
+  "publicActs": [
+    {
+      "publicAct": "77-2638",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "0e4d0d87c6df297d87dba05bde9ced4932a802961146b0381957defe2872995f",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0848"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-705",
+  "citation": "625 ILCS 5/11-705",
+  "docName": "062500050K11-705",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-705",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:17:16.232Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-705",
+  "headingText": "Sec. 11-705. Limitations on overtaking on the left.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-705) (from Ch. 95 1/2, par. 11-705)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-705. Limitations on overtaking on the left."
+    },
+    {
+      "type": "paragraph",
+      "text": "No vehicle shall be driven to the left side of the center of the roadway in overtaking and passing another vehicle proceeding in the same direction unless authorized by the provisions of this Chapter and unless such left side is clearly visible and is free of oncoming traffic for a sufficient distance ahead to permit such overtaking and passing to be completely made without interfering with the safe operation of any vehicle approaching from the opposite direction or any vehicle overtaken. In every event the overtaking vehicle must return to an authorized lane of travel as soon as practicable and in the event the passing movement involves the use of a lane authorized for vehicles approaching from the opposite direction, before coming within 200 feet of any vehicle approaching from the opposite direction."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 76-1586.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 76-1586.)",
+  "publicActs": [
+    {
+      "publicAct": "76-1586",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "c1229d606360df8e08cb07ab59760e7dd481cd8eddba437b512fd94097d52dab",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0234"
+  ]
+}

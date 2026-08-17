@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-21-7",
+  "citation": "720 ILCS 5/21-7",
+  "docName": "072000050K21-7",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K21-7",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:27:36.427Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/21-7",
+  "headingText": "Sec. 21-7. Criminal trespass to restricted areas and restricted landing areas at airports; aggravated criminal trespass to restricted areas and restricted landing areas at airports.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/21-7) (from Ch. 38, par. 21-7)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 21-7. Criminal trespass to restricted areas and restricted landing areas at airports; aggravated criminal trespass to restricted areas and restricted landing areas at airports."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits criminal trespass to restricted areas and restricted landing areas at airports when he or she enters upon, or remains in, any:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) restricted area or restricted landing area used in connection with an airport facility, or part thereof, in this State, after the person has received notice from the airport authority that the entry is forbidden; (2) restricted area or restricted landing area used in connection with an airport facility, or part thereof, in this State by presenting false documents or falsely representing his or her identity orally to the airport authority; (3) restricted area or restricted landing area as prohibited in paragraph (1) of this subsection, while dressed in the uniform of, improperly wearing the identification of, presenting false credentials of, or otherwise physically impersonating an airman, employee of an airline, employee of an airport, or contractor at an airport. (b) A person commits aggravated criminal trespass to restricted areas and restricted landing areas at airports when he or she enters upon, or remains in, any restricted area or restricted landing area used in connection with an airport facility, or part thereof, in this State, while in possession of a weapon, replica of a weapon, or ammunition, after the person has received notice from the airport authority that the entry is forbidden."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Notice that the area is \"restricted\" and entry thereto \"forbidden\", for purposes of this Section, means that the person or persons have been notified personally, either orally or in writing, or by a printed or written notice forbidding the entry to him or her or a group or an organization of which he or she is a member, which has been conspicuously posted or exhibited at every usable entrance to the area or the forbidden part thereof."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) (Blank)."
+    },
+    {
+      "type": "subsection",
+      "label": "(e)",
+      "text": "(e) (Blank)."
+    },
+    {
+      "type": "subsection",
+      "label": "(f)",
+      "text": "(f) The terms \"Restricted area\" or \"Restricted landing area\" in this Section are defined to incorporate the meaning ascribed to those terms in Section 8 of the \"Illinois Aeronautics Act\", approved July 24, 1945, as amended, and also include any other area of the airport that has been designated such by the airport authority."
+    },
+    {
+      "type": "paragraph",
+      "text": "The terms \"airman\" and \"airport\" in this Section are defined to incorporate the meaning ascribed to those terms in Sections 6 and 12 of the Illinois Aeronautics Act."
+    },
+    {
+      "type": "subsection",
+      "label": "(g)",
+      "text": "(g) Paragraph (2) of subsection (a) does not apply to a peace officer or other official of a unit of government who enters a restricted area or a restricted landing area used in connection with an airport facility, or part thereof, in the performance of his or her official duties."
+    },
+    {
+      "type": "subsection",
+      "label": "(h)",
+      "text": "(h) Sentence."
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) A violation of paragraph (2) of subsection (a) is a Class A misdemeanor."
+    },
+    {
+      "type": "subsection",
+      "label": "(2)",
+      "text": "(2) A violation of paragraph (1) or (3) of subsection (a) is a Class 4 felony."
+    },
+    {
+      "type": "subsection",
+      "label": "(3)",
+      "text": "(3) A violation of subsection (b) is a Class 3 felony."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 97-1108, eff. 1-1-13.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 97-1108, eff. 1-1-13.)",
+  "publicActs": [
+    {
+      "publicAct": "97-1108",
+      "effectiveDate": "1-1-13"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "ae08bd0077b7e8aa2401ab4b0382412157e27389656801a4a5f1fb4bedc2e884",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0772"
+  ]
+}

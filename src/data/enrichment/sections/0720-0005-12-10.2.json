@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-12-10.2",
+  "citation": "720 ILCS 5/12-10.2",
+  "docName": "072000050K12-10.2",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K12-10.2",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:24:10.699Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/12-10.2",
+  "headingText": "Sec. 12-10.2. Tongue splitting.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/12-10.2)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 12-10.2. Tongue splitting."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) In this Section, \"tongue splitting\" means the cutting of a human tongue into 2 or more parts."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) A person may not knowingly perform tongue splitting on another person unless the person performing the tongue splitting is licensed to practice medicine in all its branches under the Medical Practice Act of 1987 or licensed under the Illinois Dental Practice Act."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Sentence. Tongue splitting performed in violation of this Section is a Class A misdemeanor for a first offense and a Class 4 felony for a second or subsequent offense."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 96-1551, eff. 7-1-11.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 96-1551, eff. 7-1-11.)",
+  "publicActs": [
+    {
+      "publicAct": "96-1551",
+      "effectiveDate": "7-1-11"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "fb696de12eb5db655041123058fe7efa8588894f36338f50b2f3f810f9ff3d16",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0644"
+  ]
+}

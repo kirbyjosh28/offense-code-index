@@ -1,0 +1,72 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-17-24",
+  "citation": "720 ILCS 5/17-24",
+  "docName": "072000050K17-24",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K17-24",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:26:07.834Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/17-24",
+  "headingText": "Sec. 17-24. Mail fraud and wire fraud.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/17-24)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 17-24. Mail fraud and wire fraud."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) Mail fraud. A person commits mail fraud when he or she:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) devises or intends to devise any scheme or artifice to defraud, or to obtain money or property by means of false or fraudulent pretenses, representations, or promises, or to sell, dispose of, loan, exchange, alter, give away, distribute, supply, or furnish or procure for unlawful use any counterfeit obligation, security, or other article, or anything represented to be or intimated or held out to be such a counterfeit or spurious article; and (2) with the intent to execute such scheme or artifice or to attempt to do so, does any of the following: (A) Places in any post office or authorized depository for mail matter within this State any matter or thing to be delivered by the United States Postal Service, according to the direction on the matter or thing. (B) Deposits or causes to be deposited in this State any matter or thing to be sent or delivered by mail or by private or commercial carrier, according to the direction on the matter or thing. (C) Takes or receives from mail or from a private or commercial carrier any such matter or thing at the place at which it is directed to be delivered by the person to whom it is addressed. (D) Knowingly causes any such matter or thing to be delivered by mail or by private or commercial carrier, according to the direction on the matter or thing. (b) Wire fraud. A person commits wire fraud when he or she:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) devises or intends to devise a scheme or artifice to defraud or to obtain money or property by means of false pretenses, representations, or promises; and (2) for the purpose of executing the scheme or artifice, transmits or causes to be transmitted any writings, signals, pictures, sounds, or electronic or electric impulses by means of wire, radio, or television communications: (A) from within this State; or"
+    },
+    {
+      "type": "subsection",
+      "label": "(B)",
+      "text": "(B) so that the transmission is received by a person within this State; or (C) so that the transmission may be accessed by a person within this State. (c) Jurisdiction."
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) Mail fraud using a government or private carrier occurs in the county in which mail or other matter is deposited with the United States Postal Service or a private commercial carrier for delivery, if deposited with the United States Postal Service or a private or commercial carrier within this State, and the county in which a person within this State receives the mail or other matter from the United States Postal Service or a private or commercial carrier. (2) Wire fraud occurs in the county from which a transmission is sent, if the transmission is sent from within this State, the county in which a person within this State receives the transmission, and the county in which a person who is within this State is located when the person accesses a transmission. (d) Sentence. A violation of this Section is a Class 3 felony."
+    },
+    {
+      "type": "paragraph",
+      "text": "The period of limitations for prosecution of any offense defined in this Section begins at the time when the last act in furtherance of the scheme or artifice is committed."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 96-1000, eff. 7-2-10; 96-1551, eff. 7-1-11.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 96-1000, eff. 7-2-10; 96-1551, eff. 7-1-11.)",
+  "publicActs": [
+    {
+      "publicAct": "96-1000",
+      "effectiveDate": "7-2-10"
+    },
+    {
+      "publicAct": "96-1551",
+      "effectiveDate": "7-1-11"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "fdd79733794a4377e90cd68692e537a8e2193e7ef86dcf8ce187f8c579e39f84",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0723"
+  ]
+}

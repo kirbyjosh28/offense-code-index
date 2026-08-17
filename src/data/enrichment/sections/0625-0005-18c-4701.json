@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-18c-4701",
+  "citation": "625 ILCS 5/18c-4701",
+  "docName": "062500050K18c-4701",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K18c-4701",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:19:56.909Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/18c-4701",
+  "headingText": "Sec. 18c-4701. Insignia on vehicles.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/18c-4701) (from Ch. 95 1/2, par. 18c-4701)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 18c-4701. Insignia on vehicles."
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) General requirements to be prescribed by Commission. Except as otherwise provided in this Section, no intrastate carrier shall operate any motor vehicle upon the public roads of this State unless there is painted or affixed to both sides of the cab or power unit, in accordance with such specifications as the Commission may prescribe, the trade name of the carrier as it appears on the carrier's license or the carrier's recognized logo, together with the license and registration number of the carrier. Likewise, no interstate carrier shall operate any motor vehicle upon the public roads of this State unless there is painted or affixed to both sides of the cab or power unit, in accordance with such specifications as the Commission may prescribe, the registration or authority number of the carrier. However, except for a household goods carrier, an interstate carrier operating intrastate may operate a motor vehicle upon the public roads of this State without the intrastate authority number of the carrier painted or affixed to any side of the cab or power unit."
+    },
+    {
+      "type": "subsection",
+      "label": "(2)",
+      "text": "(2) Use of ICC-prescribed identification. Identifying information prescribed by the Interstate Commerce Commission may be used in satisfaction of requirements established under this Section, including special orders granting a petition for waiver of Sections 1057.22(a) and 1057.22(c)(2) and (4), as they relate to equipment receipts, of the Lease and Interchange of Vehicle Regulations (49 CFR 1057), in lieu of numbers or symbols prescribed by the Commission."
+    },
+    {
+      "type": "subsection",
+      "label": "(3)",
+      "text": "(3) Identification of Trip Lessees. Notwithstanding any other provision of this Section to the contrary, a motor vehicle trip leased in accordance with this Chapter, Commission regulations and orders shall not be required to bear the name and license number of the lessee if:"
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) the motor vehicle bears the name and license or registration number of the lessor in accordance with subsection (1) of this Section, Commission regulations and orders; (b) the lessor and lessee are commonly-owned; and"
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) the vehicle carries a photocopy of a letter signed by the lessor, on file with the Commission, stating that the lessor and lessee are commonly-owned. (4) Rules not superseded. The authority of the Illinois Commerce Commission to regulate the identification of motor vehicles of intrastate and interstate carriers, engaged in the transportation of hazardous materials, shall not supersede or replace the rules and regulations of the Illinois Department of Transportation and Federal Motor Carrier Safety regulations Part 390.21, as relates now or hereafter to the markings and identification of such vehicles."
+    },
+    {
+      "type": "subsection",
+      "label": "(5)",
+      "text": "(5) Identification on vehicles under 9,000 pounds gross vehicle weight (GVW). Vehicles with a gross vehicle weight (GVW) less than 9,000 pounds may, in lieu of identification required under subsection (1) of this Section display the trade name of the carrier as it appears on the carrier's license or the carrier's recognized logo, together with the license and registration number of the carrier in such manner as to be clearly legible and visible from both sides of the vehicle at a distance of 25 feet, when the vehicle is not in motion, and in accordance with such specifications as the Commission may prescribe."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 100-369, eff. 8-25-17.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 100-369, eff. 8-25-17.)",
+  "publicActs": [
+    {
+      "publicAct": "100-369",
+      "effectiveDate": "8-25-17"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "a465f1d0a4568ed90ef0ace5abfc18bba20275e5b07c969bcad6b99696391d48",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0474"
+  ]
+}

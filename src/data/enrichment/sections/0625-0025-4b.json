@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0025-4b",
+  "citation": "625 ILCS 25/4b",
+  "docName": "062500250K4b",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500250K4b",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:22:21.076Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 25/4b",
+  "headingText": "Sec. 4b. Children 8 years of age or older but under the age of 19; seat belts. Every person under the age of 18 years, when transporting a child 8 years of age or older but under the age of 19 years, as provided in Section 4 of this Act, shall be responsible for securing that child in a properly adjusted and fastened seat safety belt or an appropriate child restraint system. This Section shall also apply to each driver over the age of 18 years who committed an offense against traffic regulations governing the movement of vehicles or any violation of Section 6-107 or Section 12-603.1 of the Illinois Vehicle Code in the 6 months prior to the driver's 18th birthday and was subsequently convicted of the violation, until such time as a period of 6 consecutive months has elapsed without an additional violation and subsequent conviction of an offense against traffic regulations governing the movement of vehicles or any violation of Section 6-107 or Section 12-603.1 of the Illinois Vehicle Code.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 25/4b)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 4b. Children 8 years of age or older but under the age of 19; seat belts. Every person under the age of 18 years, when transporting a child 8 years of age or older but under the age of 19 years, as provided in Section 4 of this Act, shall be responsible for securing that child in a properly adjusted and fastened seat safety belt or an appropriate child restraint system. This Section shall also apply to each driver over the age of 18 years who committed an offense against traffic regulations governing the movement of vehicles or any violation of Section 6-107 or Section 12-603.1 of the Illinois Vehicle Code in the 6 months prior to the driver's 18th birthday and was subsequently convicted of the violation, until such time as a period of 6 consecutive months has elapsed without an additional violation and subsequent conviction of an offense against traffic regulations governing the movement of vehicles or any violation of Section 6-107 or Section 12-603.1 of the Illinois Vehicle Code."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 96-607, eff. 8-24-09; 97-333, eff. 8-12-11.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 96-607, eff. 8-24-09; 97-333, eff. 8-12-11.)",
+  "publicActs": [
+    {
+      "publicAct": "96-607",
+      "effectiveDate": "8-24-09"
+    },
+    {
+      "publicAct": "97-333",
+      "effectiveDate": "8-12-11"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "78f43d9610b362f5596f6ab1ec069f4992a32addd4afb965d49bbf5966cd6405",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0481"
+  ]
+}

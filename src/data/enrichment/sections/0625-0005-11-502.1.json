@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-502.1",
+  "citation": "625 ILCS 5/11-502.1",
+  "docName": "062500050K11-502.1",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-502.1",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:16:52.209Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-502.1",
+  "headingText": "Sec. 11-502.1. Possession of medical cannabis in a motor vehicle.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-502.1)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-502.1. Possession of medical cannabis in a motor vehicle."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) No driver, who is a medical cannabis cardholder, may use medical cannabis within the passenger area of any motor vehicle upon a highway in this State."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) No driver, who is a medical cannabis cardholder, a medical cannabis designated caregiver, medical cannabis cultivation center agent, or dispensing organization agent may possess medical cannabis within any area of any motor vehicle upon a highway in this State except in a secured, sealed or resealable, odor-proof, and child-resistant medical cannabis container that is inaccessible, unless subsection (e) of Section 15-85 of the Cannabis Regulation and Tax Act applies."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) No passenger, who is a medical cannabis card holder, a medical cannabis designated caregiver, or medical cannabis dispensing organization agent may possess medical cannabis within any passenger area of any motor vehicle upon a highway in this State except in a secured, sealed or resealable, odor-proof, and child-resistant medical cannabis container that is inaccessible, unless subsection (e) of Section 15-85 of the Cannabis Regulation and Tax Act applies."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) Any person who violates subsections (a) through (c) of this Section:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) commits a Class A misdemeanor;"
+    },
+    {
+      "type": "subsection",
+      "label": "(2)",
+      "text": "(2) shall be subject to revocation of his or her medical cannabis card for a period of 2 years from the end of the sentence imposed; and (3) shall be subject to revocation of his or her status as a medical cannabis caregiver, medical cannabis cultivation center agent, or medical cannabis dispensing organization agent for a period of 2 years from the end of the sentence imposed. (Source: P.A. 104-463, eff. 6-12-26.)"
+    }
+  ],
+  "sourceLine": null,
+  "publicActs": [],
+  "repealed": false,
+  "bodyHash": "9e8a60129b6071a37d213687e9f74f94faa56438ab2f42264062e68d67b49ca6",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0207",
+    "offense-0208",
+    "offense-0209"
+  ]
+}

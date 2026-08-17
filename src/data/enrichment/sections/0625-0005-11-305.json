@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-305",
+  "citation": "625 ILCS 5/11-305",
+  "docName": "062500050K11-305",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-305",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:16:26.672Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-305",
+  "headingText": "Sec. 11-305. Obedience to and required traffic-control devices.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-305) (from Ch. 95 1/2, par. 11-305)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-305. Obedience to and required traffic-control devices."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) The driver of any vehicle shall obey the instructions of any official traffic-control device applicable thereto placed or held in accordance with the provisions of this Act, unless otherwise directed by a police officer, subject to the exceptions granted the driver of an authorized emergency vehicle in this Act."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) It is unlawful for any person to leave the roadway and travel across private property to avoid an official traffic-control device."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) No provision of this Act for which official traffic-control devices are required shall be enforced against an alleged violator if at the time and place of the alleged violation an official device is not in proper position and sufficiently legible to be seen by an ordinarily observant person. Whenever a particular section does not state that official traffic-control devices are required, such section shall be effective even though no devices are erected or in place."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) Whenever any official traffic-control device is placed or held in position approximately conforming to the requirements of this Act and purports to conform to the lawful requirements pertaining to such device, such device shall be presumed to have been so placed or held by the official act or direction of lawful authority, and comply with the requirements of this Act, unless the contrary shall be established by competent evidence."
+    },
+    {
+      "type": "subsection",
+      "label": "(e)",
+      "text": "(e) The driver of a vehicle approaching a traffic control signal on which no signal light facing such vehicle is illuminated shall stop before entering the intersection in accordance with rules applicable in making a stop at a stop sign. This provision does not apply to the driver of a vehicle approaching a pedestrian hybrid beacon."
+    },
+    {
+      "type": "subsection",
+      "label": "(f)",
+      "text": "(f) Any violation of subsection (a) that occurs within a designated highway construction zone or maintenance zone shall result in a fine of no less than $100 and no more than $1,000."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 103-158, eff. 1-1-24; 103-605, eff. 7-1-24.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 103-158, eff. 1-1-24; 103-605, eff. 7-1-24.)",
+  "publicActs": [
+    {
+      "publicAct": "103-158",
+      "effectiveDate": "1-1-24"
+    },
+    {
+      "publicAct": "103-605",
+      "effectiveDate": "7-1-24"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "bc0370a7b14f83827f4f9bc42bc506e95c433948cefc4ef4440554a1ecb58df1",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0181",
+    "offense-0182"
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-20-1",
+  "citation": "720 ILCS 5/20-1",
+  "docName": "072000050K20-1",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K20-1",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:27:10.895Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/20-1",
+  "headingText": "Sec. 20-1. Arson; residential arson; place of worship arson.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/20-1) (from Ch. 38, par. 20-1)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 20-1. Arson; residential arson; place of worship arson."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits arson when, by means of fire or explosive, he or she knowingly:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) Damages any real property, or any personal property having a value of $150 or more, of another without his or her consent; or (2) With intent to defraud an insurer, damages any property or any personal property having a value of $150 or more. Property \"of another\" means a building or other property, whether real or personal, in which a person other than the offender has an interest which the offender has no authority to defeat or impair, even though the offender may also have an interest in the building or property."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) A person commits residential arson when he or she, in the course of committing arson, knowingly damages, partially or totally, any building or structure that is the dwelling place of another."
+    },
+    {
+      "type": "paragraph",
+      "text": "(b-5) A person commits place of worship arson when he or she, in the course of committing arson, knowingly damages, partially or totally, any place of worship."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Sentence."
+    },
+    {
+      "type": "paragraph",
+      "text": "Arson is a Class 2 felony. Residential arson or place of worship arson is a Class 1 felony."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 97-1108, eff. 1-1-13.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 97-1108, eff. 1-1-13.)",
+  "publicActs": [
+    {
+      "publicAct": "97-1108",
+      "effectiveDate": "1-1-13"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "53ebd9224caad697c29bff17189e9bcc4ba8a88f5120d43b22cc7377a6b53db8",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0757"
+  ]
+}

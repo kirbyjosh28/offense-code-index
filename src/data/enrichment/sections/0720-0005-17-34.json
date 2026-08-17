@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-17-34",
+  "citation": "720 ILCS 5/17-34",
+  "docName": "072000050K17-34",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K17-34",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:26:19.844Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/17-34",
+  "headingText": "Sec. 17-34. Sale of credit or debit card. A person other than the issuer who sells a credit card or debit card, without the consent of the issuer, is guilty of a Class 4 felony.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/17-34)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 17-34. Sale of credit or debit card. A person other than the issuer who sells a credit card or debit card, without the consent of the issuer, is guilty of a Class 4 felony."
+    },
+    {
+      "type": "paragraph",
+      "text": "A person who knowingly purchases a credit card or debit card from a person other than the issuer, without the consent of the issuer, is guilty of a Class 4 felony."
+    },
+    {
+      "type": "paragraph",
+      "text": "A person who, in a single transaction, makes a sale or purchase prohibited by this Section with respect to 3 or more credit cards or debit cards each issued to a cardholder other than himself or herself is guilty of a Class 3 felony."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 96-1551, eff. 7-1-11.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 96-1551, eff. 7-1-11.)",
+  "publicActs": [
+    {
+      "publicAct": "96-1551",
+      "effectiveDate": "7-1-11"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "420acccfbf51a6e8ee73aefa2e62fbe3a14d316843393ca52d9d5d462d6e090c",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0731"
+  ]
+}

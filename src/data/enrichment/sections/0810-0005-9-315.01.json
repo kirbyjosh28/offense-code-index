@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0810-0005-9-315.01",
+  "citation": "810 ILCS 5/9-315.01",
+  "docName": "081000050K9-315.01",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=081000050K9-315.01",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:31:36.683Z",
+  "transport": "cache",
+  "canonicalCitation": "810 ILCS 5/9-315.01",
+  "headingText": "Sec. 9-315.01. Debtor disposing of collateral and failing to pay secured party amount due under security agreement; penalties for violation.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(810 ILCS 5/9-315.01)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 9-315.01. Debtor disposing of collateral and failing to pay secured party amount due under security agreement; penalties for violation."
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) It is unlawful for a debtor under the terms of a security agreement (a) who has no right of sale or other disposition of the collateral or (b) who has a right of sale or other disposition of the collateral and is to account to the secured party for the proceeds of any sale or other disposition of the collateral, to sell or otherwise dispose of the collateral and willfully and wrongfully to fail to pay the secured party the amount of said proceeds due under the security agreement. Failure to pay such proceeds to the secured party within 10 days after the sale or other disposition of the collateral is prima facie evidence of a willful and wanton failure to pay."
+    },
+    {
+      "type": "subsection",
+      "label": "(2)",
+      "text": "(2) An individual convicted of a violation of this Section shall be guilty of a Class 3 felony."
+    },
+    {
+      "type": "subsection",
+      "label": "(3)",
+      "text": "(3) A corporation convicted of a violation of this Section shall be guilty of a business offense and shall be fined not less than $2,000 nor more than $10,000."
+    },
+    {
+      "type": "subsection",
+      "label": "(4)",
+      "text": "(4) In the event the debtor under the terms of a security agreement is a corporation or a partnership, any officer, director, manager, or managerial agent of the debtor who violates this Section or causes the debtor to violate this Section shall be guilty of a Class 3 felony."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 91-893, eff. 7-1-01.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 91-893, eff. 7-1-01.)",
+  "publicActs": [
+    {
+      "publicAct": "91-893",
+      "effectiveDate": "7-1-01"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "2f0b63c208ce78736a9a61d0dd493de6aa88aa06646cab9ace7eb684d0167a8c",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0952"
+  ]
+}

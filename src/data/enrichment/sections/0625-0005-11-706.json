@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-706",
+  "citation": "625 ILCS 5/11-706",
+  "docName": "062500050K11-706",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-706",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:17:17.746Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-706",
+  "headingText": "Sec. 11-706. Further limitations on driving to the left of center of roadway. (a) No vehicle shall be driven on the left side of the roadway under the following conditions:",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-706) (from Ch. 95 1/2, par. 11-706)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-706. Further limitations on driving to the left of center of roadway. (a) No vehicle shall be driven on the left side of the roadway under the following conditions:"
+    },
+    {
+      "type": "paragraph",
+      "text": "1. When approaching or upon the crest of a grade or a curve in the highway where the driver's view is obstructed within such distance as to create a hazard in the event another vehicle might approach from the opposite direction."
+    },
+    {
+      "type": "paragraph",
+      "text": "2. When approaching within 100 feet of or traversing any intersection or railroad grade crossing."
+    },
+    {
+      "type": "paragraph",
+      "text": "3. When the view is obstructed upon approaching within 100 feet of any bridge, viaduct or tunnel."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) The limitations in sub-paragraphs 1, 2 and 3 do not apply upon a one-way roadway nor upon a roadway with unobstructed pavement of sufficient width for 2 or more lanes of moving traffic in each direction nor to the driver of a vehicle turning left into or from an alley, private road or driveway when such movements can be made with safety."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 79-1069.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 79-1069.)",
+  "publicActs": [
+    {
+      "publicAct": "79-1069",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "45e0a75acb522dbf77c8c74ed84675b63d2645e656d72a32761d4eaec6f85c5e",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0235"
+  ]
+}

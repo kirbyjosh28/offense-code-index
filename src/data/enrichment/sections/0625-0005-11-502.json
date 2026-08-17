@@ -1,0 +1,70 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-502",
+  "citation": "625 ILCS 5/11-502",
+  "docName": "062500050K11-502",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-502",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:16:50.712Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-502",
+  "headingText": "Sec. 11-502. Transportation or possession of alcoholic liquor in a motor vehicle.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-502) (from Ch. 95 1/2, par. 11-502)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-502. Transportation or possession of alcoholic liquor in a motor vehicle."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) Except as provided in paragraph (c) and in Sections 6-6.5 and 6-33 of the Liquor Control Act of 1934, no driver may transport, carry, possess or have any alcoholic liquor within the passenger area of any motor vehicle upon a highway in this State except in the original container and with the seal unbroken."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Except as provided in paragraph (c) and in Sections 6-6.5 and 6-33 of the Liquor Control Act of 1934, no passenger may carry, possess or have any alcoholic liquor within any passenger area of any motor vehicle upon a highway in this State except in the original container and with the seal unbroken."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) This Section shall not apply to the passengers in a limousine when it is being used for purposes for which a limousine is ordinarily used, the passengers on a chartered bus when it is being used for purposes for which chartered buses are ordinarily used or on a motor home or mini motor home as defined in Section 1-145.01 of this Code. However, the driver of any such vehicle is prohibited from consuming or having any alcoholic liquor in or about the driver's area. Any evidence of alcoholic consumption by the driver shall be prima facie evidence of such driver's failure to obey this Section. For the purposes of this Section, a limousine is a motor vehicle of the first division with the passenger compartment enclosed by a partition or dividing window used in the for-hire transportation of passengers and operated by an individual in possession of a valid Illinois driver's license of the appropriate classification pursuant to Section 6-104 of this Code."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) (Blank)."
+    },
+    {
+      "type": "subsection",
+      "label": "(e)",
+      "text": "(e) Any driver who is convicted of violating subsection (a) of this Section for a second or subsequent time within one year of a similar conviction shall be subject to suspension of driving privileges as provided, in paragraph 23 of subsection (a) of Section 6-206 of this Code."
+    },
+    {
+      "type": "subsection",
+      "label": "(f)",
+      "text": "(f) Any driver, who is less than 21 years of age at the date of the offense and who is convicted of violating subsection (a) of this Section or a similar provision of a local ordinance, shall be subject to the loss of driving privileges as provided in paragraph 13 of subsection (a) of Section 6-205 of this Code and paragraph 33 of subsection (a) of Section 6-206 of this Code."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 101-517, eff. 8-23-19.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 101-517, eff. 8-23-19.)",
+  "publicActs": [
+    {
+      "publicAct": "101-517",
+      "effectiveDate": "8-23-19"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "8038ccbb673efbc3339ca4ea5f4b5f2ded7a2f620ce4647d1cf045422bccc79c",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0205",
+    "offense-0206"
+  ]
+}

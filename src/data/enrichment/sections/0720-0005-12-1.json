@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-12-1",
+  "citation": "720 ILCS 5/12-1",
+  "docName": "072000050K12-1",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K12-1",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:24:09.201Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/12-1",
+  "headingText": "Sec. 12-1. Assault.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/12-1) (from Ch. 38, par. 12-1)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 12-1. Assault."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits an assault when, without lawful authority, he or she knowingly engages in conduct which places another in reasonable apprehension of receiving a battery."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Sentence. Assault is a Class C misdemeanor."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) In addition to any other sentence that may be imposed, a court shall order any person convicted of assault to perform community service for not less than 30 and not more than 120 hours, if community service is available in the jurisdiction and is funded and approved by the county board of the county where the offense was committed. In addition, whenever any person is placed on supervision for an alleged offense under this Section, the supervision shall be conditioned upon the performance of the community service."
+    },
+    {
+      "type": "paragraph",
+      "text": "This subsection does not apply when the court imposes a sentence of incarceration."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 96-1551, eff. 7-1-11.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 96-1551, eff. 7-1-11.)",
+  "publicActs": [
+    {
+      "publicAct": "96-1551",
+      "effectiveDate": "7-1-11"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "6977405db376eda75427eace09b76c88f28fa0a30b6294743bd5b705f38b132a",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0607"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0035-0135-28",
+  "citation": "35 ILCS 135/28",
+  "docName": "003501350K28",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=003501350K28",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:13:54.704Z",
+  "transport": "cache",
+  "canonicalCitation": "35 ILCS 135/28",
+  "headingText": "Sec. 28. Any person who (a) falsely or fraudulently makes, forges, alters or counterfeits any stamp provided for herein, (b) causes or procures to be falsely or fraudulently made, forged, altered or counterfeited any such stamp, (c) knowingly and wilfully utters, publishes, passes or tenders as genuine any such false, altered, forged or counterfeited stamp, (d) falsely or fraudulently makes, forges, alters or counterfeits any tax imprint on an original package of cigarettes inside a sealed transparent wrapper, (e) causes or procures falsely or fraudulently to be made, forged, altered or counterfeited any such tax imprint or (f) knowingly and wilfully utters, publishes, passes or tenders as genuine any such false, altered, forged or counterfeited tax imprint, for the purpose of evading the tax imposed by this Act, shall be guilty of a Class 2 felony.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(35 ILCS 135/28) (from Ch. 120, par. 453.58)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 28. Any person who (a) falsely or fraudulently makes, forges, alters or counterfeits any stamp provided for herein, (b) causes or procures to be falsely or fraudulently made, forged, altered or counterfeited any such stamp, (c) knowingly and wilfully utters, publishes, passes or tenders as genuine any such false, altered, forged or counterfeited stamp, (d) falsely or fraudulently makes, forges, alters or counterfeits any tax imprint on an original package of cigarettes inside a sealed transparent wrapper, (e) causes or procures falsely or fraudulently to be made, forged, altered or counterfeited any such tax imprint or (f) knowingly and wilfully utters, publishes, passes or tenders as genuine any such false, altered, forged or counterfeited tax imprint, for the purpose of evading the tax imposed by this Act, shall be guilty of a Class 2 felony."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 98-1055, eff. 1-1-16.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 98-1055, eff. 1-1-16.)",
+  "publicActs": [
+    {
+      "publicAct": "98-1055",
+      "effectiveDate": "1-1-16"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "9e675b6d232d7f0c1e6e1ce0d524632163c0eeb00f58037c0bd2e81e60e306f9",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0518"
+  ]
+}

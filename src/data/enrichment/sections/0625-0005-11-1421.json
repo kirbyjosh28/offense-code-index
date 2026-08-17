@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-1421",
+  "citation": "625 ILCS 5/11-1421",
+  "docName": "062500050K11-1421",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-1421",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:15:52.151Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-1421",
+  "headingText": "Sec. 11-1421. Conditions for operating ambulances and rescue vehicles.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-1421) (from Ch. 95 1/2, par. 11-1421)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-1421. Conditions for operating ambulances and rescue vehicles."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) No person shall operate an ambulance or rescue vehicle in a manner not conforming to the motor vehicle laws and regulations of this State or of any political subdivision of this State as such laws and regulations apply to motor vehicles in general, unless in compliance with the following conditions:"
+    },
+    {
+      "type": "paragraph",
+      "text": "0.5. The operator of the ambulance or rescue vehicle shall have documented training in the operation of an ambulance or rescue vehicle prior to operating that vehicle. This training shall include the proper use of warning lights and sirens, situations where warning lights and sirens are warranted, and the provisions of this Section. 1. The person operating the ambulance shall be either responding to a bona fide emergency call or specifically directed by a licensed physician to disregard traffic laws in operating the ambulance during and for the purpose of the specific trip or journey that is involved; 2. The ambulance or rescue vehicle shall be equipped with a siren producing an audible signal of an intensity of 100 decibels at a distance of 50 feet from the siren, and with a lamp or lamps emitting an oscillating, rotating or flashing red beam directed in part toward the front of the vehicle, and these lamps shall have sufficient intensity to be visible at 500 feet in normal sunlight, and in addition to other lighting requirements, excluding those vehicles operated in counties with a population in excess of 2,000,000, may also operate with a lamp or lamps emitting an oscillating, rotating, or flashing green light; 3. The aforesaid siren and lamp or lamps shall be in operation at all times when it is reasonably necessary to warn pedestrians and other drivers of the approach thereof during such trip or journey, except that in a municipality with a population over 1,000,000, the siren and lamp or lamps shall be in operation only when it is reasonably necessary to warn pedestrians and other drivers of the approach thereof while responding to an emergency call or transporting a patient who presents a combination of circumstances resulting in a need for immediate medical intervention; 4. Whenever the ambulance or rescue vehicle is operated at a speed in excess of 40 miles per hour, the ambulance or rescue vehicle shall be operated in complete conformance with every other motor vehicle law and regulation of this State and of the political subdivision in which the ambulance or rescue vehicle is operated, relating to the operation of motor vehicles, as such provision applies to motor vehicles in general, except laws and regulations pertaining to compliance with official traffic-control devices or to vehicular operation upon the right half of the roadway; and 5. The ambulance shall display registration plates identifying the vehicle as an ambulance. (a-5) The driver of an ambulance or rescue vehicle may proceed past a red traffic control signal or stop sign if the ambulance or rescue vehicle is making use of both the audible and visual signals meeting the requirement of this Section, but only after slowing down as necessary for safe operation."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) The foregoing provisions do not relieve the driver of an ambulance or rescue vehicle from the duty of driving with due regard for the safety of all persons, nor do such provisions protect the driver from the consequences resulting from the reckless disregard for the safety of others."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 103-484, eff. 1-1-24.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 103-484, eff. 1-1-24.)",
+  "publicActs": [
+    {
+      "publicAct": "103-484",
+      "effectiveDate": "1-1-24"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "9f861b98e406695c9380b91f146a7749f8d2b29c1e9e34b403bdaa7a882c9bf8",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0312"
+  ]
+}

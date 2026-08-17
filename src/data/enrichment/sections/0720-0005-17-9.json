@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-17-9",
+  "citation": "720 ILCS 5/17-9",
+  "docName": "072000050K17-9",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K17-9",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:26:51.376Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/17-9",
+  "headingText": "Sec. 17-9. Public aid wire and mail fraud.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/17-9) (from Ch. 38, par. 17-9)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 17-9. Public aid wire and mail fraud."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) Whoever knowingly (i) makes or transmits any communication by means of telephone, wire, radio, or television or (ii) places any communication with the United States Postal Service, or with any private or other mail, package, or delivery service or system, such communication being made, transmitted, placed, or received within the State of Illinois, intending that such communication be made, transmitted, or delivered in furtherance of any plan, scheme, or design to obtain, unlawfully, any benefit or payment under the Illinois Public Aid Code, commits public aid wire and mail fraud."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Whoever knowingly directs or causes any communication to be (i) made or transmitted by means of telephone, wire, radio, or television or (ii) placed with the United States Postal Service, or with any private or other mail, package, or delivery service or system, intending that such communication be made, transmitted, or delivered in furtherance of any plan, scheme, or design to obtain, unlawfully, any benefit or payment under the Illinois Public Aid Code, commits public aid wire and mail fraud."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Sentence. A violation of this Section is a Class 4 felony."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 96-1551, eff. 7-1-11.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 96-1551, eff. 7-1-11.)",
+  "publicActs": [
+    {
+      "publicAct": "96-1551",
+      "effectiveDate": "7-1-11"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "091f9734e79b2e107381dd3d3d04cad7272dbc67c2008bbc0daf422227026d01",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0707"
+  ]
+}

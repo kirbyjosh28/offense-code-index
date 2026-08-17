@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-12-403",
+  "citation": "625 ILCS 5/12-403",
+  "docName": "062500050K12-403",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K12-403",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:18:14.801Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/12-403",
+  "headingText": "Sec. 12-403. Sale or lease of retreaded or \"recapped\" pneumatic tire. No person or organization shall sell or lease or offer for sale or lease, for use on a highway, any pneumatic tire produced or rebuilt by a process in which tread material is attached to a used tire, unless the tire, tread material, labelling and certification, before and after processing, conform to Part 571.117 of Title 49 of the Code of Federal Regulations.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/12-403) (from Ch. 95 1/2, par. 12-403)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 12-403. Sale or lease of retreaded or \"recapped\" pneumatic tire. No person or organization shall sell or lease or offer for sale or lease, for use on a highway, any pneumatic tire produced or rebuilt by a process in which tread material is attached to a used tire, unless the tire, tread material, labelling and certification, before and after processing, conform to Part 571.117 of Title 49 of the Code of Federal Regulations."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 83-213.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 83-213.)",
+  "publicActs": [
+    {
+      "publicAct": "83-213",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "21b81d946067c6c4970bb2198a869a5ad85f8a2d2f7542477d16353726544865",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0360"
+  ]
+}

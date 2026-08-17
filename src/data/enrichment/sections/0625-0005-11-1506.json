@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-1506",
+  "citation": "625 ILCS 5/11-1506",
+  "docName": "062500050K11-1506",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-1506",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:16:11.666Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-1506",
+  "headingText": "Sec. 11-1506. Carrying articles. No person operating a bicycle shall carry any package, bundle or article which prevents the use of both hands in the control and operation of the bicycle. A person operating a bicycle shall keep at least one hand on the handlebars at all times.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-1506) (from Ch. 95 1/2, par. 11-1506)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-1506. Carrying articles. No person operating a bicycle shall carry any package, bundle or article which prevents the use of both hands in the control and operation of the bicycle. A person operating a bicycle shall keep at least one hand on the handlebars at all times."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 82-132.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 82-132.)",
+  "publicActs": [
+    {
+      "publicAct": "82-132",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "1d354e1ecd43765c717df94ff9cf4e3fdc4f52a6fc2474ac9c01966c590b4af9",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0326"
+  ]
+}

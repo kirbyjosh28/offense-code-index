@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-12-32",
+  "citation": "720 ILCS 5/12-32",
+  "docName": "072000050K12-32",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K12-32",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:24:31.733Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/12-32",
+  "headingText": "Sec. 12-32. Ritual mutilation.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/12-32) (from Ch. 38, par. 12-32)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 12-32. Ritual mutilation."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits ritual mutilation when he or she knowingly mutilates, dismembers or tortures another person as part of a ceremony, rite, initiation, observance, performance or practice, and the victim did not consent or under such circumstances that the defendant knew or should have known that the victim was unable to render effective consent."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Ritual mutilation does not include the practice of male circumcision or a ceremony, rite, initiation, observance, or performance related thereto."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Sentence. Ritual mutilation is a Class 2 felony."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 96-1551, eff. 7-1-11.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 96-1551, eff. 7-1-11.)",
+  "publicActs": [
+    {
+      "publicAct": "96-1551",
+      "effectiveDate": "7-1-11"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "7bbe1b9d22a5bc306a6a6fe2086568452c0c1ae4580e04045e36c46b0d483a72",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0649"
+  ]
+}

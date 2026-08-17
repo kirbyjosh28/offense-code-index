@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-1427",
+  "citation": "625 ILCS 5/11-1427",
+  "docName": "062500050K11-1427",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-1427",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:15:56.662Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-1427",
+  "headingText": "Sec. 11-1427. Illegal operation of an all-terrain vehicle or off-highway motorcycle. It is unlawful for any person to drive or operate any all-terrain vehicle or off-highway motorcycle in the following ways:",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-1427)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-1427. Illegal operation of an all-terrain vehicle or off-highway motorcycle. It is unlawful for any person to drive or operate any all-terrain vehicle or off-highway motorcycle in the following ways:"
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) Careless Operation. No person shall operate any all-terrain vehicle or off-highway motorcycle in a careless or heedless manner so as to be grossly indifferent to the person or property of other persons, or at a rate of speed greater than will permit him in the exercise of reasonable care to bring the all-terrain vehicle or off-highway motorcycle to a stop within the assured clear distance ahead."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Reckless Operation. No person shall operate any all-terrain vehicle or off-highway motorcycle in such a manner as to endanger the life, limb or property of any person."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Within any nature preserve as defined in Section 3.11 of the Illinois Natural Areas Preservation Act."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) On the tracks or right of way of an operating railroad."
+    },
+    {
+      "type": "subsection",
+      "label": "(e)",
+      "text": "(e) In any tree nursery or planting in a manner which damages or destroys growing stock, or creates a substantial risk thereto."
+    },
+    {
+      "type": "subsection",
+      "label": "(f)",
+      "text": "(f) On private property, without the written or verbal consent of the owner or lessee thereof. Any person operating an all-terrain vehicle or off-highway motorcycle upon lands of another shall stop and identify himself upon the request of the landowner or his duly authorized representative, and, if requested to do so by the landowner shall promptly remove the all-terrain vehicle or off-highway motorcycle from the premises."
+    },
+    {
+      "type": "subsection",
+      "label": "(g)",
+      "text": "(g) Notwithstanding any other law to the contrary, an owner, lessee, or occupant of premises owes no duty of care to keep the premises safe for entry or use by others for use by an all-terrain vehicle or off-highway motorcycle, or to give warning of any condition, use, structure or activity on such premises. This subsection does not apply where permission to drive or operate an all-terrain vehicle or off-highway motorcycle is given for a valuable consideration other than to this State, any political subdivision or municipality of this State, or any landowner who is paid with funds from the Off-Highway Vehicle Trails Fund. In the case of land leased to the State or a subdivision of the State, any consideration received is not valuable consideration within the meaning of this Section."
+    },
+    {
+      "type": "paragraph",
+      "text": "Nothing in this subsection limits in any way liability which otherwise exists for willful or malicious failure to guard or warn against a dangerous condition, use, structure, or activity."
+    },
+    {
+      "type": "subsection",
+      "label": "(h)",
+      "text": "(h) On publicly owned lands unless such lands are designated for use by all-terrain vehicles or off-highway motorcycles. For publicly owned lands to be designated for use by all-terrain vehicles or off-highway motorcycles a public hearing shall be conducted by the governmental entity that has jurisdiction over the proposed land prior to the designation."
+    },
+    {
+      "type": "paragraph",
+      "text": "Nothing in this subsection limits in any way liability which otherwise exists for willful or malicious failure to guard or warn against a dangerous condition, use, structure, or activity."
+    },
+    {
+      "type": "paragraph",
+      "text": "(h-1) At a rate of speed too fast for conditions, and the fact that the speed of the all-terrain vehicle or off-highway motorcycle does not exceed the applicable maximum speed limit allowed does not relieve the driver from the duty to decrease speed as may be necessary to avoid colliding with any person, vehicle, or object within legal requirements and the duty of all persons to use due care."
+    },
+    {
+      "type": "paragraph",
+      "text": "(h-2) On the frozen surface of public waters of this State within 100 feet of a person, including a skater, not in or upon an all-terrain vehicle or off-highway motorcycle; within 100 feet of a person engaged in fishing, except at the minimum speed required to maintain forward movement of the all-terrain vehicle or off-highway motorcycle; on an area which has been cleared of snow for skating purposes unless the area is necessary for access to the frozen waters of this State."
+    },
+    {
+      "type": "paragraph",
+      "text": "(h-3) Within 100 feet of a dwelling between midnight and 6 a.m. at a speed greater than the minimum required to maintain forward movement of the all-terrain vehicle or off-highway motorcycle. This subdivision (h-5) does not apply on private property where verbal or written consent of the owner or lessee has been granted to drive or operate an all-terrain vehicle or off-highway motorcycle upon the private property or frozen waters of this State."
+    },
+    {
+      "type": "subsection",
+      "label": "(i)",
+      "text": "(i) Other Prohibitions."
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) No person, except persons permitted by law, shall operate or ride any all-terrain vehicle or off-highway motorcycle with any firearm in his or her possession unless he or she is in compliance with Section 2.33 of the Wildlife Code. (2) No person shall operate any all-terrain vehicle or off-highway motorcycle emitting pollutants in violation of standards established pursuant to the Environmental Protection Act. (3) No person shall deposit from an all-terrain vehicle or off-highway motorcycle on the snow, ice or ground surface, trash, glass, garbage, insoluble material, or other offensive matter. (Source: P.A. 90-14, eff. 9-1-97; 90-287, eff. 1-1-98.)"
+    }
+  ],
+  "sourceLine": null,
+  "publicActs": [],
+  "repealed": false,
+  "bodyHash": "c3b6fc626299833e964945a78ac7d94175438678d5cdcd605459841c2f2b6553",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0316"
+  ]
+}

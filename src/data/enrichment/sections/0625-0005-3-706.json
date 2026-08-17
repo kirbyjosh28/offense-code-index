@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-3-706",
+  "citation": "625 ILCS 5/3-706",
+  "docName": "062500050K3-706",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K3-706",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:20:32.947Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/3-706",
+  "headingText": "Sec. 3-706. Owner to return evidences of registration upon cancellation, revocation or suspension. Whenever the Secretary of State cancels or revokes the registration of a vehicle or a certificate of title, registration card, registration sticker or stickers or digital registration sticker or stickers, registration plate or plates or digital registration plate or plates, or a nonresident or other permit or the license of any dealer or wrecker, the owner or person in possession of the same shall immediately return the evidences of registration, title or license so cancelled or revoked to the Secretary.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/3-706) (from Ch. 95 1/2, par. 3-706)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 3-706. Owner to return evidences of registration upon cancellation, revocation or suspension. Whenever the Secretary of State cancels or revokes the registration of a vehicle or a certificate of title, registration card, registration sticker or stickers or digital registration sticker or stickers, registration plate or plates or digital registration plate or plates, or a nonresident or other permit or the license of any dealer or wrecker, the owner or person in possession of the same shall immediately return the evidences of registration, title or license so cancelled or revoked to the Secretary."
+    },
+    {
+      "type": "paragraph",
+      "text": "Whenever the Secretary suspends the registration of a vehicle or the license of any dealer or wrecker, the owner or person in possession of the same, upon request by the Secretary, shall immediately return all evidence of the registration or the license so suspended to the Secretary."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 101-395, eff. 8-16-19.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 101-395, eff. 8-16-19.)",
+  "publicActs": [
+    {
+      "publicAct": "101-395",
+      "effectiveDate": "8-16-19"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "ed8d915f1fddc3af48b35fdb9f255fbbf7d9365586174fd6e2810d826186208f",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0040"
+  ]
+}

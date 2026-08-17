@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-17-20",
+  "citation": "720 ILCS 5/17-20",
+  "docName": "072000050K17-20",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K17-20",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:26:04.883Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/17-20",
+  "headingText": "Sec. 17-20. Obstructing gas, water, or electric current meters. A person commits obstructing gas, water, or electric current meters when he or she knowingly, and with intent to injure or defraud a company, body corporate, copartnership, or individual, injures, alters, obstructs, or prevents the action of a meter provided for the purpose of measuring and registering the quantity of gas, water, or electric current consumed by or at a burner, orifice, or place, or supplied to a lamp, motor, machine, or appliance, or causes, procures, or aids the injuring or altering of any such meter or the obstruction or prevention of its action, or makes or causes to be made with a gas pipe, water pipe, or electrical conductor any connection so as to conduct or supply illumination or inflammable gas, water, or electric current to any burner, orifice, lamp, motor, or other machine or appliance from which the gas, water, or electricity may be consumed or utilized without passing through or being registered by a meter or without the consent or acquiescence of the company, municipal corporation, body corporate, copartnership, or individual furnishing or transmitting the gas, water, or electric current through the gas pipe, water pipe, or electrical conductor. A violation of this Section is a Class B misdemeanor.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/17-20)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 17-20. Obstructing gas, water, or electric current meters. A person commits obstructing gas, water, or electric current meters when he or she knowingly, and with intent to injure or defraud a company, body corporate, copartnership, or individual, injures, alters, obstructs, or prevents the action of a meter provided for the purpose of measuring and registering the quantity of gas, water, or electric current consumed by or at a burner, orifice, or place, or supplied to a lamp, motor, machine, or appliance, or causes, procures, or aids the injuring or altering of any such meter or the obstruction or prevention of its action, or makes or causes to be made with a gas pipe, water pipe, or electrical conductor any connection so as to conduct or supply illumination or inflammable gas, water, or electric current to any burner, orifice, lamp, motor, or other machine or appliance from which the gas, water, or electricity may be consumed or utilized without passing through or being registered by a meter or without the consent or acquiescence of the company, municipal corporation, body corporate, copartnership, or individual furnishing or transmitting the gas, water, or electric current through the gas pipe, water pipe, or electrical conductor. A violation of this Section is a Class B misdemeanor."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 96-1551, eff. 7-1-11.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 96-1551, eff. 7-1-11.)",
+  "publicActs": [
+    {
+      "publicAct": "96-1551",
+      "effectiveDate": "7-1-11"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "a84e1ff79ed3bb9b7fb1790a7f218f0c6b3e97ca554414cf53db2a4192473b55",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0721"
+  ]
+}

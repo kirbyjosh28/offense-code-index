@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-12-603.1",
+  "citation": "625 ILCS 5/12-603.1",
+  "docName": "062500050K12-603.1",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K12-603.1",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:18:31.331Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/12-603.1",
+  "headingText": "Sec. 12-603.1. Driver and passenger required to use safety belts, exceptions and penalty.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/12-603.1) (from Ch. 95 1/2, par. 12-603.1)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 12-603.1. Driver and passenger required to use safety belts, exceptions and penalty."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) Each driver and passenger of a motor vehicle operated on a street or highway in this State shall wear a properly adjusted and fastened seat safety belt. A child less than 8 years of age shall be protected as required pursuant to the Child Passenger Protection Act. Each driver of a motor vehicle transporting a child 8 years of age or more, but less than 16 years of age, shall secure the child in a properly adjusted and fastened seat safety belt as required under the Child Passenger Protection Act. Each driver of a motor vehicle transporting a passenger who is unable, due to infirmity, illness, or age, to properly adjust and fasten a seat safety belt and is not exempted from wearing a seat safety belt under subsection (b) shall secure the passenger in a properly adjusted and fastened seat safety belt as required under this Section."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Paragraph (a) shall not apply to any of the following:"
+    },
+    {
+      "type": "paragraph",
+      "text": "1. A driver or passenger frequently stopping and leaving the vehicle or delivering property from the vehicle, if the speed of the vehicle between stops does not exceed 15 miles per hour. 2. A driver or passenger possessing a written statement from a physician that such person is unable, for medical or physical reasons, to wear a seat safety belt. 3. A driver or passenger possessing an official certificate or license endorsement issued by the appropriate agency in another state or country indicating that the driver is unable for medical, physical, or other valid reasons to wear a seat safety belt. 4. A driver operating a motor vehicle in reverse."
+    },
+    {
+      "type": "paragraph",
+      "text": "5. A motor vehicle with a model year prior to 1965."
+    },
+    {
+      "type": "paragraph",
+      "text": "6. A motorcycle or motor driven cycle."
+    },
+    {
+      "type": "paragraph",
+      "text": "7. A moped."
+    },
+    {
+      "type": "paragraph",
+      "text": "8. A motor vehicle which is not required to be equipped with seat safety belts under federal law. 9. A motor vehicle operated by a rural letter carrier of the United States postal service while performing duties as a rural letter carrier. 10. A driver or passenger of an authorized emergency vehicle, except this exception does not apply to vehicles of the fire department; vehicles of the Office of the State Fire Marshal; or ambulances, unless the delivery of life-saving measures prohibits the use of a seat safety belt. 11. A back seat passenger of a taxicab."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Failure to wear a seat safety belt in violation of this Section shall not be considered evidence of negligence, shall not limit the liability of an insurer, and shall not diminish any recovery for damages arising out of the ownership, maintenance, or operation of a motor vehicle."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) A violation of this Section shall be a petty offense and subject to a fine not to exceed $25."
+    },
+    {
+      "type": "subsection",
+      "label": "(e)",
+      "text": "(e) (Blank)."
+    },
+    {
+      "type": "subsection",
+      "label": "(f)",
+      "text": "(f) A law enforcement officer may not search or inspect a motor vehicle, its contents, the driver, or a passenger solely because of a violation of this Section."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 97-16, eff. 1-1-12; 97-333, eff. 8-12-11; 98-451, eff. 8-16-13.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 97-16, eff. 1-1-12; 97-333, eff. 8-12-11; 98-451, eff. 8-16-13.)",
+  "publicActs": [
+    {
+      "publicAct": "97-16",
+      "effectiveDate": "1-1-12"
+    },
+    {
+      "publicAct": "97-333",
+      "effectiveDate": "8-12-11"
+    },
+    {
+      "publicAct": "98-451",
+      "effectiveDate": "8-16-13"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "6b6b25e4453e01e2054d467c4e5367b8eca075d4f88725475135bb05f58e9e15",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0386",
+    "offense-0387"
+  ]
+}

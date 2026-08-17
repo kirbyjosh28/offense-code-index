@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-7-603",
+  "citation": "625 ILCS 5/7-603",
+  "docName": "062500050K7-603",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K7-603",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:22:15.072Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/7-603",
+  "headingText": "Sec. 7-603. Illegal insurance cards - penalty. No person shall alter an invalid insurance card to make it appear valid. No person knowingly shall make, sell or otherwise make available an invalid or counterfeit insurance card.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/7-603) (from Ch. 95 1/2, par. 7-603)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 7-603. Illegal insurance cards - penalty. No person shall alter an invalid insurance card to make it appear valid. No person knowingly shall make, sell or otherwise make available an invalid or counterfeit insurance card."
+    },
+    {
+      "type": "paragraph",
+      "text": "Any person convicted of a violation of this Section is guilty of a Class 4 felony."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 85-1201.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 85-1201.)",
+  "publicActs": [
+    {
+      "publicAct": "85-1201",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "24c2f4bd519afe13b5af271bcfc868e579c8af84dbdb31a3409b027d0b0caf97",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0176"
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-17-11.2",
+  "citation": "720 ILCS 5/17-11.2",
+  "docName": "072000050K17-11.2",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K17-11.2",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:25:57.327Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/17-11.2",
+  "headingText": "Sec. 17-11.2. Airbag fraud.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/17-11.2)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 17-11.2. Airbag fraud."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) Definitions. In this Section:"
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Airbag\" means a motor vehicle inflatable occupant restraint system device that is part of a vehicle's supplemental restraint system."
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Counterfeit supplemental restraint system component\" means a replacement supplemental restraint system component, including, but not limited to, an airbag, that displays a mark identical to, or substantially similar to, the genuine mark of a motor vehicle manufacturer or a supplier of parts to the manufacturer of a motor vehicle without authorization from that manufacturer or supplier, respectively."
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Non-functional airbag\" means a replacement airbag that meets any of the following criteria:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) the airbag was previously deployed or damaged;"
+    },
+    {
+      "type": "subsection",
+      "label": "(2)",
+      "text": "(2) the airbag has an electric fault that is detected by the vehicle's diagnostic system when the installation procedure is completed and the vehicle is returned to the customer who requested the work to be performed or when ownership is intended to be transferred; (3) the airbag includes a part or object, including a supplemental restraint system component, that is installed in a motor vehicle to mislead the owner or operator of the motor vehicle into believing that a functional airbag has been installed; or (4) the airbag is subject to the provisions of 49 U.S.C. 30120(j). \"Supplemental restraint system\" means a passive inflatable motor vehicle occupant crash protection system designed for use in conjunction with a seat belt assembly as defined in 49 CFR 571.209. \"Supplemental restraint system\" includes one or more airbags and all components required to ensure that an airbag works as designed by the vehicle manufacturer, including both of the following:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) the airbag operates as designed in the event of a crash; and (2) the airbag is designed to meet federal motor vehicle safety standards for the specific make, model, and year of the vehicle in which it is or will be installed. (b) A person commits airbag fraud when he or she, for consideration, knowingly:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) imports, manufactures, sells, offers for sale, installs, or reinstalls in a vehicle a counterfeit supplemental restraint system component, a non-functional airbag, or an object that does not comply with federal safety regulations for the make, model, and year of the vehicle in which it is or will be installed; (2) sells, offers for sale, installs, or reinstalls in any motor vehicle a device that causes a motor vehicle's diagnostic system to inaccurately indicate that the motor vehicle is equipped with a properly functioning airbag; or (3) sells, leases, trades, or transfers a motor vehicle if the person knows that a counterfeit supplemental restraint system component, a non-functional airbag, or an object that does not comply with federal safety regulations for the make, model, and year of the vehicle as part of a vehicle inflatable restraint system. (c) This Section does not apply to an owner or employee of a motor vehicle dealership or the owner of a vehicle, who, before the sale of the vehicle, does not have knowledge that the vehicle's airbag, or another component of the vehicle's supplemental restraint system, is counterfeit or non-functioning."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) Sentence. A violation of this Section is a Class A misdemeanor."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 103-900, eff. 8-9-24; 104-417, eff. 8-15-25.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 103-900, eff. 8-9-24; 104-417, eff. 8-15-25.)",
+  "publicActs": [
+    {
+      "publicAct": "103-900",
+      "effectiveDate": "8-9-24"
+    },
+    {
+      "publicAct": "104-417",
+      "effectiveDate": "8-15-25"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "5440e7e6e244ede2c0fa862a20ce14657c2ed08e6f1bc14e40f1818aa8194192",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0716"
+  ]
+}

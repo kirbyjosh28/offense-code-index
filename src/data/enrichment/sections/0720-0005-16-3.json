@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-16-3",
+  "citation": "720 ILCS 5/16-3",
+  "docName": "072000050K16-3",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K16-3",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:25:39.557Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/16-3",
+  "headingText": "Sec. 16-3. Theft of labor or services or use of property.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/16-3) (from Ch. 38, par. 16-3)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 16-3. Theft of labor or services or use of property."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits theft when he or she knowingly obtains the temporary use of property, labor or services of another which are available only for hire, by means of threat or deception or knowing that such use is without the consent of the person providing the property, labor or services. For the purposes of this subsection, library material is available for hire."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) A person commits theft when after (1) renting or leasing a motor vehicle, (2) obtaining a motor vehicle through a \"driveaway\" service mode of transportation, (3) renting or leasing equipment exceeding $500 in value including tools, construction or industry equipment, and such items as linens, tableware, tents, tables, chairs and other equipment specially rented for a party or special event, or (4) renting or leasing any other type of personal property exceeding $500 in value, under an agreement in writing which provides for the return of the vehicle, equipment, or other personal property to a particular place at a particular time, he or she without good cause knowingly fails to return the vehicle, equipment, or other personal property to that place within the time specified, and is thereafter served or sent a written demand mailed to the last known address, made by certified mail return receipt requested, to return the vehicle, equipment, or other personal property within 3 days from the mailing of the written demand, and who without good cause knowingly fails to return the vehicle, equipment, or any other personal property to any place of business of the lessor within the return period. The trier of fact may infer evidence that the person is without good cause if the person signs the agreement with a name or address other than his or her own."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) A person commits theft when he or she borrows from a library facility library material which has an aggregate value of $50 or more pursuant to an agreement with or procedure established by the library facility for the return of such library material, and knowingly without good cause fails to return the library material so borrowed in accordance with such agreement or procedure, and further knowingly without good cause fails to return such library material within 30 days after receiving written notice by certified mail from the library facility demanding the return of such library material."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) Sentence."
+    },
+    {
+      "type": "paragraph",
+      "text": "A person convicted of theft under subsection (a) is guilty of a Class A misdemeanor, except that the theft of library material where the aggregate value exceeds $300 is a Class 3 felony. A person convicted of theft under subsection (b) of this Section is guilty of a Class 4 felony. A person convicted of theft under subsection (c) is guilty of a petty offense for which the offender may be fined an amount not to exceed $500 and shall be ordered to reimburse the library for postage costs, attorney's fees, and actual replacement costs of the materials not returned, except that theft under subsection (c) where the aggregate value exceeds $300 is a Class 3 felony. In addition to any other penalty imposed, the court may order a person convicted under this Section to make restitution to the victim of the offense."
+    },
+    {
+      "type": "paragraph",
+      "text": "For the purpose of sentencing on theft of library material, separate transactions totalling more than $300 within a 90-day period shall constitute a single offense."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 99-534, eff. 1-1-17.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 99-534, eff. 1-1-17.)",
+  "publicActs": [
+    {
+      "publicAct": "99-534",
+      "effectiveDate": "1-1-17"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "004425f53c50d5942ab78df3ff4a86077363bcca744f685eba508bda077abaaf",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0669"
+  ]
+}

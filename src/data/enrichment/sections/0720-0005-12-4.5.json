@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-12-4.5",
+  "citation": "720 ILCS 5/12-4.5",
+  "docName": "072000050K12-4.5",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K12-4.5",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:24:40.754Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/12-4.5",
+  "headingText": "Sec. 12-4.5. Tampering with food, drugs or cosmetics.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/12-4.5) (from Ch. 38, par. 12-4.5)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 12-4.5. Tampering with food, drugs or cosmetics."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person who knowingly puts any substance capable of causing death or great bodily harm to a human being into any food, drug or cosmetic offered for sale or consumption commits tampering with food, drugs or cosmetics."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Sentence. Tampering with food, drugs or cosmetics is a Class 2 felony."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 96-1551, eff. 7-1-11.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 96-1551, eff. 7-1-11.)",
+  "publicActs": [
+    {
+      "publicAct": "96-1551",
+      "effectiveDate": "7-1-11"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "d4b7be9136b3091f66251515be2923752bf8ed6d534e5884787eef7079a9ffee",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0624"
+  ]
+}

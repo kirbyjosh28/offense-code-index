@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-18c-1701",
+  "citation": "625 ILCS 5/18c-1701",
+  "docName": "062500050K18c-1701",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K18c-1701",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:19:53.923Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/18c-1701",
+  "headingText": "Sec. 18c-1701. Violations Defined. Each person who fails to comply, in whole or in part, with any provision of this Chapter, Commission regulations or orders shall have committed a violation of this Chapter. Likewise, any person who aids or abets another in such failure to comply shall have committed a violation of this Chapter. The agent of a carrier shall not be found to have aided or abetted in violation of this Chapter where the act of the agent was required by this Chapter, Commission regulations or orders. The act or omission of any officer, employee, or agent within the scope of such person's office, employment or agency shall be deemed the act or omission of the business entity; such entity shall be named as the party defendant or respondent and the officer, employee, or agent shall not be held liable. Failure to comply with more than one provision of this Chapter or regulations or orders hereunder shall constitute multiple violations. Each day's continuance of a violation shall constitute a separate violation.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/18c-1701) (from Ch. 95 1/2, par. 18c-1701)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 18c-1701. Violations Defined. Each person who fails to comply, in whole or in part, with any provision of this Chapter, Commission regulations or orders shall have committed a violation of this Chapter. Likewise, any person who aids or abets another in such failure to comply shall have committed a violation of this Chapter. The agent of a carrier shall not be found to have aided or abetted in violation of this Chapter where the act of the agent was required by this Chapter, Commission regulations or orders. The act or omission of any officer, employee, or agent within the scope of such person's office, employment or agency shall be deemed the act or omission of the business entity; such entity shall be named as the party defendant or respondent and the officer, employee, or agent shall not be held liable. Failure to comply with more than one provision of this Chapter or regulations or orders hereunder shall constitute multiple violations. Each day's continuance of a violation shall constitute a separate violation."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 84-796.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 84-796.)",
+  "publicActs": [
+    {
+      "publicAct": "84-796",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "0d46d391d3e14d871f2445523e6a4d9f84da79b0fc69523be9dcd23ecceffac4",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0456"
+  ]
+}

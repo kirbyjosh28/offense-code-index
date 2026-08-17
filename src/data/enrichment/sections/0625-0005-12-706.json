@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-12-706",
+  "citation": "625 ILCS 5/12-706",
+  "docName": "062500050K12-706",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K12-706",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:18:59.851Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/12-706",
+  "headingText": "Sec. 12-706. Fire apparatus-Safety belts.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/12-706) (from Ch. 95 1/2, par. 12-706)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 12-706. Fire apparatus-Safety belts."
+    },
+    {
+      "type": "paragraph",
+      "text": "No fire apparatus equipped to carry firemen on the outside of such vehicle on the sides, or rear, or both, shall be operated without first installing on the fire apparatus on the sides and rear thereof a sufficient number of safety belts and safety belt connections to protect the maximum number of firemen who can occupy the sides and rear of such apparatus while responding to alarms of fire. The municipality shall cause inspection of such safety equipment at least semi-annually."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 77-37.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 77-37.)",
+  "publicActs": [
+    {
+      "publicAct": "77-37",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "bf07af77d2e78de5060decb7f19398c6c46b04c2886af59431c34ca0d5e9dd3d",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0409"
+  ]
+}

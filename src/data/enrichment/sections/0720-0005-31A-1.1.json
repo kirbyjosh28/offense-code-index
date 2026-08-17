@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-31A-1.1",
+  "citation": "720 ILCS 5/31A-1.1",
+  "docName": "072000050K31A-1.1",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K31A-1.1",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:29:21.530Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/31A-1.1",
+  "headingText": "Sec. 31A-1.1. Bringing Contraband into a Penal Institution; Possessing Contraband in a Penal Institution.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/31A-1.1) (from Ch. 38, par. 31A-1.1)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 31A-1.1. Bringing Contraband into a Penal Institution; Possessing Contraband in a Penal Institution."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits bringing contraband into a penal institution when he or she knowingly and without authority of any person designated or authorized to grant this authority (1) brings an item of contraband into a penal institution or (2) causes another to bring an item of contraband into a penal institution or (3) places an item of contraband in such proximity to a penal institution as to give an inmate access to the contraband."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) A person commits possessing contraband in a penal institution when he or she knowingly possesses contraband in a penal institution, regardless of the intent with which he or she possesses it."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) (Blank)."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) Sentence."
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) Bringing into or possessing alcoholic liquor in a penal institution is a Class 4 felony. (2) Bringing into or possessing cannabis in a penal institution is a Class 3 felony. (3) Bringing into or possessing any amount of a controlled substance classified in Schedules III, IV or V of Article II of the Illinois Controlled Substances Act in a penal institution is a Class 2 felony. (4) Bringing into or possessing any amount of a controlled substance classified in Schedules I or II of Article II of the Illinois Controlled Substances Act in a penal institution is a Class 1 felony. (5) Bringing into or possessing a hypodermic syringe in a penal institution is a Class 1 felony. (6) Bringing into or possessing a weapon, tool to defeat security mechanisms, cutting tool, or electronic contraband in a penal institution is a Class 1 felony. (7) Bringing into or possessing a firearm, firearm ammunition, or explosive in a penal institution is a Class X felony. (e) It shall be an affirmative defense to subsection (b), that the possession was specifically authorized by rule, regulation, or directive of the governing authority of the penal institution or order issued under it."
+    },
+    {
+      "type": "subsection",
+      "label": "(f)",
+      "text": "(f) It shall be an affirmative defense to subsection (a)(1) and subsection (b) that the person bringing into or possessing contraband in a penal institution had been arrested, and that person possessed the contraband at the time of his or her arrest, and that the contraband was brought into or possessed in the penal institution by that person as a direct and immediate result of his or her arrest."
+    },
+    {
+      "type": "subsection",
+      "label": "(g)",
+      "text": "(g) Items confiscated may be retained for use by the Department of Corrections or disposed of as deemed appropriate by the Chief Administrative Officer in accordance with Department rules or disposed of as required by law."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 97-1108, eff. 1-1-13; 98-756, eff. 7-16-14.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 97-1108, eff. 1-1-13; 98-756, eff. 7-16-14.)",
+  "publicActs": [
+    {
+      "publicAct": "97-1108",
+      "effectiveDate": "1-1-13"
+    },
+    {
+      "publicAct": "98-756",
+      "effectiveDate": "7-16-14"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "24f0bf074fb40c90becb92259e35b3cf73aac08a1a23b3e6fdcba4b274f77ece",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0860"
+  ]
+}

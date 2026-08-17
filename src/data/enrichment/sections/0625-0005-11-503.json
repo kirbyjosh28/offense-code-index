@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-503",
+  "citation": "625 ILCS 5/11-503",
+  "docName": "062500050K11-503",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-503",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:16:53.712Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-503",
+  "headingText": "Sec. 11-503. Reckless driving; aggravated reckless driving.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-503) (from Ch. 95 1/2, par. 11-503)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-503. Reckless driving; aggravated reckless driving."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits reckless driving if he or she:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) drives any vehicle with a willful or wanton disregard for the safety of persons or property; or (2) knowingly drives a vehicle and uses an incline in a roadway, such as a railroad crossing, bridge approach, or hill, to cause the vehicle to become airborne. (b) Every person convicted of reckless driving shall be guilty of a Class A misdemeanor, except as provided under subsections (b-1), (c), and (d) of this Section."
+    },
+    {
+      "type": "paragraph",
+      "text": "(b-1) Except as provided in subsection (d), any person convicted of violating subsection (a), if the violation causes bodily harm to a child or a school crossing guard while the school crossing guard is performing his or her official duties, is guilty of a Class 4 felony."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Every person convicted of committing a violation of subsection (a) shall be guilty of aggravated reckless driving if the violation results in great bodily harm or permanent disability or disfigurement to another. Except as provided in subsection (d) of this Section, aggravated reckless driving is a Class 4 felony."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) Any person convicted of violating subsection (a), if the violation causes great bodily harm or permanent disability or disfigurement to a child or a school crossing guard while the school crossing guard is performing his or her official duties, is guilty of aggravated reckless driving. Aggravated reckless driving under this subsection (d) is a Class 3 felony."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 95-467, eff. 6-1-08.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 95-467, eff. 6-1-08.)",
+  "publicActs": [
+    {
+      "publicAct": "95-467",
+      "effectiveDate": "6-1-08"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "c75bd969d0d0bf01763bc206891560a31d85481662358eac49050c83e20f5d6b",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0210",
+    "offense-0211"
+  ]
+}

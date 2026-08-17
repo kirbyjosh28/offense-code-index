@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-17-1",
+  "citation": "720 ILCS 5/17-1",
+  "docName": "072000050K17-1",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K17-1",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:25:51.340Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/17-1",
+  "headingText": "Sec. 17-1. Deceptive practices.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/17-1) (from Ch. 38, par. 17-1)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 17-1. Deceptive practices."
+    },
+    {
+      "type": "subsection",
+      "label": "(A)",
+      "text": "(A) General deception."
+    },
+    {
+      "type": "paragraph",
+      "text": "A person commits a deceptive practice when, with intent to defraud, the person does any of the following:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) He or she knowingly causes another, by deception or threat, to execute a document disposing of property or a document by which a pecuniary obligation is incurred. (2) Being an officer, manager or other person participating in the direction of a financial institution, he or she knowingly receives or permits the receipt of a deposit or other investment, knowing that the institution is insolvent. (3) He or she knowingly makes a false or deceptive statement addressed to the public for the purpose of promoting the sale of property or services."
+    },
+    {
+      "type": "subsection",
+      "label": "(B)",
+      "text": "(B) Bad checks."
+    },
+    {
+      "type": "paragraph",
+      "text": "A person commits a deceptive practice when:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) With intent to obtain control over property or to pay for property, labor or services of another, or in satisfaction of an obligation for payment of tax under the Retailers' Occupation Tax Act or any other tax due to the State of Illinois, he or she issues or delivers a check or other order upon a real or fictitious depository for the payment of money, knowing that it will not be paid by the depository. The trier of fact may infer that the defendant knows that the check or other order will not be paid by the depository and that the defendant has acted with intent to defraud when the defendant fails to have sufficient funds or credit with the depository when the check or other order is issued or delivered, or when such check or other order is presented for payment and dishonored on each of 2 occasions at least 7 days apart. In this paragraph (B)(1), \"property\" includes rental property (real or personal). (2) He or she issues or delivers a check or other order upon a real or fictitious depository in an amount exceeding $150 in payment of an amount owed on any credit transaction for property, labor or services, or in payment of the entire amount owed on any credit transaction for property, labor or services, knowing that it will not be paid by the depository, and thereafter fails to provide funds or credit with the depository in the face amount of the check or order within 7 days of receiving actual notice from the depository or payee of the dishonor of the check or order."
+    },
+    {
+      "type": "subsection",
+      "label": "(C)",
+      "text": "(C) Bank-related fraud."
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) False statement."
+    },
+    {
+      "type": "paragraph",
+      "text": "A person commits false statement bank fraud if he or she, with intent to defraud, makes or causes to be made any false statement in writing in order to obtain an account with a bank or other financial institution, or to obtain credit from a bank or other financial institution, or to obtain services from a currency exchange, knowing such writing to be false, and with the intent that it be relied upon."
+    },
+    {
+      "type": "paragraph",
+      "text": "For purposes of this subsection (C), a false statement means any false statement representing identity, address, or employment, or the identity, address, or employment of any person, firm, or corporation."
+    },
+    {
+      "type": "subsection",
+      "label": "(2)",
+      "text": "(2) Possession of stolen or fraudulently obtained checks."
+    },
+    {
+      "type": "paragraph",
+      "text": "A person commits possession of stolen or fraudulently obtained checks when he or she possesses, with the intent to obtain access to funds of another person held in a real or fictitious deposit account at a financial institution, makes a false statement or a misrepresentation to the financial institution, or possesses, transfers, negotiates, or presents for payment a check, draft, or other item purported to direct the financial institution to withdraw or pay funds out of the account holder's deposit account with knowledge that such possession, transfer, negotiation, or presentment is not authorized by the account holder or the issuing financial institution. A person shall be deemed to have been authorized to possess, transfer, negotiate, or present for payment such item if the person was otherwise entitled by law to withdraw or recover funds from the account in question and followed the requisite procedures under the law. If the account holder, upon discovery of the withdrawal or payment, claims that the withdrawal or payment was not authorized, the financial institution may require the account holder to submit an affidavit to that effect on a form satisfactory to the financial institution before the financial institution may be required to credit the account in an amount equal to the amount or amounts that were withdrawn or paid without authorization."
+    },
+    {
+      "type": "subsection",
+      "label": "(3)",
+      "text": "(3) Possession of implements of check fraud."
+    },
+    {
+      "type": "paragraph",
+      "text": "A person commits possession of implements of check fraud when he or she possesses, with the intent to defraud and without the authority of the account holder or financial institution, any check imprinter, signature imprinter, or \"certified\" stamp."
+    },
+    {
+      "type": "subsection",
+      "label": "(D)",
+      "text": "(D) Sentence."
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) The commission of a deceptive practice in violation of this Section, except as otherwise provided by this subsection (D), is a Class A misdemeanor. (2) For purposes of paragraphs (A)(1) and (B)(1):"
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) The commission of a deceptive practice in violation of paragraph (A)(1) or (B)(1), when the value of the property so obtained, in a single transaction or in separate transactions within a 90-day period, exceeds $150, is a Class 4 felony. In the case of a prosecution for separate transactions totaling more than $150 within a 90-day period, those separate transactions shall be alleged in a single charge and prosecuted in a single prosecution. (b) The commission of a deceptive practice in violation of paragraph (B)(1) a second or subsequent time is a Class 4 felony. (3) For purposes of paragraph (C)(2), a person who, within any 12-month period, violates paragraph (C)(2) with respect to 3 or more checks or orders for the payment of money at the same time or consecutively, each the property of a different account holder or financial institution, is guilty of a Class 4 felony. (4) For purposes of paragraph (C)(3), a person who within any 12-month period violates paragraph (C)(3) as to possession of 3 or more such devices at the same time or consecutively is guilty of a Class 4 felony."
+    },
+    {
+      "type": "subsection",
+      "label": "(E)",
+      "text": "(E) Civil liability. A person who issues a check or order to a payee in violation of paragraph (B)(1) and who fails to pay the amount of the check or order to the payee within 30 days following either delivery and acceptance by the addressee of a written demand both by certified mail and by first class mail to the person's last known address or attempted delivery of a written demand sent both by certified mail and by first class mail to the person's last known address and the demand by certified mail is returned to the sender with a notation that delivery was refused or unclaimed shall be liable to the payee or a person subrogated to the rights of the payee for, in addition to the amount owing upon such check or order, damages of treble the amount so owing, but in no case less than $100 nor more than $1,500, plus attorney's fees and court costs. An action under this subsection (E) may be brought in small claims court or in any other appropriate court. As part of the written demand required by this subsection (E), the plaintiff shall provide written notice to the defendant of the fact that prior to the hearing of any action under this subsection (E), the defendant may tender to the plaintiff and the plaintiff shall accept, as satisfaction of the claim, an amount of money equal to the sum of the amount of the check and the incurred court costs, including the cost of service of process, and attorney's fees."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 96-1432, eff. 1-1-11; 96-1551, eff. 7-1-11.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 96-1432, eff. 1-1-11; 96-1551, eff. 7-1-11.)",
+  "publicActs": [
+    {
+      "publicAct": "96-1432",
+      "effectiveDate": "1-1-11"
+    },
+    {
+      "publicAct": "96-1551",
+      "effectiveDate": "7-1-11"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "c8b5c4286f2a571e1d55629e1b608064f60361a943e0b798f419e5944f6180d8",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0685"
+  ]
+}

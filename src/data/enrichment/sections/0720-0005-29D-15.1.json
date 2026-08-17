@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-29D-15.1",
+  "citation": "720 ILCS 5/29D-15.1",
+  "docName": "072000050K29D-15.1",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K29D-15.1",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:28:54.513Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/29D-15.1",
+  "headingText": "Sec. 29D-15.1. Causing a catastrophe.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/29D-15.1) (was 720 ILCS 5/20.5-5)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 29D-15.1. Causing a catastrophe."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits the offense of causing a catastrophe if he or she knowingly causes a catastrophe by explosion, fire, flood, collapse of a building, or release of poison, radioactive material, bacteria, virus, or other dangerous and difficult to confine force or substance."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) As used in this Section, \"catastrophe\" means serious physical injury to 5 or more persons, substantial damage to 5 or more buildings or inhabitable structures, or substantial damage to a vital public facility that seriously impairs its usefulness or operation; and \"vital public facility\" means a facility that is necessary to ensure or protect the public health, safety, or welfare, including, but not limited to, a hospital, a law enforcement agency, a fire department, a private or public utility company, a national defense contractor, a facility of the armed forces, or an emergency services agency."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Sentence. Causing a catastrophe is a Class X felony."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 96-710, eff. 1-1-10.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 96-710, eff. 1-1-10.)",
+  "publicActs": [
+    {
+      "publicAct": "96-710",
+      "effectiveDate": "1-1-10"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "db058d1fe3086a842f8625ca04a806ce1df0563bc26ceb9f996cfaa9e036406d",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0837"
+  ]
+}

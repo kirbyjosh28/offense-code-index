@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-6-506",
+  "citation": "625 ILCS 5/6-506",
+  "docName": "062500050K6-506",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K6-506",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:22:00.069Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/6-506",
+  "headingText": "Sec. 6-506. Commercial motor vehicle driver - employer/owner responsibilities.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/6-506) (from Ch. 95 1/2, par. 6-506)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 6-506. Commercial motor vehicle driver - employer/owner responsibilities."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) No employer or commercial motor vehicle owner shall allow, permit, authorize, or require an employee to drive a commercial motor vehicle on the highways if he or she knows or should reasonably know that the employee:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) has a driver's license suspended, revoked or cancelled by any state; or (2) has lost the privilege to drive a commercial motor vehicle in any state; or (3) has been disqualified from driving a commercial motor vehicle; or (4) has more than one CLP or CDL, except as provided by this UCDLA; or (5) is subject to or in violation of an \"out-of-service\" order; or (6) does not have a current CLP or CDL or a CLP or CDL with the proper class or endorsements. An employer may not use a driver to operate a CMV who violates any restriction on the driver's CLP or CDL. (b) No employer or commercial motor vehicle owner shall knowingly allow, permit, authorize, or require a driver to operate a commercial motor vehicle in violation of any law or regulation pertaining to railroad-highway grade crossings."
+    },
+    {
+      "type": "paragraph",
+      "text": "(b-3) No employer or commercial motor vehicle owner shall knowingly allow, permit, authorize, or require a driver to operate a commercial motor vehicle during any period in which the commercial motor vehicle is subject to an \"out-of-service\" order."
+    },
+    {
+      "type": "paragraph",
+      "text": "(b-5) No employer or commercial motor vehicle owner shall knowingly allow, permit, authorize, or require a driver to operate a commercial motor vehicle during any period in which the motor carrier operation is subject to an \"out-of-service\" order."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Any employer convicted of violating subsection (a), (b-3), or (b-5) of this Section, whether individually or in connection with one or more other persons, or as principal agent, or accessory, shall be guilty of a Class A misdemeanor."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 98-176 (see Section 10 of P.A. 98-722 and Section 10 of P.A. 99-414 for the effective date of changes made by P.A. 98-176); 98-722, eff. 7-16-14.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 98-176 (see Section 10 of P.A. 98-722 and Section 10 of P.A. 99-414 for the effective date of changes made by P.A. 98-176); 98-722, eff. 7-16-14.)",
+  "publicActs": [
+    {
+      "publicAct": "98-176",
+      "effectiveDate": null
+    },
+    {
+      "publicAct": "98-722",
+      "effectiveDate": "7-16-14"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "98828e54123110a3872e4ee98b72ec88c6eabb27418ee2f58cf2e14c07e75422",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0161"
+  ]
+}

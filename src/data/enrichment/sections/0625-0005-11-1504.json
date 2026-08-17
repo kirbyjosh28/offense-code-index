@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-1504",
+  "citation": "625 ILCS 5/11-1504",
+  "docName": "062500050K11-1504",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-1504",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:16:08.675Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-1504",
+  "headingText": "Sec. 11-1504. Clinging to vehicles. No person riding upon any bicycle, coaster, roller skates, sled or toy vehicle shall attach the same or himself to any vehicle upon a roadway.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-1504) (from Ch. 95 1/2, par. 11-1504)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-1504. Clinging to vehicles. No person riding upon any bicycle, coaster, roller skates, sled or toy vehicle shall attach the same or himself to any vehicle upon a roadway."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 82-132.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 82-132.)",
+  "publicActs": [
+    {
+      "publicAct": "82-132",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "5736055ced93f0f693718f511934df910a1a60e6e408e2e25c3a94380bf20229",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0324"
+  ]
+}

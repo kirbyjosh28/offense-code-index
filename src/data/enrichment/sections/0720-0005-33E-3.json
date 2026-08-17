@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-33E-3",
+  "citation": "720 ILCS 5/33E-3",
+  "docName": "072000050K33E-3",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K33E-3",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:30:05.084Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/33E-3",
+  "headingText": "Sec. 33E-3. Bid-rigging. A person commits the offense of bid-rigging when he knowingly agrees with any person who is, or but for such agreement would be, a competitor of such person concerning any bid submitted or not submitted by such person or another to a unit of State or local government when with the intent that the bid submitted or not submitted will result in the award of a contract to such person or another and he either (1) provides such person or receives from another information concerning the price or other material term or terms of the bid which would otherwise not be disclosed to a competitor in an independent noncollusive submission of bids or (2) submits a bid that is of such a price or other material term or terms that he does not intend the bid to be accepted.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/33E-3) (from Ch. 38, par. 33E-3)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 33E-3. Bid-rigging. A person commits the offense of bid-rigging when he knowingly agrees with any person who is, or but for such agreement would be, a competitor of such person concerning any bid submitted or not submitted by such person or another to a unit of State or local government when with the intent that the bid submitted or not submitted will result in the award of a contract to such person or another and he either (1) provides such person or receives from another information concerning the price or other material term or terms of the bid which would otherwise not be disclosed to a competitor in an independent noncollusive submission of bids or (2) submits a bid that is of such a price or other material term or terms that he does not intend the bid to be accepted."
+    },
+    {
+      "type": "paragraph",
+      "text": "Bid-rigging is a Class 3 felony. Any person convicted of this offense or any similar offense of any state or the United States which contains the same elements as this offense shall be barred for 5 years from the date of conviction from contracting with any unit of State or local government. No corporation shall be barred from contracting with any unit of State or local government as a result of a conviction under this Section of any employee or agent of such corporation if the employee so convicted is no longer employed by the corporation and: (1) it has been finally adjudicated not guilty or (2) if it demonstrates to the governmental entity with which it seeks to contract and that entity finds that the commission of the offense was neither authorized, requested, commanded, nor performed by a director, officer or a high managerial agent in behalf of the corporation as provided in paragraph (2) of subsection (a) of Section 5-4 of this Code."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 86-150.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 86-150.)",
+  "publicActs": [
+    {
+      "publicAct": "86-150",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "3ae9b79e3e81456a602580a0488d810d41a31487a86f3b09f33189ada63417d0",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0884"
+  ]
+}

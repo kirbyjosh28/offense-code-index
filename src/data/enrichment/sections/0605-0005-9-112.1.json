@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0605-0005-9-112.1",
+  "citation": "605 ILCS 5/9-112.1",
+  "docName": "060500050K9-112.1",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=060500050K9-112.1",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:14:31.048Z",
+  "transport": "cache",
+  "canonicalCitation": "605 ILCS 5/9-112.1",
+  "headingText": "Sec. 9-112.1. No person shall place or cause to be placed any sign or billboard or any advertising of any kind or description upon any State highway or on any other highway outside the corporate limits of any municipality except as may be required by this Code or \"The Illinois Vehicle Code\", as now or hereafter amended. This provision also shall apply to signs, billboards, or any other advertising upon any bridge, other structure, wire, cable, or other device, over or above such highway, whether constructed by the Department or others except signs designating the name of the railroad and the clearance provided. This Section does not prohibit or prevent any public utility from placing upon, above, below or near any of its facilities any signs or markers giving notice of the existence, identification or location of such facilities located upon or adjacent to any such highway. Such signs or markers shall be limited in size and shape to the minimum necessary consistent with the safety of the public in accordance with rules and regulations as promulgated by the Department.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(605 ILCS 5/9-112.1) (from Ch. 121, par. 9-112.1)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 9-112.1. No person shall place or cause to be placed any sign or billboard or any advertising of any kind or description upon any State highway or on any other highway outside the corporate limits of any municipality except as may be required by this Code or \"The Illinois Vehicle Code\", as now or hereafter amended. This provision also shall apply to signs, billboards, or any other advertising upon any bridge, other structure, wire, cable, or other device, over or above such highway, whether constructed by the Department or others except signs designating the name of the railroad and the clearance provided. This Section does not prohibit or prevent any public utility from placing upon, above, below or near any of its facilities any signs or markers giving notice of the existence, identification or location of such facilities located upon or adjacent to any such highway. Such signs or markers shall be limited in size and shape to the minimum necessary consistent with the safety of the public in accordance with rules and regulations as promulgated by the Department."
+    },
+    {
+      "type": "paragraph",
+      "text": "Any person who violates any of the provisions of this Section shall be guilty of a petty offense and fined not less than $10 nor more than $100 for each offense."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 81-840.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 81-840.)",
+  "publicActs": [
+    {
+      "publicAct": "81-840",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "01f81447648820b1859d7b3a95459098fc59e3fdd6d02ea2e0a6e91435f2b5b2",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0542"
+  ]
+}

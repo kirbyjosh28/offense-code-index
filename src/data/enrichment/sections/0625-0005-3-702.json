@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-3-702",
+  "citation": "625 ILCS 5/3-702",
+  "docName": "062500050K3-702",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K3-702",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:20:29.943Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/3-702",
+  "headingText": "Sec. 3-702. Operation of vehicle when registration cancelled, suspended or revoked.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/3-702) (from Ch. 95 1/2, par. 3-702)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 3-702. Operation of vehicle when registration cancelled, suspended or revoked."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) No person shall operate, nor shall an owner knowingly permit to be operated, upon any highway:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) A vehicle the registration of which has been cancelled, suspended or revoked; or (2) A vehicle properly registered in another Reciprocal State, the foreign registration of which, or the Illinois Reciprocity Permit or Decal of which, has been cancelled, suspended or revoked. (b) No person shall use, nor shall any owner use or knowingly permit the use of any Illinois registration plate or plates or digital registration plate or plates or registration sticker or digital registration sticker or any Illinois Reciprocity Permit or Prorate Decal which has been cancelled, suspended or revoked."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Any violation of this Section is a Class A misdemeanor unless:"
+    },
+    {
+      "type": "paragraph",
+      "text": "1. the registration of the motor vehicle has been suspended for noninsurance, then the provisions of Section 3-708 of this Code apply in lieu of this Section. 2. the registration of the motor vehicle has been suspended for failure to purchase a vehicle tax sticker pursuant to Section 3-704.1 of this Code, then the violation shall be considered a business offense and the person shall be required to pay a fine in excess of $500, but not more than $1,000. (Source: P.A. 101-395, eff. 8-16-19.)"
+    }
+  ],
+  "sourceLine": null,
+  "publicActs": [],
+  "repealed": false,
+  "bodyHash": "6ed658f7614ad3fcfc5afc0dda3b686a848e0002eb6bc86bfdd86825329abdb4",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0038"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0605-0005-9-130",
+  "citation": "605 ILCS 5/9-130",
+  "docName": "060500050K9-130",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=060500050K9-130",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:14:40.080Z",
+  "transport": "cache",
+  "canonicalCitation": "605 ILCS 5/9-130",
+  "headingText": "Sec. 9-130. No person, firm, corporation or institution, public or private, shall plow or remove or cause to be plowed or removed ice or snow from any shopping center, parking lot, commercial or institutional service area or driveway or any other public or private service area or driveway and deposit such ice or snow upon a public highway or along the shoulder or edge of a public highway. Such prohibition shall not pertain to a residential driveway or sidewalk.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(605 ILCS 5/9-130) (from Ch. 121, par. 9-130)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 9-130. No person, firm, corporation or institution, public or private, shall plow or remove or cause to be plowed or removed ice or snow from any shopping center, parking lot, commercial or institutional service area or driveway or any other public or private service area or driveway and deposit such ice or snow upon a public highway or along the shoulder or edge of a public highway. Such prohibition shall not pertain to a residential driveway or sidewalk."
+    },
+    {
+      "type": "paragraph",
+      "text": "Any person, firm, corporation or institution, public or private, who violates this Section is guilty of a petty offense."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 83-1362.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 83-1362.)",
+  "publicActs": [
+    {
+      "publicAct": "83-1362",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "344fd72e162dd8c3b535e62ca8e6fa46bf7455a5219347a3b8440927a2a95f5c",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0548"
+  ]
+}

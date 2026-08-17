@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-18-2",
+  "citation": "720 ILCS 5/18-2",
+  "docName": "072000050K18-2",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K18-2",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:26:54.384Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/18-2",
+  "headingText": "Sec. 18-2. Armed robbery.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/18-2) (from Ch. 38, par. 18-2)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 18-2. Armed robbery."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits armed robbery when he or she violates Section 18-1; and"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) he or she carries on or about his or her person or is otherwise armed with a dangerous weapon other than a firearm; or (2) he or she carries on or about his or her person or is otherwise armed with a firearm; or (3) he or she, during the commission of the offense, personally discharges a firearm; or (4) he or she, during the commission of the offense, personally discharges a firearm that proximately causes great bodily harm, permanent disability, permanent disfigurement, or death to another person. (b) Sentence."
+    },
+    {
+      "type": "paragraph",
+      "text": "Armed robbery in violation of subsection (a)(1) is a Class X felony. A violation of subsection (a)(2) is a Class X felony for which 15 years shall be added to the term of imprisonment imposed by the court. A violation of subsection (a)(3) is a Class X felony for which 20 years shall be added to the term of imprisonment imposed by the court. A violation of subsection (a)(4) is a Class X felony for which 25 years or up to a term of natural life shall be added to the term of imprisonment imposed by the court."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 91-404, eff. 1-1-00.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 91-404, eff. 1-1-00.)",
+  "publicActs": [
+    {
+      "publicAct": "91-404",
+      "effectiveDate": "1-1-00"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "1930cd17966f4800d4716da11a6685cdcc53750746f8c1338c92bfa845bf9046",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0746"
+  ]
+}

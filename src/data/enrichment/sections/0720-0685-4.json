@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0685-4",
+  "citation": "720 ILCS 685/4",
+  "docName": "072006850K4",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072006850K4",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T16:41:36.824Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 685/4",
+  "headingText": "Sec. 4. Offenses.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 685/4) (from Ch. 23, par. 2358-4)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 4. Offenses."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) Sale to persons under 21 years of age. No person shall knowingly sell, barter, exchange, deliver or give away or cause or permit or procure to be sold, bartered, exchanged, delivered, or given away tobacco accessories or smoking herbs to any person under 21 years of age."
+    },
+    {
+      "type": "paragraph",
+      "text": "(a-5) Sale of bidi cigarettes. No person shall knowingly sell, barter, exchange, deliver, or give away a bidi cigarette to another person, nor shall a person cause or permit or procure a bidi cigarette to be sold, bartered, exchanged, delivered, or given away to another person."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Sale of cigarette paper. No person shall knowingly offer, sell, barter, exchange, deliver or give away cigarette paper or cause, permit, or procure cigarette paper to be sold, offered, bartered, exchanged, delivered, or given away except from premises or an establishment where other tobacco products are sold. For purposes of this Section, \"tobacco products\" means cigarettes, cigars, smokeless tobacco, or tobacco in any of its forms."
+    },
+    {
+      "type": "paragraph",
+      "text": "(b-5) Sale of flavored wrapping paper and wrapping leaf. A person shall not knowingly sell, give away, barter, exchange, or otherwise furnish to any person any wrapping paper or wrapping leaf, however characterized, including, without limitation, cigarette papers, blunt wraps, cigar wraps, or tubes of paper or leaf, or any similar device, for the purpose of making a roll of tobacco or herbs for smoking, that is or is held out to be, impregnated, scented, or imbibed with, or aged or dipped in, a characterizing flavor, other than tobacco or menthol, including, without limitation, alcoholic or liquor flavor, or both, chocolate, fruit flavoring, vanilla, peanut butter, jelly, or any combination of those flavors or similar child attractive scent or flavor."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Sale of cigarette paper from vending machines. No person shall knowingly offer, sell, barter, exchange, deliver or give away cigarette paper or cause, permit, or procure cigarette paper to be sold, offered, bartered, exchanged, delivered, or given away by use of a vending or coin-operated machine or device. For purposes of this Section, \"cigarette paper\" shall not include any paper that is incorporated into a product to which a tax stamp must be affixed under the Cigarette Tax Act or the Cigarette Use Tax Act."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) Use of identification cards. No person in the furtherance or facilitation of obtaining smoking accessories and smoking herbs shall display or use a false or forged identification card or transfer, alter, or deface an identification card."
+    },
+    {
+      "type": "subsection",
+      "label": "(e)",
+      "text": "(e) Warning to persons under 21 years of age. Any person, firm, partnership, company or corporation operating a place of business where tobacco accessories and smoking herbs are sold or offered for sale shall post in a conspicuous place upon the premises a sign upon which there shall be imprinted the following statement, \"SALE OF TOBACCO ACCESSORIES AND SMOKING HERBS TO PERSONS UNDER 21 YEARS OF AGE OR THE MISREPRESENTATION OF AGE TO PROCURE SUCH A SALE IS PROHIBITED BY LAW\". The sign shall be printed on a white card in red letters at least one-half inch in height."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 101-2, eff. 7-1-19.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 101-2, eff. 7-1-19.)",
+  "publicActs": [
+    {
+      "publicAct": "101-2",
+      "effectiveDate": "7-1-19"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "54f5dd4543b5f9a3ca9c08d46ebccb4250c5318592a0a77410ae758c3ab7b7ec",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0946",
+    "offense-0947",
+    "offense-0948"
+  ]
+}

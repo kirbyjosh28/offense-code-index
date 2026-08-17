@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-4-105.1",
+  "citation": "625 ILCS 5/4-105.1",
+  "docName": "062500050K4-105.1",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K4-105.1",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:21:00.005Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/4-105.1",
+  "headingText": "Sec. 4-105.1. Offenses relating to deletion or falsification of information on title document.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/4-105.1) (from Ch. 95 1/2, par. 4-105.1)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 4-105.1. Offenses relating to deletion or falsification of information on title document."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) It is a violation of this Code for a person to knowingly, with the intent to defraud, surrender or cause to be surrendered any manufacturer's statement of origin, certificate of title, salvage certificate, junking certificate, or other title document, in exchange for a certificate of title or other title document of this State or of any other State or foreign jurisdiction which results in or attempts to result in:"
+    },
+    {
+      "type": "paragraph",
+      "text": "1. The deletion of the words \"S.V.\", \"REBUILT\" or similar notation. 2. The falsification of an odometer reading; or"
+    },
+    {
+      "type": "paragraph",
+      "text": "3. The alteration or deletion of any other information required to be contained on such certificate of title or any other title document of any State or foreign jurisdiction. (b) Presumptions. A title surrendered to another jurisdiction that is subsequently submitted to any person, corporation, or other legal entity, residing or doing business within Illinois, the following presumption shall apply; if the title document fails to contain all of the previous information required by Illinois law, it shall be presumed to have been done so knowingly."
+    },
+    {
+      "type": "paragraph",
+      "text": "It shall be a rebuttable presumption that any title document surrendered or submitted with a false odometer reading shall be presumed to have been done so knowingly."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Sentence. A person convicted of a violation of this Section shall be guilty of a Class A misdemeanor. A person convicted of violating this Section a second or subsequent time shall be guilty of a Class 3 felony."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 91-571, eff. 1-1-00.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 91-571, eff. 1-1-00.)",
+  "publicActs": [
+    {
+      "publicAct": "91-571",
+      "effectiveDate": "1-1-00"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "265f1c88bc83063a8de146291a70a5d25c8bf6ea1decf618c7add92ad3ccc9cf",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0083",
+    "offense-0084"
+  ]
+}

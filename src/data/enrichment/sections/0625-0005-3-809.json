@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-3-809",
+  "citation": "625 ILCS 5/3-809",
+  "docName": "062500050K3-809",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K3-809",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:20:40.462Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/3-809",
+  "headingText": "Sec. 3-809. Farm machinery, exempt vehicles and fertilizer spreaders; registration fee.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/3-809) (from Ch. 95 1/2, par. 3-809)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 3-809. Farm machinery, exempt vehicles and fertilizer spreaders; registration fee."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) Vehicles of the second division having a corn sheller, a well driller, hay press, clover huller, feed mixer and unloader, or other farm machinery permanently mounted thereon and used solely for transporting the same shall be registered upon the filing of a proper application and the payment of a registration fee of $13 per 2-year registration period. This registration fee of $13 shall be paid in full and shall not be reduced even though such registration is made after the beginning of the registration period."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Vehicles exempt from registration under the provisions of subsection A of Section 3-402 of this Code, as amended, may, at the option of the owner, be identified as exempt vehicles by displaying registration plates issued by the Secretary of State. The owner thereof may apply for such permanent, non-transferable registration plates upon the filing of a proper application and the payment of a registration fee of $13. The application for and display of such registration plates for identification purposes by vehicles exempt from registration shall not be deemed as a waiver or rescission of its exempt status, nor make such vehicle subject to registration. Nothing in this Section prohibits the towing of another vehicle by the exempt vehicle if the towed vehicle:"
+    },
+    {
+      "type": "subsection",
+      "label": "(i)",
+      "text": "(i) does not exceed the registered weight of 8,000 pounds; (ii) is used exclusively for transportation to and from the work site; (iii) is not used for carrying counter weights or other material related to the operation of the exempt vehicle while under tow; and (iv) displays proper and current registration plates."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Any single unit self-propelled agricultural fertilizer implement, designed for both on and off road use, equipped with flotation tires and otherwise specially adapted for the application of plant food materials or agricultural chemicals, desiring to be operated upon the highways ladened with load shall be limited to a maximum gross weight of 36,000 pounds, restricted to a highway speed of not more than 30 miles per hour and a legal width of not more than 12 feet. Such vehicles shall be limited to the furthering of agricultural or horticultural pursuits and in furtherance of these pursuits, such vehicles may be operated upon the highway, within a 50-mile radius of their point of loading as indicated on the written or printed statement required by the Illinois Fertilizer Act of 1961, for the purpose of moving plant food materials or agricultural chemicals to the field, or from field to field, for the sole purpose of application."
+    },
+    {
+      "type": "paragraph",
+      "text": "Whenever any vehicle is operated in violation of subsection (c) of this Section, the owner or the driver of such vehicle shall be deemed guilty of a petty offense and either may be prosecuted for such violation."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 100-201, eff. 8-18-17; 100-863, eff. 8-14-18; 101-481, eff. 1-1-20.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 100-201, eff. 8-18-17; 100-863, eff. 8-14-18; 101-481, eff. 1-1-20.)",
+  "publicActs": [
+    {
+      "publicAct": "100-201",
+      "effectiveDate": "8-18-17"
+    },
+    {
+      "publicAct": "100-863",
+      "effectiveDate": "8-14-18"
+    },
+    {
+      "publicAct": "101-481",
+      "effectiveDate": "1-1-20"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "7f6715523e925d17518dbaf46fcff024b3d22d1d4e9df04f71e101f12179f205",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0045"
+  ]
+}

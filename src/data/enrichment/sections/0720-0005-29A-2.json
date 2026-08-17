@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-29A-2",
+  "citation": "720 ILCS 5/29A-2",
+  "docName": "072000050K29A-2",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K29A-2",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:28:50.008Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/29A-2",
+  "headingText": "Sec. 29A-2. An employee, agent or fiduciary commits commercial bribe receiving when, without consent of his employer or principal, he solicits, accepts or agrees to accept any benefit from another person upon an agreement or understanding that such benefit will influence his conduct in relation to his employer's or principal's affairs.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/29A-2) (from Ch. 38, par. 29A-2)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 29A-2. An employee, agent or fiduciary commits commercial bribe receiving when, without consent of his employer or principal, he solicits, accepts or agrees to accept any benefit from another person upon an agreement or understanding that such benefit will influence his conduct in relation to his employer's or principal's affairs."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 76-1129.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 76-1129.)",
+  "publicActs": [
+    {
+      "publicAct": "76-1129",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "0d1ac46e452e35385168c0398cb6796ae15422870a88ed952e29e35c21c2ef2d",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0834"
+  ]
+}

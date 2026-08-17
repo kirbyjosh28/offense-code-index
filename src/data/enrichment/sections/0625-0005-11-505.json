@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-505",
+  "citation": "625 ILCS 5/11-505",
+  "docName": "062500050K11-505",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-505",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:16:55.218Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-505",
+  "headingText": "Sec. 11-505. No person shall operate any motor vehicle in such a manner as to cause or allow to be emitted squealing, screeching or other such noise from the vehicle's tires due to rapid acceleration or excessive speed around corners or other such reason.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-505) (from Ch. 95 1/2, par. 11-505)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-505. No person shall operate any motor vehicle in such a manner as to cause or allow to be emitted squealing, screeching or other such noise from the vehicle's tires due to rapid acceleration or excessive speed around corners or other such reason."
+    },
+    {
+      "type": "paragraph",
+      "text": "This Section shall not apply to the following conditions:"
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) an authorized emergency vehicle, when responding to an emergency call or when in the pursuit of an actual or suspected violator; nor"
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) the emergency operation of a motor vehicle when avoiding imminent danger; nor"
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) any raceway, racing facility or other public event, not part of a highway, sanctioned by the appropriate governmental authority."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 86-664.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 86-664.)",
+  "publicActs": [
+    {
+      "publicAct": "86-664",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "48c9303db8bdf9aa039311a62224051279971cfc63a6f6c58fdd13ab8079503a",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0212"
+  ]
+}

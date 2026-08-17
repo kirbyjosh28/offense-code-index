@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-5-302",
+  "citation": "625 ILCS 5/5-302",
+  "docName": "062500050K5-302",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K5-302",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:21:18.001Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/5-302",
+  "headingText": "Sec. 5-302. Out-of-state salvage vehicle buyer must be licensed.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/5-302) (from Ch. 95 1/2, par. 5-302)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 5-302. Out-of-state salvage vehicle buyer must be licensed."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) No person in this State shall sell at auction a salvage vehicle to a nonresident individual or business licensed in the United States unless the nonresident is licensed in another state or jurisdiction and provides a resale tax certificate, if applicable, and one of the following: a National Motor Vehicle Title Information System (NMVTIS) number, a federal employer identification number, or a government-issued driver's license or passport. A person in this State shall not sell at auction a salvage vehicle to an out-of-country buyer, unless if the nonresident is licensed in a jurisdiction that is not a state, then the nonresident shall provide to the seller the number of the nonresident's license issued by that jurisdiction and a copy of the nonresident's passport or the passport of an owner or officer of the nonresident entity or a copy of another form of government-issued identification from the nonresident or an owner or officer of the nonresident entity."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) (Blank)."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) (Blank)."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) (Blank)."
+    },
+    {
+      "type": "subsection",
+      "label": "(e)",
+      "text": "(e) (Blank)."
+    },
+    {
+      "type": "subsection",
+      "label": "(f)",
+      "text": "(f) (Blank)."
+    },
+    {
+      "type": "subsection",
+      "label": "(g)",
+      "text": "(g) An out-of-state salvage vehicle buyer shall be subject to the inspection of records pertaining to the acquisition of salvage vehicles in this State in accordance with this Code and such rules as the Secretary of State may promulgate."
+    },
+    {
+      "type": "subsection",
+      "label": "(h)",
+      "text": "(h) (Blank)."
+    },
+    {
+      "type": "subsection",
+      "label": "(i)",
+      "text": "(i) (Blank)."
+    },
+    {
+      "type": "subsection",
+      "label": "(j)",
+      "text": "(j) An out-of-state salvage vehicle buyer who provides an address outside of the United States shall receive a salvage certificate stamped by the seller with the designation of \"For Export Only\" at the point of sale for each salvage vehicle purchased and the NMVTIS record shall be designated \"EXPORT\"."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 101-572, eff. 8-23-19.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 101-572, eff. 8-23-19.)",
+  "publicActs": [
+    {
+      "publicAct": "101-572",
+      "effectiveDate": "8-23-19"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "369a8ea2dab3849d5beb8b5c24b7377204cbb23a737ac0eb1488b675f42cb806",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0098"
+  ]
+}

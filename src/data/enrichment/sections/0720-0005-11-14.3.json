@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-11-14.3",
+  "citation": "720 ILCS 5/11-14.3",
+  "docName": "072000050K11-14.3",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K11-14.3",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:23:30.159Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/11-14.3",
+  "headingText": "Sec. 11-14.3. Promoting prostitution.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/11-14.3)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-14.3. Promoting prostitution."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) Any person who knowingly performs any of the following acts commits promoting prostitution:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) advances prostitution as defined in Section 11-0.1; (2) profits from prostitution by:"
+    },
+    {
+      "type": "subsection",
+      "label": "(A)",
+      "text": "(A) compelling a person to become a person engaged in the sex trade; (B) arranging or offering to arrange a situation in which a person may practice prostitution; or (C) any means other than those described in subparagraph (A) or (B), including from a person who patronizes a person engaged in the sex trade. This paragraph (C) does not apply to a person engaged in prostitution who is under 18 years of age. A person cannot be convicted of promoting prostitution under this paragraph (C) if the practice of prostitution underlying the offense consists exclusively of the accused's own acts of prostitution under Section 11-14 of this Code. (b) Sentence."
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) A violation of subdivision (a)(1) is a Class 4 felony, unless committed within 1,000 feet of real property comprising a school, in which case it is a Class 3 felony. A second or subsequent violation of subdivision (a)(1), or any combination of convictions under subdivision (a)(1), (a)(2)(A), or (a)(2)(B) and Section 11-14 (prostitution), 11-14.1 (solicitation of a sexual act), 11-14.4 (promoting commercial sexual exploitation of a child), 11-15 (soliciting for a person engaged in the sex trade), 11-15.1 (soliciting for a sexually exploited child), 11-16 (pandering), 11-17 (keeping a place of prostitution), 11-17.1 (keeping a place of commercial sexual exploitation of a child), 11-18 (patronizing a person engaged in the sex trade), 11-18.1 (patronizing a sexually exploited child), 11-19 (pimping), 11-19.1 (juvenile pimping or aggravated juvenile pimping), or 11-19.2 (exploitation of a child), is a Class 3 felony. (2) A violation of subdivision (a)(2)(A) or (a)(2)(B) is a Class 4 felony, unless committed within 1,000 feet of real property comprising a school, in which case it is a Class 3 felony. (3) A violation of subdivision (a)(2)(C) is a Class 4 felony, unless committed within 1,000 feet of real property comprising a school, in which case it is a Class 3 felony. A second or subsequent violation of subdivision (a)(2)(C), or any combination of convictions under subdivision (a)(2)(C) and subdivision (a)(1), (a)(2)(A), or (a)(2)(B) of this Section (promoting prostitution), 11-14 (prostitution), 11-14.1 (solicitation of a sexual act), 11-14.4 (promoting commercial sexual exploitation of a child), 11-15 (soliciting for a person engaged in the sex trade), 11-15.1 (soliciting for a sexually exploited child), 11-16 (pandering), 11-17 (keeping a place of prostitution), 11-17.1 (keeping a place of commercial sexual exploitation of a child), 11-18 (patronizing a person engaged in the sex trade), 11-18.1 (patronizing a sexually exploited child), 11-19 (pimping), 11-19.1 (juvenile pimping or aggravated juvenile pimping), or 11-19.2 (exploitation of a child), is a Class 3 felony. If the court imposes a fine under this subsection (b), it shall be collected and distributed to the Specialized Services for Survivors of Human Trafficking Fund in accordance with Section 5-9-1.21 of the Unified Code of Corrections."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 103-1071, eff. 7-1-25.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 103-1071, eff. 7-1-25.)",
+  "publicActs": [
+    {
+      "publicAct": "103-1071",
+      "effectiveDate": "7-1-25"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "9d59226615c48fa0e5c8e1ae45065f8bc7faad3740ac616a4eb5a1d57193ee6a",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0590"
+  ]
+}

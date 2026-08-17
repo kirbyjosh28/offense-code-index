@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-47-10",
+  "citation": "720 ILCS 5/47-10",
+  "docName": "072000050K47-10",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K47-10",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:30:15.590Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/47-10",
+  "headingText": "Sec. 47-10. Dumping garbage. It is unlawful for a person to dump or place garbage or another offensive substance within the corporate limits of a city, village, or incorporated town other than (1) the city, village, or incorporated town within the corporate limits of which the garbage or other offensive substance originated or (2) a city, village, or incorporated town that has contracted with the city, village, or incorporated town within which the garbage originated, for the joint collection and disposal of garbage; nor shall the garbage or other offensive substance be dumped or placed within a distance of one mile of the corporate limits of any other city, village, or incorporated town.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/47-10)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 47-10. Dumping garbage. It is unlawful for a person to dump or place garbage or another offensive substance within the corporate limits of a city, village, or incorporated town other than (1) the city, village, or incorporated town within the corporate limits of which the garbage or other offensive substance originated or (2) a city, village, or incorporated town that has contracted with the city, village, or incorporated town within which the garbage originated, for the joint collection and disposal of garbage; nor shall the garbage or other offensive substance be dumped or placed within a distance of one mile of the corporate limits of any other city, village, or incorporated town."
+    },
+    {
+      "type": "paragraph",
+      "text": "A person violating this Section is guilty of a petty offense."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 89-234, eff. 1-1-96.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 89-234, eff. 1-1-96.)",
+  "publicActs": [
+    {
+      "publicAct": "89-234",
+      "effectiveDate": "1-1-96"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "1771e69c9c354e1466772575c05a46a4fe406cec66453509e22ae50225d67d26",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0897"
+  ]
+}

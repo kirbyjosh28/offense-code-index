@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-12-101",
+  "citation": "625 ILCS 5/12-101",
+  "docName": "062500050K12-101",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K12-101",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:17:47.764Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/12-101",
+  "headingText": "Sec. 12-101. Scope and effect of equipment requirements. (a) It is unlawful for any person to drive or move or for the owner to cause or knowingly permit to be driven or moved on any highway any vehicle or combination of vehicles which is in such unsafe condition as to endanger any person or property, or which does not contain those parts or is not at all times equipped with such lamps and other equipment in proper condition and adjustment as required in this Chapter 12, or which is equipped in any manner in violation of this Code, or for any person to do any act forbidden or fail to perform any act required under this Chapter 12.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/12-101) (from Ch. 95 1/2, par. 12-101)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 12-101. Scope and effect of equipment requirements. (a) It is unlawful for any person to drive or move or for the owner to cause or knowingly permit to be driven or moved on any highway any vehicle or combination of vehicles which is in such unsafe condition as to endanger any person or property, or which does not contain those parts or is not at all times equipped with such lamps and other equipment in proper condition and adjustment as required in this Chapter 12, or which is equipped in any manner in violation of this Code, or for any person to do any act forbidden or fail to perform any act required under this Chapter 12."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) The provisions of this Chapter 12 with respect to equipment on vehicles shall not apply to implements of husbandry, road machinery, road rollers, or farm tractors or to farm-wagon type trailers having a fertilizer spreader attachment permanently mounted thereon, having a gross weight of not to exceed 36,000 pounds and used only for the transportation of bulk fertilizer or to farm-wagon type tank trailers of not to exceed 2,000 gallons capacity, used during the liquid fertilizer season as field-storage \"nurse tanks\" supplying the fertilizer to a field applicator and moved on highways only for bringing the fertilizer from a local source of supply to farm or field or from one farm or field to another."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 82-523.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 82-523.)",
+  "publicActs": [
+    {
+      "publicAct": "82-523",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "d9505f1bb2847a658e692ef9c13bee9a58963c0e38ac611d68956ad687022d1e",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0333"
+  ]
+}

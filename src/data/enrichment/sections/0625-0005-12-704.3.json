@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-12-704.3",
+  "citation": "625 ILCS 5/12-704.3",
+  "docName": "062500050K12-704.3",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K12-704.3",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:18:58.349Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/12-704.3",
+  "headingText": "Sec. 12-704.3. Motor vehicles using alternate fuels; markings. Notwithstanding any other regulation or requirement, every motor vehicle using liquefied petroleum gas or compressed natural gas must be marked in accordance with guidelines established by the National Fire Protection Association's (NFPA) standards for the Storage and Handling of Liquefied Petroleum Gases and for Compressed Natural Gas Vehicular Fuel Systems and published by that body as NFPA 58 and NFPA 52 dated February 10, 1992 and August 14, 1992, respectively.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/12-704.3) (from Ch. 95 1/2, par. 12-704.3)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 12-704.3. Motor vehicles using alternate fuels; markings. Notwithstanding any other regulation or requirement, every motor vehicle using liquefied petroleum gas or compressed natural gas must be marked in accordance with guidelines established by the National Fire Protection Association's (NFPA) standards for the Storage and Handling of Liquefied Petroleum Gases and for Compressed Natural Gas Vehicular Fuel Systems and published by that body as NFPA 58 and NFPA 52 dated February 10, 1992 and August 14, 1992, respectively."
+    },
+    {
+      "type": "paragraph",
+      "text": "The sign or decal shall be maintained in good legible condition. A sign or decal that is deteriorated or defaced so as to impair its legibility, quick recognition, or meaning shall be replaced by a new sign or decal."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 88-415.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 88-415.)",
+  "publicActs": [
+    {
+      "publicAct": "88-415",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "d9ac3f76f1006e2a671f10afd02cdc3bd8801846310fb9c80147c230ae6efb48",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0408"
+  ]
+}

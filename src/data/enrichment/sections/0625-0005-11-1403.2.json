@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-1403.2",
+  "citation": "625 ILCS 5/11-1403.2",
+  "docName": "062500050K11-1403.2",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-1403.2",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:15:22.121Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-1403.2",
+  "headingText": "Sec. 11-1403.2. Operating a motorcycle, motor driven cycle, or moped on one wheel; aggravated operating a motorcycle, motor driven cycle, or moped on one wheel.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-1403.2) (from Ch. 95 1/2, par. 11-1403.2)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-1403.2. Operating a motorcycle, motor driven cycle, or moped on one wheel; aggravated operating a motorcycle, motor driven cycle, or moped on one wheel."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) No person shall operate a motorcycle, motor driven cycle, or moped on one wheel."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Aggravated operating a motorcycle, motor driven cycle, or moped on one wheel. A person commits aggravated operating a motorcycle, motor driven cycle, or moped on one wheel when he or she violates subsection (a) of this Section while committing a violation of subsection (b) of Section 11-601, Section 11-601.5, 11-605, or 11-605.1 of this Code. A violation of this subsection is a petty offense with a minimum fine of $100, except a second conviction of a violation of this subsection is a Class B misdemeanor and a third or subsequent conviction of a violation of this subsection is a Class A misdemeanor."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 103-706, eff. 1-1-25; 104-577, eff. 7-16-26.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 103-706, eff. 1-1-25; 104-577, eff. 7-16-26.)",
+  "publicActs": [
+    {
+      "publicAct": "103-706",
+      "effectiveDate": "1-1-25"
+    },
+    {
+      "publicAct": "104-577",
+      "effectiveDate": "7-16-26"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "fdc927a42aa9192bcc77d2fc68b5bd8a7ebd531dc4c77e1d666a3c3966e4a05b",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0290",
+    "offense-0291"
+  ]
+}

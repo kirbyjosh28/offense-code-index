@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-1419.04",
+  "citation": "625 ILCS 5/11-1419.04",
+  "docName": "062500050K11-1419.04",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-1419.04",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:15:49.160Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-1419.04",
+  "headingText": "Sec. 11-1419.04. Failure to carry a manifest. Any person who acts as a motor carrier and who fails to carry a manifest as provided in Section 5.5 of the Motor Fuel Tax Law is guilty of a Class A misdemeanor. For each subsequent offense, the person is guilty of a Class 4 felony.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-1419.04)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-1419.04. Failure to carry a manifest. Any person who acts as a motor carrier and who fails to carry a manifest as provided in Section 5.5 of the Motor Fuel Tax Law is guilty of a Class A misdemeanor. For each subsequent offense, the person is guilty of a Class 4 felony."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 89-399, eff. 8-20-95.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 89-399, eff. 8-20-95.)",
+  "publicActs": [
+    {
+      "publicAct": "89-399",
+      "effectiveDate": "8-20-95"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "d996a958329528fc3165bec296ff4989cade6e3fe4c360e44fc9ed99b1a68536",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0310"
+  ]
+}

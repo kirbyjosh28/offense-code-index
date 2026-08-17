@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-1007",
+  "citation": "625 ILCS 5/11-1007",
+  "docName": "062500050K11-1007",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-1007",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:14:50.577Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-1007",
+  "headingText": "Sec. 11-1007. Pedestrians walking on highways.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-1007) (from Ch. 95 1/2, par. 11-1007)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-1007. Pedestrians walking on highways."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) Except as provided in subsection (e), where a sidewalk is provided and its use is practicable, it shall be unlawful for any pedestrian to walk along and upon an adjacent roadway."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Except as provided in subsection (e), where a sidewalk is not available, any pedestrian walking along and upon a highway shall walk only on a shoulder, as far as practicable from the edge of the roadway."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Except as provided in subsection (e), where neither a sidewalk nor a shoulder is available, any pedestrian walking along and upon a highway shall walk as near as practicable to an outside edge of a roadway, and, if on a two-way roadway, shall walk only on the left side of the roadway."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) Except as otherwise provided in this Chapter, any pedestrian upon a roadway shall yield the right-of-way to all vehicles upon the roadway."
+    },
+    {
+      "type": "subsection",
+      "label": "(e)",
+      "text": "(e) In municipalities with a population of under 2,000,000 inhabitants, upon highways where the maximum posted speed limit is 45 miles per hour or less, and during the period from sunrise to sunset, a pedestrian who is 18 years of age or older and wearing in-line speed skates may travel upon the roadway as near as practicable to an outside edge of the roadway. Pedestrians wearing in-line speed skates upon a roadway may not impede or obstruct other vehicular traffic. Pedestrians wearing in-line speed skates shall be subject to all other rights and duties under this Article X. Nothing in this Code shall be construed to prevent a pedestrian wearing in-line speed skates from using a lane designated for bicycles."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 97-1023, eff. 1-1-13.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 97-1023, eff. 1-1-13.)",
+  "publicActs": [
+    {
+      "publicAct": "97-1023",
+      "effectiveDate": "1-1-13"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "67f97f7839713853f37298d9c6c37a5f89d72c2d5ca6fd3020c3de426b04cd72",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0263"
+  ]
+}

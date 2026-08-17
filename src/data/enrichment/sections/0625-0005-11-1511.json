@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-1511",
+  "citation": "625 ILCS 5/11-1511",
+  "docName": "062500050K11-1511",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-1511",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:16:20.668Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-1511",
+  "headingText": "Sec. 11-1511. Turn and stop signals. (a) Except as provided in this Section, a person riding a bicycle shall comply with Section 11-804.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-1511) (from Ch. 95 1/2, par. 11-1511)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-1511. Turn and stop signals. (a) Except as provided in this Section, a person riding a bicycle shall comply with Section 11-804."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) A signal of intention to turn right or left when required shall be given during not less than the last 100 feet traveled by the bicycle before turning, and shall be given while the bicycle is stopped waiting to turn. A signal by hand and arm need not be given continuously if the hand is needed in the control or operation of the bicycle."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 82-132.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 82-132.)",
+  "publicActs": [
+    {
+      "publicAct": "82-132",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "6f826658ae02460efa43dfe39a0880c5bf092edcb094d50b0fb8dc8afbab7283",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0332"
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-18-4",
+  "citation": "720 ILCS 5/18-4",
+  "docName": "072000050K18-4",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K18-4",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:26:57.390Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/18-4",
+  "headingText": "Sec. 18-4. Aggravated vehicular hijacking.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/18-4)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 18-4. Aggravated vehicular hijacking."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits aggravated vehicular hijacking when he or she violates Section 18-3; and"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) the person from whose immediate presence the motor vehicle is taken is a person with a physical disability or a person 60 years of age or over; or (2) a person under 16 years of age is a passenger in the motor vehicle at the time of the offense; or (3) he or she carries on or about his or her person, or is otherwise armed with a dangerous weapon, other than a firearm; or (4) he or she carries on or about his or her person or is otherwise armed with a firearm; or (5) he or she, during the commission of the offense, personally discharges a firearm; or (6) he or she, during the commission of the offense, personally discharges a firearm that proximately causes great bodily harm, permanent disability, permanent disfigurement, or death to another person. (b) Sentence. Aggravated vehicular hijacking in violation of subsections (a)(1) or (a)(2) is a Class X felony. A violation of subsection (a)(3) is a Class X felony for which a term of imprisonment of not less than 7 years shall be imposed. A violation of subsection (a)(4) is a Class X felony for which 15 years shall be added to the term of imprisonment imposed by the court. A violation of subsection (a)(5) is a Class X felony for which 20 years shall be added to the term of imprisonment imposed by the court. A violation of subsection (a)(6) is a Class X felony for which 25 years or up to a term of natural life shall be added to the term of imprisonment imposed by the court."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 99-143, eff. 7-27-15.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 99-143, eff. 7-27-15.)",
+  "publicActs": [
+    {
+      "publicAct": "99-143",
+      "effectiveDate": "7-27-15"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "0e05cf0e24717fc098dafd36e098480a43e2346376faf80c69c5179c2acf170f",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0748"
+  ]
+}

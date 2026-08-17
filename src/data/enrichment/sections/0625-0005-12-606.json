@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-12-606",
+  "citation": "625 ILCS 5/12-606",
+  "docName": "062500050K12-606",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K12-606",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:18:37.358Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/12-606",
+  "headingText": "Sec. 12-606. Tow trucks; identification; equipment; insurance.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/12-606) (from Ch. 95 1/2, par. 12-606)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 12-606. Tow trucks; identification; equipment; insurance."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) Every tow truck, except those owned by governmental agencies, shall have displayed on each side thereof, a sign with letters not less than 2 inches in height, contrasting in color to that of the background, stating the full legal name, complete address (including street address and city), and telephone number of the owner or operator thereof. This information shall be permanently affixed to the sides of the tow truck."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Every tow truck shall be equipped with:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) One or more brooms and shovels;"
+    },
+    {
+      "type": "subsection",
+      "label": "(2)",
+      "text": "(2) One or more trash cans of at least 5 gallon capacity; and (3) One fire extinguisher. This extinguisher shall be either: (i) of the dry chemical or carbon dioxide type with an aggregate rating of at least 4-B, C units, and bearing the approval of a laboratory qualified by the Division of Fire Prevention for this purpose; or (ii) One that meets the requirements of the Federal Motor Carrier Safety Regulations of the United States Department of Transportation for fire extinguishers on commercial motor vehicles. (c) Every owner or operator and driver of a tow truck shall comply with Section 11-1413 of this Code and shall remove or cause to be removed all glass and debris, except any (i) hazardous substance as defined in Section 3.215 of the Environmental Protection Act, (ii) hazardous waste as defined in Section 3.220 of the Environmental Protection Act, and (iii) medical samples or waste, including but not limited to any blood samples, used syringes, other used medical supplies, or any other potentially infectious medical waste as defined in Section 3.360 of the Environmental Protection Act, deposited upon any street or highway by the disabled vehicle being serviced, and shall in addition, spread dirt or sand or oil absorbent upon that portion of any street or highway where oil or grease has been deposited by the disabled vehicle being serviced."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) Every tow truck operator shall in addition file an indemnity bond, insurance policy, or other proof of insurance in a form to be prescribed by the Secretary for: garagekeepers liability insurance, in an amount no less than a combined single limit of $500,000, and truck (auto) liability insurance in an amount no less than a combined single limit of $500,000, on hook coverage or garagekeepers coverage in an amount of no less than $25,000 which shall indemnify or insure the tow truck operator for the following:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) Bodily injury or damage to the property of others."
+    },
+    {
+      "type": "subsection",
+      "label": "(2)",
+      "text": "(2) Damage to any vehicle towed by the tower."
+    },
+    {
+      "type": "subsection",
+      "label": "(3)",
+      "text": "(3) In case of theft, loss of, or damage to any vehicle stored, garagekeepers legal liability coverage in an amount of no less than $25,000. (4) In case of injury to or occupational illness of the tow truck driver or helper, workers compensation insurance meeting the minimum requirements of the Workers' Compensation Act. Any such bond or policy shall be issued only by a bonding or insuring firm authorized to do business as such in the State of Illinois, and a certificate of such bond or policy shall be carried in the cab of each tow truck."
+    },
+    {
+      "type": "subsection",
+      "label": "(e)",
+      "text": "(e) The bond or policy required in subsection (d) shall provide that the insurance carrier may cancel it by serving previous notice, as required by Sections 143.14 and 143.16 of the Illinois Insurance Code, in writing, either personally or by registered mail, upon the owner or operator of the motor vehicle and upon the Secretary of State. Whenever any such bond or policy shall be so cancelled, the Secretary of State shall mark the policy \"Cancelled\" and shall require such owner or operator either to furnish a new bond or policy, in accordance with this Act."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 100-863, eff. 8-14-18.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 100-863, eff. 8-14-18.)",
+  "publicActs": [
+    {
+      "publicAct": "100-863",
+      "effectiveDate": "8-14-18"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "05da0d0cc76f3d32425cd465b430f660998d11187a0f038943b44dc2b71703ee",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0391"
+  ]
+}

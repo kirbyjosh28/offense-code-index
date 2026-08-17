@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-48-7",
+  "citation": "720 ILCS 5/48-7",
+  "docName": "072000050K48-7",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K48-7",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:30:27.597Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/48-7",
+  "headingText": "Sec. 48-7. Feeding garbage to animals.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/48-7)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 48-7. Feeding garbage to animals."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) Definitions. As used in this Section:"
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Department\" means the Department of Agriculture of the State of Illinois."
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Garbage\" has the same meaning as in the federal Swine Health Protection Act (7 U.S.C. 3802) and also includes putrescible vegetable waste. \"Garbage\" does not include the contents of the bovine digestive tract."
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Person\" means any person, firm, partnership, association, corporation, or other legal entity, any public or private institution, the State, or any municipal corporation or political subdivision of the State."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) A person commits feeding garbage to animals when he or she feeds or permits the feeding of garbage to swine or any animals or poultry on any farm or any other premises where swine are kept."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Establishments licensed under the Animal Mortality Act or under similar laws in other states are exempt from the provisions of this Section."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) Nothing in this Section shall be construed to apply to any person who feeds garbage produced in his or her own household to animals or poultry kept on the premises where he or she resides except this garbage if fed to swine shall not contain particles of meat."
+    },
+    {
+      "type": "subsection",
+      "label": "(e)",
+      "text": "(e) Sentence. Feeding garbage to animals is a Class B misdemeanor, and for the first offense shall be fined not less than $100 nor more than $500 and for a second or subsequent offense shall be fined not less than $200 nor more than $500 or imprisoned in a penal institution other than the penitentiary for not more than 6 months, or both."
+    },
+    {
+      "type": "subsection",
+      "label": "(f)",
+      "text": "(f) A person violating this Section may be enjoined by the Department from continuing the violation."
+    },
+    {
+      "type": "subsection",
+      "label": "(g)",
+      "text": "(g) The Department may make reasonable inspections necessary for the enforcement of this Section, and is authorized to enforce, and administer the provisions of this Section."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 102-216, eff. 1-1-22.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 102-216, eff. 1-1-22.)",
+  "publicActs": [
+    {
+      "publicAct": "102-216",
+      "effectiveDate": "1-1-22"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "6988d1df1a7f7efac5bbdeda1d92469ce77ad822076ff3f126ddd5ce15d4509e",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0903"
+  ]
+}

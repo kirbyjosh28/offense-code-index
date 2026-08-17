@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-309",
+  "citation": "625 ILCS 5/11-309",
+  "docName": "062500050K11-309",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-309",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:16:32.689Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-309",
+  "headingText": "Sec. 11-309. Flashing Signals.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-309) (from Ch. 95 1/2, par. 11-309)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-309. Flashing Signals."
+    },
+    {
+      "type": "paragraph",
+      "text": "Whenever an illuminated flashing red or yellow signal is used in conjunction with a traffic control device it shall require obedience by vehicular traffic as follows:"
+    },
+    {
+      "type": "paragraph",
+      "text": "1. Flashing red (stop signal). When a red lens is illuminated with rapid intermittent flashes, drivers of vehicles shall stop at a clearly marked stop line, but if none, before entering the cross walk on the near side of the intersection, or if none, then at a point nearest the intersecting roadway where the driver has a view of approaching traffic on the intersecting roadway before entering the intersection and the right to proceed shall be subject to the rules applicable after making a stop at a stop sign."
+    },
+    {
+      "type": "paragraph",
+      "text": "2. Flashing yellow (caution signal). When a yellow lens is illuminated with rapid intermittent flashes, drivers of vehicles may proceed through the intersection or past such signal only with caution."
+    },
+    {
+      "type": "paragraph",
+      "text": "3. This section does not apply at railroad grade crossings. Conduct of drivers of vehicles approaching railroad grade crossings shall be governed by Section 11-1201 of this Act."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 76-2162.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 76-2162.)",
+  "publicActs": [
+    {
+      "publicAct": "76-2162",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "837a1209638f4ee5c91fee8c9dddf05ddeddd7e2fc208dab37443118efea904c",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0186"
+  ]
+}

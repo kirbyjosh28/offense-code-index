@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-11-40",
+  "citation": "720 ILCS 5/11-40",
+  "docName": "072000050K11-40",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K11-40",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:23:51.192Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/11-40",
+  "headingText": "Sec. 11-40. Fornication.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/11-40) (was 720 ILCS 5/11-8)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-40. Fornication."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits fornication when he or she knowingly has sexual intercourse with another not his or her spouse if the behavior is open and notorious."
+    },
+    {
+      "type": "paragraph",
+      "text": "A person shall be exempt from prosecution under this Section if his liability is based solely on evidence he has given in order to comply with the requirements of Section 4-1.7 of \"The Illinois Public Aid Code\", approved April 11, 1967, as amended."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Sentence."
+    },
+    {
+      "type": "paragraph",
+      "text": "Fornication is a Class B misdemeanor."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 96-1551, eff. 7-1-11.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 96-1551, eff. 7-1-11.)",
+  "publicActs": [
+    {
+      "publicAct": "96-1551",
+      "effectiveDate": "7-1-11"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "076d888632297e234736fa2c8eb0962c4ba2429447c2f75ba7c3a2698b1c7def",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0604"
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-31-7",
+  "citation": "720 ILCS 5/31-7",
+  "docName": "072000050K31-7",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K31-7",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:29:18.527Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/31-7",
+  "headingText": "Sec. 31-7. Aiding escape.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/31-7) (from Ch. 38, par. 31-7)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 31-7. Aiding escape."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) Whoever, with intent to aid any prisoner in escaping from any penal institution, conveys into the institution or transfers to the prisoner anything for use in escaping commits a Class A misdemeanor."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Whoever knowingly aids a person convicted of a felony or charged with the commission of a felony, or charged with or adjudicated delinquent for an act which, if committed by an adult, would constitute a felony, in escaping from any penal institution or from the custody of any employee of that institution commits a Class 2 felony; however, whoever knowingly aids a person convicted of a felony or charged with the commission of a felony, or charged with or adjudicated delinquent for an act which, if committed by an adult, would constitute a felony, in failing to return from furlough or from work and day release is guilty of a Class 3 felony."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Whoever knowingly aids a person convicted of a misdemeanor or charged with the commission of a misdemeanor, or charged with or adjudicated delinquent for an act which, if committed by an adult, would constitute a misdemeanor, in escaping from any penal institution or from the custody of an employee of that institution commits a Class A misdemeanor; however, whoever knowingly aids a person convicted of a misdemeanor or charged with the commission of a misdemeanor, or charged with or adjudicated delinquent for an act which, if committed by an adult, would constitute a misdemeanor, in failing to return from furlough or from work and day release is guilty of a Class B misdemeanor."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) Whoever knowingly aids a person in escaping from any public institution, other than a penal institution, in which he is lawfully detained, or from the custody of an employee of that institution, commits a Class A misdemeanor."
+    },
+    {
+      "type": "subsection",
+      "label": "(e)",
+      "text": "(e) Whoever knowingly aids a person in the lawful custody of a peace officer for the alleged commission of a felony offense or an act which, if committed by an adult, would constitute a felony, in escaping from custody commits a Class 2 felony; however, whoever knowingly aids a person in the lawful custody of a peace officer for the alleged commission of a misdemeanor offense or an act which, if committed by an adult, would constitute a misdemeanor, in escaping from custody commits a Class A misdemeanor."
+    },
+    {
+      "type": "subsection",
+      "label": "(f)",
+      "text": "(f) An officer or employee of any penal institution who recklessly permits any prisoner in his custody to escape commits a Class A misdemeanor."
+    },
+    {
+      "type": "paragraph",
+      "text": "(f-5) With respect to a person in the lawful custody of a peace officer for an alleged violation of a term or condition of probation, conditional discharge, parole, aftercare release, or mandatory supervised release for a felony, whoever intentionally aids that person to escape from that custody is guilty of a Class 2 felony."
+    },
+    {
+      "type": "paragraph",
+      "text": "(f-6) With respect to a person who is in the lawful custody of a peace officer for an alleged violation of a term or condition of supervision, probation, or conditional discharge for a misdemeanor, whoever intentionally aids that person to escape from that custody is guilty of a Class A misdemeanor."
+    },
+    {
+      "type": "subsection",
+      "label": "(g)",
+      "text": "(g) A person who violates this Section while armed with a dangerous weapon commits a Class 2 felony."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 98-558, eff. 1-1-14.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 98-558, eff. 1-1-14.)",
+  "publicActs": [
+    {
+      "publicAct": "98-558",
+      "effectiveDate": "1-1-14"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "e071d170952a1dbfbf307e7ec43739c12878df184a1fe111988e69a447107b9e",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0858"
+  ]
+}

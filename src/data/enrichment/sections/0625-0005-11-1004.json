@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-1004",
+  "citation": "625 ILCS 5/11-1004",
+  "docName": "062500050K11-1004",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-1004",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:14:47.590Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-1004",
+  "headingText": "Sec. 11-1004. Pedestrian with disabilities; right-of-way. The driver of a vehicle shall yield the right-of-way to any pedestrian with clearly visible disabilities.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-1004) (from Ch. 95 1/2, par. 11-1004)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-1004. Pedestrian with disabilities; right-of-way. The driver of a vehicle shall yield the right-of-way to any pedestrian with clearly visible disabilities."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 88-685, eff. 1-24-95.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 88-685, eff. 1-24-95.)",
+  "publicActs": [
+    {
+      "publicAct": "88-685",
+      "effectiveDate": "1-24-95"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "1a8926adb0aff2b3927d42d45d7503674c2c1b51073ad01a485b71a2ffdfb37d",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0261"
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-12-813.1",
+  "citation": "625 ILCS 5/12-813.1",
+  "docName": "062500050K12-813.1",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K12-813.1",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:19:26.886Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/12-813.1",
+  "headingText": "Sec. 12-813.1. School bus driver communication devices.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/12-813.1)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 12-813.1. School bus driver communication devices."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) In this Section:"
+    },
+    {
+      "type": "paragraph",
+      "text": "\"School bus driver\" means a person operating a school bus who has a valid school bus driver permit as required under Sections 6-104 and 6-106.1 of this Code."
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Cellular radio telecommunication device\" means a device capable of sending or receiving telephone communications without an access line for service and which requires the operator to dial numbers manually. It does not, however, include citizens band radios or citizens band radio hybrids."
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Possession of a school bus\" means the period of time from which a bus driver takes possession until the school bus driver returns possession of the school bus, whether or not the school bus driver is operating the school bus."
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Using a cellular radio telecommunication device\" means talking or listening to or dialing a cellular radio telecommunication device."
+    },
+    {
+      "type": "paragraph",
+      "text": "To \"operate\" means to have the vehicle in motion while it contains one or more passengers."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) A school bus driver may not operate a school bus while using a cellular radio telecommunication device."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Subsection (b) of this Section does not apply:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) To the use of a cellular radio telecommunication device for the purpose of communicating with any of the following regarding an emergency situation: (A) an emergency response operator;"
+    },
+    {
+      "type": "subsection",
+      "label": "(B)",
+      "text": "(B) a hospital;"
+    },
+    {
+      "type": "subsection",
+      "label": "(C)",
+      "text": "(C) a physician's office or health clinic;"
+    },
+    {
+      "type": "subsection",
+      "label": "(D)",
+      "text": "(D) an ambulance service;"
+    },
+    {
+      "type": "subsection",
+      "label": "(E)",
+      "text": "(E) a fire department, fire district, or fire company; or (F) a police department."
+    },
+    {
+      "type": "subsection",
+      "label": "(2)",
+      "text": "(2) To the use of a cellular radio telecommunication device to call for assistance in the event that there is a mechanical breakdown or other mechanical problem that impairs the safe operation of the bus or to communicate with school authorities or their designees about any other issue relating to the operation of the school bus or the welfare and safety of any passenger thereon. In no case may a cellular radio telecommunication device be used for anything not provided for in this Section, including but not limited to, personal use. (3) (Blank)."
+    },
+    {
+      "type": "subsection",
+      "label": "(4)",
+      "text": "(4) When the school bus is parked."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) A school bus driver who violates subsection (b) of this Section is guilty of a petty offense punishable by a fine of not less than $100 and not more than $250."
+    },
+    {
+      "type": "subsection",
+      "label": "(e)",
+      "text": "(e) A school bus must contain either an operating cellular radio telecommunication device or two-way radio while the school bus driver is in possession of a school bus. The cellular radio telecommunication device or two-way radio in this subsection must be turned on and adjusted in a manner that would alert the school bus driver of an incoming communication request."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 96-818, eff. 11-17-09; 96-1066, eff. 7-16-10.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 96-818, eff. 11-17-09; 96-1066, eff. 7-16-10.)",
+  "publicActs": [
+    {
+      "publicAct": "96-818",
+      "effectiveDate": "11-17-09"
+    },
+    {
+      "publicAct": "96-1066",
+      "effectiveDate": "7-16-10"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "811bdc3c9bebfb988a19027b459b16d6904ebc636d3f8a3b423e29d52c004058",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0427",
+    "offense-0428"
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-6-527",
+  "citation": "625 ILCS 5/6-527",
+  "docName": "062500050K6-527",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K6-527",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:22:10.578Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/6-527",
+  "headingText": "Sec. 6-527. Using a hand-held mobile telephone.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/6-527)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 6-527. Using a hand-held mobile telephone."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A driver may not use a hand-held mobile telephone while driving a commercial motor vehicle."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) A motor carrier may not allow or require its drivers to use a hand-held mobile telephone while driving a commercial motor vehicle."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) For the purpose of this Section, driving means operating a commercial motor vehicle on a highway, including while temporarily stationary because of traffic, a traffic control device, or other momentary delays. Driving does not include operating a commercial motor vehicle when the driver has moved the vehicle to the side of, or off, a highway and has halted in a location where the vehicle can safely remain stationary."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) Using a hand-held mobile telephone is permissible by a driver of a commercial motor vehicle when necessary to communicate with law enforcement officials or other emergency services."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 97-829, eff. 1-1-13.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 97-829, eff. 1-1-13.)",
+  "publicActs": [
+    {
+      "publicAct": "97-829",
+      "effectiveDate": "1-1-13"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "6ba7d9cb68ed694dab0bcd5eba94937f0ea608823ec2cd68b66a1833eee096e3",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0169"
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-49-1.5",
+  "citation": "720 ILCS 5/49-1.5",
+  "docName": "072000050K49-1.5",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K49-1.5",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:30:32.112Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/49-1.5",
+  "headingText": "Sec. 49-1.5. Draft card mutilation.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/49-1.5)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 49-1.5. Draft card mutilation."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits draft card mutilation when he or she knowingly destroys or mutilates a valid registration certificate or any other valid certificate issued under the federal \"Military Selective Service Act of 1967\"."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Sentence. Draft card mutilation is a Class 4 felony."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 97-1108, eff. 1-1-13.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 97-1108, eff. 1-1-13.)",
+  "publicActs": [
+    {
+      "publicAct": "97-1108",
+      "effectiveDate": "1-1-13"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "9265747e1f5e5169ce01c30cab219bcb8623e64c90b7f621c39cae5cc8fc8954",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0907"
+  ]
+}

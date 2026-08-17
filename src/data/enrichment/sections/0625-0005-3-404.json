@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-3-404",
+  "citation": "625 ILCS 5/3-404",
+  "docName": "062500050K3-404",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K3-404",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:20:16.431Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/3-404",
+  "headingText": "Sec. 3-404. Vehicles of second division carrying persons or property - Required documents. The Secretary of State shall require an appropriate document, including but not limited to a bill of lading, trip manifest or dispatch record, to be carried, on all vehicles of the second division, carrying persons or property setting forth therein:",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/3-404) (from Ch. 95 1/2, par. 3-404)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 3-404. Vehicles of second division carrying persons or property - Required documents. The Secretary of State shall require an appropriate document, including but not limited to a bill of lading, trip manifest or dispatch record, to be carried, on all vehicles of the second division, carrying persons or property setting forth therein:"
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) the point of origin and destination of the vehicle and its cargo or the persons being carried; (b) whether the movement is for-hire or not-for-hire; and (c) whether the movement is intrastate or interstate as defined by this Act. The Secretary of State shall promulgate and publish reasonable rules and regulations for the administration and enforcement of this requirement. Vehicles bearing valid current Illinois registration plate or plates or digital registration plate or plates and registration stickers or digital registration stickers where applicable shall be exempted from such requirement by the Secretary of State whether the movement is \"intrastate\" or \"interstate\" as defined in this Act."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 101-395, eff. 8-16-19.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 101-395, eff. 8-16-19.)",
+  "publicActs": [
+    {
+      "publicAct": "101-395",
+      "effectiveDate": "8-16-19"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "145a24a9b09b067ef8914eb795c7c82d7ba8c72f9666c07ad19e1d9ec995318b",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0018"
+  ]
+}

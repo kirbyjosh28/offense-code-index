@@ -1,0 +1,70 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-12-3.3",
+  "citation": "720 ILCS 5/12-3.3",
+  "docName": "072000050K12-3.3",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K12-3.3",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:24:25.720Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/12-3.3",
+  "headingText": "Sec. 12-3.3. Aggravated domestic battery.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/12-3.3)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 12-3.3. Aggravated domestic battery."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person who, in committing a domestic battery, knowingly causes great bodily harm, or permanent disability or disfigurement commits aggravated domestic battery."
+    },
+    {
+      "type": "paragraph",
+      "text": "(a-5) A person who, in committing a domestic battery, strangles another individual commits aggravated domestic battery. For the purposes of this subsection (a-5), \"strangle\" means intentionally impeding the normal breathing or circulation of the blood of an individual by applying pressure on the throat or neck of that individual or by blocking the nose or mouth of that individual."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Sentence. Aggravated domestic battery is a Class 2 felony. Any order of probation or conditional discharge entered following a conviction for an offense under this Section must include, in addition to any other condition of probation or conditional discharge, a condition that the offender serve a mandatory term of imprisonment of not less than 60 consecutive days. A person convicted of a second or subsequent violation of this Section must be sentenced to a mandatory term of imprisonment of not less than 3 years and not more than 7 years or an extended term of imprisonment of not less than 7 years and not more than 14 years."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Upon conviction of aggravated domestic battery, the court shall advise the defendant orally or in writing, substantially as follows: \"An individual convicted of aggravated domestic battery may be subject to federal criminal penalties for possessing, transporting, shipping, or receiving any firearm or ammunition in violation of the federal Gun Control Act of 1968 (18 U.S.C. 922(g)(8) and (9)).\" A notation shall be made in the court file that the admonition was given."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 96-287, eff. 8-11-09; 96-363, eff. 8-13-09; 96-1000, eff. 7-2-10; 96-1551, eff. 7-1-11.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 96-287, eff. 8-11-09; 96-363, eff. 8-13-09; 96-1000, eff. 7-2-10; 96-1551, eff. 7-1-11.)",
+  "publicActs": [
+    {
+      "publicAct": "96-287",
+      "effectiveDate": "8-11-09"
+    },
+    {
+      "publicAct": "96-363",
+      "effectiveDate": "8-13-09"
+    },
+    {
+      "publicAct": "96-1000",
+      "effectiveDate": "7-2-10"
+    },
+    {
+      "publicAct": "96-1551",
+      "effectiveDate": "7-1-11"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "21f65b71c5cb69c185d8dc92ee879310dcce8e232b64fd0ab3e57f847da2eb15",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0619"
+  ]
+}

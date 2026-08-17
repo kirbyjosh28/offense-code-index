@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-3-401",
+  "citation": "625 ILCS 5/3-401",
+  "docName": "062500050K3-401",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K3-401",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:20:14.928Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/3-401",
+  "headingText": "Sec. 3-401. Effect of provisions.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/3-401) (from Ch. 95 1/2, par. 3-401)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 3-401. Effect of provisions."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) It shall be unlawful for any person to violate any provision of this Chapter or to drive or move or for an owner knowingly to permit to be driven or moved upon any highway any vehicle of a type required to be registered hereunder which is not registered or for which the appropriate fee has not been paid when and as required hereunder, except that when application accompanied by proper fee has been made for registration of a vehicle it may be operated temporarily pending complete registration upon displaying a duplicate application duly verified or other evidence of such application or otherwise under rules and regulations promulgated by the Secretary of State."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) The appropriate fees required to be paid under the various provisions of this Act for registration of vehicles shall mean the fee or fees which would have been paid initially, if proper and timely application had been made to the Secretary of State for the appropriate registration required, whether such registration be a flat weight registration, a single trip permit, a reciprocity permit or a supplemental application to an original prorate application together with payment of fees due under the supplemental application for prorate decals."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Effective October 1, 1984, no vehicle required to pay a Federal Highway Users Tax shall be registered unless proof of payment, in a form prescribed and approved by the Secretary of State, is submitted with the appropriate registration. Notwithstanding any other provision of this Code, failure of the applicant to comply with this paragraph shall be deemed grounds for the Secretary to refuse registration."
+    },
+    {
+      "type": "paragraph",
+      "text": "(c-1) A vehicle may not be registered by the Secretary of State unless that vehicle:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) was originally manufactured for operation on highways; (2) is a modification of a vehicle that was originally manufactured for operation on highways; or (3) was assembled from component parts designed for use in vehicles to be operated on highways. (d) Second division vehicles."
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) A vehicle of the second division moved or operated within this State shall have had paid for it the appropriate registration fees and flat weight tax, as evidenced by the Illinois registration issued for that vehicle, for the gross weight of the vehicle and load being operated or moved within this State. Second division vehicles of foreign jurisdictions operated within this State under a single trip permit, fleet reciprocity plan, prorate registration plan, or apportional registration plan, instead of second division vehicle registration under Article VIII of this Chapter, must have had paid for it the appropriate registration fees and flat weight tax in the base jurisdiction of that vehicle, as evidenced by the maximum gross weight shown on the foreign registration cards, plus any appropriate fees required under this Code. (2) If a vehicle and load are operated in this State and the appropriate fees and taxes have not been paid or the vehicle and load exceed the registered gross weight for which the required fees and taxes have been paid by 2001 pounds or more, the operator or owner shall be fined as provided in Section 15-113 of this Code. However, an owner or operator shall not be subject to arrest under this subsection for any weight in excess of 80,000 pounds. Further, no fine shall exceed the actual cost of what the appropriate registration for that vehicle and load should have been as established in subsection (a) of Section 3-815 of this Chapter regardless of the route traveled. For purposes of this paragraph (2), \"appropriate registration\" means the full annual cost of the required registration and its associated fees. (3) Any person operating a legal combination of vehicles displaying valid registration shall not be considered in violation of the registration provision of this subsection unless the total gross weight of the combination exceeds the total licensed weight of the vehicles in the combination. The gross weight of a vehicle exempt from the registration requirements of this Chapter shall not be included when determining the total gross weight of vehicles in combination. Any vehicle operating under an emergency harvest permit, as described in subsection (e-1) of Section 15-301 of this Code, shall not be in violation of this paragraph (3). (4) If the defendant claims that he or she had previously paid the appropriate Illinois registration fees and taxes for this vehicle before the alleged violation, the defendant shall have the burden of proving the existence of the payment by competent evidence. Proof of proper Illinois registration issued by the Secretary of State, or the appropriate registration authority from the foreign state, shall be the only competent evidence of payment. (Source: P.A. 100-70, eff. 8-11-17.)"
+    }
+  ],
+  "sourceLine": null,
+  "publicActs": [],
+  "repealed": false,
+  "bodyHash": "bc8ef30299fb2f45b94d72a3a26909b77c37b910e7f3003db35fe8ce00da5c06",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0016",
+    "offense-0017"
+  ]
+}

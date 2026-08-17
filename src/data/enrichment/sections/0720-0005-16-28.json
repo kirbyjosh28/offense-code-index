@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-16-28",
+  "citation": "720 ILCS 5/16-28",
+  "docName": "072000050K16-28",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K16-28",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:25:37.817Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/16-28",
+  "headingText": "Sec. 16-28. Delivery container theft.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/16-28)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 16-28. Delivery container theft."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits delivery container theft when he or she knowingly does any of the following:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) Uses for any purpose, when not on the premises of the owner or an adjacent parking area, a delivery container of another person which is marked by a name or mark unless the use is authorized by the owner. (2) Sells, or offers for sale, a delivery container of another person which is marked by a name or mark unless the sale is authorized by the owner. (3) Defaces, obliterates, destroys, covers up or otherwise removes or conceals a name or mark on a delivery container of another person without the written consent of the owner. (4) Removes the delivery container of another person from the premises, parking area or any other area under the control of any processor, distributor or retail establishment, or from any delivery vehicle, without the consent of the owner of the delivery container. If a person possesses any marked or named delivery container without the consent of the owner and while not on the premises, parking area or other area under control of a processor, distributor or retail establishment doing business with the owner, the trier of fact may infer that the person removed the delivery container in violation of this paragraph. (b) Any common carrier or private carrier for hire, except those engaged in transporting bakery or dairy products to and from the places where they are produced, that receives or transports any delivery container marked with a name or mark without having in its possession a bill of lading or invoice for that delivery container commits the offense of delivery container theft."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Sentence. Delivery container theft is a Class B misdemeanor. An offender may be sentenced to pay a fine of $150 for the first offense and $500 for a second or subsequent offense."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 97-597, eff. 1-1-12.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 97-597, eff. 1-1-12.)",
+  "publicActs": [
+    {
+      "publicAct": "97-597",
+      "effectiveDate": "1-1-12"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "f2376b509e285dedf2ebe0b1df3030849d3150b6adccb5860eec29a317bd3ae4",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0677"
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-17-5.7",
+  "citation": "720 ILCS 5/17-5.7",
+  "docName": "072000050K17-5.7",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K17-5.7",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:26:28.860Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/17-5.7",
+  "headingText": "Sec. 17-5.7. Deceptive advertising.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/17-5.7)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 17-5.7. Deceptive advertising."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) Any person, firm, corporation or association or agent or employee thereof, who, with intent to sell, purchase, or in any wise dispose of, or to contract with reference to merchandise, securities, real estate, service, employment, money, credit or anything offered by such person, firm, corporation or association, or agent or employee thereof, directly or indirectly, to the public for sale, purchase, loan, distribution, or the hire of personal services, or with intent to increase the consumption of or to contract with reference to any merchandise, real estate, securities, money, credit, loan, service or employment, or to induce the public in any manner to enter into any obligation relating thereto, or to acquire title thereto, or an interest therein, or to make any loan, makes, publishes, disseminates, circulates, or places before the public, or causes, directly or indirectly, to be made, published, disseminated, circulated, or placed before the public, in this State, in a newspaper, magazine, or other publication, or in the form of a book, notice, handbill, poster, sign, bill, circular, pamphlet, letter, placard, card, label, or over any radio or television station, or in any other way similar or dissimilar to the foregoing, an advertisement, announcement, or statement of any sort regarding merchandise, securities, real estate, money, credit, service, employment, or anything so offered for use, purchase, loan or sale, or the interest, terms or conditions upon which such loan will be made to the public, which advertisement contains any assertion, representation or statement of fact which is untrue, misleading or deceptive, shall be guilty of a Class A misdemeanor."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Any person, firm or corporation offering for sale merchandise, commodities or service by making, publishing, disseminating, circulating or placing before the public within this State in any manner an advertisement of merchandise, commodities, or service, with the intent, design or purpose not to sell the merchandise, commodities, or service so advertised at the price stated therein, or otherwise communicated, or with intent not to sell the merchandise, commodities, or service so advertised, may be enjoined from such advertising upon application for injunctive relief by the State's Attorney or Attorney General, and shall also be guilty of a Class A misdemeanor."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Any person, firm or corporation who makes, publishes, disseminates, circulates or places before the public, or causes, directly or indirectly to be made, published, disseminated, circulated or placed before the public, in this State, in a newspaper, magazine or other publication published in this State, or in the form of a book, notice, handbill, poster, sign, bill, circular, pamphlet, letter, placard, card, or label distributed in this State, or over any radio or television station located in this State or in any other way in this State similar or dissimilar to the foregoing, an advertisement, announcement, statement or representation of any kind to the public relating to the sale, offering for sale, purchase, use or lease of any real estate in a subdivision located outside the State of Illinois may be enjoined from such activity upon application for injunctive relief by the State's Attorney or Attorney General and shall also be guilty of a Class A misdemeanor unless such advertisement, announcement, statement or representation contains or is accompanied by a clear, concise statement of the proximity of such real estate in common units of measurement to public schools, public highways, fresh water supply, public sewers, electric power, stores and shops, and telephone service or contains a statement that one or more of such facilities are not readily available, and name those not available."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) Subsections (a), (b), and (c) do not apply to any medium for the printing, publishing, or disseminating of advertising, or any owner, agent or employee thereof, nor to any advertising agency or owner, agent or employee thereof, nor to any radio or television station, or owner, agent, or employee thereof, for printing, publishing, or disseminating, or causing to be printed, published, or disseminated, such advertisement in good faith and without knowledge of the deceptive character thereof."
+    },
+    {
+      "type": "subsection",
+      "label": "(e)",
+      "text": "(e) No person, firm or corporation owning or operating a service station shall advertise or hold out or state to the public the per gallon price of gasoline, upon any sign on the premises of such station, unless such price includes all taxes, and unless the price, as so advertised, corresponds with the price appearing on the pump from which such gasoline is dispensed. Also, the identity of the product must be included with the price in any such advertisement, holding out or statement to the public. Any person who violates this subsection (e) shall be guilty of a petty offense."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 96-1551, eff. 7-1-11.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 96-1551, eff. 7-1-11.)",
+  "publicActs": [
+    {
+      "publicAct": "96-1551",
+      "effectiveDate": "7-1-11"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "d5fcf1c0af71089a7d00c10b91edd963ab3c10e20eb4137a3b234f9df4edc8b9",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0700"
+  ]
+}

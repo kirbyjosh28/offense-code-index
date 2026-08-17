@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-17-32",
+  "citation": "720 ILCS 5/17-32",
+  "docName": "072000050K17-32",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K17-32",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:26:16.847Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/17-32",
+  "headingText": "Sec. 17-32. Possession of another's credit, debit, or identification card.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/17-32)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 17-32. Possession of another's credit, debit, or identification card."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) Possession of another's identification card. A person commits possession of another's identification card when he or she, with the intent to defraud, possesses any check guarantee card or key card or identification card for cash dispensing machines without the authority of the account holder or financial institution."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Possession of another's credit or debit card. A person commits possession of another's credit or debit card when he or she receives a credit card or debit card from the person, possession, custody, or control of another without the cardholder's consent or if he or she, with knowledge that it has been so acquired, receives the credit card or debit card with the intent to use it or to sell it, or to transfer it to a person other than the issuer or the cardholder. The trier of fact may infer that a person who has in his or her possession or under his or her control 2 or more such credit cards or debit cards each issued to a cardholder other than himself or herself has violated this Section."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Sentence."
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) A violation of subsection (a) of this Section is a Class A misdemeanor. A person who, within any 12-month period, violates subsection (a) of this Section at the same time or consecutively with respect to 3 or more cards, each the property of different account holders, is guilty of a Class 4 felony. A person convicted under subsection (a) of this Section, when the value of property so obtained, in a single transaction or in separate transactions within any 90-day period, exceeds $150 is guilty of a Class 4 felony. (2) A violation of subsection (b) of this Section is a Class 4 felony. A person who, in any 12-month period, violates subsection (b) of this Section with respect to 3 or more credit cards or debit cards each issued to a cardholder other than himself or herself is guilty of a Class 3 felony. (Source: P.A. 96-1551, eff. 7-1-11.)"
+    }
+  ],
+  "sourceLine": null,
+  "publicActs": [],
+  "repealed": false,
+  "bodyHash": "93bd17abec234bfb4773ec0f71d07ce809a0686670069688e596ec0b1a4c5de7",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0729"
+  ]
+}

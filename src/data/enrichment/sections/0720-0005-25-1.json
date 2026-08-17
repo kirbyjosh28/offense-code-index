@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-25-1",
+  "citation": "720 ILCS 5/25-1",
+  "docName": "072000050K25-1",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K25-1",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:28:19.980Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/25-1",
+  "headingText": "Sec. 25-1. Mob action.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/25-1) (from Ch. 38, par. 25-1)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 25-1. Mob action."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits mob action when he or she engages in any of the following:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) the knowing or reckless use of force or violence disturbing the public peace by 2 or more persons acting together and without authority of law; (2) the knowing assembly of 2 or more persons with the intent to commit or facilitate the commission of a felony or misdemeanor; or (3) the knowing assembly of 2 or more persons, without authority of law, for the purpose of doing violence to the person or property of anyone supposed to have been guilty of a violation of the law, or for the purpose of exercising correctional powers or regulative powers over any person by violence. (b) Sentence."
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) Mob action in violation of paragraph (1) of subsection (a) is a Class 4 felony. (2) Mob action in violation of paragraphs (2) and (3) of subsection (a) is a Class C misdemeanor. (3) A participant in a mob action that by violence inflicts injury to the person or property of another commits a Class 4 felony. (4) A participant in a mob action who does not withdraw when commanded to do so by a peace officer commits a Class A misdemeanor. (5) In addition to any other sentence that may be imposed, a court shall order any person convicted of mob action to perform community service for not less than 30 and not more than 120 hours, if community service is available in the jurisdiction and is funded and approved by the county board of the county where the offense was committed. In addition, whenever any person is placed on supervision for an alleged offense under this Section, the supervision shall be conditioned upon the performance of the community service. This paragraph does not apply when the court imposes a sentence of incarceration. (Source: P.A. 96-710, eff. 1-1-10; 97-1108, eff. 1-1-13.)"
+    }
+  ],
+  "sourceLine": null,
+  "publicActs": [],
+  "repealed": false,
+  "bodyHash": "f6958fb3bbb3e7af827b84c4963bd5f14d33a68fe8c008d9c8c6a1fc6ad21b1a",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0803"
+  ]
+}

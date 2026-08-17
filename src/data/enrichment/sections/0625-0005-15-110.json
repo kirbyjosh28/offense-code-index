@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-15-110",
+  "citation": "625 ILCS 5/15-110",
+  "docName": "062500050K15-110",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K15-110",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:19:43.399Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/15-110",
+  "headingText": "Sec. 15-110. Towed vehicles.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/15-110) (from Ch. 95 1/2, par. 15-110)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 15-110. Towed vehicles."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) When one vehicle is towing another, the drawbar or other connection shall be of sufficient strength to pull all the weight towed thereby and the drawbar or other connection shall not exceed 15 feet from one vehicle to the other, except for the connection between any 2 vehicles transporting poles, pipes, machinery or other objects of structural nature which cannot readily be dismembered."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Outside a business, residential or suburban district or on any controlled access highway, no vehicle other than a pole trailer or a semitrailer which is being towed by a truck tractor and is connected by the means of a fifth wheel shall be towed on a roadway except by a drawbar and each such vehicle so towed shall, in addition, be coupled with 2 safety chains or cables to the towing vehicle. Such chains or cables shall be of sufficient size and strength to prevent the towed vehicle parting from the drawing vehicle in case the drawbar should break or become disengaged."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) The provisions of this section shall not apply to any second division vehicle owned, operated or controlled by any person who is registered with the Bureau of Motor Carrier Safety of the Federal Highway Administration and has complied with the federal safety provisions of the Bureau of Motor Carrier Safety of the Federal Highway Administration and the rules and regulations of the Bureau."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 77-22.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 77-22.)",
+  "publicActs": [
+    {
+      "publicAct": "77-22",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "fa2e5ebbb4cd55a4774519e445d2e3b7320a8f069a061baa86cb5545a877acaf",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0440"
+  ]
+}

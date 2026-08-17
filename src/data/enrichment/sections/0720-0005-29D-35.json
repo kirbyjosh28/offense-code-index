@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-29D-35",
+  "citation": "720 ILCS 5/29D-35",
+  "docName": "072000050K29D-35",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K29D-35",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:29:02.022Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/29D-35",
+  "headingText": "Sec. 29D-35. Hindering prosecution of terrorism.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/29D-35)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 29D-35. Hindering prosecution of terrorism."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits the offense of hindering prosecution of terrorism when he or she renders criminal assistance to a person who has committed terrorism as defined in Section 29D-14.9 or caused a catastrophe as defined in Section 29D-15.1 of this Code when he or she knows that the person to whom he or she rendered criminal assistance engaged in an act of terrorism or caused a catastrophe."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Hindering prosecution of terrorism is a Class X felony, the sentence for which shall be a term of 20 years to natural life imprisonment if no death was caused by the act of terrorism committed by the person to whom the defendant rendered criminal assistance and a mandatory term of natural life imprisonment if death was caused by the act of terrorism committed by the person to whom the defendant rendered criminal assistance. An offender under the age of 18 years at the time of the commission of the offense shall be sentenced under Section 5-4.5-105 of the Unified Code of Corrections."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 99-69, eff. 1-1-16.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 99-69, eff. 1-1-16.)",
+  "publicActs": [
+    {
+      "publicAct": "99-69",
+      "effectiveDate": "1-1-16"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "835afa086c89cb57fbc7146f7b68fb49a9c2486a2f5337c43a5cd40a2eea0c3c",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0842"
+  ]
+}

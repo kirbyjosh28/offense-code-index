@@ -1,0 +1,72 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-1006",
+  "citation": "625 ILCS 5/11-1006",
+  "docName": "062500050K11-1006",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-1006",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:14:49.080Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-1006",
+  "headingText": "Sec. 11-1006. Pedestrians soliciting rides or business.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-1006) (from Ch. 95 1/2, par. 11-1006)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-1006. Pedestrians soliciting rides or business."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) No person shall stand in a roadway for the purpose of soliciting a ride from the driver of any vehicle."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) No person shall stand on a highway for the purpose of soliciting employment or business from the occupant of any vehicle."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) No person shall stand on a highway for the purpose of soliciting contributions from the occupant of any vehicle except within a municipality when expressly permitted by municipal ordinance. The local municipality, city, village, or other local governmental entity in which the solicitation takes place shall determine by ordinance where and when solicitations may take place based on the safety of the solicitors and the safety of motorists. The decision shall also take into account the orderly flow of traffic and may not allow interference with the operation of official traffic control devices. The soliciting agency shall be:"
+    },
+    {
+      "type": "paragraph",
+      "text": "1. registered with the Attorney General as a charitable organization as provided by the Solicitation for Charity Act; 2. engaged in a Statewide fundraising activity; and"
+    },
+    {
+      "type": "paragraph",
+      "text": "3. liable for any injuries to any person or property during the solicitation which is causally related to an act of ordinary negligence of the soliciting agent. Any person engaged in the act of solicitation shall be 16 years of age or more and shall be wearing a high-visibility vest."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) No person shall stand on or in the proximity of a highway for the purpose of soliciting the watching or guarding of any vehicle while parked or about to be parked on a highway."
+    },
+    {
+      "type": "subsection",
+      "label": "(e)",
+      "text": "(e) Every person who is convicted of a violation of this Section shall be guilty of a Class A misdemeanor."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 102-558, eff. 8-20-21.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 102-558, eff. 8-20-21.)",
+  "publicActs": [
+    {
+      "publicAct": "102-558",
+      "effectiveDate": "8-20-21"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "161ce950089b84afc3a93ef8796d3839458dea2949976488ae73ece23033a2aa",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0262"
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-29D-20",
+  "citation": "720 ILCS 5/29D-20",
+  "docName": "072000050K29D-20",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K29D-20",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:28:57.516Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/29D-20",
+  "headingText": "Sec. 29D-20. Making a terrorist threat.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/29D-20)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 29D-20. Making a terrorist threat."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person is guilty of making a terrorist threat when, with the intent to intimidate or coerce a significant portion of a civilian population, he or she in any manner knowingly threatens to commit or threatens to cause the commission of a terrorist act as defined in Section 29D-10(1) and thereby causes a reasonable expectation or fear of the imminent commission of a terrorist act as defined in Section 29D-10(1) or of another terrorist act as defined in Section 29D-10(1)."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) It is not a defense to a prosecution under this Section that at the time the defendant made the terrorist threat, unknown to the defendant, it was impossible to carry out the threat, nor is it a defense that the threat was not made to a person who was a subject or intended victim of the threatened act."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Sentence. Making a terrorist threat is a Class X felony."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) In addition to any other sentence that may be imposed, the court shall order any person convicted of making a terrorist threat involving a threat that a bomb or explosive device has been placed in a school to reimburse the unit of government that employs the emergency response officer or officers that were dispatched to the school for the cost of the search for a bomb or explosive device. For the purposes of this Section, \"emergency response\" means any incident requiring a response by a police officer, a firefighter, a State Fire Marshal employee, or an ambulance."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 96-413, eff. 8-13-09.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 96-413, eff. 8-13-09.)",
+  "publicActs": [
+    {
+      "publicAct": "96-413",
+      "effectiveDate": "8-13-09"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "6c533c9c924a7d22a10865dcfb45339f0531de88dac721c06750ec29dab9f9a3",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0839"
+  ]
+}

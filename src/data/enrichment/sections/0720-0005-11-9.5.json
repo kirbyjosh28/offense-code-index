@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-11-9.5",
+  "citation": "720 ILCS 5/11-9.5",
+  "docName": "072000050K11-9.5",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K11-9.5",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:24:07.700Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/11-9.5",
+  "headingText": "Sec. 11-9.5. Sexual misconduct with a person with a disability.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/11-9.5)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-9.5. Sexual misconduct with a person with a disability."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) Definitions. As used in this Section:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) \"Person with a disability\" means:"
+    },
+    {
+      "type": "subsection",
+      "label": "(i)",
+      "text": "(i) a person diagnosed with a developmental disability as defined in Section 1-106 of the Mental Health and Developmental Disabilities Code; or (ii) a person diagnosed with a mental illness as defined in Section 1-129 of the Mental Health and Developmental Disabilities Code. (2) \"State-operated facility\" means:"
+    },
+    {
+      "type": "subsection",
+      "label": "(i)",
+      "text": "(i) a developmental disability facility as defined in the Mental Health and Developmental Disabilities Code; or (ii) a mental health facility as defined in the Mental Health and Developmental Disabilities Code. (3) \"Community agency\" or \"agency\" means any community entity or program providing residential mental health or developmental disabilities services that is licensed, certified, or funded by the Department of Human Services and not licensed or certified by any other human service agency of the State such as the Departments of Public Health, Healthcare and Family Services, and Children and Family Services. (4) \"Care and custody\" means admission to a State-operated facility. (5) \"Employee\" means:"
+    },
+    {
+      "type": "subsection",
+      "label": "(i)",
+      "text": "(i) any person employed by the Illinois Department of Human Services; (ii) any person employed by a community agency providing services at the direction of the owner or operator of the agency on or off site; or (iii) any person who is a contractual employee or contractual agent of the Department of Human Services or the community agency. This includes but is not limited to payroll personnel, contractors, subcontractors, and volunteers. (6) \"Sexual conduct\" or \"sexual penetration\" means any act of sexual conduct or sexual penetration as defined in Section 11-0.1 of this Code. (b) A person commits sexual misconduct with a person with a disability when:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) he or she is an employee and knowingly engages in sexual conduct or sexual penetration with a person with a disability who is under the care and custody of the Department of Human Services at a State-operated facility; or (2) he or she is an employee of a community agency funded by the Department of Human Services and knowingly engages in sexual conduct or sexual penetration with a person with a disability who is in a residential program operated or supervised by a community agency. (c) For purposes of this Section, the consent of a person with a disability in custody of the Department of Human Services residing at a State-operated facility or receiving services from a community agency shall not be a defense to a prosecution under this Section. A person is deemed incapable of consent, for purposes of this Section, when he or she is a person with a disability and is receiving services at a State-operated facility or is a person with a disability who is in a residential program operated or supervised by a community agency."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) This Section does not apply to:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) any State employee or any community agency employee who is lawfully married to a person with a disability in custody of the Department of Human Services or receiving services from a community agency if the marriage occurred before the date of custody or the initiation of services at a community agency; or (2) any State employee or community agency employee who has no knowledge, and would have no reason to believe, that the person with whom he or she engaged in sexual misconduct was a person with a disability in custody of the Department of Human Services or was receiving services from a community agency. (e) Sentence. Sexual misconduct with a person with a disability is a Class 3 felony."
+    },
+    {
+      "type": "subsection",
+      "label": "(f)",
+      "text": "(f) Any person convicted of violating this Section shall immediately forfeit his or her employment with the State or the community agency."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 96-1551, eff. 7-1-11.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 96-1551, eff. 7-1-11.)",
+  "publicActs": [
+    {
+      "publicAct": "96-1551",
+      "effectiveDate": "7-1-11"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "8f7e90f9f3b384cf2e455b0721fc40361d333bf71acf7028d43fb8b2d0102ce8",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0586"
+  ]
+}

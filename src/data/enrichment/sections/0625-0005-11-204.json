@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-204",
+  "citation": "625 ILCS 5/11-204",
+  "docName": "062500050K11-204",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-204",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:16:23.679Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-204",
+  "headingText": "Sec. 11-204. Fleeing or attempting to elude a peace officer.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-204) (from Ch. 95 1/2, par. 11-204)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-204. Fleeing or attempting to elude a peace officer."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) Any driver or operator of a motor vehicle who, having been given a visual or audible signal by a peace officer directing such driver or operator to bring his vehicle to a stop, wilfully fails or refuses to obey such direction, increases his speed, extinguishes his lights, or otherwise flees or attempts to elude the officer, is guilty of a Class A misdemeanor. The signal given by the peace officer may be by hand, voice, siren, red or blue light. Provided, the officer giving such signal shall be in police uniform, and, if driving a vehicle, such vehicle shall display illuminated oscillating, rotating or flashing red or blue lights which when used in conjunction with an audible horn or siren would indicate the vehicle to be an official police vehicle. Such requirement shall not preclude the use of amber or white oscillating, rotating or flashing lights in conjunction with red or blue oscillating, rotating or flashing lights as required in Section 12-215 of Chapter 12."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Upon receiving notice of such conviction the Secretary of State shall suspend the drivers license of the person so convicted for a period of not more than 6 months for a first conviction and not more than 12 months for a second conviction."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) A third or subsequent violation of this Section is a Class 4 felony."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 93-120, eff. 1-1-04.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 93-120, eff. 1-1-04.)",
+  "publicActs": [
+    {
+      "publicAct": "93-120",
+      "effectiveDate": "1-1-04"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "16b77d85b646e4977cc63e7df767d0dc818e1937f2a98742e4b92cd92abffa83",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0179"
+  ]
+}

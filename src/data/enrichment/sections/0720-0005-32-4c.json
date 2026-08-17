@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-32-4c",
+  "citation": "720 ILCS 5/32-4c",
+  "docName": "072000050K32-4c",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K32-4c",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:29:38.064Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/32-4c",
+  "headingText": "Sec. 32-4c. Witnesses; prohibition on accepting payments before judgment or verdict.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/32-4c)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 32-4c. Witnesses; prohibition on accepting payments before judgment or verdict."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person who, after the commencement of a criminal prosecution, has been identified in the criminal discovery process as a person who may be called as a witness in a criminal proceeding shall not knowingly accept or receive, directly or indirectly, any payment or benefit in consideration for providing information obtained as a result of witnessing an event or occurrence or having personal knowledge of certain facts in relation to the criminal proceeding."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Sentence. A violation of this Section is a Class B misdemeanor for which the court may impose a fine not to exceed 3 times the amount of compensation requested, accepted, or received."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) This Section remains applicable until the judgment of the court in the action if the defendant is tried by the court without a jury or the rendering of the verdict by the jury if the defendant is tried by jury in the action."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) This Section does not apply to any of the following circumstances:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) Lawful compensation paid to expert witnesses, investigators, employees, or agents by a prosecutor, law enforcement agency, or an attorney employed to represent a person in a criminal matter. (2) Lawful compensation or benefits provided to an informant by a prosecutor or law enforcement agency. (2.5) Lawful compensation or benefits, or both, provided to an informant under a local anti-crime program, such as Crime Stoppers, We-Tip, and similar programs designed to solve crimes or that foster the detection of crime and encourage persons through the programs and otherwise to come forward with information about criminal activity. (2.6) Lawful compensation or benefits, or both, provided by a private individual to another private individual as a reward for information leading to the arrest and conviction of specified offenders. (3) Lawful compensation paid to a publisher, editor, reporter, writer, or other person connected with or employed by a newspaper, magazine, television or radio station or any other publishing or media outlet for disclosing information obtained from another person relating to an offense. (e) For purposes of this Section, \"publishing or media outlet\" means a news gathering organization that sells or distributes news to newspapers, television, or radio stations, or a cable or broadcast television or radio network that disseminates news and information."
+    },
+    {
+      "type": "subsection",
+      "label": "(f)",
+      "text": "(f) The person identified as a witness may receive written notice from counsel for either the prosecution or defense of the fact that he or she has been identified as a witness who may be called in a criminal proceeding and his or her responsibilities and possible penalties under this Section. This Section shall be applicable only if the witness received the written notice referred to in this subsection."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 97-1108, eff. 1-1-13.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 97-1108, eff. 1-1-13.)",
+  "publicActs": [
+    {
+      "publicAct": "97-1108",
+      "effectiveDate": "1-1-13"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "d0f16b0f47aca4968564bf346788bbd56e39679466a9d6488a97d2154ca862a7",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0867"
+  ]
+}

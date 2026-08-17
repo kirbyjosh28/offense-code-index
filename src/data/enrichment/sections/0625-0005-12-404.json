@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-12-404",
+  "citation": "625 ILCS 5/12-404",
+  "docName": "062500050K12-404",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K12-404",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:18:16.303Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/12-404",
+  "headingText": "Sec. 12-404. Sale or lease of pneumatic tire without marking. No person or organization shall sell or lease or offer for sale or lease, for use on a highway, any pneumatic tire that does not bear the special marking required by this Section.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/12-404) (from Ch. 95 1/2, par. 12-404)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 12-404. Sale or lease of pneumatic tire without marking. No person or organization shall sell or lease or offer for sale or lease, for use on a highway, any pneumatic tire that does not bear the special marking required by this Section."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) Regrooved or siped tire. In addition to the identification, labelling and certification required under Section 12-402, either the word \"regrooved\" or the word \"siped\" shall be branded on each side of a pneumatic tire on which the tread is either regrooved or siped, as the case may be. In the case of a tire that is both regrooved and siped, the word \"regrooved\" alone on each side shall suffice, although both words may appear on each side. Each branding shall be conspicuous but shall be sized, located and applied so as not to weaken or damage the tire or otherwise degrade the performance of the tire or shorten its useful life."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Retreaded tire. In addition to the labelling, identification, certification and other marking required under Section 12-403, the word \"retreaded\" shall be branded or molded into or onto each side of a pneumatic tire that has been retreaded or \"recapped\". Each molding or branding shall be conspicuous but shall be sized, located and applied so as not to weaken or damage the tire or otherwise degrade the performance of the tire or shorten its useful life."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) New tire. The labelling, identification, certification and other marking required by Part 571.109 of Title 49 of the Code of Federal Regulations shall appear on each new pneumatic tire intended for use on a passenger car other than a multipurpose passenger vehicle. The labelling, identification, certification and other marking required by Part 571.119 of Title 49 of the Code of Federal Regulations shall appear on each new pneumatic tire intended for use on either a multipurpose passenger vehicle or other type of vehicle that is not a passenger car."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 83-213.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 83-213.)",
+  "publicActs": [
+    {
+      "publicAct": "83-213",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "9d5e8971983a54febbb5adf364d670ad087cc77c21fb3d1d3535b22beafa61e1",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0361",
+    "offense-0362",
+    "offense-0363"
+  ]
+}

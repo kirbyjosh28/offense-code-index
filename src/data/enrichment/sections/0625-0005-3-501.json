@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-3-501",
+  "citation": "625 ILCS 5/3-501",
+  "docName": "062500050K3-501",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K3-501",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:20:23.942Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/3-501",
+  "headingText": "Sec. 3-501. Registration expires on transfer by owner. Whenever the owner of a registered vehicle transfers or assigns his title, or interest thereto, the registration of such vehicle shall expire and the owner shall not be entitled to any refund of the registration fee. The owner shall remove the registration plates and registration stickers, if any, therefrom and forward the same to the Secretary of State or may have such plates and registration stickers, if any, and the registration number thereon assigned to another vehicle upon payment of the fees required by law and subject to the rules and regulations of the Secretary of State.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/3-501) (from Ch. 95 1/2, par. 3-501)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 3-501. Registration expires on transfer by owner. Whenever the owner of a registered vehicle transfers or assigns his title, or interest thereto, the registration of such vehicle shall expire and the owner shall not be entitled to any refund of the registration fee. The owner shall remove the registration plates and registration stickers, if any, therefrom and forward the same to the Secretary of State or may have such plates and registration stickers, if any, and the registration number thereon assigned to another vehicle upon payment of the fees required by law and subject to the rules and regulations of the Secretary of State."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 80-230; 80-1185.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 80-230; 80-1185.)",
+  "publicActs": [
+    {
+      "publicAct": "80-230",
+      "effectiveDate": null
+    },
+    {
+      "publicAct": "80-1185",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "7b6f623ace2e4887e6eefa3b260c86409976b78147229bd3dcd80fe93e3ce666",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0032"
+  ]
+}

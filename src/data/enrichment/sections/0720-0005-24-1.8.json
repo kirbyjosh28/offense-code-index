@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-24-1.8",
+  "citation": "720 ILCS 5/24-1.8",
+  "docName": "072000050K24-1.8",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K24-1.8",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:27:49.938Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/24-1.8",
+  "headingText": "Sec. 24-1.8. Unlawful possession of a firearm by a street gang member.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/24-1.8)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 24-1.8. Unlawful possession of a firearm by a street gang member."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits unlawful possession of a firearm by a street gang member when he or she knowingly:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) possesses, carries, or conceals on or about his or her person a firearm and firearm ammunition while on any street, road, alley, gangway, sidewalk, or any other lands, except when inside his or her own abode or inside his or her fixed place of business, and has not been issued a currently valid Firearm Owner's Identification Card and is a member of a street gang; or (2) possesses or carries in any vehicle a firearm and firearm ammunition which are both immediately accessible at the time of the offense while on any street, road, alley, or any other lands, except when inside his or her own abode or garage, and has not been issued a currently valid Firearm Owner's Identification Card and is a member of a street gang. (b) Unlawful possession of a firearm by a street gang member is a Class 2 felony for which the person, if sentenced to a term of imprisonment, shall be sentenced to no less than 3 years and no more than 10 years. A period of probation, a term of periodic imprisonment or conditional discharge shall not be imposed for the offense of unlawful possession of a firearm by a street gang member when the firearm was loaded or contained firearm ammunition and the court shall sentence the offender to not less than the minimum term of imprisonment authorized for the Class 2 felony."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) For purposes of this Section:"
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Street gang\" or \"gang\" has the meaning ascribed to it in Section 10 of the Illinois Streetgang Terrorism Omnibus Prevention Act. \"Street gang member\" or \"gang member\" has the meaning ascribed to it in Section 10 of the Illinois Streetgang Terrorism Omnibus Prevention Act. (Source: P.A. 96-829, eff. 12-3-09.)"
+    }
+  ],
+  "sourceLine": null,
+  "publicActs": [],
+  "repealed": false,
+  "bodyHash": "f18ef13f8bd0ba72da2f8881f78aecb9ac86ac4d3590af009c3862d4f7ab3ef4",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0783"
+  ]
+}

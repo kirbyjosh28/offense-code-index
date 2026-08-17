@@ -1,0 +1,72 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-12-201",
+  "citation": "625 ILCS 5/12-201",
+  "docName": "062500050K12-201",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K12-201",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:17:49.274Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/12-201",
+  "headingText": "Sec. 12-201. When lighted lamps are required.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/12-201) (from Ch. 95 1/2, par. 12-201)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 12-201. When lighted lamps are required."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) When operated upon any highway in this State, every motorcycle shall at all times exhibit at least one lighted lamp, showing a white light, including that emitted by a high intensity discharge (HID) lamp, or a light of a yellow or amber tint visible for at least 500 feet in the direction the motorcycle is proceeding. However, in lieu of such lighted lamp, a motorcycle may be equipped with and use a means of modulating the upper beam of the head lamp between high and a lower brightness. No such head lamp shall be modulated, except to otherwise comply with this Code, during times when lighted lamps are required for other motor vehicles."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) All other motor vehicles shall exhibit at least 2 lighted head lamps, with at least one on each side of the frontmost of the vehicle, which satisfy United States Department of Transportation requirements, as set forth in 49 CFR 571.108, showing white lights, including that emitted by high intensity discharge (HID) lamps, or lights of a yellow or amber tint, during the period from sunset to sunrise, at times when rain, snow, fog, or other atmospheric conditions require the use of windshield wipers, and at any other times when, due to insufficient light or unfavorable atmospheric conditions, persons and vehicles on the highway are not clearly discernible at a distance of 1000 feet. Parking lamps may be used in addition to but not in lieu of such head lamps. Every motor vehicle, trailer, or semi-trailer shall also exhibit at least 2 lighted lamps, commonly known as tail lamps, which shall be mounted on the left rearmost and right rearmost of the vehicle so as to throw a red light visible for at least 500 feet in the reverse direction, except that a truck tractor or road tractor manufactured before January 1, 1968 and all motorcycles need be equipped with only one such tail lamp."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Either a tail lamp or a separate lamp shall be so constructed and placed as to illuminate with a white light a rear registration plate when required and render it clearly legible from a distance of 50 feet to the rear. Any tail lamp or tail lamps, together with any separate lamp or lamps for illuminating a rear registration plate, shall be so wired as to be lighted whenever the head lamps or auxiliary driving lamps are lighted."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) A person shall install only head lamps that satisfy United States Department of Transportation regulations, as set forth in 49 CFR 571.108, and show white light, including that emitted by HID lamps, or light of a yellow or amber tint for use by a motor vehicle."
+    },
+    {
+      "type": "subsection",
+      "label": "(e)",
+      "text": "(e) (Blank)."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 103-706, eff. 1-1-25; 104-577, eff. 7-16-26.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 103-706, eff. 1-1-25; 104-577, eff. 7-16-26.)",
+  "publicActs": [
+    {
+      "publicAct": "103-706",
+      "effectiveDate": "1-1-25"
+    },
+    {
+      "publicAct": "104-577",
+      "effectiveDate": "7-16-26"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "f1f91760dd1962292a99e545c37e1b42ae548ec29fb3762d297256e934c4598b",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0334",
+    "offense-0335",
+    "offense-0336",
+    "offense-0337",
+    "offense-0338"
+  ]
+}

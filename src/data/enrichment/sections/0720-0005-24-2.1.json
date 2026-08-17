@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-24-2.1",
+  "citation": "720 ILCS 5/24-2.1",
+  "docName": "072000050K24-2.1",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K24-2.1",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:27:51.445Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/24-2.1",
+  "headingText": "Sec. 24-2.1. Unlawful possession of firearm projectiles.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/24-2.1) (from Ch. 38, par. 24-2.1)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 24-2.1. Unlawful possession of firearm projectiles."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits the offense of unlawful possession of firearm projectiles when he or she knowingly manufactures, sells, purchases, possesses, or carries any armor piercing bullet, dragon's breath shotgun shell, bolo shell, or flechette shell."
+    },
+    {
+      "type": "paragraph",
+      "text": "For the purposes of this Section:"
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Armor piercing bullet\" means any handgun bullet or handgun ammunition with projectiles or projectile cores constructed entirely (excluding the presence of traces of other substances) from tungsten alloys, steel, iron, brass, bronze, beryllium copper or depleted uranium, or fully jacketed bullets larger than 22 caliber designed and intended for use in a handgun and whose jacket has a weight of more than 25% of the total weight of the projectile, and excluding those handgun projectiles whose cores are composed of soft materials such as lead or lead alloys, zinc or zinc alloys, frangible projectiles designed primarily for sporting purposes, and any other projectiles or projectile cores that the U. S. Secretary of the Treasury finds to be primarily intended to be used for sporting purposes or industrial purposes or that otherwise does not constitute \"armor piercing ammunition\" as that term is defined by federal law."
+    },
+    {
+      "type": "paragraph",
+      "text": "The definition contained herein shall not be construed to include shotgun shells."
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Dragon's breath shotgun shell\" means any shotgun shell that contains exothermic pyrophoric mesh metal as the projectile and is designed for the purpose of throwing or spewing a flame or fireball to simulate a flame-thrower."
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Bolo shell\" means any shell that can be fired in a firearm and expels as projectiles 2 or more metal balls connected by solid metal wire."
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Flechette shell\" means any shell that can be fired in a firearm and expels 2 or more pieces of fin-stabilized solid metal wire or 2 or more solid dart-type projectiles."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Exemptions. This Section does not apply to or affect any of the following:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) Peace officers."
+    },
+    {
+      "type": "subsection",
+      "label": "(2)",
+      "text": "(2) Wardens, superintendents and keepers of prisons, penitentiaries, jails and other institutions for the detention of persons accused or convicted of an offense. (3) Members of the Armed Services or Reserve Forces of the United States or the Illinois National Guard while in the performance of their official duties. (4) Federal officials required to carry firearms, while engaged in the performance of their official duties. (5) United States Marshals, while engaged in the performance of their official duties. (6) Persons licensed under federal law to manufacture, import, or sell firearms and firearm ammunition, and actually engaged in any such business, but only with respect to activities which are within the lawful scope of such business, such as the manufacture, transportation, or testing of such bullets or ammunition. This exemption does not authorize the general private possession of any armor piercing bullet, dragon's breath shotgun shell, bolo shell, or flechette shell, but only such possession and activities which are within the lawful scope of a licensed business described in this paragraph. (7) Laboratories having a department of forensic ballistics or specializing in the development of ammunition or explosive ordnance. (8) Manufacture, transportation, or sale of armor piercing bullets, dragon's breath shotgun shells, bolo shells, or flechette shells to persons specifically authorized under paragraphs (1) through (7) of this subsection to possess such bullets or shells. (c) An information or indictment based upon a violation of this Section need not negate any exemption herein contained. The defendant shall have the burden of proving such an exemption."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) Sentence. A person convicted of unlawful possession of armor piercing bullets shall be guilty of a Class 3 felony."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 103-822, eff. 1-1-25.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 103-822, eff. 1-1-25.)",
+  "publicActs": [
+    {
+      "publicAct": "103-822",
+      "effectiveDate": "1-1-25"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "3c7b31b1936025f2d281c796f18fc2533ef3e6c20a58deef767be27f6cce629a",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0784"
+  ]
+}

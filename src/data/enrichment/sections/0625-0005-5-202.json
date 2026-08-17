@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-5-202",
+  "citation": "625 ILCS 5/5-202",
+  "docName": "062500050K5-202",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K5-202",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:21:15.002Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/5-202",
+  "headingText": "Sec. 5-202. Tow or Wrecker operators must register tow or wrecker vehicles.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/5-202) (from Ch. 95 1/2, par. 5-202)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 5-202. Tow or Wrecker operators must register tow or wrecker vehicles."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) No person in this State shall engage in the business of operating a tow truck or wrecker or operate a tow or wrecker vehicle until such person shall register any vehicle to be used for such purpose and apply for and receive from the Secretary of State a generally distinctive set of 3 \"tow truck\" plates for any towing or wrecker vehicle operated by him."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) An application for registration for a generally distinctive set of 3 \"tow truck\" plates under this Article shall be filed with the Secretary of State, duly verified by oath and in such form as the Secretary of State may by rule or regulation prescribe and shall contain the name and business address of such person, the vehicle identification number of the vehicle for which such application is made, proof of insurance as set forth in paragraph (d) of Section 12-606 of this Code, and such other information concerning the business of the applicant as the Secretary of State may by rule or regulation prescribe."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) The application for registration and a generally distinctive set of 3 \"tow truck\" plates shall be accompanied by the prescribed fee. Upon payment of such fee, such registration and application shall be filed and recorded in the office of the Secretary of State. Thereupon the Secretary of State shall assign and issue to such person a generally distinctive number for each vehicle and without further expense to him shall deliver to such person at his place of business address one set of 3 \"tow truck\" plates. Such \"tow truck\" plates shall be used by such person only on the vehicle for which application was made and the vehicle being towed, and are not transferable."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) All \"tow truck\" plates granted under this Section shall expire by operation of law on December 31 of the calendar year for which they are granted unless sooner revoked under the provisions of Section 5-501 of this Chapter."
+    },
+    {
+      "type": "subsection",
+      "label": "(e)",
+      "text": "(e) One \"tow truck\" plate shall be attached to the front and rear of each registered vehicle, and one \"tow truck\" plate shall be attached to the rear of the vehicle being towed unless the towed vehicle displays a valid registration plate or digital registration plate visible from the rear while being towed, so that the numbers and letter on the plate are clearly visible to any person following the vehicle being towed. However, illumination of the rear plate required by subsection (c) of Section 12-201 of this Code shall not apply to the third plate displayed on the towed vehicle. In addition, the vehicle registration plates or digital registration plates assigned to the vehicle being towed shall be displayed as provided in Section 3-413 of this Code."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 101-395, eff. 8-16-19.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 101-395, eff. 8-16-19.)",
+  "publicActs": [
+    {
+      "publicAct": "101-395",
+      "effectiveDate": "8-16-19"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "9949f469d98c2b01d749adcc3cc37a1f1f1334176849b02dbca4970c130bebef",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0095",
+    "offense-0096"
+  ]
+}

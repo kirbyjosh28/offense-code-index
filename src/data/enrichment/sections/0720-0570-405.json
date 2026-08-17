@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0570-405",
+  "citation": "720 ILCS 570/405",
+  "docName": "072005700K405",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072005700K405",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:31:06.658Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 570/405",
+  "headingText": "Sec. 405. (a) Any person who engages in a calculated criminal drug conspiracy, as defined in subsection (b), is guilty of a Class X felony. The fine for violation of this Section shall not be more than $500,000, and the offender shall be subject to the forfeitures prescribed in subsection (c).",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 570/405) (from Ch. 56 1/2, par. 1405)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 405. (a) Any person who engages in a calculated criminal drug conspiracy, as defined in subsection (b), is guilty of a Class X felony. The fine for violation of this Section shall not be more than $500,000, and the offender shall be subject to the forfeitures prescribed in subsection (c)."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) For purposes of this section, a person engages in a calculated criminal drug conspiracy when:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) he or she violates any of the provisions of subsection (a) or (c) of Section 401 or subsection (a) of Section 402; and (2) such violation is a part of a conspiracy undertaken or carried on with two or more other persons; and (3) he or she obtains anything of value greater than $500 from, or organizes, directs or finances such violation or conspiracy. (c) Any person who is convicted under this section of engaging in a calculated criminal drug conspiracy shall forfeit to the State of Illinois:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) the receipts obtained by him or her in such conspiracy; and (2) any of his or her interests in, claims against, receipts from, or property or rights of any kind affording a source of influence over, such conspiracy. (d) The circuit court may enter such injunctions, restraining orders, directions or prohibitions, or to take such other actions, including the acceptance of satisfactory performance bonds, in connection with any property, claim, receipt, right or other interest subject to forfeiture under this Section, as it deems proper."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 97-334, eff. 1-1-12.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 97-334, eff. 1-1-12.)",
+  "publicActs": [
+    {
+      "publicAct": "97-334",
+      "effectiveDate": "1-1-12"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "a93453a251415b1e436b26c55985dc0e072fc43cc432b372b30c100668b133bc",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0933"
+  ]
+}

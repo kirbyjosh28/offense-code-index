@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-802",
+  "citation": "625 ILCS 5/11-802",
+  "docName": "062500050K11-802",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-802",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:17:29.747Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-802",
+  "headingText": "Sec. 11-802. Limitations on U turns. (a) The driver of any vehicle shall not turn such vehicle so as to proceed in the opposite direction unless such movement can be made in safety and without interfering with other traffic.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-802) (from Ch. 95 1/2, par. 11-802)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-802. Limitations on U turns. (a) The driver of any vehicle shall not turn such vehicle so as to proceed in the opposite direction unless such movement can be made in safety and without interfering with other traffic."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) No vehicle shall be turned so as to proceed in the opposite direction upon any curve, or upon the approach to or near the crest of a grade, where such vehicle cannot be seen by the driver of any other vehicle approaching from either direction within 500 feet."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 82-783.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 82-783.)",
+  "publicActs": [
+    {
+      "publicAct": "82-783",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "945da4c10d1ad4cf06ad781c73644fcb1b2d9266d66b20fc4737f1609bbbe36b",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0243"
+  ]
+}

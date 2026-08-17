@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-21-1.2",
+  "citation": "720 ILCS 5/21-1.2",
+  "docName": "072000050K21-1.2",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K21-1.2",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:27:19.909Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/21-1.2",
+  "headingText": "Sec. 21-1.2. Institutional vandalism.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/21-1.2) (from Ch. 38, par. 21-1.2)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 21-1.2. Institutional vandalism."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits institutional vandalism when, by reason of the actual or perceived race, color, creed, religion, ancestry, gender, sexual orientation, physical or mental disability, or national origin of another individual or group of individuals, regardless of the existence of any other motivating factor or factors, he or she knowingly and without consent inflicts damage to any of the following properties:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) A church, synagogue, mosque, or other building, structure or place used for religious worship or other religious purpose; (2) A cemetery, mortuary, or other facility used for the purpose of burial or memorializing the dead; (3) A school, educational facility or community center; (4) The grounds adjacent to, and owned or rented by, any institution, facility, building, structure or place described in paragraphs (1), (2) or (3) of this subsection (a); or (5) Any personal property contained in any institution, facility, building, structure or place described in paragraphs (1), (2) or (3) of this subsection (a). (b) Sentence."
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) Institutional vandalism is a Class 3 felony when the damage to the property does not exceed $500. Institutional vandalism is a Class 2 felony when the damage to the property exceeds $500. Institutional vandalism is a Class 2 felony for any second or subsequent offense. (2) Upon imposition of any sentence, the trial court shall also either order restitution paid to the victim or impose a fine up to $1,000. In addition, any order of probation or conditional discharge entered following a conviction or an adjudication of delinquency shall include a condition that the offender perform public or community service of no less than 200 hours if that service is established in the county where the offender was convicted of institutional vandalism. The court may also impose any other condition of probation or conditional discharge under this Section. (c) Independent of any criminal prosecution or the result of that prosecution, a person suffering damage to property or injury to his or her person as a result of institutional vandalism may bring a civil action for damages, injunction or other appropriate relief. The court may award actual damages, including damages for emotional distress, or punitive damages. A judgment may include attorney's fees and costs. The parents or legal guardians of an unemancipated minor, other than guardians appointed under the Juvenile Court Act or the Juvenile Court Act of 1987, shall be liable for the amount of any judgment for actual damages rendered against the minor under this subsection in an amount not exceeding the amount provided under Section 5 of the Parental Responsibility Law."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) As used in this Section, \"sexual orientation\" has the meaning ascribed to it in paragraph (O-1) of Section 1-103 of the Illinois Human Rights Act."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 99-77, eff. 1-1-16; 99-631, eff. 1-1-17.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 99-77, eff. 1-1-16; 99-631, eff. 1-1-17.)",
+  "publicActs": [
+    {
+      "publicAct": "99-77",
+      "effectiveDate": "1-1-16"
+    },
+    {
+      "publicAct": "99-631",
+      "effectiveDate": "1-1-17"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "6e457d07b2ef0d45f5494f207ba01d36e33358a2ca0030066910af3da44c61f8",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0763"
+  ]
+}

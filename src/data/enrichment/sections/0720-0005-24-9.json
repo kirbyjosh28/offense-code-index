@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-24-9",
+  "citation": "720 ILCS 5/24-9",
+  "docName": "072000050K24-9",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K24-9",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:28:12.472Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/24-9",
+  "headingText": "Sec. 24-9. Firearms; Child Protection.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/24-9)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 24-9. Firearms; Child Protection."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) Except as provided in subsection (c), it is unlawful for any person to store or leave, within premises under his or her control, a firearm if the person knows or has reason to believe that a minor under the age of 18 years who does not have a Firearm Owners Identification Card is likely to gain access to the firearm without the lawful permission of the minor's parent, guardian, or person having charge of the minor, and the minor causes death or great bodily harm with the firearm, unless the firearm is:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) secured by a device or mechanism, other than the firearm safety, designed to render a firearm temporarily inoperable; or (2) placed in a securely locked box or container."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Sentence. A person who violates this Section is guilty of a Class C misdemeanor and shall be fined not less than $1,000. A second or subsequent violation of this Section is a Class A misdemeanor."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Subsection (a) does not apply:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) if the minor under 18 years of age gains access to a firearm and uses it in a lawful act of self-defense or defense of another; or (2) to any firearm obtained by a minor under the age of 18 because of an unlawful entry of the premises by the minor or another person. (d) For the purposes of this Section, \"firearm\" has the meaning ascribed to it in Section 1.1 of the Firearm Owners Identification Card Act."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 104-31, eff. 1-1-26.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 104-31, eff. 1-1-26.)",
+  "publicActs": [
+    {
+      "publicAct": "104-31",
+      "effectiveDate": "1-1-26"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "55316d6e469055a40c71cb06c2bee013b376c83d3d4bcc05be9e65ba8b18dff4",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0798"
+  ]
+}

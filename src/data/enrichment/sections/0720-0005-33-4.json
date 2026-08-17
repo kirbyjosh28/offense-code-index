@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-33-4",
+  "citation": "720 ILCS 5/33-4",
+  "docName": "072000050K33-4",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K33-4",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:29:50.061Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/33-4",
+  "headingText": "Sec. 33-4. Peace officer or correctional officer; gang-related activity prohibited.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/33-4)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 33-4. Peace officer or correctional officer; gang-related activity prohibited."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) It is unlawful for a peace officer or correctional officer to knowingly commit any act in furtherance of gang-related activities, except when acting in furtherance of an undercover law enforcement investigation."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) In this Section, \"gang-related\" has the meaning ascribed to it in Section 10 of the Illinois Streetgang Terrorism Omnibus Prevention Act."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Sentence. A violation of this Section is a Class 3 felony."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 90-131, eff. 1-1-98.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 90-131, eff. 1-1-98.)",
+  "publicActs": [
+    {
+      "publicAct": "90-131",
+      "effectiveDate": "1-1-98"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "856b992e638ccc92c16a160d027ca1a1e3e97ed05b134b48a1c104f8e47fe908",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0879"
+  ]
+}

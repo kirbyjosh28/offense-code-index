@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-12-708",
+  "citation": "625 ILCS 5/12-708",
+  "docName": "062500050K12-708",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K12-708",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:19:02.852Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/12-708",
+  "headingText": "Sec. 12-708. Operator protective frames on tractor-mower combinations.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/12-708) (from Ch. 95 1/2, par. 12-708)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 12-708. Operator protective frames on tractor-mower combinations."
+    },
+    {
+      "type": "paragraph",
+      "text": "No tractor unit over 16 engine horsepower designed for mowing or tractor-mower combination unit over 16 engine horsepower owned or leased by the Department, a municipal corporation or political subdivision shall be operated for the purpose of mowing vegetation on highway right-of-way unless the tractor of such unit is equipped with an operator protective frame conforming to the specifications prescribed by regulations under the United States Occupational Safety and Health Act of 1970, as amended, and with a seat safety belt."
+    },
+    {
+      "type": "paragraph",
+      "text": "The operator protective frame may be incorporated into a cab which design shall conform to the specifications established by the United States Occupational Safety and Health Act of 1970, as amended."
+    },
+    {
+      "type": "paragraph",
+      "text": "The seat safety belt must meet the requirements provided in Section 12-603 of this Act."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 81-435.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 81-435.)",
+  "publicActs": [
+    {
+      "publicAct": "81-435",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "19807707bb2b3d6b85776372f6755f3bfa30a3ea488b9961fb0e9537c56f0c7a",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0411"
+  ]
+}

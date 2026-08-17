@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-47-5",
+  "citation": "720 ILCS 5/47-5",
+  "docName": "072000050K47-5",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K47-5",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:30:20.096Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/47-5",
+  "headingText": "Sec. 47-5. Public nuisance. It is a public nuisance:",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/47-5)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 47-5. Public nuisance. It is a public nuisance:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) To cause or allow the carcass of an animal or offal, filth, or a noisome substance to be collected, deposited, or to remain in any place to the prejudice of others."
+    },
+    {
+      "type": "subsection",
+      "label": "(2)",
+      "text": "(2) To throw or deposit offal or other offensive matter or the carcass of a dead animal in a water course, lake, pond, spring, well, or common sewer, street, or public highway."
+    },
+    {
+      "type": "subsection",
+      "label": "(3)",
+      "text": "(3) To corrupt or render unwholesome or impure the water of a spring, river, stream, pond, or lake to the injury or prejudice of others."
+    },
+    {
+      "type": "subsection",
+      "label": "(4)",
+      "text": "(4) To obstruct or impede, without legal authority, the passage of a navigable river or waters."
+    },
+    {
+      "type": "subsection",
+      "label": "(5)",
+      "text": "(5) To obstruct or encroach upon public highways, private ways, streets, alleys, commons, landing places, and ways to burying places."
+    },
+    {
+      "type": "subsection",
+      "label": "(6)",
+      "text": "(6) To carry on the business of manufacturing gunpowder, nitroglycerine, or other highly explosive substances, or mixing or grinding the materials for those substances, in a building within 20 rods of a valuable building erected at the time the business is commenced."
+    },
+    {
+      "type": "subsection",
+      "label": "(7)",
+      "text": "(7) To establish powder magazines near incorporated towns, at a point different from that appointed according to law by the corporate authorities of the town, or within 50 rods of an occupied dwelling house."
+    },
+    {
+      "type": "subsection",
+      "label": "(8)",
+      "text": "(8) To erect, continue, or use a building or other place for the exercise of a trade, employment, or manufacture that, by occasioning noxious exhalations, offensive smells, or otherwise, is offensive or dangerous to the health of individuals or of the public."
+    },
+    {
+      "type": "subsection",
+      "label": "(9)",
+      "text": "(9) To advertise wares or occupation by painting notices of the wares or occupation on or affixing them to fences or other private property, or on rocks or other natural objects, without the consent of the owner, or if in the highway or other public place, without permission of the proper authorities."
+    },
+    {
+      "type": "subsection",
+      "label": "(10)",
+      "text": "(10) To permit a well drilled for oil, gas, salt water disposal, or any other purpose in connection with the production of oil and gas to remain unplugged after the well is no longer used for the purpose for which it was drilled."
+    },
+    {
+      "type": "subsection",
+      "label": "(11)",
+      "text": "(11) To construct or operate a salt water pit or oil field refuse pit, commonly called a \"burn out pit\", so that salt water, brine, or oil field refuse or other waste liquids may escape from the pit in a manner except by the evaporation of the salt water or brine or by the burning of the oil field waste or refuse."
+    },
+    {
+      "type": "subsection",
+      "label": "(12)",
+      "text": "(12) To permit concrete bases, discarded machinery, and materials to remain around an oil or gas well, or to fail to fill holes, cellars, slush pits, and other excavations made in connection with the well or to restore the surface of the lands surrounding the well to its condition before the drilling of the well, upon abandonment of the oil or gas well."
+    },
+    {
+      "type": "subsection",
+      "label": "(13)",
+      "text": "(13) To permit salt water, oil, gas, or other wastes from a well drilled for oil, gas, or exploratory purposes to escape to the surface, or into a mine or coal seam, or into an underground fresh water supply, or from one underground stratum to another."
+    },
+    {
+      "type": "subsection",
+      "label": "(14)",
+      "text": "(14) To harass, intimidate, or threaten a person who is about to sell or lease or has sold or leased a residence or other real property or is about to buy or lease or has bought or leased a residence or other real property, when the harassment, intimidation, or threat relates to a person's attempt to sell, buy, or lease a residence, or other real property, or refers to a person's sale, purchase, or lease of a residence or other real property."
+    },
+    {
+      "type": "subsection",
+      "label": "(15)",
+      "text": "(15) To store, dump, or permit the accumulation of debris, refuse, garbage, trash, tires, buckets, cans, wheelbarrows, garbage cans, or other containers in a manner that may harbor mosquitoes, flies, insects, rodents, nuisance birds, or other animal pests that are offensive, injurious, or dangerous to the health of individuals or the public."
+    },
+    {
+      "type": "subsection",
+      "label": "(16)",
+      "text": "(16) To create a condition, through the improper maintenance of a swimming pool or wading pool, or by causing an action that alters the condition of a natural body of water, so that it harbors mosquitoes, flies, or other animal pests that are offensive, injurious, or dangerous to the health of individuals or the public."
+    },
+    {
+      "type": "subsection",
+      "label": "(17)",
+      "text": "(17) To operate a tanning facility without a valid permit under the Tanning Facility Permit Act."
+    },
+    {
+      "type": "paragraph",
+      "text": "Nothing in this Section shall be construed to prevent the corporate authorities of a city, village, or incorporated town, or the county board of a county, from declaring what are nuisances and abating them within their limits. Counties have that authority only outside the corporate limits of a city, village, or incorporated town."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 89-234, eff. 1-1-96.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 89-234, eff. 1-1-96.)",
+  "publicActs": [
+    {
+      "publicAct": "89-234",
+      "effectiveDate": "1-1-96"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "7ece28409ace8d5d617b823a80541f1a87b111fa0c273cc4ffa798c15ae29a89",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0896"
+  ]
+}

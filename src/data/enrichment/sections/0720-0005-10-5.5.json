@@ -1,0 +1,106 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-10-5.5",
+  "citation": "720 ILCS 5/10-5.5",
+  "docName": "072000050K10-5.5",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K10-5.5",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:23:10.638Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/10-5.5",
+  "headingText": "Sec. 10-5.5. Unlawful visitation or parenting time interference.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/10-5.5)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 10-5.5. Unlawful visitation or parenting time interference."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) As used in this Section, the terms \"child\", \"detain\", and \"lawful custodian\" have the meanings ascribed to them in Section 10-5 of this Code."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Every person who, in violation of the visitation, parenting time, or custody time provisions of a court order relating to child custody, detains or conceals a child with the intent to deprive another person of his or her rights to visitation, parenting time, or custody time commits the offense of unlawful visitation or parenting time interference."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) A person committing unlawful visitation or parenting time interference is guilty of a petty offense. Any person violating this Section after 2 prior convictions of unlawful visitation interference or unlawful visitation or parenting time interference, however, is guilty of a Class A misdemeanor."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) Any law enforcement officer who has probable cause to believe that a person has committed or is committing an act in violation of this Section shall issue to that person a notice to appear."
+    },
+    {
+      "type": "subsection",
+      "label": "(e)",
+      "text": "(e) The notice shall:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) be in writing;"
+    },
+    {
+      "type": "subsection",
+      "label": "(2)",
+      "text": "(2) state the name of the person and his or her address, if known; (3) set forth the nature of the offense;"
+    },
+    {
+      "type": "subsection",
+      "label": "(4)",
+      "text": "(4) be signed by the officer issuing the notice; and"
+    },
+    {
+      "type": "subsection",
+      "label": "(5)",
+      "text": "(5) request the person to appear before a court at a certain time and place. (f) Upon failure of the person to appear, a summons or warrant of arrest may be issued."
+    },
+    {
+      "type": "subsection",
+      "label": "(g)",
+      "text": "(g) It is an affirmative defense that:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) a person or lawful custodian committed the act to protect the child from imminent physical harm, provided that the defendant's belief that there was physical harm imminent was reasonable and that the defendant's conduct in withholding visitation rights, parenting time, or custody time was a reasonable response to the harm believed imminent; (2) the act was committed with the mutual consent of all parties having a right to custody and visitation of the child or parenting time with the child; or (3) the act was otherwise authorized by law."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 96-333, eff. 8-11-09; 96-675, eff. 8-25-09; 96-710, eff. 1-1-10; 96-1000, eff. 7-2-10.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 96-333, eff. 8-11-09; 96-675, eff. 8-25-09; 96-710, eff. 1-1-10; 96-1000, eff. 7-2-10.)",
+  "publicActs": [
+    {
+      "publicAct": "96-333",
+      "effectiveDate": "8-11-09"
+    },
+    {
+      "publicAct": "96-675",
+      "effectiveDate": "8-25-09"
+    },
+    {
+      "publicAct": "96-710",
+      "effectiveDate": "1-1-10"
+    },
+    {
+      "publicAct": "96-1000",
+      "effectiveDate": "7-2-10"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "b3cbc1ecc14f561f8fc956d4dcf053910887a7aaed2d26a0b0c191f5a0cee7e7",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0566"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0605-0005-9-117",
+  "citation": "605 ILCS 5/9-117",
+  "docName": "060500050K9-117",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=060500050K9-117",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:14:34.055Z",
+  "transport": "cache",
+  "canonicalCitation": "605 ILCS 5/9-117",
+  "headingText": "Sec. 9-117. If any person injures or obstructs a public highway by felling a tree or trees in, upon or across the same, or by placing or leaving any other obstruction thereon, or encroaching upon the same with any fence, or by plowing or digging any ditch or other opening thereon, or by turning a current of water so as to saturate, wash or damage the same, or by plowing in or across or on the slopes of the side gutters or ditches, or by placing any material in such ditches, or in any way interfering with the free flow of water therein, or leaves the cuttings of any hedge thereon for more than 10 days, without the permission of the highway authority having jurisdiction over such highway, he shall be guilty of a petty offense and fined for every such offense not less than $50 nor more than $500; and in case of placing any obstruction on the highway, an additional sum of not exceeding $50 per day for every day he allows such obstruction to remain after he has been ordered to remove it by the highway authority having jurisdiction over such highway. Any person feeling himself aggrieved or any such highway authority may make a complaint under this Section.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(605 ILCS 5/9-117) (from Ch. 121, par. 9-117)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 9-117. If any person injures or obstructs a public highway by felling a tree or trees in, upon or across the same, or by placing or leaving any other obstruction thereon, or encroaching upon the same with any fence, or by plowing or digging any ditch or other opening thereon, or by turning a current of water so as to saturate, wash or damage the same, or by plowing in or across or on the slopes of the side gutters or ditches, or by placing any material in such ditches, or in any way interfering with the free flow of water therein, or leaves the cuttings of any hedge thereon for more than 10 days, without the permission of the highway authority having jurisdiction over such highway, he shall be guilty of a petty offense and fined for every such offense not less than $50 nor more than $500; and in case of placing any obstruction on the highway, an additional sum of not exceeding $50 per day for every day he allows such obstruction to remain after he has been ordered to remove it by the highway authority having jurisdiction over such highway. Any person feeling himself aggrieved or any such highway authority may make a complaint under this Section."
+    },
+    {
+      "type": "paragraph",
+      "text": "The highway authority having jurisdiction over such highway, after having given 10 days' notice to the owners of the obstruction or person so obstructing, or plowing, or digging ditches upon such highway or interfering with the free flow of water in the side gutters or ditches, of the obstruction, plowing or digging of ditches, interfering with drainage, or of the encroachment of any fence, may remove any such fence or other obstruction, fill up any ditch or excavation except ditches necessary to the drainage of an adjoining farm emptying into a ditch upon the highway, or regrade such side gutters or ditches, and recover the necessary cost of such removal or filling of any such ditch or excavation, or regrading of such side gutters or ditches from such owner or other person obstructing or damaging such highway aforesaid, to be collected by the highway authority having jurisdiction of the highway whereon such offense was committed. Any such cost recovered shall be deposited in the road fund of the political division having jurisdiction over the highway adjudged to have been obstructed or injured, and shall be used only for maintenance or construction of public highways under the jurisdiction of that division."
+    },
+    {
+      "type": "paragraph",
+      "text": "The 10 day notice requirement of this Section is not required for any obstruction to traffic flow including non-adherence to the provisions of a permit issued by the highway authority having jurisdiction under Section 4-209, 5-413, or 9-113 of this Code."
+    },
+    {
+      "type": "paragraph",
+      "text": "However, this section shall not apply to any person who shall lawfully fell any tree for use and shall immediately remove the same out of the highway, nor to any person through or along whose land a public highway may pass, who shall desire to drain his land, and who shall give due notice to the proper highway authority of such intention, and who shall first secure from such highway authority written permission for any work, ditching or excavating he proposes to do within the limits of the highway."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 93-177, eff. 7-11-03.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 93-177, eff. 7-11-03.)",
+  "publicActs": [
+    {
+      "publicAct": "93-177",
+      "effectiveDate": "7-11-03"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "e7c2d644d5680864883b9a0489f5c102c3f5da6c5ff4ec84edb582179ef115c1",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0544"
+  ]
+}

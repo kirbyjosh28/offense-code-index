@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-1507",
+  "citation": "625 ILCS 5/11-1507",
+  "docName": "062500050K11-1507",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-1507",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:16:13.168Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-1507",
+  "headingText": "Sec. 11-1507. Lamps and other equipment on bicycles.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-1507) (from Ch. 95 1/2, par. 11-1507)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-1507. Lamps and other equipment on bicycles."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) Every bicycle when in use at nighttime shall be equipped with a lamp on the front which shall emit a white light visible from a distance of at least 500 feet to the front and with a red reflector on the rear of a type approved by the Department which shall be visible from all distances from 100 feet to 600 feet to the rear when directly in front of lawful lower beams of headlamps on a motor vehicle, except that a lamp emitting a steady or flashing red light visible from a distance of 500 feet to the rear may be used in addition to or instead of the red reflector."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) A bicycle shall not be equipped with nor shall any person use upon a bicycle any siren. This subsection (b) does not apply to a bicycle that is a police vehicle or fire department vehicle."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Every bicycle shall be equipped with a brake which will adequately control movement of and stop and hold such bicycle."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) No person shall sell a new bicycle or pedal for use on a bicycle that is not equipped with a reflex reflector conforming to specifications prescribed by the Department, on each pedal, visible from the front and rear of the bicycle during darkness from a distance of 200 feet."
+    },
+    {
+      "type": "subsection",
+      "label": "(e)",
+      "text": "(e) No person shall sell or offer for sale a new bicycle that is not equipped with side reflectors. Such reflectors shall be visible from each side of the bicycle from a distance of 500 feet and shall be essentially colorless or red to the rear of the center of the bicycle and essentially colorless or amber to the front of the center of the bicycle provided. The requirements of this paragraph may be met by reflective materials which shall be at least 3/16 of an inch wide on each side of each tire or rim to indicate as clearly as possible the continuous circular shape and size of the tires or rims of such bicycle and which reflective materials may be of the same color on both the front and rear tire or rim. Such reflectors shall conform to specifications prescribed by the Department."
+    },
+    {
+      "type": "subsection",
+      "label": "(f)",
+      "text": "(f) No person shall sell or offer for sale a new bicycle that is not equipped with an essentially colorless front-facing reflector."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 100-359, eff. 1-1-18.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 100-359, eff. 1-1-18.)",
+  "publicActs": [
+    {
+      "publicAct": "100-359",
+      "effectiveDate": "1-1-18"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "73eff73dff0f9774f0ab47be06ff1ed8352bbd14967afb9fbb9e9f48d99cf3dc",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0327"
+  ]
+}

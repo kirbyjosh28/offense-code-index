@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-12-809",
+  "citation": "625 ILCS 5/12-809",
+  "docName": "062500050K12-809",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K12-809",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:19:22.374Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/12-809",
+  "headingText": "Sec. 12-809. First aid kit.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/12-809) (from Ch. 95 1/2, par. 12-809)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 12-809. First aid kit."
+    },
+    {
+      "type": "paragraph",
+      "text": "Each school bus shall be equipped with a first aid kit mounted in full view of and readily accessible to the driver."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 78-1244.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 78-1244.)",
+  "publicActs": [
+    {
+      "publicAct": "78-1244",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "e78abda18fc240179a19e81141e7f17c7bf7be48d2ce9eab56f88c4c073ddc5f",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0424"
+  ]
+}

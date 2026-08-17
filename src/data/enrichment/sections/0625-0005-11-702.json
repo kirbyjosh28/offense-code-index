@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-702",
+  "citation": "625 ILCS 5/11-702",
+  "docName": "062500050K11-702",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-702",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:17:11.730Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-702",
+  "headingText": "Sec. 11-702. Passing vehicles proceeding in opposite directions. Drivers of vehicles proceeding in opposite directions shall pass each other to the right, and upon roadways having width for not more than one line of traffic in each direction each driver shall give to the other at least one-half of the main-traveled portion of the roadway as nearly as possible.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-702) (from Ch. 95 1/2, par. 11-702)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-702. Passing vehicles proceeding in opposite directions. Drivers of vehicles proceeding in opposite directions shall pass each other to the right, and upon roadways having width for not more than one line of traffic in each direction each driver shall give to the other at least one-half of the main-traveled portion of the roadway as nearly as possible."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 79-1069.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 79-1069.)",
+  "publicActs": [
+    {
+      "publicAct": "79-1069",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "acaf8ced83cd7708e4ee7add337c5e36e3ff57bfb624519522c4556917b8098c",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0226"
+  ]
+}

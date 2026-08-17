@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-12-502",
+  "citation": "625 ILCS 5/12-502",
+  "docName": "062500050K12-502",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K12-502",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:18:20.809Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/12-502",
+  "headingText": "Sec. 12-502. Mirrors. Every motor vehicle, operated singly or when towing another vehicle, shall be equipped with a mirror so located as to reflect to the driver a view of the highway for a distance of at least 200 feet to the rear of such motor vehicle.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/12-502) (from Ch. 95 1/2, par. 12-502)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 12-502. Mirrors. Every motor vehicle, operated singly or when towing another vehicle, shall be equipped with a mirror so located as to reflect to the driver a view of the highway for a distance of at least 200 feet to the rear of such motor vehicle."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 82-122.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 82-122.)",
+  "publicActs": [
+    {
+      "publicAct": "82-122",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "2493dcda70494a69e0d26033306e98d28b1d11ab9acab9f08b9a6c7bb1c59b39",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0369"
+  ]
+}

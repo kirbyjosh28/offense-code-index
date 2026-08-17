@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-11-1.20",
+  "citation": "720 ILCS 5/11-1.20",
+  "docName": "072000050K11-1.20",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K11-1.20",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:23:18.175Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/11-1.20",
+  "headingText": "Sec. 11-1.20. Criminal sexual assault.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/11-1.20) (was 720 ILCS 5/12-13)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-1.20. Criminal sexual assault."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits criminal sexual assault if that person commits an act of sexual penetration and:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) uses force or threat of force;"
+    },
+    {
+      "type": "subsection",
+      "label": "(2)",
+      "text": "(2) knows that the victim is unable to understand the nature of the act or is unable to give knowing consent; (3) is a family member of the victim, and the victim is under 18 years of age; or (4) is 17 years of age or over and holds a position of trust, authority, or supervision in relation to the victim, and the victim is at least 13 years of age but under 18 years of age. (b) Sentence."
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) Criminal sexual assault is a Class 1 felony, except that: (A) A person who is convicted of the offense of criminal sexual assault as defined in paragraph (a)(1) or (a)(2) after having previously been convicted of the offense of criminal sexual assault or the offense of exploitation of a child, or who is convicted of the offense of criminal sexual assault as defined in paragraph (a)(1) or (a)(2) after having previously been convicted under the laws of this State or any other state of an offense that is substantially equivalent to the offense of criminal sexual assault or to the offense of exploitation of a child, commits a Class X felony for which the person shall be sentenced to a term of imprisonment of not less than 30 years and not more than 60 years, except that if the person is under the age of 18 years at the time of the offense, he or she shall be sentenced under Section 5-4.5-105 of the Unified Code of Corrections. The commission of the second or subsequent offense is required to have been after the initial conviction for this paragraph (A) to apply. (B) A person who has attained the age of 18 years at the time of the commission of the offense and who is convicted of the offense of criminal sexual assault as defined in paragraph (a)(1) or (a)(2) after having previously been convicted of the offense of aggravated criminal sexual assault or the offense of predatory criminal sexual assault of a child, or who is convicted of the offense of criminal sexual assault as defined in paragraph (a)(1) or (a)(2) after having previously been convicted under the laws of this State or any other state of an offense that is substantially equivalent to the offense of aggravated criminal sexual assault or the offense of predatory criminal sexual assault of a child shall be sentenced to a term of natural life imprisonment. The commission of the second or subsequent offense is required to have been after the initial conviction for this paragraph (B) to apply. An offender under the age of 18 years at the time of the commission of the offense covered by this subparagraph (B) shall be sentenced under Section 5-4.5-105 of the Unified Code of Corrections. (C) A second or subsequent conviction for a violation of paragraph (a)(3) or (a)(4) or under any similar statute of this State or any other state for any offense involving criminal sexual assault that is substantially equivalent to or more serious than the sexual assault prohibited under paragraph (a)(3) or (a)(4) is a Class X felony. (Source: P.A. 99-69, eff. 1-1-16.)"
+    }
+  ],
+  "sourceLine": null,
+  "publicActs": [],
+  "repealed": false,
+  "bodyHash": "f39c678cc71e25158b0e65535cce659eba4cf24c95fd08aeb69c357482665620",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0572"
+  ]
+}

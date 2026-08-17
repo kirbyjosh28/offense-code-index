@@ -1,0 +1,70 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-12-5.02",
+  "citation": "720 ILCS 5/12-5.02",
+  "docName": "072000050K12-5.02",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K12-5.02",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:24:45.255Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/12-5.02",
+  "headingText": "Sec. 12-5.02. Vehicular endangerment.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/12-5.02) (was 720 ILCS 5/12-2.5)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 12-5.02. Vehicular endangerment."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits vehicular endangerment when he or she strikes a motor vehicle by causing an object to fall from an overpass or other elevated location in the direction of a moving motor vehicle with the intent to strike a motor vehicle while it is traveling upon a highway in this State."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Sentence. Vehicular endangerment is a Class 2 felony, unless death results, in which case vehicular endangerment is a Class 1 felony."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Definitions. For purposes of this Section:"
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Elevated location\" means a bridge, overpass, highway ramp, building, artificial structure, hill, mound, or natural elevation above or adjacent to and above a highway."
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Object\" means any object or substance that by its size, weight, or consistency is likely to cause great bodily harm to any occupant of a motor vehicle."
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Overpass\" means any structure that passes over a highway."
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Motor vehicle\" and \"highway\" have the meanings as defined in the Illinois Vehicle Code."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 99-656, eff. 1-1-17.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 99-656, eff. 1-1-17.)",
+  "publicActs": [
+    {
+      "publicAct": "99-656",
+      "effectiveDate": "1-1-17"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "c2e3560efb3376752fbdcc3eb8b53e46826c2795ea8cf379e1c8641e7167fa6e",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0627"
+  ]
+}

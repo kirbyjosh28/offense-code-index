@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-18-1",
+  "citation": "720 ILCS 5/18-1",
+  "docName": "072000050K18-1",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K18-1",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:26:53.113Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/18-1",
+  "headingText": "Sec. 18-1. Robbery; aggravated robbery.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/18-1) (from Ch. 38, par. 18-1)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 18-1. Robbery; aggravated robbery."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) Robbery. A person commits robbery when he or she knowingly takes property, except a motor vehicle covered by Section 18-3 or 18-4, from the person or presence of another by the use of force or by threatening the imminent use of force."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Aggravated robbery."
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) A person commits aggravated robbery when he or she violates subsection (a) while indicating verbally or by his or her actions to the victim that he or she is presently armed with a firearm or other dangerous weapon, including a knife, club, ax, or bludgeon. This offense shall be applicable even though it is later determined that he or she had no firearm or other dangerous weapon, including a knife, club, ax, or bludgeon, in his or her possession when he or she committed the robbery. (2) A person commits aggravated robbery when he or she knowingly takes property from the person or presence of another by delivering (by injection, inhalation, ingestion, transfer of possession, or any other means) to the victim without his or her consent, or by threat or deception, and for other than medical purposes, any controlled substance. (c) Sentence."
+    },
+    {
+      "type": "paragraph",
+      "text": "Robbery is a Class 2 felony, unless the victim is 60 years of age or over or is a person with a physical disability, or the robbery is committed in a school, early care and education center, early care and education home, group early care and education home, or part day program, or place of worship, in which case robbery is a Class 1 felony. Aggravated robbery is a Class 1 felony."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) Regarding penalties prescribed in subsection (c) for violations committed in an early care and education center, early care and education home, group early care and education home, or part day program, the time of day, time of year, and whether children under 18 years of age were present in the early care and education center, early care and education home, group early care and education home, or part day program are irrelevant."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 104-480, eff. 7-1-26.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 104-480, eff. 7-1-26.)",
+  "publicActs": [
+    {
+      "publicAct": "104-480",
+      "effectiveDate": "7-1-26"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "c8e631d59d37c4e9e0dbbdc03ea3abe412003b2ea2bcc73a3836cc3ae449ad3d",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0745"
+  ]
+}

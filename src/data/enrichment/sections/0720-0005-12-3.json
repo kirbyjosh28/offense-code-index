@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-12-3",
+  "citation": "720 ILCS 5/12-3",
+  "docName": "072000050K12-3",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K12-3",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:24:19.722Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/12-3",
+  "headingText": "Sec. 12-3. Battery.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/12-3) (from Ch. 38, par. 12-3)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 12-3. Battery."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits battery if he or she knowingly without legal justification by any means (1) causes bodily harm to an individual or (2) makes physical contact of an insulting or provoking nature with an individual."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Sentence."
+    },
+    {
+      "type": "paragraph",
+      "text": "Battery is a Class A misdemeanor."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 96-1551, eff. 7-1-11.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 96-1551, eff. 7-1-11.)",
+  "publicActs": [
+    {
+      "publicAct": "96-1551",
+      "effectiveDate": "7-1-11"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "9fe3b3364a17e1bad460762b79c2beaca91129f74e9a868ffcb77404d80bf220",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0609"
+  ]
+}

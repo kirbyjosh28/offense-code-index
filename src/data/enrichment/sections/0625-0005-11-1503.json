@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-1503",
+  "citation": "625 ILCS 5/11-1503",
+  "docName": "062500050K11-1503",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-1503",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:16:07.169Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-1503",
+  "headingText": "Sec. 11-1503. Riding on bicycles. (a) A person propelling a bicycle shall not ride other than upon or astride a permanent and regular seat attached thereto.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-1503) (from Ch. 95 1/2, par. 11-1503)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-1503. Riding on bicycles. (a) A person propelling a bicycle shall not ride other than upon or astride a permanent and regular seat attached thereto."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) No bicycle shall be used to carry more persons at one time than the number for which it is designed and equipped, except that an adult rider may carry a child securely attached to his person in a back pack or sling."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 82-132.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 82-132.)",
+  "publicActs": [
+    {
+      "publicAct": "82-132",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "97aa73f8d119800ef0072c2f1ca5d6930c0ae32562a6f5f47b887a1366a6bf28",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0323"
+  ]
+}

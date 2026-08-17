@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-1412.1",
+  "citation": "625 ILCS 5/11-1412.1",
+  "docName": "062500050K11-1412.1",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-1412.1",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:15:35.633Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-1412.1",
+  "headingText": "Sec. 11-1412.1. Driving upon sidewalk. No person shall drive any vehicle upon a sidewalk or sidewalk area except upon a permanent or duly authorized temporary driveway. This Section does not apply to any vehicle moved exclusively by human power, to any electric personal assistive mobility device, nor to any motorized wheelchair. Nothing in this Section shall be deemed to limit or preempt the authority of any home rule or non-home rule unit of local government from regulating or prohibiting the use of electric personal assistive mobility devices.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-1412.1) (from Ch. 95 1/2, par. 11-1412.1)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-1412.1. Driving upon sidewalk. No person shall drive any vehicle upon a sidewalk or sidewalk area except upon a permanent or duly authorized temporary driveway. This Section does not apply to any vehicle moved exclusively by human power, to any electric personal assistive mobility device, nor to any motorized wheelchair. Nothing in this Section shall be deemed to limit or preempt the authority of any home rule or non-home rule unit of local government from regulating or prohibiting the use of electric personal assistive mobility devices."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 92-868, eff. 6-1-03.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 92-868, eff. 6-1-03.)",
+  "publicActs": [
+    {
+      "publicAct": "92-868",
+      "effectiveDate": "6-1-03"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "8a69735f5b1c388e807839b53f9ad16ca45e4ce39f6532df7119af0a82b090a7",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0300"
+  ]
+}

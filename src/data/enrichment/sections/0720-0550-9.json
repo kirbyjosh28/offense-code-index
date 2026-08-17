@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0550-9",
+  "citation": "720 ILCS 550/9",
+  "docName": "072005500K9",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072005500K9",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:30:57.645Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 550/9",
+  "headingText": "Sec. 9. (a) Any person who engages in a calculated criminal cannabis conspiracy, as defined in subsection (b), is guilty of a Class 3 felony, and fined not more than $200,000 and shall be subject to the forfeitures prescribed in subsection (c); except that, if any person engages in such offense after one or more prior convictions under this Section, Section 4(d), Section 5(d), Section 8(d) or any law of the United States or of any state relating to cannabis, or controlled substances as defined in the Illinois Controlled Substances Act, in addition to the fine and forfeiture authorized above, he shall be guilty of a Class 1 felony.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 550/9) (from Ch. 56 1/2, par. 709)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 9. (a) Any person who engages in a calculated criminal cannabis conspiracy, as defined in subsection (b), is guilty of a Class 3 felony, and fined not more than $200,000 and shall be subject to the forfeitures prescribed in subsection (c); except that, if any person engages in such offense after one or more prior convictions under this Section, Section 4(d), Section 5(d), Section 8(d) or any law of the United States or of any state relating to cannabis, or controlled substances as defined in the Illinois Controlled Substances Act, in addition to the fine and forfeiture authorized above, he shall be guilty of a Class 1 felony."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) For purposes of this Section, a person engages in a calculated criminal cannabis conspiracy when:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) he violates Section 4(d), 4(e), 5(d), 5(e), 8(c) or 8(d) of this Act; and (2) such violation is a part of a conspiracy undertaken or carried on with 2 or more other persons; and (3) he obtains anything of value greater than $500 from, or organizes, directs or finances such violation or conspiracy. (c) Any person who is convicted under this Section of engaging in a calculated criminal cannabis conspiracy shall forfeit to the State of Illinois:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) the receipts obtained by him in such conspiracy; and (2) any of his interests in, claims against, receipts from, or property or rights of any kind affording a source of influence over, such conspiracy. (d) The circuit court may enter such injunctions, restraining orders, directions, or prohibitions, or take such other actions, including the acceptance of satisfactory performance bonds, in connection with any property, claim, receipt, right or other interest subject to forfeiture under this Section, as it deems proper."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 103-51, eff. 1-1-24.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 103-51, eff. 1-1-24.)",
+  "publicActs": [
+    {
+      "publicAct": "103-51",
+      "effectiveDate": "1-1-24"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "17d5586ca197eaecbb7a98f93f7303e2fad4586e1392105ab4cb0ce37abb068e",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0927"
+  ]
+}

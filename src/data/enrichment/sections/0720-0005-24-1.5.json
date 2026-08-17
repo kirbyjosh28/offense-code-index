@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-24-1.5",
+  "citation": "720 ILCS 5/24-1.5",
+  "docName": "072000050K24-1.5",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K24-1.5",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:27:48.441Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/24-1.5",
+  "headingText": "Sec. 24-1.5. Reckless discharge of a firearm.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/24-1.5)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 24-1.5. Reckless discharge of a firearm."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits reckless discharge of a firearm by discharging a firearm in a reckless manner which endangers the bodily safety of an individual."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) If the conduct described in subsection (a) is committed by a passenger of a moving motor vehicle with the knowledge and consent of the driver of the motor vehicle the driver is accountable for such conduct."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Reckless discharge of a firearm is a Class 4 felony."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) This Section does not apply to a peace officer while in the performance of his or her official duties."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 88-217.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 88-217.)",
+  "publicActs": [
+    {
+      "publicAct": "88-217",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "c81c4fd13e11a5818248e7fa7b3a5935b128c9f8e816fb386e9fabde0541afb8",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0782"
+  ]
+}

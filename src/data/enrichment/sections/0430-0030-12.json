@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0430-0030-12",
+  "citation": "430 ILCS 30/12",
+  "docName": "043000300K12",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=043000300K12",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:14:20.533Z",
+  "transport": "cache",
+  "canonicalCitation": "430 ILCS 30/12",
+  "headingText": "Sec. 12. Any person who willfully violates any provision of this Act or any rule or regulation issued under this Act is guilty of a Class 3 felony and subject to a fine of not more than $25,000 for each offense. Such violation shall be prosecuted by the State's Attorney or the Attorney General at the request of the Department.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(430 ILCS 30/12) (from Ch. 95 1/2, par. 700-12)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 12. Any person who willfully violates any provision of this Act or any rule or regulation issued under this Act is guilty of a Class 3 felony and subject to a fine of not more than $25,000 for each offense. Such violation shall be prosecuted by the State's Attorney or the Attorney General at the request of the Department."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 80-351.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 80-351.)",
+  "publicActs": [
+    {
+      "publicAct": "80-351",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "33471a37576f5554d20bf292c5264dbdbb22e518db647b3c689d22342ab22b11",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0513"
+  ]
+}

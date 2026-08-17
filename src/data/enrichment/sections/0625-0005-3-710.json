@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-3-710",
+  "citation": "625 ILCS 5/3-710",
+  "docName": "062500050K3-710",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K3-710",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:20:37.452Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/3-710",
+  "headingText": "Sec. 3-710. Display of false insurance card. No person shall display evidence of insurance to a law enforcement officer, court, or officer of the court, knowing there is no valid liability insurance in effect on the motor vehicle as required under Section 7-601 of this Code or knowing the evidence of insurance is illegally altered, counterfeit, or otherwise invalid as evidence of insurance required under Section 7-602 of this Code. If the law enforcement officer issues a citation to a motor vehicle operator for displaying invalid evidence of insurance, the officer shall confiscate the evidence for presentation in court.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/3-710) (from Ch. 95 1/2, par. 3-710)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 3-710. Display of false insurance card. No person shall display evidence of insurance to a law enforcement officer, court, or officer of the court, knowing there is no valid liability insurance in effect on the motor vehicle as required under Section 7-601 of this Code or knowing the evidence of insurance is illegally altered, counterfeit, or otherwise invalid as evidence of insurance required under Section 7-602 of this Code. If the law enforcement officer issues a citation to a motor vehicle operator for displaying invalid evidence of insurance, the officer shall confiscate the evidence for presentation in court."
+    },
+    {
+      "type": "paragraph",
+      "text": "Any person convicted of violating this Section is guilty of a Class A misdemeanor."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 89-565, eff. 7-26-96.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 89-565, eff. 7-26-96.)",
+  "publicActs": [
+    {
+      "publicAct": "89-565",
+      "effectiveDate": "7-26-96"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "f9e6fde328f7ec7e078d32fe65abf4b0b687d440c7add16c9bdae93defe08869",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0043"
+  ]
+}

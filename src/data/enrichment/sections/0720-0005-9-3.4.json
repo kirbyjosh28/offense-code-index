@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-9-3.4",
+  "citation": "720 ILCS 5/9-3.4",
+  "docName": "072000050K9-3.4",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K9-3.4",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:30:47.128Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/9-3.4",
+  "headingText": "Sec. 9-3.4. Concealment of homicidal death.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/9-3.4) (was 720 ILCS 5/9-3.1)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 9-3.4. Concealment of homicidal death."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits the offense of concealment of homicidal death when he or she knowingly conceals the death of any other person with knowledge that such other person has died by homicidal means."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Nothing in this Section prevents the defendant from also being charged with and tried for the first degree murder, second degree murder, or involuntary manslaughter of the person whose death is concealed."
+    },
+    {
+      "type": "paragraph",
+      "text": "(b-5) For purposes of this Section:"
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Conceal\" means the performing of some act or acts for the purpose of preventing or delaying the discovery of a death by homicidal means. \"Conceal\" means something more than simply withholding knowledge or failing to disclose information."
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Homicidal means\" means any act or acts, lawful or unlawful, of a person that cause the death of another person."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Sentence. Concealment of homicidal death is a Class 3 felony."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 96-710, eff. 1-1-10.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 96-710, eff. 1-1-10.)",
+  "publicActs": [
+    {
+      "publicAct": "96-710",
+      "effectiveDate": "1-1-10"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "5fafac86b8c0796d14c01b39a11e065e5898efd78e9a727fa2765ea3acbb3f8c",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0557"
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-12-709",
+  "citation": "625 ILCS 5/12-709",
+  "docName": "062500050K12-709",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K12-709",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:19:04.357Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/12-709",
+  "headingText": "Sec. 12-709. Slow-moving vehicle emblem.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/12-709) (from Ch. 95 1/2, par. 12-709)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 12-709. Slow-moving vehicle emblem."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) Every animal drawn vehicle, farm tractor, implement of husbandry and special mobile equipment, when operated on a highway must display a slow-moving vehicle emblem mounted on the rear except as provided in paragraph (b) of this Section. Special mobile equipment is exempt when operated within the limits of a construction or maintenance project where traffic control devices are used in compliance with the applicable provisions of the manual and specifications adopted under Section 11-301 of the \"Illinois Vehicle Code\"."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Every vehicle or unit described in paragraph (a) of this Section when operated in combination on a highway must display a slow-moving vehicle emblem as follows:"
+    },
+    {
+      "type": "paragraph",
+      "text": "1. Where the towed unit or any load thereon partially or totally obscures the slow-moving vehicle emblem on the towing unit, the towed unit shall be equipped with a slow-moving vehicle emblem. In such cases the towing unit need not display the emblem. 2. Where the slow-moving vehicle emblem on the towing unit is not obscured by the towed unit or its load, then either or both may be equipped with the required emblem but it shall be sufficient if either displays it. 3. A registered truck towed behind a farm tractor in conformity with the provisions of Section 11-1418 of the \"Illinois Vehicle Code\" must display a slow-moving vehicle emblem in the manner provided in paragraph (c) while being towed on a highway if the emblem on the towing vehicle is partially or totally obscured. (c) The slow-moving vehicle emblem required by paragraphs (a) and (b) of this Section must meet or exceed the specifications and mounting requirements established by the Department. Such specifications and mounting requirements shall, on and before August 31, 2004, be based on the specifications adopted by the American Society of Agricultural Engineers and published by that body as ASAE S 276.2 dated March, 1968 or as ASAE S 276.5. On and after September 1, 2004, the specifications and mounting requirements shall be based on the specifications adopted by the American Society of Agricultural Engineers and published by that body as ASAE S 276.5 NOV 97. No advertising or other marking shall appear upon the emblem except that specified by the American Society of Agricultural Engineers to identify the standard to which the material complies. Each original package containing a slow-moving vehicle emblem shall display a notice on the outside of the package stating that such emblem shall only be used for the purposes stated in subsections (a) and (b)."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) A slow-moving vehicle emblem is intended as a safety identification device and shall not be displayed on any vehicle nor displayed in any manner other than as described in paragraphs (a), (b) and (c) of this Section. A slow-moving vehicle emblem may not be displayed in public view from a highway on an object other than a vehicle or unit described in subsection (a) of this Section or a vehicle required to display a slow-moving vehicle emblem under subsection (e) of Section 11-1426.1 of this Code. A violation of this subsection (d) is a petty offense punishable by a fine of $75."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 97-958, eff. 8-15-12.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 97-958, eff. 8-15-12.)",
+  "publicActs": [
+    {
+      "publicAct": "97-958",
+      "effectiveDate": "8-15-12"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "373749b3058b54604120cf2cb054a66766406162bb8403df27ef29e0f9ba5cab",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0412"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-12-36",
+  "citation": "720 ILCS 5/12-36",
+  "docName": "072000050K12-36",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K12-36",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:24:37.745Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/12-36",
+  "headingText": "Sec. 12-36. Possession of unsterilized or vicious dogs by felons prohibited.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/12-36)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 12-36. Possession of unsterilized or vicious dogs by felons prohibited."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) For a period of 10 years commencing upon the release of a person from incarceration, it is unlawful for a person convicted of a forcible felony, a felony violation of the Humane Care for Animals Act, a felony violation of Section 26-5 or 48-1 of this Code, a felony violation of Article 24 of this Code, a felony violation of Class 3 or higher of the Illinois Controlled Substances Act, a felony violation of Class 3 or higher of the Cannabis Control Act, or a felony violation of Class 2 or higher of the Methamphetamine Control and Community Protection Act, to knowingly own, possess, have custody of, or reside in a residence with, either:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) an unspayed or unneutered dog or puppy older than 12 weeks of age; or (2) irrespective of whether the dog has been spayed or neutered, any dog that has been determined to be a vicious dog under Section 15 of the Animal Control Act. (b) Any dog owned, possessed by, or in the custody of a person convicted of a felony, as described in subsection (a), must be microchipped for permanent identification."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Sentence. A person who violates this Section is guilty of a Class A misdemeanor."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) It is an affirmative defense to prosecution under this Section that the dog in question is neutered or spayed, or that the dog in question was neutered or spayed within 7 days of the defendant being charged with a violation of this Section. Medical records from, or the certificate of, a doctor of veterinary medicine licensed to practice in the State of Illinois who has personally examined or operated upon the dog, unambiguously indicating whether the dog in question has been spayed or neutered, shall be prima facie true and correct, and shall be sufficient evidence of whether the dog in question has been spayed or neutered. This subsection (d) is not applicable to any dog that has been determined to be a vicious dog under Section 15 of the Animal Control Act."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 96-185, eff. 1-1-10; 97-1108, eff. 1-1-13.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 96-185, eff. 1-1-10; 97-1108, eff. 1-1-13.)",
+  "publicActs": [
+    {
+      "publicAct": "96-185",
+      "effectiveDate": "1-1-10"
+    },
+    {
+      "publicAct": "97-1108",
+      "effectiveDate": "1-1-13"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "26e1d577db45a2e04527e0dfa8a630cca6afc6ea55999ecce703df37a66f1ce1",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0653"
+  ]
+}

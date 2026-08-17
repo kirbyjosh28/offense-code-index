@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-409",
+  "citation": "625 ILCS 5/11-409",
+  "docName": "062500050K11-409",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-409",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:16:47.706Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-409",
+  "headingText": "Sec. 11-409. False motor vehicle crash reports or notices. Any person who provides information in an oral or written report required by this Code with knowledge or reason to believe that such information is false shall be guilty of a Class C misdemeanor.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-409) (from Ch. 95 1/2, par. 11-409)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-409. False motor vehicle crash reports or notices. Any person who provides information in an oral or written report required by this Code with knowledge or reason to believe that such information is false shall be guilty of a Class C misdemeanor."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 102-982, eff. 7-1-23.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 102-982, eff. 7-1-23.)",
+  "publicActs": [
+    {
+      "publicAct": "102-982",
+      "effectiveDate": "7-1-23"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "f3e0a6dcc56832da893bff85edc3d67ebb8aca335e5570392b1ce4c826508a94",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0197"
+  ]
+}

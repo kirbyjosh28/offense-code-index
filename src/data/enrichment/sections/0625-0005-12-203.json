@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-12-203",
+  "citation": "625 ILCS 5/12-203",
+  "docName": "062500050K12-203",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K12-203",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:17:52.278Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/12-203",
+  "headingText": "Sec. 12-203. Lamps on parked vehicles.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/12-203) (from Ch. 95 1/2, par. 12-203)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 12-203. Lamps on parked vehicles."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) During the period from sunset to sunrise every motorcycle or motor vehicle which is standing on any highway shall display a parking light on the front and at the rear of the same. However, any city, village or incorporated town may by ordinance, under rules and regulations it may prescribe, designate any part or parts of any street, or other highway under their jurisdiction, as parking places in which motorcycles and motor vehicles may be parked without having their lamps lighted, as otherwise required by this Section."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Any lighted driving lamps upon a parked vehicle shall be depressed or dimmed."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 77-37.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 77-37.)",
+  "publicActs": [
+    {
+      "publicAct": "77-37",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "c58b1967e3324cedef9a00377b437ea605ca19ec62d52c97e721c12554c32ace",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0340"
+  ]
+}

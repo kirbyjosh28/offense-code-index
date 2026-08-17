@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-3-117.2",
+  "citation": "625 ILCS 5/3-117.2",
+  "docName": "062500050K3-117.2",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K3-117.2",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:20:13.452Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/3-117.2",
+  "headingText": "Sec. 3-117.2. Junk vehicle notification. Beginning July 1, 1989 a person licensed as a scrap processor or automotive parts recycler pursuant to Section 5-301 of this Code who acquires a properly assigned Certificate of Title, a Salvage Certificate, a Certificate of Purchase, or a similarly acceptable out-of-state document of ownership pursuant to Section 5-401.3 of this Code, shall within 15 days of acquiring such document, submit it to the Secretary of State along with a Junk Vehicle Notification, the form and manner for which shall be as prescribed by Secretary of State rule or regulation. A scrap processor or automotive parts recycler who acquires the above named documents of ownership pursuant to Section 5-401.3 shall not be required to apply for or obtain a junking certificate. The information contained on a Junk Vehicle Notification shall be duly recorded by the Secretary of State upon the receipt of such Notification. The Secretary of State shall not again issue a Certificate of Title or Salvage Certificate for any vehicle listed on a Junk Vehicle Notification.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/3-117.2) (from Ch. 95 1/2, par. 3-117.2)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 3-117.2. Junk vehicle notification. Beginning July 1, 1989 a person licensed as a scrap processor or automotive parts recycler pursuant to Section 5-301 of this Code who acquires a properly assigned Certificate of Title, a Salvage Certificate, a Certificate of Purchase, or a similarly acceptable out-of-state document of ownership pursuant to Section 5-401.3 of this Code, shall within 15 days of acquiring such document, submit it to the Secretary of State along with a Junk Vehicle Notification, the form and manner for which shall be as prescribed by Secretary of State rule or regulation. A scrap processor or automotive parts recycler who acquires the above named documents of ownership pursuant to Section 5-401.3 shall not be required to apply for or obtain a junking certificate. The information contained on a Junk Vehicle Notification shall be duly recorded by the Secretary of State upon the receipt of such Notification. The Secretary of State shall not again issue a Certificate of Title or Salvage Certificate for any vehicle listed on a Junk Vehicle Notification."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 102-436, eff. 1-1-22.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 102-436, eff. 1-1-22.)",
+  "publicActs": [
+    {
+      "publicAct": "102-436",
+      "effectiveDate": "1-1-22"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "33bb15402e24d922c626635f4c231bac2df0d5dc40a0df9e28c889d8cfe0b4ab",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0015"
+  ]
+}

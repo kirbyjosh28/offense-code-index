@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-311",
+  "citation": "625 ILCS 5/11-311",
+  "docName": "062500050K11-311",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-311",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:16:35.694Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-311",
+  "headingText": "Sec. 11-311. Interference with official traffic-control devices or railroad signs or signals.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-311) (from Ch. 95 1/2, par. 11-311)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-311. Interference with official traffic-control devices or railroad signs or signals."
+    },
+    {
+      "type": "paragraph",
+      "text": "No person shall without lawful authority attempt to or in fact alter, deface, injure, knock down, or remove any official traffic-control device, or any railroad sign or signal or any inscription, shield, or insignia thereon, or any other part thereof."
+    },
+    {
+      "type": "paragraph",
+      "text": "Every person who is convicted of a violation of this Section shall be guilty of a Class A misdemeanor, punishable by a fine of at least $250 in addition to any other penalties which may be imposed."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 83-672.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 83-672.)",
+  "publicActs": [
+    {
+      "publicAct": "83-672",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "7fbb02d9c751e25a278de62a724a42f1d202076bdc50751d38503b9928607d1d",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0188"
+  ]
+}

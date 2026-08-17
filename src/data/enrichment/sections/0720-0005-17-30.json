@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-17-30",
+  "citation": "720 ILCS 5/17-30",
+  "docName": "072000050K17-30",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K17-30",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:26:13.852Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/17-30",
+  "headingText": "Sec. 17-30. Defaced, altered, or removed manufacturer or owner identification number.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/17-30) (was 720 ILCS 5/16C-2)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 17-30. Defaced, altered, or removed manufacturer or owner identification number."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) Unlawful sale of household appliances. A person commits unlawful sale of household appliances when he or she knowingly, with the intent to defraud or deceive another, keeps for sale, within any commercial context, any household appliance with a missing, defaced, obliterated, or otherwise altered manufacturer's identification number."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Construction equipment identification defacement. A person commits construction equipment identification defacement when he or she knowingly changes, alters, removes, mutilates, or obliterates a permanently affixed serial number, product identification number, part number, component identification number, owner-applied identification, or other mark of identification attached to or stamped, inscribed, molded, or etched into a machine or other equipment, whether stationary or mobile or self-propelled, or a part of such machine or equipment, used in the construction, maintenance, or demolition of buildings, structures, bridges, tunnels, sewers, utility pipes or lines, ditches or open cuts, roads, highways, dams, airports, or waterways or in material handling for such projects."
+    },
+    {
+      "type": "paragraph",
+      "text": "The trier of fact may infer that the defendant has knowingly changed, altered, removed, or obliterated the serial number, product identification number, part number, component identification number, owner-applied identification number, or other mark of identification, if the defendant was in possession of any machine or other equipment or a part of such machine or equipment used in the construction, maintenance, or demolition of buildings, structures, bridges, tunnels, sewers, utility pipes or lines, ditches or open cuts, roads, highways, dams, airports, or waterways or in material handling for such projects upon which any such serial number, product identification number, part number, component identification number, owner-applied identification number, or other mark of identification has been changed, altered, removed, or obliterated."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Defacement of manufacturer's serial number or identification mark. A person commits defacement of a manufacturer's serial number or identification mark when he or she knowingly removes, alters, defaces, covers, or destroys the manufacturer's serial number or any other manufacturer's number or distinguishing identification mark upon any machine or other article of merchandise, other than a motor vehicle as defined in Section 1-146 of the Illinois Vehicle Code or a firearm as defined in the Firearm Owners Identification Card Act, with the intent of concealing or destroying the identity of such machine or other article of merchandise."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) Sentence."
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) A violation of subsection (a) of this Section is a Class 4 felony if the value of the appliance or appliances exceeds $1,000 and a Class B misdemeanor if the value of the appliance or appliances is $1,000 or less. (2) A violation of subsection (b) of this Section is a Class A misdemeanor. (3) A violation of subsection (c) of this Section is a Class B misdemeanor. (e) No liability shall be imposed upon any person for the unintentional failure to comply with subsection (a)."
+    },
+    {
+      "type": "subsection",
+      "label": "(f)",
+      "text": "(f) Definitions. In this Section:"
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Commercial context\" means a continuing business enterprise conducted for profit by any person whose primary business is the wholesale or retail marketing of household appliances, or a significant portion of whose business or inventory consists of household appliances kept or sold on a wholesale or retail basis."
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Household appliance\" means any gas or electric device or machine marketed for use as home entertainment or for facilitating or expediting household tasks or chores. The term shall include but not necessarily be limited to refrigerators, freezers, ranges, radios, television sets, vacuum cleaners, toasters, dishwashers, and other similar household items."
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Manufacturer's identification number\" means any serial number or other similar numerical or alphabetical designation imprinted upon or attached to or placed, stamped, or otherwise imprinted upon or attached to a household appliance or item by the manufacturer for purposes of identifying a particular appliance or item individually or by lot number."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 96-1551, eff. 7-1-11.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 96-1551, eff. 7-1-11.)",
+  "publicActs": [
+    {
+      "publicAct": "96-1551",
+      "effectiveDate": "7-1-11"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "1ea9352396745655276b6b82ce9586393bdbd8d8079529dc1131694e494fbd44",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0726",
+    "offense-0727"
+  ]
+}

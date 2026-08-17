@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-11-14.4",
+  "citation": "720 ILCS 5/11-14.4",
+  "docName": "072000050K11-14.4",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K11-14.4",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:23:31.668Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/11-14.4",
+  "headingText": "Sec. 11-14.4. Promoting commercial sexual exploitation of a child.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/11-14.4)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-14.4. Promoting commercial sexual exploitation of a child."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) Any person who knowingly performs any of the following acts commits promoting commercial sexual exploitation of a child:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) advances prostitution as defined in Section 11-0.1, where the minor engaged in prostitution, or any person engaged in prostitution in the place, is under 18 years of age or is a person with a severe or profound intellectual disability at the time of the offense; (2) profits from prostitution by any means where the person engaged in the sex trade is a sexually exploited child under 18 years of age or is a person with a severe or profound intellectual disability at the time of the offense; (3) profits from prostitution by any means where the sexually exploited child is under 13 years of age at the time of the offense; (4) confines a child under the age of 18 or a person with a severe or profound intellectual disability against his or her will by the infliction or threat of imminent infliction of great bodily harm or permanent disability or disfigurement or by administering to the child or the person with a severe or profound intellectual disability, without his or her consent or by threat or deception and for other than medical purposes, any alcoholic intoxicant or a drug as defined in the Illinois Controlled Substances Act or the Cannabis Control Act or methamphetamine as defined in the Methamphetamine Control and Community Protection Act and: (A) compels the child or the person with a severe or profound intellectual disability to engage in prostitution; (B) arranges a situation in which the child or the person with a severe or profound intellectual disability may practice prostitution; or (C) profits from prostitution by the child or the person with a severe or profound intellectual disability. (b) For purposes of this Section, administering drugs, as defined in subdivision (a)(4), or an alcoholic intoxicant to a child under the age of 13 or a person with a severe or profound intellectual disability shall be deemed to be without consent if the administering is done without the consent of the parents or legal guardian or if the administering is performed by the parents or legal guardian for other than medical purposes."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) If the accused did not have a reasonable opportunity to observe the person engaged in the sex trade, it is an affirmative defense to a charge of promoting commercial sexual exploitation of a child, except for a charge under subdivision (a)(4), that the accused reasonably believed the person was of the age of 18 years or over or was not a person with a severe or profound intellectual disability at the time of the act giving rise to the charge."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) Sentence. A violation of subdivision (a)(1) is a Class 1 felony, unless committed within 1,000 feet of real property comprising a school, in which case it is a Class X felony. A violation of subdivision (a)(2) is a Class 1 felony. A violation of subdivision (a)(3) is a Class X felony. A violation of subdivision (a)(4) is a Class X felony, for which the person shall be sentenced to a term of imprisonment of not less than 6 years and not more than 60 years. A second or subsequent violation of subdivision (a)(1), (a)(2), or (a)(3), or any combination of convictions under subdivision (a)(1), (a)(2), or (a)(3) and Sections 11-14 (prostitution), 11-14.1 (solicitation of a sexual act), 11-14.3 (promoting prostitution), 11-15 (soliciting for a person engaged in the sex trade), 11-15.1 (soliciting for a sexually exploited child), 11-16 (pandering), 11-17 (keeping a place of prostitution), 11-17.1 (keeping a place of commercial sexual exploitation of a child), 11-18 (patronizing a person engaged in the sex trade), 11-18.1 (patronizing a sexually exploited child), 11-19 (pimping), 11-19.1 (juvenile pimping or aggravated juvenile pimping), or 11-19.2 (exploitation of a child) of this Code, is a Class X felony."
+    },
+    {
+      "type": "subsection",
+      "label": "(e)",
+      "text": "(e) Forfeiture. Any person convicted of a violation of this Section that involves promoting commercial sexual exploitation of a child by keeping a place of commercial sexual exploitation of a child or convicted of a violation of subdivision (a)(4) is subject to the property forfeiture provisions set forth in Article 124B of the Code of Criminal Procedure of 1963."
+    },
+    {
+      "type": "subsection",
+      "label": "(f)",
+      "text": "(f) For the purposes of this Section, \"person engaged in the sex trade\" means any person who engages in, or agrees or offers to engage in, any act of sexual penetration as defined in Section 11-0.1 of this Code for any money, property, token, object, or article or anything of value, or any touching or fondling of the sex organs of one person by another person, for any money, property, token, object, or article or anything of value, for the purpose of sexual arousal or gratification."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 103-1071, eff. 7-1-25.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 103-1071, eff. 7-1-25.)",
+  "publicActs": [
+    {
+      "publicAct": "103-1071",
+      "effectiveDate": "7-1-25"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "152d11727514478c1f05afc75881764d48f4dc84152c9670e7eb3de2c9cc183d",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0591"
+  ]
+}

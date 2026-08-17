@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-10-6",
+  "citation": "720 ILCS 5/10-6",
+  "docName": "072000050K10-6",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K10-6",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:23:12.121Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/10-6",
+  "headingText": "Sec. 10-6. Harboring a runaway.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/10-6) (from Ch. 38, par. 10-6)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 10-6. Harboring a runaway."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) Any person, other than an agency or association providing crisis intervention services as defined in Section 3-5 of the Juvenile Court Act of 1987, or an operator of a youth emergency shelter as defined in Section 2.21 of the Child Care Act of 1969, who, without the knowledge and consent of the minor's parent or guardian, knowingly gives shelter to a minor, other than a mature minor who has been emancipated under the Emancipation of Minors Act, for more than 48 hours without the consent of the minor's parent or guardian, and without notifying the local law enforcement authorities of the minor's name and the fact that the minor is being provided shelter commits the offense of harboring a runaway."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Any person who commits the offense of harboring a runaway is guilty of a Class A misdemeanor."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 95-331, eff. 8-21-07.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 95-331, eff. 8-21-07.)",
+  "publicActs": [
+    {
+      "publicAct": "95-331",
+      "effectiveDate": "8-21-07"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "009753c59bfaec13a84a5317b3dfa316935262c7c38b5dd29c77d1333110b076",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0567"
+  ]
+}

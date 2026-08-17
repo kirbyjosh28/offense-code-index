@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-24.8-1",
+  "citation": "720 ILCS 5/24.8-1",
+  "docName": "072000050K24.8-1",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K24.8-1",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:28:16.962Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/24.8-1",
+  "headingText": "Sec. 24.8-1. Selling, renting, or transferring air rifles to children.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/24.8-1)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 24.8-1. Selling, renting, or transferring air rifles to children."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A dealer commits selling, renting, or transferring air rifles to children when he or she sells, lends, rents, gives or otherwise transfers an air rifle to any person under the age of 13 years where the dealer knows or has cause to believe the person to be under 13 years of age or where the dealer has failed to make reasonable inquiry relative to the age of the person and the person is under 13 years of age."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) A person commits selling, renting, or transferring air rifles to children when he or she sells, gives, lends, or otherwise transfers any air rifle to any person under 13 years of age except where the relationship of parent and child, guardian and ward or adult instructor and pupil, exists between this person and the person under 13 years of age, or where the person stands in loco parentis to the person under 13 years of age."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 97-1108, eff. 1-1-13.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 97-1108, eff. 1-1-13.)",
+  "publicActs": [
+    {
+      "publicAct": "97-1108",
+      "effectiveDate": "1-1-13"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "40c7669dc9f8f938fefa837f181bc4e30aebde1dcad70cefb212976546fb1309",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0801"
+  ]
+}

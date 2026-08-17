@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-306",
+  "citation": "625 ILCS 5/11-306",
+  "docName": "062500050K11-306",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-306",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:16:28.184Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-306",
+  "headingText": "Sec. 11-306. Traffic-control signal legend. Whenever traffic is controlled by traffic-control signals exhibiting different colored lights or color lighted arrows, successively one at a time or in combination, only the colors green, red, and yellow shall be used, except for special pedestrian signals carrying a word legend, and the lights shall indicate and apply to drivers of vehicles, bicyclists, and pedestrians as follows:",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-306) (from Ch. 95 1/2, par. 11-306)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-306. Traffic-control signal legend. Whenever traffic is controlled by traffic-control signals exhibiting different colored lights or color lighted arrows, successively one at a time or in combination, only the colors green, red, and yellow shall be used, except for special pedestrian signals carrying a word legend, and the lights shall indicate and apply to drivers of vehicles, bicyclists, and pedestrians as follows:"
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) Green indication."
+    },
+    {
+      "type": "paragraph",
+      "text": "1. Vehicular traffic facing a circular green signal may proceed straight through or turn right or left unless a sign at such place prohibits either such turn. Vehicular traffic, including vehicles turning right or left, shall yield the right of way to other vehicles, to bicyclists, and to pedestrians lawfully within the intersection or an adjacent crosswalk at the time such signal is exhibited. 2. Vehicular traffic facing a green arrow signal, shown alone or in combination with another indication, may cautiously enter the intersection only to make the movement indicated by such arrow, or such other movement as is permitted by other indications shown at the same time. Such vehicular traffic shall yield the right of way to bicyclists and pedestrians lawfully within an adjacent crosswalk and to other traffic lawfully using the intersection. 3. Unless otherwise directed by a pedestrian-control signal, as provided in Section 11-307, pedestrians or bicyclists facing any green signal, except when the sole green signal is a turn arrow, may proceed across the roadway within any marked or unmarked crosswalk. (b) Steady yellow indication."
+    },
+    {
+      "type": "paragraph",
+      "text": "1. Vehicular traffic facing a steady circular yellow or yellow arrow signal is thereby warned that the related green movement is being terminated or that a red indication will be exhibited immediately thereafter. 2. Pedestrians facing a steady circular yellow or yellow arrow signal, unless otherwise directed by a pedestrian-control signal as provided in Section 11-307, are thereby advised that there is insufficient time to cross the roadway before a red indication is shown and no pedestrian shall then start to cross the roadway. (b-5) Flashing yellow arrow indication."
+    },
+    {
+      "type": "paragraph",
+      "text": "1. Vehicular traffic facing a flashing yellow arrow indication may cautiously enter the intersection only to make the movement indicated by the arrow and shall yield the right-of-way to other vehicles and pedestrians lawfully within the intersection or an adjacent crosswalk at the time the signal is exhibited. 2. Pedestrians facing a flashing yellow arrow indication, unless otherwise directed by a pedestrian-control signal as provided in Section 11-307, may proceed across the roadway within any marked or unmarked crosswalk that crosses the lane or lanes used to depart the intersection by traffic controlled by the flashing yellow arrow indication. Pedestrians shall yield the right-of-way to vehicles lawfully within the intersection at the time that the flashing yellow signal indication is first displayed. (c) Steady red indication."
+    },
+    {
+      "type": "paragraph",
+      "text": "1. Except as provided in paragraphs 3 and 3.5 of this subsection (c), vehicular traffic facing a steady circular red signal alone shall stop at a clearly marked stop line, but if there is no such stop line, before entering the crosswalk on the near side of the intersection, or if there is no such crosswalk, then before entering the intersection, and shall remain standing until an indication to proceed is shown. 2. Except as provided in paragraphs 3 and 3.5 of this subsection (c), vehicular traffic facing a steady red arrow signal shall not enter the intersection to make the movement indicated by the arrow and, unless entering the intersection to make a movement permitted by another signal, shall stop at a clearly marked stop line, but if there is no such stop line, before entering the crosswalk on the near side of the intersection, or if there is no such crosswalk, then before entering the intersection, and shall remain standing until an indication permitting the movement indicated by such red arrow is shown. 3. Except when a sign is in place prohibiting a turn and local authorities by ordinance or State authorities by rule or regulation prohibit any such turn, vehicular traffic facing any steady red signal may cautiously enter the intersection to turn right, or to turn left from a one-way street into a one-way street, after stopping as required by paragraph 1 or paragraph 2 of this subsection. After stopping, the driver shall yield the right of way to any vehicle in the intersection or approaching on another roadway so closely as to constitute an immediate hazard during the time such driver is moving across or within the intersection or junction or roadways. Such driver shall yield the right of way to pedestrians or bicyclists within the intersection or an adjacent crosswalk. 3.5. After stopping as required by paragraph 1 or 2 of this subsection (c), the driver of a motorcycle or bicycle, facing a steady red signal which fails to change to a green signal within a reasonable period of time not less than 120 seconds because of a signal malfunction or because the signal has failed to detect the arrival of the motorcycle or bicycle due to the vehicle's size or weight, shall have the right to proceed, after yielding the right of way to oncoming traffic facing a green signal, subject to the rules applicable after making a stop at a stop sign as required by Section 11-1204 of this Code. 4. Unless otherwise directed by a pedestrian-control signal as provided in Section 11-307, pedestrians facing a steady circular red or red arrow signal alone shall not enter the roadway. (d) In the event an official traffic control signal is erected and maintained at a place other than an intersection, the provisions of this Section shall be applicable except as to provisions which by their nature can have no application. Any stop required shall be at a traffic sign or a marking on the pavement indicating where the stop shall be made or, in the absence of such sign or marking, the stop shall be made at the signal."
+    },
+    {
+      "type": "subsection",
+      "label": "(e)",
+      "text": "(e) The motorman of any streetcar shall obey the above signals as applicable to vehicles."
+    },
+    {
+      "type": "subsection",
+      "label": "(f)",
+      "text": "(f) If an official traffic control signal is erected and maintained as a dedicated signal for bicyclists, that signal shall take precedence for bicyclists over other signals outlined in this Section."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 104-260, eff. 8-15-25; 104-577, eff. 7-16-26.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 104-260, eff. 8-15-25; 104-577, eff. 7-16-26.)",
+  "publicActs": [
+    {
+      "publicAct": "104-260",
+      "effectiveDate": "8-15-25"
+    },
+    {
+      "publicAct": "104-577",
+      "effectiveDate": "7-16-26"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "cdb0d05ea9fd2539b7522cb61fe62b9827f3a046dfb5cfa052ba9eb017aa1d35",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0183"
+  ]
+}

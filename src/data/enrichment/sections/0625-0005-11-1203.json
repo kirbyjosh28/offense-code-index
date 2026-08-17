@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-1203",
+  "citation": "625 ILCS 5/11-1203",
+  "docName": "062500050K11-1203",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-1203",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:14:59.578Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-1203",
+  "headingText": "Sec. 11-1203. Moving heavy equipment at railroad grade crossing.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-1203) (from Ch. 95 1/2, par. 11-1203)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-1203. Moving heavy equipment at railroad grade crossing."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) No person shall operate or move any crawler-type tractor, power shovel, derrick, roller, or any equipment or structure having a normal operating speed of 10 or less miles per hour, or, for such equipment with 18 feet or less distance between two adjacent axles, having a vertical body or load clearance of less than 9 inches above a level surface, or, for such equipment with more than 18 feet between two adjacent axles, having a vertical body or load clearance of less than 1/2 inch per foot of distance between such adjacent axles above a level surface upon or across any tracks at a railroad grade crossing without first complying with this Section."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Notice of any such intended crossing shall be given to a superintendent of such railroad and a reasonable time be given to such railroad to provide proper protection at such crossing."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Before making any such crossing the person operating or moving any such vehicle or equipment shall first stop the same not less than 15 feet nor more than 50 feet from the nearest rail of such railway and while so stopped shall listen and look in both directions along such track for any approaching train or railroad track equipment and for signals indicating the approach of a train or railroad track equipment, and shall not proceed until the crossing can be made safely."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) No such crossing shall be made when warning is given by automatic signal or crossing gates or a flagman or otherwise of the immediate approach of a railroad train, railroad track equipment, or car."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 96-1244, eff. 1-1-11.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 96-1244, eff. 1-1-11.)",
+  "publicActs": [
+    {
+      "publicAct": "96-1244",
+      "effectiveDate": "1-1-11"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "dc6b387120c14f7431c0e9f87dcc5f12fb6fb789ad97008c4d6170b54271e3fb",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0269"
+  ]
+}

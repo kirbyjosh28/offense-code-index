@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0690-1",
+  "citation": "720 ILCS 690/1",
+  "docName": "072006900K1",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072006900K1",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:31:32.177Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 690/1",
+  "headingText": "Sec. 1. Use prohibited. No person shall ingest, breathe, inhale or drink any compound, liquid, or chemical containing toluol, hexane, trichloroethylene, acetone, toluene, ethyl acetate, methyl ethyl ketone, trichloroethane, isopropanol, methyl isobutyl ketone, methyl cellosolve acetate, cyclohexanone, the alkaloids atropine, hyoscyamine, or scopolamine, or any other substance for the purpose of inducing a condition of intoxication, stupefaction, depression, giddiness, paralysis or irrational behavior, or in any manner changing, distorting or disturbing the auditory, visual or mental processes. For the purposes of this Act, any such condition so induced shall be deemed to be an intoxicated condition.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 690/1) (from Ch. 38, par. 81-1)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 1. Use prohibited. No person shall ingest, breathe, inhale or drink any compound, liquid, or chemical containing toluol, hexane, trichloroethylene, acetone, toluene, ethyl acetate, methyl ethyl ketone, trichloroethane, isopropanol, methyl isobutyl ketone, methyl cellosolve acetate, cyclohexanone, the alkaloids atropine, hyoscyamine, or scopolamine, or any other substance for the purpose of inducing a condition of intoxication, stupefaction, depression, giddiness, paralysis or irrational behavior, or in any manner changing, distorting or disturbing the auditory, visual or mental processes. For the purposes of this Act, any such condition so induced shall be deemed to be an intoxicated condition."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 89-235, eff. 8-4-95; 89-640, eff. 1-1-97.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 89-235, eff. 8-4-95; 89-640, eff. 1-1-97.)",
+  "publicActs": [
+    {
+      "publicAct": "89-235",
+      "effectiveDate": "8-4-95"
+    },
+    {
+      "publicAct": "89-640",
+      "effectiveDate": "1-1-97"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "54bb021062230f779bbff9920060603886f1acf722d2bcc4f1946079f8a9a806",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0950"
+  ]
+}

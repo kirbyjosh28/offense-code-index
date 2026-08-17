@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0570-404",
+  "citation": "720 ILCS 570/404",
+  "docName": "072005700K404",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072005700K404",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:31:05.143Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 570/404",
+  "headingText": "Sec. 404. (a) For the purposes of this Section:",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 570/404) (from Ch. 56 1/2, par. 1404)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 404. (a) For the purposes of this Section:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) \"Advertise\" means the attempt, by publication, dissemination, solicitation or circulation, to induce directly or indirectly any person to acquire, or enter into an obligation to acquire, any substance within the scope of this Section. (2) \"Distribute\" has the meaning ascribed to it in subsection (s) of Section 102 of this Act but as relates to look-alike substances. (3) \"Manufacture\" means the producing, preparing, compounding, processing, encapsulating, packaging, repackaging, labeling or relabeling of a look-alike substance. (b) It is unlawful for any person knowingly to manufacture, distribute, advertise, or possess with intent to manufacture or distribute a look-alike substance. Any person who violates this subsection (b) shall be guilty of a Class 3 felony, the fine for which shall not exceed $150,000."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) It is unlawful for any person knowingly to possess a look-alike substance. Any person who violates this subsection (c) is guilty of a petty offense. Any person convicted of a subsequent offense under this subsection (c) shall be guilty of a Class C misdemeanor."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) In any prosecution brought under this Section, it is not a defense to a violation of this Section that the defendant believed the look-alike substance actually to be a controlled substance."
+    },
+    {
+      "type": "subsection",
+      "label": "(e)",
+      "text": "(e) Nothing in this Section applies to:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) The manufacture, processing, packaging, distribution or sale of noncontrolled substances to licensed medical practitioners for use as placebos in professional practice or research. (2) Persons acting in the course and legitimate scope of their employment as law enforcement officers. (3) The retention of production samples of noncontrolled substances produced prior to the effective date of this amendatory Act of 1982, where such samples are required by federal law. (f) Nothing in this Section or in this Act applies to the lawful manufacture, processing, packaging, advertising or distribution of a drug or drugs by any person registered pursuant to Section 510 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360)."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 83-1362.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 83-1362.)",
+  "publicActs": [
+    {
+      "publicAct": "83-1362",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "bb0e9f68edb917fc1f58d9a994898ca8e0777ccd79d0b16dec0edaba452ecf0d",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0932"
+  ]
+}

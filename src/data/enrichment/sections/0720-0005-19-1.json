@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-19-1",
+  "citation": "720 ILCS 5/19-1",
+  "docName": "072000050K19-1",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K19-1",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:27:00.388Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/19-1",
+  "headingText": "Sec. 19-1. Burglary.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/19-1) (from Ch. 38, par. 19-1)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 19-1. Burglary."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits burglary when without authority he or she knowingly enters or without authority remains within a building, housetrailer, watercraft, aircraft, motor vehicle, railroad car, freight container, or any part thereof, with intent to commit therein a felony or theft. This offense shall not include the offenses set out in Section 4-102 of the Illinois Vehicle Code."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Sentence."
+    },
+    {
+      "type": "paragraph",
+      "text": "Burglary committed in, and without causing damage to, a watercraft, aircraft, motor vehicle, railroad car, freight container, or any part thereof is a Class 3 felony. Burglary committed in a building, housetrailer, or any part thereof or while causing damage to a watercraft, aircraft, motor vehicle, railroad car, freight container, or any part thereof is a Class 2 felony. A burglary committed in a school, early care and education center, early care and education home, group early care and education home, or part day program, or place of worship is a Class 1 felony, except that this provision does not apply to an early care and education center, early care and education home, group early care and education home, or part day program operated in a private residence used as a dwelling."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Regarding penalties prescribed in subsection (b) for violations committed in an early care and education center, early care and education home, group early care and education home, or part day program, the time of day, time of year, and whether children under 18 years of age were present in the early care and education center, early care and education home, group early care and education home, or part day program are irrelevant."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 104-480, eff. 7-1-26.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 104-480, eff. 7-1-26.)",
+  "publicActs": [
+    {
+      "publicAct": "104-480",
+      "effectiveDate": "7-1-26"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "e56e119c32a58cb0c7de28ac84bb60c91653a058b112330303fabed0fe36d00c",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0750"
+  ]
+}

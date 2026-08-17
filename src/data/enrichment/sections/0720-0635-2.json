@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0635-2",
+  "citation": "720 ILCS 635/2",
+  "docName": "072006350K2",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072006350K2",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:31:21.658Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 635/2",
+  "headingText": "Sec. 2. Sale of hypodermic syringes and needles.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 635/2) (from Ch. 38, par. 22-51)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 2. Sale of hypodermic syringes and needles."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) Except as provided in subsection (b), no syringe, needle or instrument shall be delivered or sold to, or exchanged with, any person except a registered pharmacist, physician, dentist, veterinarian, registered embalmer, manufacturer or dealer in embalming supplies, wholesale druggist, manufacturing pharmacist, industrial user, a nurse upon the written order of a physician or dentist, the holder of a permit issued under Section 5 of this Act, a registered chiropodist, or an employee of an incorporated hospital upon the written order of its superintendent or officer in immediate charge; provided that the provisions of this Act shall not prohibit the sale, possession or use of hypodermic syringes or hypodermic needles for treatment of livestock or poultry by the owner or keeper thereof or a person engaged in chemical, clinical, pharmaceutical or other scientific research, or a staff person, volunteer, or participant in a needle or hypodermic syringe access program."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) A pharmacist may sell up to 100 sterile hypodermic syringes or needles to a person who is at least 18 years of age. A syringe or needle sold under this subsection (b) must be stored at a pharmacy and in a manner that limits access to the syringes or needles to pharmacists employed at the pharmacy and any persons designated by the pharmacists. A syringe or needle sold at a pharmacy under this subsection (b) may be sold only from the pharmacy department of the pharmacy."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) If the pharmacy has sterile hypodermic syringes or needles in stock, a pharmacist, based on the pharmacist's professional and clinical judgment, shall sell sterile hypodermic syringes or needles to any qualifying individual when sterile hypodermic syringes or needles are required for the proper utilization or administration of medications, including any counseling or referrals to relevant healthcare services."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 104-240, eff. 1-1-26.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 104-240, eff. 1-1-26.)",
+  "publicActs": [
+    {
+      "publicAct": "104-240",
+      "effectiveDate": "1-1-26"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "b39c93d578403ee8d1cbbc4599810cffca67eafd5bae90cd2013fe57175c7c96",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0942"
+  ]
+}

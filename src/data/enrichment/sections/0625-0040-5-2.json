@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0040-5-2",
+  "citation": "625 ILCS 40/5-2",
+  "docName": "062500400K5-2",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500400K5-2",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:22:45.116Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 40/5-2",
+  "headingText": "Sec. 5-2. Operation on Highways. It is unlawful for any person to drive or operate any snowmobile on a highway in this State except as follows:",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 40/5-2) (from Ch. 95 1/2, par. 605-2)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 5-2. Operation on Highways. It is unlawful for any person to drive or operate any snowmobile on a highway in this State except as follows:"
+    },
+    {
+      "type": "paragraph",
+      "text": "A. On highways other than tollways, interstate highways and fully or limited access-controlled highways snowmobiles may make a direct crossing provided:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) the crossing is made at an angle of approximately 90 degrees to the direction of the highway and at a place where no obstruction prevents a quick and safe crossing; and (2) the snowmobile is brought to a complete stop before crossing a roadway; and (3) the operator yields the right of way to all oncoming traffic which constitutes a hazard. B. On highways other than tollways, interstate highways and fully or limited access-controlled highways snowmobiles may be operated not less than 10 feet from the roadway and in the same direction as traffic. On such highways, other than State highways, the corporate authorities of a city, village or incorporated town may adopt ordinances providing for variance from the 10-foot separation requirement of this subsection, including ordinances permitting the operation of snowmobiles upon the roadways of such highways, other than State highways, within city, village or town limits. In addition, the corporate authorities of any unit of local government with jurisdiction over such highways may adopt ordinances authorizing the operation of snowmobiles within 10 feet of the roadway to avoid obstructions or hazardous terrain. Other than for State highways, corporate authorities of a city, village or incorporated town may adopt ordinances providing for trails, including the designation of the roadways of highways referred to in this paragraph as snowmobile trails, and regulating snowmobile operation within city, village or town limits."
+    },
+    {
+      "type": "paragraph",
+      "text": "C. On highways other than tollways, interstate highways and fully or limited access-controlled highways snowmobiles may be operated on roadways when it is necessary to cross a bridge or culvert or when it is impracticable to gain immediate access to an area adjacent to a highway where a snowmobile is to be operated."
+    },
+    {
+      "type": "paragraph",
+      "text": "D. Corporate authorities of a city, village or incorporated town may by ordinance designate 1 or more specific public highways or streets within their jurisdiction as egress and ingress routes for the use of snowmobiles. In the event that such public highways or streets are under the jurisdiction of the State of Illinois, express written consent of the Illinois Department of Transportation shall be required. Corporate authorities acting under the authority of this paragraph D shall erect and maintain signs giving proper notice thereof."
+    },
+    {
+      "type": "paragraph",
+      "text": "E. Snowmobiles may be lawfully driven or operated upon those highways where posted with signs giving proper notice and erected and maintained by the township road commissioner. A township or township road commissioner shall not be liable for any personal injuries caused as a result of the operation of a snowmobile on such highways. For purposes of this paragraph E, \"highways\" are defined as township roads pursuant to Section 2-205 of the Illinois Highway Code."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 91-357, eff. 7-29-99.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 91-357, eff. 7-29-99.)",
+  "publicActs": [
+    {
+      "publicAct": "91-357",
+      "effectiveDate": "7-29-99"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "cf7d86bc58c97cbae092c921fa802ff583e2be90a525e3ec63f10e2a07c285ef",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0496"
+  ]
+}

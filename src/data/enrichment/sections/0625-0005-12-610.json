@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-12-610",
+  "citation": "625 ILCS 5/12-610",
+  "docName": "062500050K12-610",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K12-610",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:18:44.831Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/12-610",
+  "headingText": "Sec. 12-610. Headset receivers.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/12-610) (from Ch. 95 1/2, par. 12-610)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 12-610. Headset receivers."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) Except as provided under Section 11-1403.3, no driver of a motor vehicle on the highways of this State shall wear headset receivers while driving."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) This Section does not prohibit the use of a headset type receiving equipment used exclusively for safety or traffic engineering studies, by law enforcement personnel on duty, or emergency medical services and fire service personnel."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) This Section does not prohibit the use of any single sided headset type receiving and transmitting equipment designed to be used in or on one ear which is used exclusively for providing two-way radio vocal communications by an individual in possession of a current and valid novice class or higher amateur radio license issued by the Federal Communications Commission and an amateur radio operator special registration plate or digital registration plate issued under Section 3-607 of this Code."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) This Section does not prohibit the use of a single-sided headset or earpiece with a cellular or other mobile telephone."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 101-395, eff. 8-16-19.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 101-395, eff. 8-16-19.)",
+  "publicActs": [
+    {
+      "publicAct": "101-395",
+      "effectiveDate": "8-16-19"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "996e599117886b261638b2e051e79acc93e86bab10501a07d07c40ee604e5270",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0397"
+  ]
+}

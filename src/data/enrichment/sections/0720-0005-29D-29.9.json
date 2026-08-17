@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-29D-29.9",
+  "citation": "720 ILCS 5/29D-29.9",
+  "docName": "072000050K29D-29.9",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K29D-29.9",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:29:00.556Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/29D-29.9",
+  "headingText": "Sec. 29D-29.9. Material support for terrorism.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/29D-29.9) (was 720 ILCS 5/29D-15)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 29D-29.9. Material support for terrorism."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits the offense of soliciting or providing material support for terrorism if he or she knowingly raises, solicits, collects, or provides material support or resources knowing that the material support or resources will be used, in whole or in part, to plan, prepare, carry out, facilitate, or avoid apprehension for committing terrorism as defined in Section 29D-14.9 (720 ILCS 5/29D-14.9) or causing a catastrophe as defined in Section 29D-15.1 (720 ILCS 5/29D-15.1) of this Code, or who knows and intends that the material support or resources so raised, solicited, collected, or provided will be used in the commission of a terrorist act as defined in Section 29D-10(1) of this Code by an organization designated under 8 U.S.C. 1189, as amended. It is not an element of the offense that the defendant actually knows that an organization has been designated under 8 U.S.C. 1189, as amended."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Sentence. Soliciting or providing material support for terrorism is a Class X felony for which the sentence shall be a term of imprisonment of no less than 9 years and no more than 40 years."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 96-710, eff. 1-1-10.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 96-710, eff. 1-1-10.)",
+  "publicActs": [
+    {
+      "publicAct": "96-710",
+      "effectiveDate": "1-1-10"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "ade5df69a010c225acfeb5f4fce2c5371f40a38782a3bf18c7b211e9507b387c",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0841"
+  ]
+}

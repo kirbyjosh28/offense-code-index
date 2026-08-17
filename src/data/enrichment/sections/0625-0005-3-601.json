@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-3-601",
+  "citation": "625 ILCS 5/3-601",
+  "docName": "062500050K3-601",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K3-601",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:20:25.438Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/3-601",
+  "headingText": "Sec. 3-601. Operation of vehicles under special plates.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/3-601) (from Ch. 95 1/2, par. 3-601)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 3-601. Operation of vehicles under special plates."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A manufacturer owning any unregistered vehicle of a type otherwise required to be registered under this Act may operate or move such upon the highways without registering each such vehicle upon condition that any such vehicle display thereon, a special plate or plates issued to such owner as provided in this Article."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) A dealer owning any unregistered vehicle of a type otherwise required to be registered under this Act and held by him for sale or resale, may operate or move such upon the highways without registering each such vehicle upon condition that any such vehicle display thereon a special plate or plates issued to such owner as provided in this Article. A dealer may use a special plate issued to the dealer to transport a vehicle sold to a customer either by towing or by driving the sold vehicle with the special plate attached to the vehicle."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) A transporter may operate or move any vehicle not owned by him upon the highways by the driveaway or towaway methods solely for the purpose of delivery upon likewise displaying thereon like plates issued to him as provided in this Article."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) A boat dealer owning any boat trailer of a type otherwise required to be registered under this Act may operate or move such upon the highways and haul a boat customarily sold with such boat trailer, without registering each such boat trailer upon condition that any such boat trailer display thereon, in the manner prescribed in Section 3-413, a special plate or plates issued to such owner as provided in this Article."
+    },
+    {
+      "type": "subsection",
+      "label": "(e)",
+      "text": "(e) Any person owning unregistered vehicles of a type required to be registered and which are exclusively operated off the highways and upon private property, may move such vehicles from one plant location to another upon the highways without registering each such vehicle upon conditions that any such vehicle display thereon a special plate or plates issued to such persons as provided in this Article. Such vehicles must be unladen and may not be operated upon any highways with such special plates except for the interplant movement."
+    },
+    {
+      "type": "subsection",
+      "label": "(f)",
+      "text": "(f) Any person owning a vehicle of a type required to be registered which when purchased is not yet equipped for work or service, may move such vehicle from the point of original manufacture or sale to a body shop or other place where the vehicle is to be equipped for work or service and from such point to the owner's place of business without first registering each such vehicle upon condition that any such vehicle display thereon a special plate or plates issued to such person as provided in this Article. Upon completion of such movement, any such vehicle subject to registration must be properly registered."
+    },
+    {
+      "type": "subsection",
+      "label": "(g)",
+      "text": "(g) Special plates issued under this Article must be displayed in the manner provided for in Section 3-413."
+    },
+    {
+      "type": "subsection",
+      "label": "(h)",
+      "text": "(h) Any such vehicle bearing such special plate or plates may be operated without registration for any purpose, except that no such special plate or plates shall be used on any vehicle which is rented by the manufacturer or dealer to another person or which is used to transport passengers or property for hire, nor, except as provided in paragraph (i) of this Section, shall any such special plate or plates be used on a second division vehicle which is carrying cargo or merchandise except in demonstrating such second division vehicle for the purposes of sale, or for the purpose of testing engine and driveline components."
+    },
+    {
+      "type": "subsection",
+      "label": "(i)",
+      "text": "(i) The provisions of this Article authorizing special plates shall not apply to work or service vehicles owned by a manufacturer, transporter or dealer except a truck up to 8,000 pounds gross weight owned by a dealer and used for hauling parts incidental to the operation of the dealer's business."
+    },
+    {
+      "type": "subsection",
+      "label": "(j)",
+      "text": "(j) The Secretary of State may limit the number of special plates issued to any applicant."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 101-505, eff. 1-1-20.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 101-505, eff. 1-1-20.)",
+  "publicActs": [
+    {
+      "publicAct": "101-505",
+      "effectiveDate": "1-1-20"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "77ebe1cfb242b1d4b3b8a4ee1f995cdf7bba21266b36270ff8abd1576414a354",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0033"
+  ]
+}

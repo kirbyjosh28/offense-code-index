@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-11-26",
+  "citation": "720 ILCS 5/11-26",
+  "docName": "072000050K11-26",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K11-26",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:23:46.679Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/11-26",
+  "headingText": "Sec. 11-26. Traveling to meet a child.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/11-26)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-26. Traveling to meet a child."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits traveling to meet a child when he or she travels any distance either within this State, to this State, or from this State by any means, attempts to do so, or causes another to do so or attempt to do so for the purpose of engaging in any sex offense as defined in Section 2 of the Sex Offender Registration Act, or to otherwise engage in other unlawful sexual conduct with a child or with another person believed by the person to be a child after using a computer on-line service, Internet service, local bulletin board service, or any other device capable of electronic data storage or transmission to seduce, solicit, lure, or entice, or to attempt to seduce, solicit, lure, or entice, a child or a child's guardian, or another person believed by the person to be a child or a child's guardian, for such purpose. As used in this Section, \"child\" means a person under 17 years of age."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Sentence. Traveling to meet a child is a Class 3 felony."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 100-428, eff. 1-1-18.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 100-428, eff. 1-1-18.)",
+  "publicActs": [
+    {
+      "publicAct": "100-428",
+      "effectiveDate": "1-1-18"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "180e4d105a8aff48bb55fc9b9749fd69e5284f3d7f9524b5ccf47f88d6169689",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0601"
+  ]
+}

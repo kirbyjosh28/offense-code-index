@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-33-1",
+  "citation": "720 ILCS 5/33-1",
+  "docName": "072000050K33-1",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K33-1",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:29:45.574Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/33-1",
+  "headingText": "Sec. 33-1. Bribery. A person commits bribery when:",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/33-1) (from Ch. 38, par. 33-1)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 33-1. Bribery. A person commits bribery when:"
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) With intent to influence the performance of any act related to the employment or function of any public officer, public employee, juror or witness, he or she promises or tenders to that person any property or personal advantage which he or she is not authorized by law to accept; or (b) With intent to influence the performance of any act related to the employment or function of any public officer, public employee, juror or witness, he or she promises or tenders to one whom he or she believes to be a public officer, public employee, juror or witness, any property or personal advantage which a public officer, public employee, juror or witness would not be authorized by law to accept; or (c) With intent to cause any person to influence the performance of any act related to the employment or function of any public officer, public employee, juror or witness, he or she promises or tenders to that person any property or personal advantage which he or she is not authorized by law to accept; or (d) He or she receives, retains or agrees to accept any property or personal advantage which he or she is not authorized by law to accept knowing that the property or personal advantage was promised or tendered with intent to cause him or her to influence the performance of any act related to the employment or function of any public officer, public employee, juror or witness; or (e) He or she solicits, receives, retains, or agrees to accept any property or personal advantage pursuant to an understanding that he or she shall improperly influence or attempt to influence the performance of any act related to the employment or function of any public officer, public employee, juror or witness. As used in this Section, \"tenders\" means any delivery or proffer made with the requisite intent."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sentence. Bribery is a Class 2 felony."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 97-1108, eff. 1-1-13; 98-756, eff. 7-16-14.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 97-1108, eff. 1-1-13; 98-756, eff. 7-16-14.)",
+  "publicActs": [
+    {
+      "publicAct": "97-1108",
+      "effectiveDate": "1-1-13"
+    },
+    {
+      "publicAct": "98-756",
+      "effectiveDate": "7-16-14"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "5787f9532f7d8d745db5ac56ead9e3c3fc7deffd45f8d013d813b16a6c6d7c98",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0876"
+  ]
+}

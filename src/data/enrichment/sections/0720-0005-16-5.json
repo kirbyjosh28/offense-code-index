@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-16-5",
+  "citation": "720 ILCS 5/16-5",
+  "docName": "072000050K16-5",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K16-5",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:25:46.809Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/16-5",
+  "headingText": "Sec. 16-5. Theft from coin-operated machine.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/16-5) (from Ch. 38, par. 16-5)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 16-5. Theft from coin-operated machine."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits theft from a coin-operated machine when he or she knowingly and without authority opens, breaks into, tampers with, triggers, or damages a coin-operated machine either:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) to operate or use the machine; or"
+    },
+    {
+      "type": "subsection",
+      "label": "(2)",
+      "text": "(2) with the intent to commit a theft from the machine. (b) Sentence."
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) A violation of subdivision (a)(1) is a Class B misdemeanor. (2) A violation of subdivision (a)(2) is a Class A misdemeanor. (3) A person who has been convicted of theft from a coin-operated machine in violation of subdivision (a)(2) and who has been previously convicted of any type of theft, robbery, armed robbery, burglary, residential burglary, possession of burglary tools, or home invasion is guilty of a Class 4 felony. (Source: P.A. 97-597, eff. 1-1-12.)"
+    }
+  ],
+  "sourceLine": null,
+  "publicActs": [],
+  "repealed": false,
+  "bodyHash": "0c0518992ee67f923929d1d65a6614629888e4a5d98fc878c859d3add20123df",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0670"
+  ]
+}

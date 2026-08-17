@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-12-501",
+  "citation": "625 ILCS 5/12-501",
+  "docName": "062500050K12-501",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K12-501",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:18:19.312Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/12-501",
+  "headingText": "Sec. 12-501. Windshields and safety glazing material in motor vehicles.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/12-501) (from Ch. 95 1/2, par. 12-501)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 12-501. Windshields and safety glazing material in motor vehicles."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) Every motor vehicle operated upon the highways of this State shall be equipped with a front windshield which complies with those standards as established pursuant to this Section and Section 12-503 of this Code. This subsection shall not apply to motor vehicles designed and used exclusively for off-highway use, motorcycles, motor-driven cycles, motorized pedalcycles, nor to motor vehicles registered as antique vehicles, expanded-use antique vehicles, custom vehicles, or street rods when the original design of such vehicles did not include front windshields."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) No person shall knowingly sell any 1936 or later model motor vehicle unless such vehicle is equipped with safety glazing material conforming to specifications prescribed by the Department wherever glazing material is used in doors, windows and windshields. Regulations promulgated by the Department specifying standards for safety glazing material on windshields shall, as a minimum, conform with those applicable Federal Motor Vehicles Safety Standards (49 CFR 571.205). These provisions apply to all motor vehicles of the first and second division but with respect to trucks, including truck tractors, the requirements as to safety glazing material apply to all glazing material used in doors, windows and windshields in the drivers' compartments of such vehicles."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) It is unlawful for the owner or any other person knowingly to install or cause to be installed in any motor vehicle any glazing material other than safety glazing material conforming to the specifications prescribed by the Department."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 97-412, eff. 1-1-12.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 97-412, eff. 1-1-12.)",
+  "publicActs": [
+    {
+      "publicAct": "97-412",
+      "effectiveDate": "1-1-12"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "202869c2afd58dce3829fa6c917cf879e0b14d224fb28fdd927e7815069cb21c",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0368"
+  ]
+}

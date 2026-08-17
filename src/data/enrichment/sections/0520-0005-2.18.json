@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0520-0005-2.18",
+  "citation": "520 ILCS 5/2.18",
+  "docName": "052000050K2.18",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=052000050K2.18",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:14:25.048Z",
+  "transport": "cache",
+  "canonicalCitation": "520 ILCS 5/2.18",
+  "headingText": "Sec. 2.18. It shall be unlawful to take, possess, transport or use migratory game birds except during such periods of time, and only in such manner and numbers, as may be permitted pursuant to the Federal \"Migratory Bird Treaty Act\", and the \"Migratory Bird Hunting Stamp Act\", and further as permitted by this Act and State regulations made pursuant to this Act. The Director shall give due notice of any regulations, or any administrative rule, issued pursuant to said \"Migratory Bird Treaty Act\" and observe the provisions thereof in the enforcement of this Act.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(520 ILCS 5/2.18) (from Ch. 61, par. 2.18)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 2.18. It shall be unlawful to take, possess, transport or use migratory game birds except during such periods of time, and only in such manner and numbers, as may be permitted pursuant to the Federal \"Migratory Bird Treaty Act\", and the \"Migratory Bird Hunting Stamp Act\", and further as permitted by this Act and State regulations made pursuant to this Act. The Director shall give due notice of any regulations, or any administrative rule, issued pursuant to said \"Migratory Bird Treaty Act\" and observe the provisions thereof in the enforcement of this Act."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 85-152.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 85-152.)",
+  "publicActs": [
+    {
+      "publicAct": "85-152",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "fb85fa8465b48cd01bc930bdd4d31c559d2088406da88993efb26e6bf05bfe6d",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0538"
+  ]
+}

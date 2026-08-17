@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-204.1",
+  "citation": "625 ILCS 5/11-204.1",
+  "docName": "062500050K11-204.1",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-204.1",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:16:25.175Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-204.1",
+  "headingText": "Sec. 11-204.1. Aggravated fleeing or attempting to elude a peace officer.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-204.1) (from Ch. 95 1/2, par. 11-204.1)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-204.1. Aggravated fleeing or attempting to elude a peace officer."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) The offense of aggravated fleeing or attempting to elude a peace officer is committed by any driver or operator of a motor vehicle who flees or attempts to elude a peace officer, after being given a visual or audible signal by a peace officer in the manner prescribed in subsection (a) of Section 11-204 of this Code, and such flight or attempt to elude:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) is at a rate of speed at least 21 miles per hour over the legal speed limit; (2) causes bodily injury to any individual;"
+    },
+    {
+      "type": "subsection",
+      "label": "(3)",
+      "text": "(3) causes damage in excess of $300 to property;"
+    },
+    {
+      "type": "subsection",
+      "label": "(4)",
+      "text": "(4) involves disobedience of 2 or more official traffic control devices; or (5) involves the concealing or altering of the vehicle's registration plate or digital registration plate. (b) Any person convicted of a first violation of this Section shall be guilty of a Class 4 felony. Upon notice of such a conviction the Secretary of State shall forthwith revoke the driver's license of the person so convicted, as provided in Section 6-205 of this Code. Any person convicted of a second or subsequent violation of this Section shall be guilty of a Class 3 felony, and upon notice of such a conviction the Secretary of State shall forthwith revoke the driver's license of the person convicted, as provided in Section 6-205 of the Code."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) The motor vehicle used in a violation of this Section is subject to seizure and forfeiture as provided in Sections 36-1 and 36-2 of the Criminal Code of 2012."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 101-395, eff. 8-16-19.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 101-395, eff. 8-16-19.)",
+  "publicActs": [
+    {
+      "publicAct": "101-395",
+      "effectiveDate": "8-16-19"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "3e62ae1eebbe585f3e11fc6591e20ec52612613b2f257176362dd02f4f98a7d1",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0180"
+  ]
+}

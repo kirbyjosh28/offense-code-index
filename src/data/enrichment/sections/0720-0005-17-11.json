@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-17-11",
+  "citation": "720 ILCS 5/17-11",
+  "docName": "072000050K17-11",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K17-11",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:25:55.829Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/17-11",
+  "headingText": "Sec. 17-11. Odometer or hour meter fraud. A person commits odometer or hour meter fraud when he or she disconnects, resets, or alters, or causes to be disconnected, reset, or altered, the odometer of any used motor vehicle or the hour meter of any used farm implement to conceal or change the actual miles driven or hours of operation with the intent to defraud another. A violation of this Section is a Class A misdemeanor. A second or subsequent violation is a Class 4 felony. This Section does not apply to legitimate practices of automotive or implement parts recyclers who recycle used odometers or hour meters for resale.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/17-11) (from Ch. 38, par. 17-11)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 17-11. Odometer or hour meter fraud. A person commits odometer or hour meter fraud when he or she disconnects, resets, or alters, or causes to be disconnected, reset, or altered, the odometer of any used motor vehicle or the hour meter of any used farm implement to conceal or change the actual miles driven or hours of operation with the intent to defraud another. A violation of this Section is a Class A misdemeanor. A second or subsequent violation is a Class 4 felony. This Section does not apply to legitimate practices of automotive or implement parts recyclers who recycle used odometers or hour meters for resale."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 96-1551, eff. 7-1-11.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 96-1551, eff. 7-1-11.)",
+  "publicActs": [
+    {
+      "publicAct": "96-1551",
+      "effectiveDate": "7-1-11"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "16b72e91dd95f454a73e0d24679ce848106cca36338059a3e9d8094e9ad66752",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0714",
+    "offense-0715"
+  ]
+}

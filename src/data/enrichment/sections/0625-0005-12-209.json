@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-12-209",
+  "citation": "625 ILCS 5/12-209",
+  "docName": "062500050K12-209",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K12-209",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:17:59.776Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/12-209",
+  "headingText": "Sec. 12-209. Additional lighting equipment.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/12-209) (from Ch. 95 1/2, par. 12-209)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 12-209. Additional lighting equipment."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) Any motor vehicle may be equipped with not more than 2 side cowl or fender lamps which shall emit an amber or white light without glare."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Any motor vehicle may be equipped with not more than one running board courtesy lamp on each side thereof which shall emit a white or amber light without glare."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Any motor vehicle may be equipped with one or more back-up lamps either separately or in combination with other lamps which shall emit a white or amber light without glare; but any such back-up lamp or lamps shall not be lighted when the motor vehicle is in forward motion."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 100-707, eff. 1-1-19.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 100-707, eff. 1-1-19.)",
+  "publicActs": [
+    {
+      "publicAct": "100-707",
+      "effectiveDate": "1-1-19"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "a3fd15c309e9d6db7fec45354da7ab5a1e617bfcc61a97660f3c2f73c7437967",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0346"
+  ]
+}

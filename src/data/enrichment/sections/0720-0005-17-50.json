@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-17-50",
+  "citation": "720 ILCS 5/17-50",
+  "docName": "072000050K17-50",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K17-50",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:26:30.361Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/17-50",
+  "headingText": "Sec. 17-50. Computer fraud.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/17-50) (was 720 ILCS 5/16D-5 and 5/16D-6)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 17-50. Computer fraud."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits computer fraud when he or she knowingly:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) Accesses or causes to be accessed a computer or any part thereof, or a program or data, with the intent of devising or executing any scheme or artifice to defraud, or as part of a deception; (2) Obtains use of, damages, or destroys a computer or any part thereof, or alters, deletes, or removes any program or data contained therein, in connection with any scheme or artifice to defraud, or as part of a deception; or (3) Accesses or causes to be accessed a computer or any part thereof, or a program or data, and obtains money or control over any such money, property, or services of another in connection with any scheme or artifice to defraud, or as part of a deception. (b) Sentence."
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) A violation of subdivision (a)(1) of this Section is a Class 4 felony. (2) A violation of subdivision (a)(2) of this Section is a Class 3 felony. (3) A violation of subdivision (a)(3) of this Section:"
+    },
+    {
+      "type": "subsection",
+      "label": "(i)",
+      "text": "(i) is a Class 4 felony if the value of the money, property, or services is $1,000 or less; or (ii) is a Class 3 felony if the value of the money, property, or services is more than $1,000 but less than $50,000; or (iii) is a Class 2 felony if the value of the money, property, or services is $50,000 or more. (c) Forfeiture of property. Any person who commits computer fraud as set forth in subsection (a) is subject to the property forfeiture provisions set forth in Article 124B of the Code of Criminal Procedure of 1963."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 96-712, eff. 1-1-10; 96-1551, eff. 7-1-11.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 96-712, eff. 1-1-10; 96-1551, eff. 7-1-11.)",
+  "publicActs": [
+    {
+      "publicAct": "96-712",
+      "effectiveDate": "1-1-10"
+    },
+    {
+      "publicAct": "96-1551",
+      "effectiveDate": "7-1-11"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "3a9bd3d45efa7cf1dd900600162b5cbd36d0b12967b6aae297ca11caaf5a8edd",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0736"
+  ]
+}

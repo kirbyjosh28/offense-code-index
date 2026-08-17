@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-1505",
+  "citation": "625 ILCS 5/11-1505",
+  "docName": "062500050K11-1505",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-1505",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:16:10.165Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-1505",
+  "headingText": "Sec. 11-1505. Position of bicycles and motorized pedal cycles on roadways - Riding on roadways and bicycle paths.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-1505) (from Ch. 95 1/2, par. 11-1505)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-1505. Position of bicycles and motorized pedal cycles on roadways - Riding on roadways and bicycle paths."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) Any person operating a bicycle or motorized pedal cycle upon a roadway at less than the normal speed of traffic at the time and place and under the conditions then existing shall ride as close as practicable and safe to the right-hand curb or edge of the roadway except under the following situations:"
+    },
+    {
+      "type": "paragraph",
+      "text": "1. When overtaking and passing another bicycle, motorized pedal cycle or vehicle proceeding in the same direction; or 2. When preparing for a left turn at an intersection or into a private road or driveway; or 3. When reasonably necessary to avoid conditions including, but not limited to, fixed or moving objects, parked or moving vehicles, bicycles, motorized pedal cycles, pedestrians, animals, surface hazards, or substandard width lanes that make it unsafe to continue along the right-hand curb or edge. For purposes of this subsection, a \"substandard width lane\" means a lane that is too narrow for a bicycle or motorized pedal cycle and a vehicle to travel safely side by side within the lane; or 4. When approaching a place where a right turn is authorized. (b) Any person operating a bicycle or motorized pedal cycle upon a one-way highway with two or more marked traffic lanes may ride as near the left-hand curb or edge of such roadway as practicable."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 97-813, eff. 7-13-12.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 97-813, eff. 7-13-12.)",
+  "publicActs": [
+    {
+      "publicAct": "97-813",
+      "effectiveDate": "7-13-12"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "318746d38509603cdccbfaf54be3d12b9c153b46b0b72d0d7170bf861904995f",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0325"
+  ]
+}

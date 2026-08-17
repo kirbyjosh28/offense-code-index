@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-3-712",
+  "citation": "625 ILCS 5/3-712",
+  "docName": "062500050K3-712",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K3-712",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:20:38.955Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/3-712",
+  "headingText": "Sec. 3-712. Improper application for certificate of title or registration; special military plate.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/3-712)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 3-712. Improper application for certificate of title or registration; special military plate."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) Except as provided in Chapter 4 of this Code, relating to anti-theft laws and abandoned vehicles, and except as otherwise provided in subsection (b) of this Section, any person who knowingly provides false information to the Secretary of State on an application for vehicle title or registration is guilty of a Class A misdemeanor and shall be fined not less than $500."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Except as provided in Chapter 4 of this Code, relating to anti-theft laws and abandoned vehicles, any person who, for purposes of obtaining or renewing a special license plate designating military decorations, military service, or status as a military veteran, (i) claims to have been awarded a military decoration, knowing that he or she has not been awarded that decoration, or (ii) claims to have the status of active duty military personnel or military veteran, knowing that he or she does not have the status required for the registration for which he or she has applied, is guilty of a Class A misdemeanor and shall be fined not less than $1,000."
+    },
+    {
+      "type": "paragraph",
+      "text": "Of the amounts collected as fines under this subsection (b), 99% shall be deposited into the Illinois Military Family Relief Fund and 1% shall be deposited into the Circuit Court Clerk Operation and Administrative Fund created by the Clerk of the Circuit Court to be used to offset the costs incurred by the Circuit Court Clerk in performing the additional duties required to collect and disburse funds to entities of State and local government as provided by law."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 95-291, eff. 1-1-08.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 95-291, eff. 1-1-08.)",
+  "publicActs": [
+    {
+      "publicAct": "95-291",
+      "effectiveDate": "1-1-08"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "f18683f2672a08925385751f8882d2ed7f35132b2c2e09a26e3eac707965cd91",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0044"
+  ]
+}

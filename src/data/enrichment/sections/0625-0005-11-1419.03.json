@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-1419.03",
+  "citation": "625 ILCS 5/11-1419.03",
+  "docName": "062500050K11-1419.03",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-1419.03",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:15:47.646Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-1419.03",
+  "headingText": "Sec. 11-1419.03. Failure to Display Valid External Motor Fuel Use Tax Decals.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-1419.03)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-1419.03. Failure to Display Valid External Motor Fuel Use Tax Decals."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) Except as provided in the Motor Fuel Tax Law, a motor carrier shall not operate or cause to be operated a commercial motor vehicle upon the highways of this State unless there is properly affixed to that commercial vehicle 2 valid external motor use tax decals required by Section 13a.4 of the Motor Fuel Tax Law. An operator who operates a commercial motor vehicle without 2 properly displayed valid external motor fuel use tax decals is guilty of a petty offense as provided in Section 13a.6 of the Motor Fuel Tax Law. A valid 30-day International Fuel Tax Agreement temporary permit may be displayed instead of decals during the temporary period specified on the permit."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) As used in this Section:"
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Properly displayed\" means 2 motor fuel use tax decals, one placed on each side of the exterior of the cab. In the case of transporters, manufacturers, dealers, or driveaway operations, the decals need not be permanently affixed but may be temporarily displayed in a visible manner on the exterior sides of the cab."
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Commercial motor vehicle\" means a motor vehicle used, designed, or maintained for the transportation of people or property and either having 2 axles and a gross vehicle weight or registered gross vehicle weight exceeding 26,000 pounds or 11,793 kilograms, or having 3 or more axles regardless of weight, or that is used in combination, when the weight of the combination exceeds 26,000 pounds or 11,793 kilograms gross vehicle weight or registered gross vehicle weight except for motor vehicles operated by this State or the United States, recreational vehicles, school buses, and commercial motor vehicles operated solely within this State for which all motor fuel is purchased within this State."
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Motor carrier\" means any person who operates or causes to be operated any commercial motor vehicle on any highway within this State."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 94-1074, eff. 12-26-06.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 94-1074, eff. 12-26-06.)",
+  "publicActs": [
+    {
+      "publicAct": "94-1074",
+      "effectiveDate": "12-26-06"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "9fdacf1e2dfb33e9a2ac8f34f85a541fd7a32fa836b79ca595f34600398fde61",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0309"
+  ]
+}

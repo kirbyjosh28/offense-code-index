@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-4-102",
+  "citation": "625 ILCS 5/4-102",
+  "docName": "062500050K4-102",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K4-102",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:20:49.471Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/4-102",
+  "headingText": "Sec. 4-102. Offenses relating to motor vehicles and other vehicles - Misdemeanors.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/4-102) (from Ch. 95 1/2, par. 4-102)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 4-102. Offenses relating to motor vehicles and other vehicles - Misdemeanors."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) It is a violation of this Chapter for:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) A person, without authority to do so, to damage a vehicle or to damage or remove any part of a vehicle; (2) A person, without authority to do so, to tamper with a vehicle or go in it, on it, or work or attempt to work any of its parts, or set or attempt to set it in motion; (3) A person to fail to report a vehicle as unclaimed in accordance with the provisions of Section 4-107. (b) Sentence. A person convicted of a violation of this Section shall be guilty of a Class A misdemeanor. A person convicted of a violation of this Section a second or subsequent time, shall be guilty of a Class 4 felony."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 86-1209.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 86-1209.)",
+  "publicActs": [
+    {
+      "publicAct": "86-1209",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "cc8222d803e69bbb7446f7680be457ef5a43fa8959eb618949db51b05abdbe01",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0051",
+    "offense-0052",
+    "offense-0053"
+  ]
+}

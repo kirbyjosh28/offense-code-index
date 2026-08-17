@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-11-45",
+  "citation": "720 ILCS 5/11-45",
+  "docName": "072000050K11-45",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K11-45",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:23:52.692Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/11-45",
+  "headingText": "Sec. 11-45. Bigamy and Marrying a bigamist.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/11-45) (was 720 ILCS 5/11-12)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-45. Bigamy and Marrying a bigamist."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) Bigamy. A person commits bigamy when that person has a husband or wife and subsequently knowingly marries another."
+    },
+    {
+      "type": "paragraph",
+      "text": "(a-5) Marrying a bigamist. An unmarried person commits marrying a bigamist when that person knowingly marries another under circumstances known to him or her which would render the other person guilty of bigamy under the laws of this State."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) It shall be an affirmative defense to bigamy and marrying a bigamist that:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) The prior marriage was dissolved or declared invalid; or (2) The accused reasonably believed the prior spouse to be dead; or (3) The prior spouse had been continually absent for a period of 5 years during which time the accused did not know the prior spouse to be alive; or (4) The accused reasonably believed that he or she or the person he or she marries was legally eligible to be married. (c) Sentence."
+    },
+    {
+      "type": "paragraph",
+      "text": "Bigamy is a Class 4 felony. Marrying a bigamist is a Class A misdemeanor."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 96-1551, eff. 7-1-11.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 96-1551, eff. 7-1-11.)",
+  "publicActs": [
+    {
+      "publicAct": "96-1551",
+      "effectiveDate": "7-1-11"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "6b5b2c2638631229d40c2caf102486b5a2a0df698df268e8312fc9ad77aab946",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0605",
+    "offense-0606"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-611",
+  "citation": "625 ILCS 5/11-611",
+  "docName": "062500050K11-611",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-611",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:17:08.727Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-611",
+  "headingText": "Sec. 11-611. No person shall drive or operate any motor vehicle on any street or highway in this State where the minimum allowable speed on that street or highway, as posted, is greater than the maximum attainable operating speed of the vehicle. Maximum attainable operating speed shall be determined by the manufacturer of the vehicle and clearly published in the manual of specifications and operation, or it shall be determined by applicable rule and regulation promulgated by the Secretary of State.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-611) (from Ch. 95 1/2, par. 11-611)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-611. No person shall drive or operate any motor vehicle on any street or highway in this State where the minimum allowable speed on that street or highway, as posted, is greater than the maximum attainable operating speed of the vehicle. Maximum attainable operating speed shall be determined by the manufacturer of the vehicle and clearly published in the manual of specifications and operation, or it shall be determined by applicable rule and regulation promulgated by the Secretary of State."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 79-700.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 79-700.)",
+  "publicActs": [
+    {
+      "publicAct": "79-700",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "fafac07963b1160d62cfcddfaeb2df607295a7e38287f8beae552893e393b8f4",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0224"
+  ]
+}

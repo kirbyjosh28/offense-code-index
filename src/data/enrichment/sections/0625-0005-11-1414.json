@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-1414",
+  "citation": "625 ILCS 5/11-1414",
+  "docName": "062500050K11-1414",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-1414",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:15:40.141Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-1414",
+  "headingText": "Sec. 11-1414. Approaching, overtaking, and passing school bus.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-1414) (from Ch. 95 1/2, par. 11-1414)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-1414. Approaching, overtaking, and passing school bus."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) The driver of a vehicle shall stop such vehicle before meeting or overtaking, from either direction, any school bus stopped on a highway, roadway, private road, parking lot, school property, or at any other location, including, without limitation, a location that is not a highway or roadway for the purpose of receiving or discharging pupils. Such stop is required before reaching the school bus when there is in operation on the school bus the visual signals as specified in Sections 12-803 and 12-805 of this Code. The driver of the vehicle shall not proceed until the school bus resumes motion or the driver of the vehicle is signaled by the school bus driver to proceed or the visual signals are no longer actuated."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) The stop signal arm required by Section 12-803 of this Code shall be extended after the school bus has come to a complete stop for the purpose of loading or discharging pupils and shall be closed before the school bus is placed in motion again. The stop signal arm shall not be extended at any other time."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) The alternately flashing red signal lamps of an 8-lamp flashing signal system required by Section 12-805 of this Code shall be actuated after the school bus has come to a complete stop for the purpose of loading or discharging pupils and shall be turned off before the school bus is placed in motion again. The red signal lamps shall not be actuated at any other time except as provided in paragraph (d) of this Section."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) The alternately flashing amber signal lamps of an 8-lamp flashing signal system required by Section 12-805 of this Code shall be actuated continuously during not less than the last 100 feet traveled by the school bus before stopping for the purpose of loading or discharging pupils within an urban area and during not less than the last 200 feet traveled by the school bus outside an urban area. The amber signal lamps shall remain actuated until the school bus is stopped. The amber signal lamps shall not be actuated at any other time."
+    },
+    {
+      "type": "paragraph",
+      "text": "(d-5) The alternately flashing head lamps permitted by Section 12-805 of this Code may be operated while the alternately flashing red or amber signal lamps required by that Section are actuated."
+    },
+    {
+      "type": "subsection",
+      "label": "(e)",
+      "text": "(e) The driver of a vehicle upon a highway having 4 or more lanes which permits at least 2 lanes of traffic to travel in opposite directions need not stop such vehicle upon meeting a school bus which is stopped in the opposing roadway; and need not stop such vehicle when driving upon a controlled access highway when passing a school bus traveling in either direction that is stopped in a loading zone adjacent to the surfaced or improved part of the controlled access highway where pedestrians are not permitted to cross."
+    },
+    {
+      "type": "subsection",
+      "label": "(f)",
+      "text": "(f) Beginning with the effective date of this amendatory Act of 1985, the Secretary of State shall suspend for a period of 3 months the driving privileges of any person convicted of a violation of subsection (a) of this Section or a similar provision of a local ordinance; the Secretary shall suspend for a period of one year the driving privileges of any person convicted of a second or subsequent violation of subsection (a) of this Section or a similar provision of a local ordinance if the second or subsequent violation occurs within 5 years of a prior conviction for the same offense. In addition to the suspensions authorized by this Section, any person convicted of violating this Section or a similar provision of a local ordinance shall be subject to a mandatory fine of $300 or, upon a second or subsequent violation, $1,000, and community service in an amount set by the court. The Secretary may also grant, for the duration of any suspension issued under this subsection, a restricted driving permit granting the privilege of driving a motor vehicle between the driver's residence and place of employment or within other proper limits that the Secretary of State shall find necessary to avoid any undue hardship. A restricted driving permit issued hereunder shall be subject to cancellation, revocation and suspension by the Secretary of State in like manner and for like cause as a driver's license may be cancelled, revoked or suspended; except that a conviction upon one or more offenses against laws or ordinances regulating the movement of traffic shall be deemed sufficient cause for the revocation, suspension or cancellation of the restricted driving permit. The Secretary of State may, as a condition to the issuance of a restricted driving permit, require the applicant to participate in a designated driver remedial or rehabilitative program. Any conviction for a violation of this subsection shall be included as an offense for the purposes of determining suspension action under any other provision of this Code, provided however, that the penalties provided under this subsection shall be imposed unless those penalties imposed under other applicable provisions are greater."
+    },
+    {
+      "type": "paragraph",
+      "text": "The owner of any vehicle alleged to have violated paragraph (a) of this Section shall, upon appropriate demand by the State's Attorney or other designated person acting in response to a signed complaint, provide a written statement or deposition identifying the operator of the vehicle if such operator was not the owner at the time of the alleged violation. Failure to supply such information shall result in the suspension of the vehicle registration of the vehicle for a period of 3 months. In the event the owner has assigned control for the use of the vehicle to another, the person to whom control was assigned shall comply with the provisions of this paragraph and be subject to the same penalties as herein provided."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 101-55, eff. 1-1-20; 102-859, eff. 1-1-23.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 101-55, eff. 1-1-20; 102-859, eff. 1-1-23.)",
+  "publicActs": [
+    {
+      "publicAct": "101-55",
+      "effectiveDate": "1-1-20"
+    },
+    {
+      "publicAct": "102-859",
+      "effectiveDate": "1-1-23"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "2ee146b0faa2a3d6ed1802dfa10c8fd82022744538a0c1d83df2c32e3d1474cd",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0303",
+    "offense-0304"
+  ]
+}

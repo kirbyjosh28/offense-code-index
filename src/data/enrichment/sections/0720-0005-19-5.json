@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-19-5",
+  "citation": "720 ILCS 5/19-5",
+  "docName": "072000050K19-5",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K19-5",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:27:07.896Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/19-5",
+  "headingText": "Sec. 19-5. Criminal fortification of a residence or building.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/19-5) (from Ch. 38, par. 19-5)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 19-5. Criminal fortification of a residence or building."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits criminal fortification of a residence or building when, with the intent to prevent the lawful entry of a law enforcement officer or another, he or she maintains a residence or building in a fortified condition, knowing that the residence or building is used for the unlawful manufacture, storage with intent to deliver or manufacture, delivery, or trafficking of cannabis, controlled substances, or methamphetamine as defined in the Cannabis Control Act, the Illinois Controlled Substances Act, or the Methamphetamine Control and Community Protection Act."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) \"Fortified condition\" means preventing or impeding entry through the use of steel doors, wooden planking, crossbars, alarm systems, dogs, video surveillance, motion sensing devices, booby traps, or other similar means. If video surveillance is the sole component of the fortified condition, the video surveillance must be with the intent to alert an occupant to the presence of a law enforcement officer for the purpose of interfering with the official duties of a law enforcement officer, allowing removal or destruction of evidence, or facilitating the infliction of harm to a law enforcement officer. For the purposes of this Section, \"booby trap\" means any device, including but not limited to any explosive device, designed to cause physical injury or the destruction of evidence, when triggered by an act of a person approaching, entering, or moving through a structure."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Sentence. Criminal fortification of a residence or building is a Class 3 felony."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) This Section does not apply to the fortification of a residence or building used in the manufacture of methamphetamine as described in Sections 10 and 15 of the Methamphetamine Control and Community Protection Act."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 98-897, eff. 1-1-15.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 98-897, eff. 1-1-15.)",
+  "publicActs": [
+    {
+      "publicAct": "98-897",
+      "effectiveDate": "1-1-15"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "77fb453e237ed1e2ec1dadc7913c1a59b67f19568e0ec1b46d88102d214a875b",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0755"
+  ]
+}

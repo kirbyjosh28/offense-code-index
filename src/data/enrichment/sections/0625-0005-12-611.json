@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-12-611",
+  "citation": "625 ILCS 5/12-611",
+  "docName": "062500050K12-611",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K12-611",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:18:49.333Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/12-611",
+  "headingText": "Sec. 12-611. No driver of any motor vehicle within this State shall operate or permit operation of any sound amplification system which can be heard outside the vehicle from 75 or more feet when the vehicle is being operated upon a highway, unless such system is being operated to request assistance or warn of a hazardous situation.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/12-611) (from Ch. 95 1/2, par. 12-611)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 12-611. No driver of any motor vehicle within this State shall operate or permit operation of any sound amplification system which can be heard outside the vehicle from 75 or more feet when the vehicle is being operated upon a highway, unless such system is being operated to request assistance or warn of a hazardous situation."
+    },
+    {
+      "type": "paragraph",
+      "text": "This Section does not apply to authorized emergency vehicles."
+    },
+    {
+      "type": "paragraph",
+      "text": "Any violation of the provisions of this Section shall be a petty offense punishable by a fine not to exceed $50."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 91-919, eff. 1-1-01.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 91-919, eff. 1-1-01.)",
+  "publicActs": [
+    {
+      "publicAct": "91-919",
+      "effectiveDate": "1-1-01"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "1613222d653ed9957320ab37aa745170a41167f289ea64fdd65e26a04c5b4b0b",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0401"
+  ]
+}

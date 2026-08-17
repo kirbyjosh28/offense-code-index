@@ -1,0 +1,137 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-6-508.1",
+  "citation": "625 ILCS 5/6-508.1",
+  "docName": "062500050K6-508.1",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K6-508.1",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:22:03.057Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/6-508.1",
+  "headingText": "Sec. 6-508.1. Medical examiner's certificate.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/6-508.1)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 6-508.1. Medical examiner's certificate."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) It shall be unlawful for any person to drive a CMV in non-excepted interstate commerce unless the person holds a CLP or CDL and is medically certified as physically qualified to do so."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) No person who has certified to non-excepted interstate driving as provided in Sections 6-507.5 and 6-508 of this Code shall be issued a CLP or CDL unless that person has a current medical examiner's certificate on the CDLIS driver record."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) (Blank)."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) On and after January 30, 2014, all persons who hold a commercial driver instruction permit or CDL who have certified as non-excepted interstate shall maintain a current medical examiner's certificate on file with the Secretary. On and after July 1, 2014, all persons issued a CLP who have certified as non-excepted interstate shall maintain a current medical examiner's certificate on file with the Secretary."
+    },
+    {
+      "type": "subsection",
+      "label": "(e)",
+      "text": "(e) Before June 22, 2025, the Secretary shall post the following to the CDLIS driver record within 10 calendar days of receipt of a medical examiner's certificate of a driver who has certified as non-excepted interstate:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) the medical examiner's name;"
+    },
+    {
+      "type": "subsection",
+      "label": "(2)",
+      "text": "(2) the medical examiner's telephone number;"
+    },
+    {
+      "type": "subsection",
+      "label": "(3)",
+      "text": "(3) the date of issuance of the medical examiner's certificate; (4) the medical examiner's license number and the state that issued it; (5) the medical certification status;"
+    },
+    {
+      "type": "subsection",
+      "label": "(6)",
+      "text": "(6) the expiration date of the medical examiner's certificate; (7) the existence of any medical variance on the medical examiner's certificate, including, but not limited to, an exemption, Skills Performance Evaluation certification, issuance and expiration date of the medical variance, or any grandfather provisions; (8) any restrictions noted on the medical examiner's certificate; (9) the date the medical examiner's certificate information was posted to the CDLIS driver record; and (10) the medical examiner's National Registry of Certified Medical Examiners identification number. (e-5) Beginning June 23, 2025, the Secretary shall post the following to the CDLIS driver record within one business day of electronic receipt from the Federal Motor Carrier Safety Administration of a driver's identification, examination results, restriction information, and medical variance information resulting from an examination performed by a medical examiner on the National Registry of Certified Medical Examiners for any driver who has certified as non-excepted interstate:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) the medical examiner's name;"
+    },
+    {
+      "type": "subsection",
+      "label": "(2)",
+      "text": "(2) the medical examiner's telephone number;"
+    },
+    {
+      "type": "subsection",
+      "label": "(3)",
+      "text": "(3) the date of issuance of the medical examiner's certificate; (4) the medical examiner's license number and the state that issued it; (5) the medical certification status;"
+    },
+    {
+      "type": "subsection",
+      "label": "(6)",
+      "text": "(6) the expiration date of the medical examiner's certificate; (7) the existence of any medical variance on the medical examiner's certificate, including, but not limited to, an exemption, Skills Performance Evaluation certification, issue and expiration date of a medical variance, or any grandfather provisions; (8) any restrictions noted on the medical examiner's certificate; (9) the date the medical examiner's certificate information was posted to the CDLIS driver record; and (10) the medical examiner's National Registry of Certified Medical Examiners identification number. (f) Within 10 calendar days of the expiration or rescission of the driver's medical examiner's certificate or medical variance or both, the Secretary shall update the medical certification status to \"not certified\"."
+    },
+    {
+      "type": "subsection",
+      "label": "(g)",
+      "text": "(g) Within 10 calendar days of receipt of information from the Federal Motor Carrier Safety Administration regarding issuance or renewal of a medical variance, the Secretary shall update the CDLIS driver record to include the medical variance information provided by the Federal Motor Carrier Safety Administration."
+    },
+    {
+      "type": "paragraph",
+      "text": "(g-5) Beginning June 22, 2021, within one business day of electronic receipt of information from the Federal Motor Carrier Safety Administration regarding issuance or renewal of a medical variance, the Secretary shall update the CDLIS driver record to include the medical variance information provided by the Federal Motor Carrier Safety Administration."
+    },
+    {
+      "type": "subsection",
+      "label": "(h)",
+      "text": "(h) The Secretary shall notify the driver of his or her non-certified status and that his or her CDL will be canceled unless the driver submits a current medical examiner's certificate or medical variance or changes his or her self-certification to driving only in excepted or intrastate commerce."
+    },
+    {
+      "type": "subsection",
+      "label": "(i)",
+      "text": "(i) Within 60 calendar days of a driver's medical certification status becoming non-certified, the Secretary shall cancel the CDL."
+    },
+    {
+      "type": "subsection",
+      "label": "(j)",
+      "text": "(j) As required under the Code of Federal Regulations 49 CFR 390.39, an operator of a covered farm vehicle, as defined under Section 18b-101 of this Code, is exempt from the requirements of this Section."
+    },
+    {
+      "type": "subsection",
+      "label": "(k)",
+      "text": "(k) For purposes of ensuring a person is medically fit to drive a commercial motor vehicle, the Secretary may release medical information provided by an applicant or a holder of a CDL or CLP to the Federal Motor Carrier Safety Administration. Medical information includes, but is not limited to, a medical examiner's certificate, a medical report that the Secretary requires to be submitted, statements regarding medical conditions made by an applicant or a holder of a CDL or CLP, or statements made by his or her physician."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 101-185, eff. 1-1-20; 102-749, eff. 1-1-23.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 101-185, eff. 1-1-20; 102-749, eff. 1-1-23.)",
+  "publicActs": [
+    {
+      "publicAct": "101-185",
+      "effectiveDate": "1-1-20"
+    },
+    {
+      "publicAct": "102-749",
+      "effectiveDate": "1-1-23"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "dfe44207f3ce0c6c1e83cff849fa108a77f11eac8fa15622d9e8fc008e421a47",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0164"
+  ]
+}

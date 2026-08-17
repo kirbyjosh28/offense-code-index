@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-11-18",
+  "citation": "720 ILCS 5/11-18",
+  "docName": "072000050K11-18",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K11-18",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:23:33.167Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/11-18",
+  "headingText": "Sec. 11-18. Patronizing a person engaged in the sex trade.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/11-18) (from Ch. 38, par. 11-18)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-18. Patronizing a person engaged in the sex trade."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) Any person who knowingly performs any of the following acts with a person not his or her spouse commits patronizing a person engaged in the sex trade:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) Engages in an act of sexual penetration as defined in Section 11-0.1 of this Code with a person engaged in the sex trade; or (2) Enters or remains in a place of prostitution with intent to engage in an act of sexual penetration as defined in Section 11-0.1 of this Code; or (3) Engages in any touching or fondling with a person engaged in the sex trade of the sex organs of one person by the other person, with the intent to achieve sexual arousal or gratification. (b) Sentence."
+    },
+    {
+      "type": "paragraph",
+      "text": "Patronizing a person engaged in the sex trade is a Class 4 felony, unless committed within 1,000 feet of real property comprising a school, in which case it is a Class 3 felony. A person convicted of a second or subsequent violation of this Section, or of any combination of such number of convictions under this Section and Sections 11-14 (prostitution), 11-14.1 (solicitation of a sexual act), 11-14.3 (promoting prostitution), 11-14.4 (promoting commercial sexual exploitation of a child), 11-15 (soliciting for a person engaged in the sex trade), 11-15.1 (soliciting for a sexually exploited child), 11-16 (pandering), 11-17 (keeping a place of prostitution), 11-17.1 (keeping a place of commercial sexual exploitation of a child), 11-18.1 (patronizing a sexually exploited child), 11-19 (pimping), 11-19.1 (juvenile pimping or aggravated juvenile pimping), or 11-19.2 (exploitation of a child) of this Code, is guilty of a Class 3 felony. If the court imposes a fine under this subsection (b), it shall be collected and distributed to the Specialized Services for Survivors of Human Trafficking Fund in accordance with Section 5-9-1.21 of the Unified Code of Corrections."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) (Blank)."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 103-1071, eff. 7-1-25.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 103-1071, eff. 7-1-25.)",
+  "publicActs": [
+    {
+      "publicAct": "103-1071",
+      "effectiveDate": "7-1-25"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "88f08c5dc3724eb2d41486de1949541626c5936e4ea9ec8053efebd66b5c15f7",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0592"
+  ]
+}

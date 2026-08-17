@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-21-9",
+  "citation": "720 ILCS 5/21-9",
+  "docName": "072000050K21-9",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K21-9",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:27:39.422Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/21-9",
+  "headingText": "Sec. 21-9. Criminal trespass to a place of public amusement.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/21-9)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 21-9. Criminal trespass to a place of public amusement."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits criminal trespass to a place of public amusement when he or she knowingly and without lawful authority enters or remains on any portion of a place of public amusement after having received notice that the general public is restricted from access to that portion of the place of public amusement. These areas may include, but are not limited to: a playing field, an athletic surface, a stage, a locker room, or a dressing room located at the place of public amusement."
+    },
+    {
+      "type": "paragraph",
+      "text": "(a-5) A person commits the offense of criminal trespass to a place of public amusement when he or she knowingly and without lawful authority gains access to or remains on any portion of a place of public amusement by presenting false documents or falsely representing his or her identity orally to the property owner, a lessee, an agent of either the owner or lessee, or a performer or participant. This subsection (a-5) does not apply to a peace officer or other official of a unit of government who enters or remains in the place of public amusement in the performance of his or her official duties."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) A property owner, a lessee, an agent of either the owner or lessee, or a performer or participant may use reasonable force to restrain a trespasser and remove him or her from the restricted area; however, any use of force beyond reasonable force may subject that person to any applicable criminal penalty."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) A person has received notice within the meaning of subsection (a) if he or she has been notified personally, either orally or in writing, or if a printed or written notice forbidding such entry has been conspicuously posted or exhibited at the entrance to the portion of the place of public amusement that is restricted or an oral warning has been broadcast over the public address system of the place of public amusement."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) In this Section, \"place of public amusement\" means a stadium, a theater, or any other facility of any kind, whether licensed or not, where a live performance, a sporting event, or any other activity takes place for other entertainment and where access to the facility is made available to the public, regardless of whether admission is charged."
+    },
+    {
+      "type": "subsection",
+      "label": "(e)",
+      "text": "(e) Sentence. Criminal trespass to a place of public amusement is a Class 4 felony. Upon imposition of any sentence, the court shall also impose a fine of not less than $1,000. In addition, any order of probation or conditional discharge entered following a conviction shall include a condition that the offender perform public or community service of not less than 30 and not more than 120 hours, if community service is available in the jurisdiction and is funded and approved by the county board of the county where the offender was convicted. The court may also impose any other condition of probation or conditional discharge under this Section."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 97-1108, eff. 1-1-13.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 97-1108, eff. 1-1-13.)",
+  "publicActs": [
+    {
+      "publicAct": "97-1108",
+      "effectiveDate": "1-1-13"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "b56a5188e83c29d858dbb73d4ef3065af9a52ddc2c6f9ecda49193c91eb2beef",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0774"
+  ]
+}

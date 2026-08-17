@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0670-1",
+  "citation": "720 ILCS 670/1",
+  "docName": "072006700K1",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072006700K1",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:31:24.663Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 670/1",
+  "headingText": "Sec. 1. It shall be unlawful for any person to sell, lend, give away or show, or have in his possession with intent to sell or give away, or to show or advertise, or otherwise offer for loan, gift or distribution to any minor child any book, pamphlet, magazine, newspaper, story paper or other printed paper devoted to the publication, or principally made up of criminal news, police reports, or accounts of criminal deeds, or pictures and stories of deeds of bloodshed, lust or crime.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 670/1) (from Ch. 23, par. 2363)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 1. It shall be unlawful for any person to sell, lend, give away or show, or have in his possession with intent to sell or give away, or to show or advertise, or otherwise offer for loan, gift or distribution to any minor child any book, pamphlet, magazine, newspaper, story paper or other printed paper devoted to the publication, or principally made up of criminal news, police reports, or accounts of criminal deeds, or pictures and stories of deeds of bloodshed, lust or crime."
+    },
+    {
+      "type": "source",
+      "text": "(Source: Laws 1889, p. 114.)"
+    }
+  ],
+  "sourceLine": "(Source: Laws 1889, p. 114.)",
+  "publicActs": [],
+  "repealed": false,
+  "bodyHash": "9b8dc86ffacb5e4e220fb649ca84effe5b86059bb1693ef4cff977623c737ae0",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0944"
+  ]
+}

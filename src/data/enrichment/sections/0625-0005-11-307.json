@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-307",
+  "citation": "625 ILCS 5/11-307",
+  "docName": "062500050K11-307",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-307",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:16:29.675Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-307",
+  "headingText": "Sec. 11-307. Pedestrian-control signals. Whenever special pedestrian-control signals exhibiting the words \"Walk\" or \"Don't Walk\" or the illuminated symbols of a walking person or an upraised palm are in place such signals shall indicate as follows:",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-307) (from Ch. 95 1/2, par. 11-307)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-307. Pedestrian-control signals. Whenever special pedestrian-control signals exhibiting the words \"Walk\" or \"Don't Walk\" or the illuminated symbols of a walking person or an upraised palm are in place such signals shall indicate as follows:"
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) Walk or walking person symbol. Pedestrians facing such signal may proceed across the roadway in the direction of the signal, and shall be given the right of way by the drivers of all vehicles. Bicyclists may proceed across the roadway in the direction of the signal, shall be given the right of way by the drivers of all vehicles, and shall yield the right of way to all pedestrians. (b) Don't Walk or upraised palm symbol. No pedestrian or bicyclist shall start to cross the roadway in the direction of such signal, but any pedestrian or bicyclist who has partly completed his crossing on the Walk signal or walking person symbol shall proceed to a sidewalk or safety island while the \"Don't Walk\" signal or upraised palm symbol is illuminated, steady, or flashing.(Source: P.A. 104-260, eff. 8-15-25.)"
+    }
+  ],
+  "sourceLine": null,
+  "publicActs": [],
+  "repealed": false,
+  "bodyHash": "eb179317161a679f0e33f3308b59d927b9a11e82094a127a6576901678306297",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0184"
+  ]
+}

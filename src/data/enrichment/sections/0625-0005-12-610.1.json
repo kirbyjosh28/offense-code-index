@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-12-610.1",
+  "citation": "625 ILCS 5/12-610.1",
+  "docName": "062500050K12-610.1",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K12-610.1",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:18:46.347Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/12-610.1",
+  "headingText": "Sec. 12-610.1. Wireless telephones.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/12-610.1)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 12-610.1. Wireless telephones."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) As used in this Section, \"wireless telephone\" means a device that is capable of transmitting or receiving telephonic communications without a wire connecting the device to the telephone network."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) A person under the age of 19 years who holds an instruction permit issued under Section 6-105 or 6-107.1, or a person under the age of 19 years who holds a graduated license issued under Section 6-107, may not drive a vehicle on a roadway while using a wireless phone."
+    },
+    {
+      "type": "paragraph",
+      "text": "(b-5) A person under the age of 19 commits aggravated use of a wireless telephone when he or she violates subsection (b) and in committing the violation he or she was involved in a motor vehicle crash that results in great bodily harm, permanent disability, disfigurement, or death to another and the violation was a proximate cause of the injury or death."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) This Section does not apply to a person under the age of 19 years using a wireless telephone for emergency purposes, including, but not limited to, an emergency call to a law enforcement agency, health care provider, fire department, or other emergency services agency or entity."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) If a graduated driver's license holder over the age of 18 committed an offense against traffic regulations governing the movement of vehicles or any violation of Section 6-107 or Section 12-603.1 of this Code in the 6 months prior to the graduated driver's license holder's 18th birthday, and was subsequently convicted of the violation, the provisions of paragraph (b) shall continue to apply until such time as a period of 6 consecutive months has elapsed without an additional violation and subsequent conviction of an offense against traffic regulations governing the movement of vehicles or any violation of Section 6-107 or Section 12-603.1 of this Code."
+    },
+    {
+      "type": "subsection",
+      "label": "(e)",
+      "text": "(e) A person, regardless of age, may not use a wireless telephone at any time while operating a motor vehicle on a roadway in a school speed zone established under Section 11-605, on a highway in a construction or maintenance speed zone established under Section 11-605.1, or within 500 feet of an emergency scene. As used in this Section, \"emergency scene\" means a location where an authorized emergency vehicle as defined by Section 1-105 of this Code is present and has activated its oscillating, rotating, or flashing lights. This subsection (e) does not apply to (i) a person engaged in a highway construction or maintenance project for which a construction or maintenance speed zone has been established under Section 11-605.1, (ii) a person using a wireless telephone for emergency purposes, including, but not limited to, law enforcement agency, health care provider, fire department, or other emergency services agency or entity, (iii) a law enforcement officer or operator of an emergency vehicle when performing the officer's or operator's official duties, (iv) a person using a wireless telephone in voice-operated mode, which may include the use of a headset, (v) a person using a wireless telephone by pressing a single button to initiate or terminate a voice communication, or (vi) a person using an electronic communication device for the sole purpose of reporting an emergency situation and continued communication with emergency personnel during the emergency situation."
+    },
+    {
+      "type": "paragraph",
+      "text": "(e-5) A person commits aggravated use of a wireless telephone when he or she violates subsection (e) and in committing the violation he or she was involved in a motor vehicle crash that results in great bodily harm, permanent disability, disfigurement, or death to another and the violation was a proximate cause of the injury or death."
+    },
+    {
+      "type": "subsection",
+      "label": "(f)",
+      "text": "(f) A person convicted of violating subsection (b-5) or (e-5) commits a Class A misdemeanor if the violation resulted in great bodily harm, permanent disability, or disfigurement to another. A person convicted of violating subsection (b-5) or (e-5) commits a Class 4 felony if the violation resulted in the death of another person."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 102-982, eff. 7-1-23.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 102-982, eff. 7-1-23.)",
+  "publicActs": [
+    {
+      "publicAct": "102-982",
+      "effectiveDate": "7-1-23"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "d14352aa07142c4281bcd1776b0cfec3c1e5c5ce9d9d782214d611f4ebb2827e",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0398",
+    "offense-0399"
+  ]
+}

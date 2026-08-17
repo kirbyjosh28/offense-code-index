@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-3-605",
+  "citation": "625 ILCS 5/3-605",
+  "docName": "062500050K3-605",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K3-605",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:20:26.942Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/3-605",
+  "headingText": "Sec. 3-605. Manufacturers, engine and driveline component manufacturers, transporters, repossessors and dealers to maintain records. Every manufacturer, engine and driveline component manufacturer, repossessor, transporter or dealer shall keep a written record of the persons to whom such drive-away permits or special plates are assigned, which record shall be open to inspection by any public officer or any employee of the Secretary of State.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/3-605) (from Ch. 95 1/2, par. 3-605)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 3-605. Manufacturers, engine and driveline component manufacturers, transporters, repossessors and dealers to maintain records. Every manufacturer, engine and driveline component manufacturer, repossessor, transporter or dealer shall keep a written record of the persons to whom such drive-away permits or special plates are assigned, which record shall be open to inspection by any public officer or any employee of the Secretary of State."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 92-680, eff. 7-16-02.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 92-680, eff. 7-16-02.)",
+  "publicActs": [
+    {
+      "publicAct": "92-680",
+      "effectiveDate": "7-16-02"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "e7ade86fc94f43c8ee7ea159f7c07795f1583c44913029ea595a9f3dff67f924",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0034"
+  ]
+}

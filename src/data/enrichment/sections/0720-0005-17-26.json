@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-17-26",
+  "citation": "720 ILCS 5/17-26",
+  "docName": "072000050K17-26",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K17-26",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:26:09.346Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/17-26",
+  "headingText": "Sec. 17-26. Misconduct by a corporate official.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/17-26)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 17-26. Misconduct by a corporate official."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits misconduct by a corporate official when:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) being a director of a corporation, he or she knowingly, with the intent to defraud, concurs in any vote or act of the directors of the corporation, or any of them, which has the purpose of: (A) making a dividend except in the manner provided by law; (B) dividing, withdrawing or in any manner paying any stockholder any part of the capital stock of the corporation except in the manner provided by law; (C) discounting or receiving any note or other evidence of debt in payment of an installment of capital stock actually called in and required to be paid, or with purpose of providing the means of making such payment; (D) receiving or discounting any note or other evidence of debt with the purpose of enabling any stockholder to withdraw any part of the money paid in by him or her on his or her stock; or (E) applying any portion of the funds of such corporation, directly or indirectly, to the purchase of shares of its own stock, except in the manner provided by law; or (2) being a director or officer of a corporation, he or she, with the intent to defraud: (A) issues, participates in issuing, or concurs in a vote to issue any increase of its capital stock beyond the amount of the capital stock thereof, duly authorized by or in pursuance of law; (B) sells, or agrees to sell, or is directly interested in the sale of any share of stock of such corporation, or in any agreement to sell such stock, unless at the time of the sale or agreement he or she is an actual owner of such share, provided that the foregoing shall not apply to a sale by or on behalf of an underwriter or dealer in connection with a bona fide public offering of shares of stock of such corporation; (C) executes a scheme or attempts to execute a scheme to obtain any share of stock of such corporation by means of false representation; or (3) being a director or officer of a corporation, he or she with the intent to defraud or evade a financial disclosure reporting requirement of this State or of Section 13(A) or 15(D) of the Securities Exchange Act of 1934, as amended, 15 U. S. C. 78M(A) or 78O(D): (A) causes or attempts to cause a corporation or accounting firm representing the corporation or any other individual or entity to fail to file a financial disclosure report as required by State or federal law; or (B) causes or attempts to cause a corporation or accounting firm representing the corporation or any other individual or entity to file a financial disclosure report, as required by State or federal law, that contains a material omission or misstatement of fact. (b) Sentence. If the benefit derived from a violation of this Section is $500,000 or more, the violation is a Class 2 felony. If the benefit derived from a violation of this Section is less than $500,000, the violation is a Class 3 felony."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 96-1000, eff. 7-2-10; 96-1551, eff. 7-1-11.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 96-1000, eff. 7-2-10; 96-1551, eff. 7-1-11.)",
+  "publicActs": [
+    {
+      "publicAct": "96-1000",
+      "effectiveDate": "7-2-10"
+    },
+    {
+      "publicAct": "96-1551",
+      "effectiveDate": "7-1-11"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "8138645a2b2a48a72f6a0513bad7749bbf6056f882d8e8f761a3b11bf8c2b470",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0724"
+  ]
+}

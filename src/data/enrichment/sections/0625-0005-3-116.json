@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-3-116",
+  "citation": "625 ILCS 5/3-116",
+  "docName": "062500050K3-116",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K3-116",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:20:10.421Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/3-116",
+  "headingText": "Sec. 3-116. When Secretary of State to issue a certificate of title.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/3-116) (from Ch. 95 1/2, par. 3-116)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 3-116. When Secretary of State to issue a certificate of title."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) The Secretary of State, upon receipt of a properly assigned certificate of title, with an application for a certificate of title, the required fee and any other documents required by law, shall issue a new certificate of title in the name of the transferee as owner and mail it to the first lienholder named in it or, if none, to the owner or owner's designee."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) The Secretary of State, upon receipt of an application for a new certificate of title by a transferee other than by voluntary transfer, with proof of the transfer, the required fee and any other documents required by law, shall issue a new certificate of title in the name of the transferee as owner."
+    },
+    {
+      "type": "paragraph",
+      "text": "(b-5) The Secretary of State, upon receipt of an application for a certificate of title and the required fee, may issue a certificate of title to an out-of-state resident if the out-of-state resident is a bona fide purchaser of a vehicle or a manufactured home from a dealer licensed in this State under Section 5-101, 5-101.2, or 5-102 of this Code and the licensed dealer files for bankruptcy, surrenders his or her license, or is otherwise no longer operating as a licensed dealer and does not properly transfer the title application to the bona fide purchaser prior to the licensed dealer's business closure."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Any person, firm or corporation, who shall knowingly possess, buy, sell, exchange or give away, or offer to buy, sell, exchange or give away the certificate of title to any motor vehicle which is a junk or salvage, or who shall fail to surrender the certificate of title to the Secretary of State as required under the provisions of this Section and Section 3-117.2, shall be guilty of Class 3 felony."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) The Secretary of State shall file and retain for four (4) years a record of every surrendered certificate of title or proof of ownership accepted by the Secretary of State, the file to be maintained so as to permit the tracing of title of the vehicle designated therein. Such filing and retention requirements shall be in addition to and not in substitution for the recordkeeping requirements set forth in Section 3-106 of this Code, which recordkeeping requirements are not limited to any period of time."
+    },
+    {
+      "type": "subsection",
+      "label": "(e)",
+      "text": "(e) The Secretary of State, upon receipt of an application for corrected certificate of title, with the original title, the required fee and any other required documents, shall issue a corrected certificate of title in the name of the owner and mail it to the first lienholder named in it or, if none, to the owner or owner's designee."
+    },
+    {
+      "type": "subsection",
+      "label": "(f)",
+      "text": "(f) The Secretary of State, upon receipt of a certified copy of a court order awarding ownership to an applicant along with an application for a certificate of title and the required fee, shall issue a certificate of title to the applicant."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 100-450, eff. 1-1-18.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 100-450, eff. 1-1-18.)",
+  "publicActs": [
+    {
+      "publicAct": "100-450",
+      "effectiveDate": "1-1-18"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "a2efcdc40a29f6d08efb294d2dec15b1f20467e486b43b3e1ec35d33fdf4a3cd",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0005"
+  ]
+}

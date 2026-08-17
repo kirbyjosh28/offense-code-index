@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0015-0335-14C",
+  "citation": "15 ILCS 335/14C",
+  "docName": "001503350K14C",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=001503350K14C",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:13:50.191Z",
+  "transport": "cache",
+  "canonicalCitation": "15 ILCS 335/14C",
+  "headingText": "Sec. 14C. Making false application or affidavit.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(15 ILCS 335/14C) (from Ch. 124, par. 34C)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 14C. Making false application or affidavit."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) It is a violation of this Section for any person:"
+    },
+    {
+      "type": "paragraph",
+      "text": "1. To display or present any document for the purpose of making application for an Illinois Identification Card or Illinois Person with a Disability Identification Card knowing that such document contains false information concerning the identity of the applicant; 2. To accept or allow to be accepted any document displayed or presented for the purpose of making application for an Illinois Identification Card or Illinois Person with a Disability Identification Card knowing that such document contains false information concerning the identity of the applicant; 3. To knowingly make any false affidavit or swear or affirm falsely to any matter or thing required by the terms of this Act to be sworn to or affirmed. (b) Sentence."
+    },
+    {
+      "type": "paragraph",
+      "text": "1. Any person convicted of a violation of this Section shall be guilty of a Class 4 felony. 2. A person convicted of a second or subsequent violation of this Section shall be guilty of a Class 3 felony. (c) This Section does not prohibit any lawfully authorized investigative, protective, law enforcement or other activity of any agency of the United States, State of Illinois or any other state or political subdivision thereof."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) The Secretary of State may confiscate any suspected fraudulent, fictitious, or altered documents submitted by an applicant in support of an application for an Illinois Identification Card or Illinois Person with a Disability Identification Card."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 99-642, eff. 7-28-16.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 99-642, eff. 7-28-16.)",
+  "publicActs": [
+    {
+      "publicAct": "99-642",
+      "effectiveDate": "7-28-16"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "ccec7bde34b0994c7bf77f0572b42b1b0325aa2b0b592c5a2927f5226bbda719",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0173"
+  ]
+}

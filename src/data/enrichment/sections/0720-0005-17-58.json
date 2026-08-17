@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-17-58",
+  "citation": "720 ILCS 5/17-58",
+  "docName": "072000050K17-58",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K17-58",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:26:37.878Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/17-58",
+  "headingText": "Sec. 17-58. Fraudulent production of infant. A person who fraudulently produces an infant, falsely pretending it to have been born of parents whose child would be entitled to a share of a personal estate, or to inherit real estate, with the intent of intercepting the inheritance of the real estate, or the distribution of the personal property from a person lawfully entitled to the personal property, is guilty of a Class 3 felony.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/17-58) (was 720 ILCS 5/17-16)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 17-58. Fraudulent production of infant. A person who fraudulently produces an infant, falsely pretending it to have been born of parents whose child would be entitled to a share of a personal estate, or to inherit real estate, with the intent of intercepting the inheritance of the real estate, or the distribution of the personal property from a person lawfully entitled to the personal property, is guilty of a Class 3 felony."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 96-1551, eff. 7-1-11.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 96-1551, eff. 7-1-11.)",
+  "publicActs": [
+    {
+      "publicAct": "96-1551",
+      "effectiveDate": "7-1-11"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "aff537d947f22f89c3189883a4ab83b588ace0ba0efe30e2f317aebaf2c31bb9",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0741"
+  ]
+}

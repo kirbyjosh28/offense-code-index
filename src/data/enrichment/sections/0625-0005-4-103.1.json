@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-4-103.1",
+  "citation": "625 ILCS 5/4-103.1",
+  "docName": "062500050K4-103.1",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K4-103.1",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:20:52.479Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/4-103.1",
+  "headingText": "Sec. 4-103.1. Vehicle theft conspiracy.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/4-103.1) (from Ch. 95 1/2, par. 4-103.1)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 4-103.1. Vehicle theft conspiracy."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) Elements of the offense. A person commits vehicle theft conspiracy when, with intent that a violation of Section 4-103 of this Code be committed, he agrees with another to the commission of such an offense. No person may be convicted of vehicle theft conspiracy unless an overt act in furtherance of such an agreement is alleged and proved to have been committed by him or by a co-conspirator, and the accused is part of a common plan or scheme to engage in the unlawful activity."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Co-conspirators. It shall not be a defense to vehicle theft conspiracy that the person or persons with whom the accused is alleged to have conspired:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) has not been prosecuted or convicted;"
+    },
+    {
+      "type": "subsection",
+      "label": "(2)",
+      "text": "(2) has been convicted of a different offense;"
+    },
+    {
+      "type": "subsection",
+      "label": "(3)",
+      "text": "(3) is not amenable to justice;"
+    },
+    {
+      "type": "subsection",
+      "label": "(4)",
+      "text": "(4) has been acquitted; or"
+    },
+    {
+      "type": "subsection",
+      "label": "(5)",
+      "text": "(5) lacked the capacity to commit an offense."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Sentence. Vehicle theft conspiracy to violate Section 4-103 of this Code is a Class 2 felony. Vehicle theft conspiracy to violate Section 4-103.2 of this Code is a Class 1 felony."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 86-1209.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 86-1209.)",
+  "publicActs": [
+    {
+      "publicAct": "86-1209",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "4bf35278956ad81e3563603a230da2966bc83e1f4e4e00c1c4e46182349ad95a",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0060"
+  ]
+}

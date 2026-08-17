@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-33E-6",
+  "citation": "720 ILCS 5/33E-6",
+  "docName": "072000050K33E-6",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K33E-6",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:30:09.582Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/33E-6",
+  "headingText": "Sec. 33E-6. Interference with contract submission and award by public official.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/33E-6) (from Ch. 38, par. 33E-6)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 33E-6. Interference with contract submission and award by public official."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) Any person who is an official of or employed by any unit of State or local government who knowingly conveys, either directly or indirectly, outside of the publicly available official invitation to bid, pre-bid conference, solicitation for contracts procedure or such procedure used in any sheltered market procurement adopted pursuant to law or ordinance by that unit of government, to any person any information concerning the specifications for such contract or the identity of any particular potential subcontractors, when inclusion of such information concerning the specifications or contractors in the bid or offer would influence the likelihood of acceptance of such bid or offer, commits a Class 4 felony. It shall not constitute a violation of this subsection to convey information intended to clarify plans or specifications regarding a public contract where such disclosure of information is also made generally available to the public."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Any person who is an official of or employed by any unit of State or local government who, either directly or indirectly, knowingly informs a bidder or offeror that the bid or offer will be accepted or executed only if specified individuals are included as subcontractors commits a Class 3 felony."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) It shall not constitute a violation of subsection (a) of this Section where any person who is an official of or employed by any unit of State or local government follows procedures established (i) by federal, State or local minority or female owned business enterprise programs or (ii) pursuant to Section 45-57 of the Illinois Procurement Code."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) Any bidder or offeror who is the recipient of communications from the unit of government which he reasonably believes to be proscribed by subsections (a) or (b), and fails to inform either the Attorney General or the State's Attorney for the county in which the unit of government is located, commits a Class A misdemeanor."
+    },
+    {
+      "type": "subsection",
+      "label": "(e)",
+      "text": "(e) Any public official who knowingly awards a contract based on criteria which were not publicly disseminated via the invitation to bid, when such invitation to bid is required by law or ordinance, the pre-bid conference, or any solicitation for contracts procedure or such procedure used in any sheltered market procurement procedure adopted pursuant to statute or ordinance, commits a Class 3 felony."
+    },
+    {
+      "type": "subsection",
+      "label": "(f)",
+      "text": "(f) It shall not constitute a violation of subsection (a) for any person who is an official of or employed by any unit of State or local government to provide to any person a copy of the transcript or other summary of any pre-bid conference where such transcript or summary is also made generally available to the public."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 97-260, eff. 8-5-11.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 97-260, eff. 8-5-11.)",
+  "publicActs": [
+    {
+      "publicAct": "97-260",
+      "effectiveDate": "8-5-11"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "1c04370d0ce0477887061f29adc038b11b9d13098f555fa4935a4f2fd9e1ab56",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0887"
+  ]
+}

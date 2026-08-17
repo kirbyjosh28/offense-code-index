@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-12-205.1",
+  "citation": "625 ILCS 5/12-205.1",
+  "docName": "062500050K12-205.1",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K12-205.1",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:17:55.285Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/12-205.1",
+  "headingText": "Sec. 12-205.1. Implements of husbandry or slow-moving vehicles-Display of amber signal lamp. Every animal drawn vehicle, farm tractor, implement of husbandry and special mobile equipment, except when used for road construction or maintenance within the limits of a construction or maintenance project where traffic control devices are used in compliance with the applicable provisions of the manual and specifications adopted under Section 11-301 of the Illinois Vehicle Code, when operated on a highway during a time when lighted lamps are required by Section 12-201 of this Chapter, shall display to the rear at least one flashing amber signal lamp mounted as high as practicable and of sufficient intensity to be visible for a distance of at least 500 feet in normal sunlight; provided, that only the rearmost vehicle of a combination of vehicles coupled together need display such lamp. The flashing amber signal lamp may be operated lighted during daylight hours when other lamps are not required to be lighted when vehicles authorized in this Section are operated on a highway. Implements of husbandry manufactured on or after January 1, 2003 and operated on public roads between sunset and sunrise shall display markings and lighting that meet or exceed the design, performance, and mounting specifications adopted by the American Society of Agricultural Engineers and published by that body as ASAE S279.11 APR01.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/12-205.1) (from Ch. 95 1/2, par. 12-205.1)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 12-205.1. Implements of husbandry or slow-moving vehicles-Display of amber signal lamp. Every animal drawn vehicle, farm tractor, implement of husbandry and special mobile equipment, except when used for road construction or maintenance within the limits of a construction or maintenance project where traffic control devices are used in compliance with the applicable provisions of the manual and specifications adopted under Section 11-301 of the Illinois Vehicle Code, when operated on a highway during a time when lighted lamps are required by Section 12-201 of this Chapter, shall display to the rear at least one flashing amber signal lamp mounted as high as practicable and of sufficient intensity to be visible for a distance of at least 500 feet in normal sunlight; provided, that only the rearmost vehicle of a combination of vehicles coupled together need display such lamp. The flashing amber signal lamp may be operated lighted during daylight hours when other lamps are not required to be lighted when vehicles authorized in this Section are operated on a highway. Implements of husbandry manufactured on or after January 1, 2003 and operated on public roads between sunset and sunrise shall display markings and lighting that meet or exceed the design, performance, and mounting specifications adopted by the American Society of Agricultural Engineers and published by that body as ASAE S279.11 APR01."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 91-505, eff. 1-1-00; 92-820, eff. 8-21-02.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 91-505, eff. 1-1-00; 92-820, eff. 8-21-02.)",
+  "publicActs": [
+    {
+      "publicAct": "91-505",
+      "effectiveDate": "1-1-00"
+    },
+    {
+      "publicAct": "92-820",
+      "effectiveDate": "8-21-02"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "34dce129d438bcb24b6b120ab4b1e5891372cf22e59fcea6ef15ab810cb532e5",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0342"
+  ]
+}

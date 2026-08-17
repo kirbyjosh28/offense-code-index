@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-9-3.2",
+  "citation": "720 ILCS 5/9-3.2",
+  "docName": "072000050K9-3.2",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K9-3.2",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:30:44.126Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/9-3.2",
+  "headingText": "Sec. 9-3.2. Involuntary manslaughter and reckless homicide of an unborn child.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/9-3.2) (from Ch. 38, par. 9-3.2)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 9-3.2. Involuntary manslaughter and reckless homicide of an unborn child."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person who unintentionally kills an unborn child without lawful justification commits involuntary manslaughter of an unborn child if his acts whether lawful or unlawful which cause the death are such as are likely to cause death or great bodily harm to some individual, and he performs them recklessly, except in cases in which the cause of death consists of the driving of a motor vehicle, in which case the person commits reckless homicide of an unborn child."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Sentence."
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) Involuntary manslaughter of an unborn child is a Class 3 felony. (2) Reckless homicide of an unborn child is a Class 3 felony. (c) For purposes of this Section, (1) \"unborn child\" shall mean any individual of the human species from the implantation of an embryo until birth, and (2) \"person\" shall not include the pregnant individual whose unborn child is killed."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) This Section shall not apply to acts which cause the death of an unborn child if those acts were committed during any abortion, as defined in Section 1-10 of the Reproductive Health Act, to which the pregnant individual has consented. This Section shall not apply to acts which were committed pursuant to usual and customary standards of medical practice during diagnostic testing or therapeutic treatment."
+    },
+    {
+      "type": "subsection",
+      "label": "(e)",
+      "text": "(e) The provisions of this Section shall not be construed to prohibit the prosecution of any person under any other provision of law, nor shall it be construed to preclude any civil cause of action."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 101-13, eff. 6-12-19; 102-558, eff. 8-20-21.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 101-13, eff. 6-12-19; 102-558, eff. 8-20-21.)",
+  "publicActs": [
+    {
+      "publicAct": "101-13",
+      "effectiveDate": "6-12-19"
+    },
+    {
+      "publicAct": "102-558",
+      "effectiveDate": "8-20-21"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "def9a12ee4fba41651a376dd4a7a7efa318e759189bad4bc4cf1b866c2a6b597",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0555"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-1205",
+  "citation": "625 ILCS 5/11-1205",
+  "docName": "062500050K11-1205",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-1205",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:15:02.588Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-1205",
+  "headingText": "Sec. 11-1205. Emerging from alley, building, or private road or driveway.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-1205) (from Ch. 95 1/2, par. 11-1205)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-1205. Emerging from alley, building, or private road or driveway."
+    },
+    {
+      "type": "paragraph",
+      "text": "The driver of a vehicle emerging from an alley, building, private road or driveway within an urban area shall stop such vehicle immediately prior to driving into the sidewalk area extending across such alley, building entrance, road or driveway, or in the event there is no sidewalk area, shall stop at the point nearest the street to be entered where the driver has a view of approaching traffic thereon, and shall yield the right-of-way to any pedestrian as may be necessary to avoid collision, and upon entering the roadway shall yield the right-of-way to all vehicles approaching on such roadway."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 77-1344.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 77-1344.)",
+  "publicActs": [
+    {
+      "publicAct": "77-1344",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "fe7967d55837690dd5b8767412a05a977ecf905a10c840bc8df534a624660024",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0272"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0605-0005-9-121",
+  "citation": "605 ILCS 5/9-121",
+  "docName": "060500050K9-121",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=060500050K9-121",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:14:35.549Z",
+  "transport": "cache",
+  "canonicalCitation": "605 ILCS 5/9-121",
+  "headingText": "Sec. 9-121. It is unlawful for any person to deposit in a public highway or rest area weeds, trash, garbage or other offensive matter or any broken bottles, glass, boards containing projecting nails or any other thing likely to cause punctures in the tires of motor vehicles; and any person so offending shall be guilty of a petty offense. However, this Section shall not apply to proper deposits of harmless materials made in good faith and in a proper manner to repair the roads or to the proper disposal of travel and picnic trash in the waste containers provided for such purpose at rest areas.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(605 ILCS 5/9-121) (from Ch. 121, par. 9-121)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 9-121. It is unlawful for any person to deposit in a public highway or rest area weeds, trash, garbage or other offensive matter or any broken bottles, glass, boards containing projecting nails or any other thing likely to cause punctures in the tires of motor vehicles; and any person so offending shall be guilty of a petty offense. However, this Section shall not apply to proper deposits of harmless materials made in good faith and in a proper manner to repair the roads or to the proper disposal of travel and picnic trash in the waste containers provided for such purpose at rest areas."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 81-551.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 81-551.)",
+  "publicActs": [
+    {
+      "publicAct": "81-551",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "0661c9101269555f7e59631f7411f83db214345c79c3a7c5cdec6d2b64f2bd2b",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0545"
+  ]
+}

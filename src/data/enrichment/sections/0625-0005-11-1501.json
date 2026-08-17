@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-1501",
+  "citation": "625 ILCS 5/11-1501",
+  "docName": "062500050K11-1501",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-1501",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:16:04.158Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-1501",
+  "headingText": "Sec. 11-1501. Application of rules. (a) It is unlawful for any person to do any act forbidden or fail to perform any act required in Article XV of Chapter 11 of this Code.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-1501) (from Ch. 95 1/2, par. 11-1501)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-1501. Application of rules. (a) It is unlawful for any person to do any act forbidden or fail to perform any act required in Article XV of Chapter 11 of this Code."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) The parent of any child and the guardian of any ward shall not authorize or knowingly permit any such child or ward to violate any of the provisions of this Code."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 82-132.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 82-132.)",
+  "publicActs": [
+    {
+      "publicAct": "82-132",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "f7e0699418fad1697ffd1a0366f8df4f78d7be867d5dcde8f86c291ccabae351",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0321"
+  ]
+}

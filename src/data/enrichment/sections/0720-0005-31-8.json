@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-31-8",
+  "citation": "720 ILCS 5/31-8",
+  "docName": "072000050K31-8",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K31-8",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:29:20.031Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/31-8",
+  "headingText": "Sec. 31-8. Refusing to aid an officer.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/31-8) (from Ch. 38, par. 31-8)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 31-8. Refusing to aid an officer."
+    },
+    {
+      "type": "paragraph",
+      "text": "Whoever upon command refuses or knowingly fails reasonably to aid a person known by him to be a peace officer in:"
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) Apprehending a person whom the officer is authorized to apprehend; or"
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Preventing the commission by another of any offense, commits a petty offense."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 77-2638.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 77-2638.)",
+  "publicActs": [
+    {
+      "publicAct": "77-2638",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "80fb40327bc9e591282dd26818315372b4f6421106a3d400e7b6dfec217e9ca2",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0859"
+  ]
+}

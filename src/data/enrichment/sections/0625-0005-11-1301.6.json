@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-1301.6",
+  "citation": "625 ILCS 5/11-1301.6",
+  "docName": "062500050K11-1301.6",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-1301.6",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:15:08.599Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-1301.6",
+  "headingText": "Sec. 11-1301.6. Fraudulent disability license plate or parking decal or device.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-1301.6)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-1301.6. Fraudulent disability license plate or parking decal or device."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) As used in this Section:"
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Fraudulent disability license plate or parking decal or device\" means any disability license plate or parking decal or device that purports to be an official disability license plate or parking decal or device and that has not been issued by the Secretary of State or an authorized unit of local government."
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Disability license plate or parking decal or device-making implement\" means any implement specially designed or primarily used in the manufacture, assembly, or authentication of a disability license plate or parking decal or device, or a license plate issued to a veteran with a disability under Section 3-609 of this Code, issued by the Secretary of State or a unit of local government."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) It is a violation of this Section for any person:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) to knowingly possess any fraudulent disability license plate or parking decal; (2) to knowingly possess without authority any disability license plate or parking decal or device-making implement; (3) to knowingly duplicate, manufacture, sell, or transfer any fraudulent or stolen disability license plate or parking decal or device; (4) to knowingly assist in the duplication, manufacturing, selling, or transferring of any fraudulent, stolen, or reported lost or damaged disability license plate or parking decal or device; or (5) to advertise or distribute a fraudulent disability license plate or parking decal or device. (c) Sentence."
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) Any person convicted of a violation of this Section shall be guilty of a Class A misdemeanor and fined not less than $1,000 for a first offense and shall be guilty of a Class 4 felony and fined not less than $2,000 for a second or subsequent offense. The circuit clerk shall distribute half of any fine imposed on any person who is found guilty of or pleads guilty to violating this Section, including any person placed on court supervision for violating this Section, to the law enforcement agency that issued the citation or made the arrest. If more than one law enforcement agency is responsible for issuing the citation or making the arrest, one-half of the fine imposed shall be shared equally. (2) Any person who commits a violation of this Section or a similar provision of a local ordinance may have his or her driving privileges suspended or revoked by the Secretary of State for a period of time determined by the Secretary of State. (3) Any police officer may seize the parking decal or device from any person who commits a violation of this Section. Any police officer may seize the disability license plate upon authorization from the Secretary of State. Any police officer may request that the Secretary of State revoke the parking decal or device or the disability license plate of any person who commits a violation of this Section. (Source: P.A. 99-143, eff. 7-27-15.)"
+    }
+  ],
+  "sourceLine": null,
+  "publicActs": [],
+  "repealed": false,
+  "bodyHash": "a1a43fe1f21489615cd3b0b77edcd57aba2657a3629fbd2999ebbc5049c768c0",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0279"
+  ]
+}

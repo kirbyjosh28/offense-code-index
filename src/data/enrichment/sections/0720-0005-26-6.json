@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-26-6",
+  "citation": "720 ILCS 5/26-6",
+  "docName": "072000050K26-6",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K26-6",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:28:30.496Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/26-6",
+  "headingText": "Sec. 26-6. Disorderly conduct at a funeral or memorial service.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/26-6)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 26-6. Disorderly conduct at a funeral or memorial service."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) The General Assembly finds and declares that due to the unique nature of funeral and memorial services and the heightened opportunity for extreme emotional distress on such occasions, the purpose of this Section is to protect the privacy and ability to mourn of grieving families directly before, during, and after a funeral or memorial service."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) For purposes of this Section:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) \"Funeral\" means the ceremonies, rituals, processions, and memorial services held at a funeral site in connection with the burial, cremation, or memorial of a deceased person. (2) \"Funeral site\" means a church, synagogue, mosque, funeral home, mortuary, cemetery, gravesite, mausoleum, or other place at which a funeral is conducted or is scheduled to be conducted within the next 30 minutes or has been conducted within the last 30 minutes. (c) A person commits the offense of disorderly conduct at a funeral or memorial service when he or she:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) engages, with knowledge of the existence of a funeral site, in any loud singing, playing of music, chanting, whistling, yelling, or noisemaking with, or without, noise amplification including, but not limited to, bullhorns, auto horns, and microphones within 300 feet of any ingress or egress of that funeral site, where the volume of such singing, music, chanting, whistling, yelling, or noisemaking is likely to be audible at and disturbing to the funeral site; (2) displays, with knowledge of the existence of a funeral site and within 300 feet of any ingress or egress of that funeral site, any visual images that convey fighting words or actual or veiled threats against any other person; or (3) with knowledge of the existence of a funeral site, knowingly obstructs, hinders, impedes, or blocks another person's entry to or exit from that funeral site or a facility containing that funeral site, except that the owner or occupant of property may take lawful actions to exclude others from that property. (d) Disorderly conduct at a funeral or memorial service is a Class C misdemeanor. A second or subsequent violation is a Class 4 felony."
+    },
+    {
+      "type": "subsection",
+      "label": "(e)",
+      "text": "(e) If any clause, sentence, section, provision, or part of this Section or the application thereof to any person or circumstance is adjudged to be unconstitutional, the remainder of this Section or its application to persons or circumstances other than those to which it is held invalid, is not affected thereby."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 97-359, eff. 8-15-11.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 97-359, eff. 8-15-11.)",
+  "publicActs": [
+    {
+      "publicAct": "97-359",
+      "effectiveDate": "8-15-11"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "2a905a3822d2224206f2d60eac0930686ae3b3017139d68d4c5e4528c5724bd8",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0821"
+  ]
+}

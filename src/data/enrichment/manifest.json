@@ -1,0 +1,5731 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-08-17T23:45:21.971Z",
+  "sweep": {
+    "sectionsSwept": 695,
+    "offline": false,
+    "refresh": false,
+    "partial": false
+  },
+  "urlTemplate": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName={docName}",
+  "sectionStatusCounts": {
+    "retrieved": 688,
+    "repealed": 7
+  },
+  "recordStatusCounts": {
+    "retrieved": 939,
+    "repealed": 7,
+    "not-applicable": 2,
+    "subsection-not-found": 3,
+    "unresolved": 2
+  },
+  "changedSections": 0,
+  "records": {
+    "offense-0001": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-3-101",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0002": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-3-112",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0003": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-3-112.1",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0004": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-3-113",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0005": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-3-116",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0006": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-3-117.1",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0007": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-3-117.1",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0008": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-3-117.1",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0009": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-3-117.1",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0010": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-3-117.1",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0011": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-3-117.1",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0012": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-3-117.1",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0013": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-3-117.1",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0014": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-3-117.1",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0015": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-3-117.2",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0016": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-3-401",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0017": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-3-401",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0018": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-3-404",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0019": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-3-411",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0020": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-3-413",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0021": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-3-413",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0022": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-3-413",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0023": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-3-413",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0024": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-3-413",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0025": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-3-413",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0026": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-3-413",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0027": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-3-413",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0028": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-3-413",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0029": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-3-413",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0030": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-3-416",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0031": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-3-417",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0032": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-3-501",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0033": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-3-601",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0034": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-3-605",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0035": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-3-701",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0036": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-3-701",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0037": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-3-701",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0038": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-3-702",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0039": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-3-703",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0040": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-3-706",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0041": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-3-707",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0042": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-3-708",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0043": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-3-710",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0044": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-3-712",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0045": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-3-809",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0046": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-3-818",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0047": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-3-833",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0048": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-3-903",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0049": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-3-910",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0050": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-3-915",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0051": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-4-102",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0052": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-4-102",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0053": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-4-102",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0054": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-4-103",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0055": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-4-103",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0056": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-4-103",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0057": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-4-103",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0058": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-4-103",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0059": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-4-103",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0060": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-4-103.1",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0061": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-4-103.2",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0062": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-4-103.2",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0063": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-4-103.2",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0064": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-4-103.2",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0065": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-4-103.2",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0066": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-4-103.2",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0067": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-4-103.2",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0068": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-4-103.2",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0069": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-4-103.3",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0070": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-4-104",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0071": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-4-104",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0072": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-4-104",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0073": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-4-104",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0074": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-4-104",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0075": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-4-104",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0076": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-4-105",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0077": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-4-105",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0078": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-4-105",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0079": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-4-105",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0080": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-4-105",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0081": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-4-105",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0082": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-4-105",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0083": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-4-105.1",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0084": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-4-105.1",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0085": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-4-105",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0086": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-4-105.5",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0087": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-4-201",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0088": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-5-101",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0089": {
+      "status": "repealed",
+      "sectionKey": "0625-0005-5-101.2",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0090": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-5-102",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0091": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-5-102.1",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0092": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-5-104.3",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0093": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-5-106",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0094": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-5-201",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0095": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-5-202",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0096": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-5-202",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0097": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-5-301",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0098": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-5-302",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0099": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-5-401.2",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0100": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-5-401.2",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0101": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-5-401.2",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0102": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-5-401.2",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0103": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-5-401.2",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0104": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-5-401.2",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0105": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-5-401.2",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0106": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-5-401.2",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0107": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-5-401.2",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0108": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-5-401.2",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0109": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-5-401.2",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0110": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-5-401.3",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0111": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-5-402.1",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0112": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-5-403",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0113": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-5-403.1",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0114": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-5-701",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0115": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-6-101",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0116": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-6-104",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0117": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-6-104",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0118": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-6-104",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0119": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-6-104",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0120": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-6-104",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0121": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-6-106.11",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0122": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-6-107",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0123": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-6-107",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0124": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-6-107",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0125": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-6-112",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0126": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-6-113",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0127": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-6-116",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0128": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-6-117.1",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0129": {
+      "status": "not-applicable"
+    },
+    "offense-0130": {
+      "status": "not-applicable"
+    },
+    "offense-0131": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-6-206.2",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0132": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-6-206.2",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0133": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-6-206.2",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0134": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-6-206.2",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0135": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-6-206.2",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0136": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-6-206.2",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0137": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-6-210",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0138": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-6-301",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0139": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-6-301.1",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0140": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-6-301.1",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0141": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-6-301.2",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0142": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-6-301.2",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0143": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-6-301.2",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0144": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-6-301.2",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0145": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-6-301.2",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0146": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-6-302",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0147": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-6-302",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0148": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-6-303",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0149": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-6-303",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0150": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-6-303",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0151": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-6-303",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0152": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-6-303",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0153": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-6-304",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0154": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-6-304.1",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0155": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-6-305",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0156": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-6-305",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0157": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-6-305",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0158": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-6-305.1",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0159": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-6-401",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0160": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-6-501",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0161": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-6-506",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0162": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-6-507",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0163": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-6-507",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0164": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-6-508.1",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0165": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-6-511",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0166": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-6-512",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0167": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-6-515",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0168": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-6-526",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0169": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-6-527",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0170": {
+      "status": "retrieved",
+      "sectionKey": "0015-0335-14",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0171": {
+      "status": "retrieved",
+      "sectionKey": "0015-0335-14A",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0172": {
+      "status": "retrieved",
+      "sectionKey": "0015-0335-14B",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0173": {
+      "status": "retrieved",
+      "sectionKey": "0015-0335-14C",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0174": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-7-402",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0175": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-7-403",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0176": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-7-603",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0177": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-8-115",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0178": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-203",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0179": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-204",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0180": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-204.1",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0181": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-305",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0182": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-305",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0183": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-306",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0184": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-307",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0185": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-308",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0186": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-309",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0187": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-310",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0188": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-311",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0189": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-312",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0190": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-313",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0191": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-401",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0192": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-401",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0193": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-402",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0194": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-403",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0195": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-404",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0196": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-407",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0197": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-409",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0198": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-501",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0199": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-501",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0200": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-501",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0201": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-501",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0202": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-501",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0203": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-501",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0204": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-501",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0205": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-502",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0206": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-502",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0207": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-502.1",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0208": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-502.1",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0209": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-502.1",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0210": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-503",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0211": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-503",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0212": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-505",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0213": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-506",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0214": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-507",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0215": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-601",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0216": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-601",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0217": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-601",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0218": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-601.5",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0219": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-601.5",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0220": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-605",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0221": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-605.1",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0222": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-605.3",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0223": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-606",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0224": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-611",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0225": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-701",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0226": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-702",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0227": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-703",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0228": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-703",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0229": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-703",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0230": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-703",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0231": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-704",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0232": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-704",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0233": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-704",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0234": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-705",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0235": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-706",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0236": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-707",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0237": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-708",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0238": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-709",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0239": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-709.1",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0240": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-710",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0241": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-711",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0242": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-801",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0243": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-802",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0244": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-803",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0245": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-804",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0246": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-804",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0247": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-901",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0248": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-902",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0249": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-903",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0250": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-904",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0251": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-905",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0252": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-906",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0253": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-907",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0254": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-907",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0255": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-907.5",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0256": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-908",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0257": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-908",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0258": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-1002",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0259": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-1002.5",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0260": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-1003",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0261": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-1004",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0262": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-1006",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0263": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-1007",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0264": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-1010",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0265": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-1011",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0266": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-1104",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0267": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-1201",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0268": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-1202",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0269": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-1203",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0270": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-1204",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0271": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-1204",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0272": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-1205",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0273": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-1301",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0274": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-1301.3",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0275": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-1301.3",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0276": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-1301.3",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0277": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-1301.5",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0278": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-1301.5",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0279": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-1301.6",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0280": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-1301.8",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0281": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-1303",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0282": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-1304",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0283": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-1304.5",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0284": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-1401",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0285": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-1402",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0286": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-1403",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0287": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-1403",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0288": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-1403",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0289": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-1403.1",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0290": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-1403.2",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0291": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-1403.2",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0292": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-1404",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0293": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-1405",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0294": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-1406",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0295": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-1407",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0296": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-1408",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0297": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-1410",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0298": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-1411",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0299": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-1412",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0300": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-1412.1",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0301": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-1412.2",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0302": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-1413",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0303": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-1414",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0304": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-1414",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0305": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-1416",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0306": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-1418",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0307": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-1419.01",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0308": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-1419.02",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0309": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-1419.03",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0310": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-1419.04",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0311": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-1420",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0312": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-1421",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0313": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-1425",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0314": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-1425",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0315": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-1426.1",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0316": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-1427",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0317": {
+      "status": "repealed",
+      "sectionKey": "0625-0005-11-1428",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0318": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-1429",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0319": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-1431",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0320": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-1432",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0321": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-1501",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0322": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-1502",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0323": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-1503",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0324": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-1504",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0325": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-1505",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0326": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-1506",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0327": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-1507",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0328": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-1507.1",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0329": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-1508",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0330": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-1509",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0331": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-1510",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0332": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-11-1511",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0333": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-12-101",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0334": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-12-201",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0335": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-12-201",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0336": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-12-201",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0337": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-12-201",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0338": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-12-201",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0339": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-12-202",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0340": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-12-203",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0341": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-12-204",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0342": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-12-205.1",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0343": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-12-207",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0344": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-12-207",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0345": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-12-208",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0346": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-12-209",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0347": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-12-210",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0348": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-12-211",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0349": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-12-212",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0350": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-12-214",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0351": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-12-215",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0352": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-12-215",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0353": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-12-215",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0354": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-12-215",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0355": {
+      "status": "subsection-not-found",
+      "sectionKey": "0625-0005-12-215",
+      "subsectionResolved": false,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0356": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-12-215.1",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0357": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-12-301",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0358": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-12-401",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0359": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-12-402",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0360": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-12-403",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0361": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-12-404",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0362": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-12-404",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0363": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-12-404",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0364": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-12-405",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0365": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-12-405",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0366": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-12-405",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0367": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-12-405",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0368": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-12-501",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0369": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-12-502",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0370": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-12-503",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0371": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-12-503",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0372": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-12-503",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0373": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-12-503",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0374": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-12-503",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0375": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-12-503",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0376": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-12-503",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0377": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-12-503",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0378": {
+      "status": "subsection-not-found",
+      "sectionKey": "0625-0005-12-602",
+      "subsectionResolved": false,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0379": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-12-601",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0380": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-12-601.1",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0381": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-12-601.1",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0382": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-12-602",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0383": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-12-602.1",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0384": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-12-603",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0385": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-12-603",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0386": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-12-603.1",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0387": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-12-603.1",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0388": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-12-604.1",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0389": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-12-605",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0390": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-12-605.2",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0391": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-12-606",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0392": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-12-607",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0393": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-12-607.1",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0394": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-12-608",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0395": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-12-608",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0396": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-12-609",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0397": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-12-610",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0398": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-12-610.1",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0399": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-12-610.1",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0400": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-12-610.2",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0401": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-12-611",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0402": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-12-612",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0403": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-12-701",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0404": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-12-702",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0405": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-12-702",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0406": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-12-703",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0407": {
+      "status": "repealed",
+      "sectionKey": "0625-0005-12-704",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0408": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-12-704.3",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0409": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-12-706",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0410": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-12-707",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0411": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-12-708",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0412": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-12-709",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0413": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-12-710",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0414": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-12-712",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0415": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-12-713",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0416": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-12-714",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0417": {
+      "status": "repealed",
+      "sectionKey": "0625-0005-12-715",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0418": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-12-804",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0419": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-12-806",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0420": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-12-807",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0421": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-12-807.1",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0422": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-12-807.2",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0423": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-12-808",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0424": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-12-809",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0425": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-12-810",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0426": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-12-811",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0427": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-12-813.1",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0428": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-12-813.1",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0429": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-13-104",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0430": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-13-111",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0431": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-15-102",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0432": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-15-103",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0433": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-15-105",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0434": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-15-106",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0435": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-15-107",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0436": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-15-107",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0437": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-15-108",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0438": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-15-109",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0439": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-15-109.1",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0440": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-15-110",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0441": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-15-111",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0442": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-15-111",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0443": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-15-111",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0444": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-15-112",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0445": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-15-112",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0446": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-15-112",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0447": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-15-112",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0448": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-15-112",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0449": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-15-112",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0450": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-15-114",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0451": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-15-301",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0452": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-15-301",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0453": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-15-301",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0454": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-15-317",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0455": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-16-202",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0456": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-18c-1701",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0457": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-18c-4104",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0458": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-18c-4104",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0459": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-18c-4104",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0460": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-18c-4104",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0461": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-18c-4104",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0462": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-18c-4104",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0463": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-18c-4104",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0464": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-18c-4104",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0465": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-18c-4104",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0466": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-18c-4104",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0467": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-18c-4104",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0468": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-18c-4104",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0469": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-18c-4104",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0470": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-18c-4104",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0471": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-18c-4104",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0472": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-18c-4104",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0473": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-18c-4104",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0474": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-18c-4701",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0475": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-18c-5101",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0476": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-18c-7402",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0477": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-18c-7502",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0478": {
+      "status": "retrieved",
+      "sectionKey": "0625-0005-18c-7503",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0479": {
+      "status": "retrieved",
+      "sectionKey": "0625-0025-4",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0480": {
+      "status": "retrieved",
+      "sectionKey": "0625-0025-4a",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0481": {
+      "status": "retrieved",
+      "sectionKey": "0625-0025-4b",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0482": {
+      "status": "retrieved",
+      "sectionKey": "0625-0040-2-2",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0483": {
+      "status": "retrieved",
+      "sectionKey": "0625-0040-2-4",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0484": {
+      "status": "retrieved",
+      "sectionKey": "0625-0040-3-10",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0485": {
+      "status": "retrieved",
+      "sectionKey": "0625-0040-4-1",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0486": {
+      "status": "retrieved",
+      "sectionKey": "0625-0040-5-1",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0487": {
+      "status": "retrieved",
+      "sectionKey": "0625-0040-5-1",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0488": {
+      "status": "retrieved",
+      "sectionKey": "0625-0040-5-1",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0489": {
+      "status": "retrieved",
+      "sectionKey": "0625-0040-5-1",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0490": {
+      "status": "retrieved",
+      "sectionKey": "0625-0040-5-1",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0491": {
+      "status": "retrieved",
+      "sectionKey": "0625-0040-5-1",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0492": {
+      "status": "retrieved",
+      "sectionKey": "0625-0040-5-1",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0493": {
+      "status": "retrieved",
+      "sectionKey": "0625-0040-5-1",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0494": {
+      "status": "retrieved",
+      "sectionKey": "0625-0040-5-1",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0495": {
+      "status": "retrieved",
+      "sectionKey": "0625-0040-5-1",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0496": {
+      "status": "retrieved",
+      "sectionKey": "0625-0040-5-2",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0497": {
+      "status": "retrieved",
+      "sectionKey": "0625-0040-5-3",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0498": {
+      "status": "retrieved",
+      "sectionKey": "0625-0040-5-7",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0499": {
+      "status": "retrieved",
+      "sectionKey": "0625-0040-5-7",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0500": {
+      "status": "retrieved",
+      "sectionKey": "0625-0040-5-7",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0501": {
+      "status": "retrieved",
+      "sectionKey": "0625-0040-5-7",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0502": {
+      "status": "retrieved",
+      "sectionKey": "0625-0040-5-7",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0503": {
+      "status": "retrieved",
+      "sectionKey": "0625-0040-5-7",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0504": {
+      "status": "retrieved",
+      "sectionKey": "0625-0040-5-7",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0505": {
+      "status": "retrieved",
+      "sectionKey": "0625-0040-5-7",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0506": {
+      "status": "retrieved",
+      "sectionKey": "0625-0040-10-3",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0507": {
+      "status": "retrieved",
+      "sectionKey": "0625-0045-2-4",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0508": {
+      "status": "retrieved",
+      "sectionKey": "0625-0045-5-1",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0509": {
+      "status": "retrieved",
+      "sectionKey": "0625-0045-5-2",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0510": {
+      "status": "retrieved",
+      "sectionKey": "0625-0045-5-16",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0511": {
+      "status": "retrieved",
+      "sectionKey": "0625-0045-5-20",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0512": {
+      "status": "retrieved",
+      "sectionKey": "0625-0045-11A-5",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0513": {
+      "status": "retrieved",
+      "sectionKey": "0430-0030-12",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0514": {
+      "status": "retrieved",
+      "sectionKey": "0005-0465-5",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0515": {
+      "status": "unresolved"
+    },
+    "offense-0516": {
+      "status": "retrieved",
+      "sectionKey": "0020-2615-12",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0517": {
+      "status": "retrieved",
+      "sectionKey": "0035-0135-25a",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0518": {
+      "status": "retrieved",
+      "sectionKey": "0035-0135-28",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0519": {
+      "status": "retrieved",
+      "sectionKey": "0035-0135-29",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0520": {
+      "status": "retrieved",
+      "sectionKey": "0035-0135-30",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0521": {
+      "status": "retrieved",
+      "sectionKey": "0035-0135-34",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0522": {
+      "status": "retrieved",
+      "sectionKey": "0235-0005-6-16",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0523": {
+      "status": "retrieved",
+      "sectionKey": "0235-0005-6-16",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0524": {
+      "status": "retrieved",
+      "sectionKey": "0235-0005-6-16",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0525": {
+      "status": "retrieved",
+      "sectionKey": "0235-0005-6-16",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0526": {
+      "status": "retrieved",
+      "sectionKey": "0235-0005-6-16",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0527": {
+      "status": "retrieved",
+      "sectionKey": "0235-0005-6-16",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0528": {
+      "status": "retrieved",
+      "sectionKey": "0235-0005-6-16",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0529": {
+      "status": "retrieved",
+      "sectionKey": "0235-0005-6-16",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0530": {
+      "status": "retrieved",
+      "sectionKey": "0235-0005-6-20",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0531": {
+      "status": "retrieved",
+      "sectionKey": "0235-0005-10-1",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0532": {
+      "status": "retrieved",
+      "sectionKey": "0235-0005-10-1",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0533": {
+      "status": "retrieved",
+      "sectionKey": "0415-0105-8",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0534": {
+      "status": "retrieved",
+      "sectionKey": "0425-0035-2",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0535": {
+      "status": "retrieved",
+      "sectionKey": "0425-0035-5",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0536": {
+      "status": "retrieved",
+      "sectionKey": "0430-0150-1",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0537": {
+      "status": "retrieved",
+      "sectionKey": "0510-0055-1",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0538": {
+      "status": "retrieved",
+      "sectionKey": "0520-0005-2.18",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0539": {
+      "status": "retrieved",
+      "sectionKey": "0520-0005-2.24",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0540": {
+      "status": "retrieved",
+      "sectionKey": "0520-0005-2.33",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0541": {
+      "status": "retrieved",
+      "sectionKey": "0520-0005-3.1",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0542": {
+      "status": "retrieved",
+      "sectionKey": "0605-0005-9-112.1",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0543": {
+      "status": "retrieved",
+      "sectionKey": "0605-0005-9-112.2",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0544": {
+      "status": "retrieved",
+      "sectionKey": "0605-0005-9-117",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0545": {
+      "status": "retrieved",
+      "sectionKey": "0605-0005-9-121",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0546": {
+      "status": "retrieved",
+      "sectionKey": "0605-0005-9-124",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0547": {
+      "status": "retrieved",
+      "sectionKey": "0605-0005-9-128",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0548": {
+      "status": "retrieved",
+      "sectionKey": "0605-0005-9-130",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0549": {
+      "status": "retrieved",
+      "sectionKey": "0620-0005-43D",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0550": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-9-1",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0551": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-9-1.2",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0552": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-9-2",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0553": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-9-2.1",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0554": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-9-3",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0555": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-9-3.2",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0556": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-9-3.3",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0557": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-9-3.4",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0558": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-9-3.5",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0559": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-10-1",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0560": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-10-2",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0561": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-10-3",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0562": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-10-3.1",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0563": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-10-4",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0564": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-10-5",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0565": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-10-5.1",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0566": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-10-5.5",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0567": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-10-6",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0568": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-10-7",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0569": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-10-8",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0570": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-10-9",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0571": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-10-10",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0572": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-11-1.20",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0573": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-11-1.30",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0574": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-11-1.40",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0575": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-11-1.50",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0576": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-11-1.60",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0577": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-11-6",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0578": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-11-6.5",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0579": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-11-6.6",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0580": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-11-9.1",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0581": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-11-9.1A",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0582": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-11-9.1B",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0583": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-11-9.2",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0584": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-11-9.3",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0585": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-11-9.4-1",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0586": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-11-9.5",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0587": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-11-11",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0588": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-11-14",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0589": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-11-14.1",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0590": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-11-14.3",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0591": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-11-14.4",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0592": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-11-18",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0593": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-11-18.1",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0594": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-11-20",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0595": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-11-20.1",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0596": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-11-21",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0597": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-11-22",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0598": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-11-23",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0599": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-11-24",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0600": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-11-25",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0601": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-11-26",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0602": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-11-30",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0603": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-11-35",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0604": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-11-40",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0605": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-11-45",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0606": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-11-45",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0607": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-12-1",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0608": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-12-2",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0609": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-12-3",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0610": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-12-3.05",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0611": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-12-3.05",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0612": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-12-3.05",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0613": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-12-3.05",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0614": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-12-3.05",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0615": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-12-3.05",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0616": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-12-3.1",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0617": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-12-3.1",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0618": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-12-3.2",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0619": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-12-3.3",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0620": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-12-3.4",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0621": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-12-3.5",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0622": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-12-3.6",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0623": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-12-4.4a",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0624": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-12-4.5",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0625": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-12-5",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0626": {
+      "status": "repealed",
+      "sectionKey": "0720-0005-12-5.01",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0627": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-12-5.02",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0628": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-12-5.1",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0629": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-12-5.1",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0630": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-12-5.3",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0631": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-12-5.5",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0632": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-12-6",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0633": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-12-6.2",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0634": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-12-6.4",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0635": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-12-6.5",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0636": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-12-7",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0637": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-12-7.1",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0638": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-12-7.2",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0639": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-12-7.3",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0640": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-12-7.4",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0641": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-12-7.5",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0642": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-12-7.6",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0643": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-12-9",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0644": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-12-10.2",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0645": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-12-10.3",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0646": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-12-20.5",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0647": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-12-20.6",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0648": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-12-21.6-5",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0649": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-12-32",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0650": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-12-33",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0651": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-12-34",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0652": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-12-34.5",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0653": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-12-36",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0654": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-12C-5",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0655": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-12C-10",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0656": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-12C-20",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0657": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-12C-25",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0658": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-12C-30",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0659": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-12C-35",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0660": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-12C-40",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0661": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-12C-45",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0662": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-12C-50",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0663": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-12C-50.1",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0664": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-12C-60",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0665": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-12C-65",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0666": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-14-2",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0667": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-16-1",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0668": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-16-2",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0669": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-16-3",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0670": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-16-5",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0671": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-16-6",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0672": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-16-7",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0673": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-16-14",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0674": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-16-17",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0675": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-16-18",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0676": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-16-25",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0677": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-16-28",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0678": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-16-30",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0679": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-16-31",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0680": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-16-32",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0681": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-16-40",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0682": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-16-40",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0683": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-16-40",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0684": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-16-40",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0685": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-17-1",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0686": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-17-2",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0687": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-17-2",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0688": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-17-2",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0689": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-17-2",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0690": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-17-2",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0691": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-17-2",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0692": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-17-2",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0693": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-17-2",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0694": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-17-2",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0695": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-17-2",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0696": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-17-2",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0697": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-17-2",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0698": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-17-3",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0699": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-17-5",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0700": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-17-5.7",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0701": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-17-6",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0702": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-17-6.3",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0703": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-17-6.3",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0704": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-17-6.5",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0705": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-17-8.3",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0706": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-17-8.5",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0707": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-17-9",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0708": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-17-10.3",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0709": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-17-10.5",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0710": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-17-10.5",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0711": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-17-10.5",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0712": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-17-10.5",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0713": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-17-10.5",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0714": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-17-11",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0715": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-17-11",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0716": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-17-11.2",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0717": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-17-11.5",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0718": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-17-13",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0719": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-17-13",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0720": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-17-17",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0721": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-17-20",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0722": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-17-21",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0723": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-17-24",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0724": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-17-26",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0725": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-17-27",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0726": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-17-30",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0727": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-17-30",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0728": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-17-31",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0729": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-17-32",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0730": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-17-33",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0731": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-17-34",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0732": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-17-35",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0733": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-17-36",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0734": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-17-39",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0735": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-17-45",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0736": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-17-50",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0737": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-17-51",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0738": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-17-52",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0739": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-17-56",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0740": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-17-57",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0741": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-17-58",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0742": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-17-59",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0743": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-17-60",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0744": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-17-62",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0745": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-18-1",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0746": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-18-2",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0747": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-18-3",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0748": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-18-4",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0749": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-18-6",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0750": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-19-1",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0751": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-19-2",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0752": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-19-2.5",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0753": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-19-3",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0754": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-19-4",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0755": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-19-5",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0756": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-19-6",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0757": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-20-1",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0758": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-20-1.1",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0759": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-20-2",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0760": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-21-1",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0761": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-21-1",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0762": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-21-1.01",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0763": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-21-1.2",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0764": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-21-1.3",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0765": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-21-1.4",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0766": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-21-2",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0767": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-21-2.5",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0768": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-21-3",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0769": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-21-5",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0770": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-21-5.5",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0771": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-21-6",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0772": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-21-7",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0773": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-21-8",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0774": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-21-9",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0775": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-21-10",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0776": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-21-11",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0777": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-21.1-2",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0778": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-21.2-2",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0779": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-24-1",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0780": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-24-1.1",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0781": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-24-1.2",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0782": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-24-1.5",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0783": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-24-1.8",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0784": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-24-2.1",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0785": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-24-2.2",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0786": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-24-3",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0787": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-24-3A",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0788": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-24-3.1",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0789": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-24-3.2",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0790": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-24-3.3",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0791": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-24-3.5",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0792": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-24-3.6",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0793": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-24-3.7",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0794": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-24-3.8",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0795": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-24-4",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0796": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-24-4.1",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0797": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-24-5",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0798": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-24-9",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0799": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-24.5-5",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0800": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-24.5-10",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0801": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-24.8-1",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0802": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-24.8-2",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0803": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-25-1",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0804": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-25-4",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0805": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-25-5",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0806": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-26-1",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0807": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-26-1",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0808": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-26-1",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0809": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-26-1",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0810": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-26-1",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0811": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-26-1",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0812": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-26-1",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0813": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-26-1",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0814": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-26-1",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0815": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-26-1",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0816": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-26-1",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0817": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-26-1",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0818": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-26-2",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0819": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-26-3",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0820": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-26-4",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0821": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-26-6",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0822": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-26-7",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0823": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-26.5-1",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0824": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-26.5-2",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0825": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-26.5-3",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0826": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-28-1",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0827": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-28-1.1",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0828": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-28-3",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0829": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-28-4",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0830": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-29-1",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0831": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-29-2",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0832": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-29-3",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0833": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-29A-1",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0834": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-29A-2",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0835": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-29B-1",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0836": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-29D-14.9",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0837": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-29D-15.1",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0838": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-29D-15.2",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0839": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-29D-20",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0840": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-29D-25",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0841": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-29D-29.9",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0842": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-29D-35",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0843": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-30-1",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0844": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-30-2",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0845": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-30-3",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0846": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-31-1",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0847": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-31-1a",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0848": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-31-3",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0849": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-31-4",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0850": {
+      "status": "subsection-not-found",
+      "sectionKey": "0720-0005-31-4",
+      "subsectionResolved": false,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0851": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-31-4.5",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0852": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-31-5",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0853": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-31-6",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0854": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-31-6",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0855": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-31-6",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0856": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-31-6",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0857": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-31-6",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0858": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-31-7",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0859": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-31-8",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0860": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-31A-1.1",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0861": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-31A-1.2",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0862": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-32-1",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0863": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-32-2",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0864": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-32-3",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0865": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-32-4",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0866": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-32-4a",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0867": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-32-4c",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0868": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-32-6",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0869": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-32-7",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0870": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-32-8",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0871": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-32-9",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0872": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-32-10",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0873": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-32-11",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0874": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-32-13",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0875": {
+      "status": "repealed",
+      "sectionKey": "0720-0005-32-15",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0876": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-33-1",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0877": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-33-2",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0878": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-33-3",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0879": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-33-4",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0880": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-33-5",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0881": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-33-6",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0882": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-33-8",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0883": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-33A-2",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0884": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-33E-3",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0885": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-33E-4",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0886": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-33E-5",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0887": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-33E-6",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0888": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-33E-7",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0889": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-33E-8",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0890": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-33E-14",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0891": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-33E-15",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0892": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-33E-16",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0893": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-33E-17",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0894": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-33E-18",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0895": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-33F-2",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0896": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-47-5",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0897": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-47-10",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0898": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-47-15",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0899": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-47-20",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0900": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-48-1",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0901": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-48-2",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0902": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-48-3",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0903": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-48-7",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0904": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-48-8",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0905": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-48-10",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0906": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-49-1",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0907": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-49-1.5",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0908": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-49-5",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0909": {
+      "status": "retrieved",
+      "sectionKey": "0720-0005-49-6",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0910": {
+      "status": "retrieved",
+      "sectionKey": "0720-0550-4",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0911": {
+      "status": "retrieved",
+      "sectionKey": "0720-0550-4",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0912": {
+      "status": "retrieved",
+      "sectionKey": "0720-0550-4",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0913": {
+      "status": "retrieved",
+      "sectionKey": "0720-0550-4",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0914": {
+      "status": "retrieved",
+      "sectionKey": "0720-0550-4",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0915": {
+      "status": "retrieved",
+      "sectionKey": "0720-0550-4",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0916": {
+      "status": "retrieved",
+      "sectionKey": "0720-0550-4",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0917": {
+      "status": "retrieved",
+      "sectionKey": "0720-0550-5",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0918": {
+      "status": "retrieved",
+      "sectionKey": "0720-0550-5",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0919": {
+      "status": "retrieved",
+      "sectionKey": "0720-0550-5",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0920": {
+      "status": "retrieved",
+      "sectionKey": "0720-0550-5",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0921": {
+      "status": "retrieved",
+      "sectionKey": "0720-0550-5",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0922": {
+      "status": "retrieved",
+      "sectionKey": "0720-0550-4",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0923": {
+      "status": "retrieved",
+      "sectionKey": "0720-0550-4",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0924": {
+      "status": "retrieved",
+      "sectionKey": "0720-0550-5.1",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0925": {
+      "status": "retrieved",
+      "sectionKey": "0720-0550-5.2",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0926": {
+      "status": "retrieved",
+      "sectionKey": "0720-0550-8",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0927": {
+      "status": "retrieved",
+      "sectionKey": "0720-0550-9",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0928": {
+      "status": "retrieved",
+      "sectionKey": "0720-0570-401",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0929": {
+      "status": "retrieved",
+      "sectionKey": "0720-0570-401.1",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0930": {
+      "status": "retrieved",
+      "sectionKey": "0720-0570-401.5",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0931": {
+      "status": "retrieved",
+      "sectionKey": "0720-0570-402",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0932": {
+      "status": "retrieved",
+      "sectionKey": "0720-0570-404",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0933": {
+      "status": "retrieved",
+      "sectionKey": "0720-0570-405",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0934": {
+      "status": "retrieved",
+      "sectionKey": "0720-0570-405.2",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0935": {
+      "status": "retrieved",
+      "sectionKey": "0720-0570-406",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0936": {
+      "status": "retrieved",
+      "sectionKey": "0720-0570-407",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0937": {
+      "status": "retrieved",
+      "sectionKey": "0720-0570-407.1",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0938": {
+      "status": "retrieved",
+      "sectionKey": "0720-0570-407.2",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0939": {
+      "status": "retrieved",
+      "sectionKey": "0720-0600-3",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0940": {
+      "status": "retrieved",
+      "sectionKey": "0720-0600-3.5",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0941": {
+      "status": "retrieved",
+      "sectionKey": "0720-0635-1",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0942": {
+      "status": "retrieved",
+      "sectionKey": "0720-0635-2",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0943": {
+      "status": "retrieved",
+      "sectionKey": "0720-0648-20",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0944": {
+      "status": "retrieved",
+      "sectionKey": "0720-0670-1",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0945": {
+      "status": "repealed",
+      "sectionKey": "0720-0675-1.5",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0946": {
+      "status": "retrieved",
+      "sectionKey": "0720-0685-4",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0947": {
+      "status": "retrieved",
+      "sectionKey": "0720-0685-4",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0948": {
+      "status": "retrieved",
+      "sectionKey": "0720-0685-4",
+      "subsectionResolved": true,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0949": {
+      "status": "unresolved"
+    },
+    "offense-0950": {
+      "status": "retrieved",
+      "sectionKey": "0720-0690-1",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0951": {
+      "status": "retrieved",
+      "sectionKey": "0720-0690-2",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0952": {
+      "status": "retrieved",
+      "sectionKey": "0810-0005-9-315.01",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    },
+    "offense-0953": {
+      "status": "retrieved",
+      "sectionKey": "0810-0005-9-315.02",
+      "subsectionResolved": null,
+      "changedSincePreviousSweep": false
+    }
+  }
+}

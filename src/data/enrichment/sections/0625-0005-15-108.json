@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-15-108",
+  "citation": "625 ILCS 5/15-108",
+  "docName": "062500050K15-108",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K15-108",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:19:38.893Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/15-108",
+  "headingText": "Sec. 15-108. Planking edge of a pavement. No tractor, traction engine or other metal tired vehicle, weighing more than 4 tons, including the weight of the vehicle and its load, shall drive up onto, off or over the edge of any paved public highway in this State, without protecting such edge by putting down solid planks or other suitable device to prevent such vehicle from breaking off the edges or corners of such pavement.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/15-108) (from Ch. 95 1/2, par. 15-108)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 15-108. Planking edge of a pavement. No tractor, traction engine or other metal tired vehicle, weighing more than 4 tons, including the weight of the vehicle and its load, shall drive up onto, off or over the edge of any paved public highway in this State, without protecting such edge by putting down solid planks or other suitable device to prevent such vehicle from breaking off the edges or corners of such pavement."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 90-655, eff. 7-30-98.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 90-655, eff. 7-30-98.)",
+  "publicActs": [
+    {
+      "publicAct": "90-655",
+      "effectiveDate": "7-30-98"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "c5cbb3dab597bbe4a640cc073bb01fdc176780a4b2ff7fb5988e5ac8a08092a4",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0437"
+  ]
+}

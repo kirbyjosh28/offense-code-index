@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-24-3A",
+  "citation": "720 ILCS 5/24-3A",
+  "docName": "072000050K24-3A",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K24-3A",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:28:06.458Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/24-3A",
+  "headingText": "Sec. 24-3A. Gunrunning.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/24-3A)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 24-3A. Gunrunning."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits gunrunning when he or she transfers 3 or more firearms in violation of any of the paragraphs of Section 24-3 of this Code."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Sentence. A person who commits gunrunning:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) is guilty of a Class 1 felony;"
+    },
+    {
+      "type": "subsection",
+      "label": "(2)",
+      "text": "(2) is guilty of a Class X felony for which the sentence shall be a term of imprisonment of not less than 8 years and not more than 40 years if the transfer is of not less than 11 firearms and not more than 20 firearms; (3) is guilty of a Class X felony for which the sentence shall be a term of imprisonment of not less than 10 years and not more than 50 years if the transfer is of more than 20 firearms.A person who commits gunrunning by transferring firearms to a person who, at the time of the commission of the offense, is under 18 years of age is guilty of a Class X felony."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 93-906, eff. 8-11-04.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 93-906, eff. 8-11-04.)",
+  "publicActs": [
+    {
+      "publicAct": "93-906",
+      "effectiveDate": "8-11-04"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "55f028d9a199871fc088e147a9db5081302ec83763ef28a6de7b58ff55772959",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0787"
+  ]
+}

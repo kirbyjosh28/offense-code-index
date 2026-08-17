@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-17-3",
+  "citation": "720 ILCS 5/17-3",
+  "docName": "072000050K17-3",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K17-3",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:26:12.348Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/17-3",
+  "headingText": "Sec. 17-3. Forgery.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/17-3) (from Ch. 38, par. 17-3)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 17-3. Forgery."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits forgery when, with intent to defraud, he or she knowingly:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) makes a false document or alters any document to make it false and that document is apparently capable of defrauding another; or (2) issues or delivers such document knowing it to have been thus made or altered; or (3) possesses, with intent to issue or deliver, any such document knowing it to have been thus made or altered; or (4) unlawfully uses the digital signature, as defined in the Financial Institutions Electronic Documents and Digital Signature Act, of another; or (5) unlawfully creates an electronic signature of another person, as that term is defined in the Uniform Electronic Transactions Act. (b) (Blank)."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) A document apparently capable of defrauding another includes, but is not limited to, one by which any right, obligation or power with reference to any person or property may be created, transferred, altered or terminated. A document includes any record or electronic record as those terms are defined in the Electronic Commerce Security Act. For purposes of this Section, a document also includes a Universal Price Code Label or coin."
+    },
+    {
+      "type": "paragraph",
+      "text": "(c-5) For purposes of this Section, \"false document\" or \"document that is false\" includes, but is not limited to, a document whose contents are false in some material way, or that purports to have been made by another or at another time, or with different provisions, or by authority of one who did not give such authority."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) Sentence."
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) Except as provided in paragraphs (2) and (3), forgery is a Class 3 felony. (2) Forgery is a Class 4 felony when only one Universal Price Code Label is forged. (3) Forgery is a Class A misdemeanor when an academic degree or coin is forged. (e) It is not a violation of this Section if a false academic degree explicitly states \"for novelty purposes only\"."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 102-38, eff. 6-25-21.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 102-38, eff. 6-25-21.)",
+  "publicActs": [
+    {
+      "publicAct": "102-38",
+      "effectiveDate": "6-25-21"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "2ca2d7b63e217dd1a14f28b66953dc88998e79b33def2bd53a74cd2d249d0d7d",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0698"
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-6-301",
+  "citation": "625 ILCS 5/6-301",
+  "docName": "062500050K6-301",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K6-301",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:21:43.531Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/6-301",
+  "headingText": "Sec. 6-301. Unlawful use of license or permit.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/6-301) (from Ch. 95 1/2, par. 6-301)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 6-301. Unlawful use of license or permit."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) It is a violation of this Section for any person:"
+    },
+    {
+      "type": "paragraph",
+      "text": "1. To display or cause to be displayed or have in his possession any cancelled, revoked or suspended license or permit; 2. To lend his license or permit to any other person or knowingly allow the use thereof by another; 3. To display or represent as his own any license or permit issued to another; 4. To fail or refuse to surrender to the Secretary of State or his agent or any peace officer upon his lawful demand, any license or permit, which has been suspended, revoked, or cancelled; 5. To allow any unlawful use of a license or permit issued to him; 6. To submit to an examination or to obtain the services of another person to submit to an examination for the purpose of obtaining a drivers license or permit for some other person. For purposes of this subsection, \"submit to an examination\" includes providing answers to the person taking the examination, whether those answers are provided in-person or remotely, via any electronic device, including, but not limited to, microphones and cell phones. (b) Sentence."
+    },
+    {
+      "type": "paragraph",
+      "text": "1. Any person convicted of a violation of this Section shall be guilty of a Class A misdemeanor and shall be sentenced to a minimum fine of $500 or 50 hours of community service, preferably at an alcohol abuse prevention program, if available. 2. Any person convicted of a second or subsequent violation of this Section shall be guilty of a Class 4 felony. 3. In addition to any other sentence imposed under paragraph 1 or 2 of this subsection (b), a person convicted of a violation of paragraph 6 of subsection (a) shall be imprisoned for not less than 7 days. (c) This Section does not prohibit any lawfully authorized investigative, protective, law enforcement or other activity of any agency of the United States, State of Illinois or any other state or political subdivision thereof."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) This Section does not apply to licenses and permits invalidated under Section 6-301.3 of this Code."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 104-260, eff. 8-15-25.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 104-260, eff. 8-15-25.)",
+  "publicActs": [
+    {
+      "publicAct": "104-260",
+      "effectiveDate": "8-15-25"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "9279b14632a00cf0d07ea5bf477461faabbd8bfb8745007843f2b493460c9890",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0138"
+  ]
+}

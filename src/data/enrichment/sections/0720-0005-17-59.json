@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-17-59",
+  "citation": "720 ILCS 5/17-59",
+  "docName": "072000050K17-59",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K17-59",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:26:39.369Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/17-59",
+  "headingText": "Sec. 17-59. Criminal usury.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/17-59) (was 720 ILCS 5/39-1)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 17-59. Criminal usury."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits criminal usury when, in exchange for either a loan of money or other property or forbearance from the collection of such a loan, he or she knowingly contracts for or receives from an individual, directly or indirectly, interest, discount, or other consideration at a rate greater than 20% per annum either before or after the maturity of the loan."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) When a person has in his or her personal or constructive possession records, memoranda, or other documentary record of usurious loans, the trier of fact may infer that he or she has violated subsection (a) of this Section."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Sentence. Criminal usury is a Class 4 felony."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) Non-application to licensed persons. This Section does not apply to any loan authorized to be made by any person licensed under the Consumer Installment Loan Act or to any loan permitted by Sections 4, 4.2 and 4a of the Interest Act or by any other law of this State."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 96-1551, eff. 7-1-11.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 96-1551, eff. 7-1-11.)",
+  "publicActs": [
+    {
+      "publicAct": "96-1551",
+      "effectiveDate": "7-1-11"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "645aeda96fc4945128839ecdd5b7bdc340c8f46d621c9b68e50aecba0df6bbcd",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0742"
+  ]
+}

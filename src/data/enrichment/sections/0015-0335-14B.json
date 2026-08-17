@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0015-0335-14B",
+  "citation": "15 ILCS 335/14B",
+  "docName": "001503350K14B",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=001503350K14B",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:13:48.696Z",
+  "transport": "cache",
+  "canonicalCitation": "15 ILCS 335/14B",
+  "headingText": "Sec. 14B. Fraudulent identification card.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(15 ILCS 335/14B) (from Ch. 124, par. 34B)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 14B. Fraudulent identification card."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) (Blank)."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) It is a violation of this Section for any person:"
+    },
+    {
+      "type": "paragraph",
+      "text": "1. To knowingly possess, display, or cause to be displayed any fraudulent identification card; 2. To knowingly possess, display or cause to be displayed any fraudulent identification card for the purpose of obtaining any account, credit, credit card or debit card from a bank, financial institution or retail mercantile establishment; 3. To knowingly possess any fraudulent identification card with the intent to commit a theft, deception or credit or debit card fraud in violation of any law of this State or any law of any other jurisdiction; 4. To knowingly possess any fraudulent identification card with the intent to commit any other violation of any law of this State or any law of any other jurisdiction for which a sentence to a term of imprisonment in a penitentiary for one year or more is provided; 5. To knowingly possess any fraudulent identification card while in unauthorized possession of any document, instrument or device capable of defrauding another; 6. To knowingly possess any fraudulent identification card with the intent to use the identification card to acquire any other identification document; 7. To knowingly possess without authority any identification card making implement; 8. To knowingly possess any stolen identification card making implement; 9. To knowingly duplicate, manufacture, sell or transfer any fraudulent identification card; 10. To advertise or distribute any information or materials that promote the selling, giving, or furnishing of a fraudulent identification card. (c) Sentence."
+    },
+    {
+      "type": "paragraph",
+      "text": "1. Any person convicted of a violation of paragraph 1 of subsection (b) of this Section shall be guilty of a Class 4 felony and shall be sentenced to a minimum fine of $500 or 50 hours of community service, preferably at an alcohol abuse prevention program, if available. 2. Any person convicted of a violation of any of paragraphs 2 through 9 of subsection (b) of this Section shall be guilty of a Class 3 felony. A person convicted of a second or subsequent violation shall be guilty of a Class 2 felony. 3. Any person who violates paragraph 10 of subsection (b) of this Section is guilty of a Class A misdemeanor. (d) This Section does not prohibit any lawfully authorized investigative, protective, law enforcement or other activity of any agency of the United States, State of Illinois or any other state or political subdivision thereof."
+    },
+    {
+      "type": "subsection",
+      "label": "(e)",
+      "text": "(e) The Secretary of State may request the Attorney General to seek a restraining order in the circuit court against any person who violates paragraph 10 of subsection (b) of this Section by advertising fraudulent identification cards."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 93-895, eff. 1-1-05; 94-701, eff. 6-1-06.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 93-895, eff. 1-1-05; 94-701, eff. 6-1-06.)",
+  "publicActs": [
+    {
+      "publicAct": "93-895",
+      "effectiveDate": "1-1-05"
+    },
+    {
+      "publicAct": "94-701",
+      "effectiveDate": "6-1-06"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "72cd69501f16150b668a2b0a1410d11deb581f1128e6f68e048159f5b15c9c52",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0172"
+  ]
+}

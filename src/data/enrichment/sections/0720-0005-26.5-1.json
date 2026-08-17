@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-26.5-1",
+  "citation": "720 ILCS 5/26.5-1",
+  "docName": "072000050K26.5-1",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K26.5-1",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:28:33.483Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/26.5-1",
+  "headingText": "Sec. 26.5-1. Transmission of obscene messages.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/26.5-1)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 26.5-1. Transmission of obscene messages."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits transmission of obscene messages when he or she sends messages or uses language or terms which are obscene, lewd or immoral with the intent to offend by means of or while using a telephone or telegraph facilities, equipment or wires of any person, firm or corporation engaged in the transmission of news or messages between states or within the State of Illinois."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) The trier of fact may infer intent to offend from the use of language or terms which are obscene, lewd or immoral."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 97-1108, eff. 1-1-13.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 97-1108, eff. 1-1-13.)",
+  "publicActs": [
+    {
+      "publicAct": "97-1108",
+      "effectiveDate": "1-1-13"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "d9974563f285606d05ad542b8027297ee9492a593bce6338e6ba6f7a30f55724",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0823"
+  ]
+}

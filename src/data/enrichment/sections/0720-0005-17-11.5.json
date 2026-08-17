@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-17-11.5",
+  "citation": "720 ILCS 5/17-11.5",
+  "docName": "072000050K17-11.5",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K17-11.5",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:25:58.829Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/17-11.5",
+  "headingText": "Sec. 17-11.5. Tampering with a security, fire, or life safety system.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/17-11.5) (was 720 ILCS 5/16-22)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 17-11.5. Tampering with a security, fire, or life safety system."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits tampering with a security, fire, or life safety system when he or she knowingly damages, sabotages, destroys, or causes a permanent or temporary malfunction in any physical or electronic security, fire, or life safety system or any component part of any of those systems including, but not limited to, card readers, magnetic stripe readers, Wiegand card readers, smart card readers, proximity card readers, digital keypads, keypad access controls, digital locks, electromagnetic locks, electric strikes, electronic exit hardware, exit alarm systems, delayed egress systems, biometric access control equipment, intrusion detection systems and sensors, burglar alarm systems, wireless burglar alarms, silent alarms, duress alarms, hold-up alarms, glass break detectors, motion detectors, seismic detectors, glass shock sensors, magnetic contacts, closed circuit television (CCTV), security cameras, digital cameras, dome cameras, covert cameras, spy cameras, hidden cameras, wireless cameras, network cameras, IP addressable cameras, CCTV camera lenses, video cassette recorders, CCTV monitors, CCTV consoles, CCTV housings and enclosures, CCTV pan-and-tilt devices, CCTV transmission and signal equipment, wireless video transmitters, wireless video receivers, radio frequency (RF) or microwave components, or both, infrared illuminators, video motion detectors, video recorders, time lapse CCTV recorders, digital video recorders (DVRs), digital image storage systems, video converters, video distribution amplifiers, video time-date generators, multiplexers, switchers, splitters, fire alarms, smoke alarm systems, smoke detectors, flame detectors, fire detection systems and sensors, fire sprinklers, fire suppression systems, fire extinguishing systems, public address systems, intercoms, emergency telephones, emergency call boxes, emergency pull stations, telephone entry systems, video entry equipment, annunciators, sirens, lights, sounders, control panels and components, and all associated computer hardware, computer software, control panels, wires, cables, connectors, electromechanical components, electronic modules, fiber optics, filters, passive components, and power sources including batteries and back-up power supplies."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Sentence. A violation of this Section is a Class 4 felony."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 96-1551, eff. 7-1-11.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 96-1551, eff. 7-1-11.)",
+  "publicActs": [
+    {
+      "publicAct": "96-1551",
+      "effectiveDate": "7-1-11"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "e4106f259332c4dfa28706f1af438d27a64b6c88f075876df69125ba0a41acfc",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0717"
+  ]
+}

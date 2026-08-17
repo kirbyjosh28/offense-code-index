@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-12-34.5",
+  "citation": "720 ILCS 5/12-34.5",
+  "docName": "072000050K12-34.5",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K12-34.5",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:24:36.236Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/12-34.5",
+  "headingText": "Sec. 12-34.5. Inducement to commit suicide.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/12-34.5) (was 720 ILCS 5/12-31)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 12-34.5. Inducement to commit suicide."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits inducement to commit suicide when he or she does either of the following:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) Knowingly coerces another to commit suicide and the other person commits or attempts to commit suicide as a direct result of the coercion, and he or she exercises substantial control over the other person through (i) control of the other person's physical location or circumstances; (ii) use of psychological pressure; or (iii) use of actual or ostensible religious, political, social, philosophical or other principles. (2) With knowledge that another person intends to commit or attempt to commit suicide, intentionally (i) offers and provides the physical means by which another person commits or attempts to commit suicide, or (ii) participates in a physical act by which another person commits or attempts to commit suicide. For the purposes of this Section, \"attempts to commit suicide\" means any act done with the intent to commit suicide and which constitutes a substantial step toward commission of suicide."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Sentence. Inducement to commit suicide under paragraph (a)(1) when the other person commits suicide as a direct result of the coercion is a Class 2 felony. Inducement to commit suicide under paragraph (a)(2) when the other person commits suicide as a direct result of the assistance provided is a Class 4 felony. Inducement to commit suicide under paragraph (a)(1) when the other person attempts to commit suicide as a direct result of the coercion is a Class 3 felony. Inducement to commit suicide under paragraph (a)(2) when the other person attempts to commit suicide as a direct result of the assistance provided is a Class A misdemeanor."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) The lawful compliance or a good-faith attempt at lawful compliance with the Illinois Living Will Act, the Health Care Surrogate Act, or the Powers of Attorney for Health Care Law is not inducement to commit suicide under paragraph (a)(2) of this Section."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 96-1551, eff. 7-1-11.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 96-1551, eff. 7-1-11.)",
+  "publicActs": [
+    {
+      "publicAct": "96-1551",
+      "effectiveDate": "7-1-11"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "fcac0398cfbdc6417d18d34de6537d024feff8cb8c5c50c0dbf92357818d0f61",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0652"
+  ]
+}

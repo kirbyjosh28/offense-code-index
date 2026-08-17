@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-29-1",
+  "citation": "720 ILCS 5/29-1",
+  "docName": "072000050K29-1",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K29-1",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:28:43.999Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/29-1",
+  "headingText": "Sec. 29-1. Offering a bribe.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/29-1) (from Ch. 38, par. 29-1)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 29-1. Offering a bribe."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) Any person who, with intent to influence any person participating in, officiating or connected with any professional or amateur athletic contest, sporting event or exhibition, gives, offers or promises any money, bribe or other thing of value or advantage to induce such participant, official or other person not to use his best efforts in connection with such contest, event or exhibition commits a Class 4 felony."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Any person who, with the intent to influence the decision of any individual, offers or promises any money, bribe or other thing of value or advantage to induce such individual to attend, refrain from attending or continue to attend a particular public or private institution of secondary education or higher education for the purpose of participating or not participating in interscholastic athletic competition for such institution commits a Class A misdemeanor. This Section does not apply to the: (1) offering or awarding to an individual any type of scholarship, grant or other bona fide financial aid or employment; (2) offering of any type of financial assistance by such individual's family; or (3) offering of any item of de minimis value by such institution's authorities if such item is of the nature of an item that is commonly provided to any or all students or prospective students."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Any person who gives any money, goods or other thing of value to an individual enrolled in an institution of higher education who participates in interscholastic competition and represents or attempts to represent such individual in future negotiations for employment with any professional sports team commits a Class A misdemeanor."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 85-665.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 85-665.)",
+  "publicActs": [
+    {
+      "publicAct": "85-665",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "fb7bec2c80201fc44af6742f9501498f1d2a013b505513a342f2d97740c0ce9a",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0830"
+  ]
+}

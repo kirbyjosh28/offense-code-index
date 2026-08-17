@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-24-3.3",
+  "citation": "720 ILCS 5/24-3.3",
+  "docName": "072000050K24-3.3",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K24-3.3",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:27:58.944Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/24-3.3",
+  "headingText": "Sec. 24-3.3. Unlawful Sale or Delivery of Firearms on the Premises of Any School, regardless of the time of day or the time of year, or any conveyance owned, leased or contracted by a school to transport students to or from school or a school related activity, or residential property owned, operated or managed by a public housing agency. Any person 18 years of age or older who sells, gives or delivers any firearm to any person under 18 years of age in any school, regardless of the time of day or the time of year or residential property owned, operated or managed by a public housing agency or leased by a public housing agency as part of a scattered site or mixed-income development, on the real property comprising any school, regardless of the time of day or the time of year or residential property owned, operated or managed by a public housing agency or leased by a public housing agency as part of a scattered site or mixed-income development commits a Class 3 felony. School is defined, for the purposes of this Section, as any public or private elementary or secondary school, community college, college or university. This does not apply to peace officers or to students carrying or possessing firearms for use in school training courses, parades, target shooting on school ranges, or otherwise with the consent of school authorities and which firearms are transported unloaded and enclosed in a suitable case, box or transportation package.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/24-3.3) (from Ch. 38, par. 24-3.3)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 24-3.3. Unlawful Sale or Delivery of Firearms on the Premises of Any School, regardless of the time of day or the time of year, or any conveyance owned, leased or contracted by a school to transport students to or from school or a school related activity, or residential property owned, operated or managed by a public housing agency. Any person 18 years of age or older who sells, gives or delivers any firearm to any person under 18 years of age in any school, regardless of the time of day or the time of year or residential property owned, operated or managed by a public housing agency or leased by a public housing agency as part of a scattered site or mixed-income development, on the real property comprising any school, regardless of the time of day or the time of year or residential property owned, operated or managed by a public housing agency or leased by a public housing agency as part of a scattered site or mixed-income development commits a Class 3 felony. School is defined, for the purposes of this Section, as any public or private elementary or secondary school, community college, college or university. This does not apply to peace officers or to students carrying or possessing firearms for use in school training courses, parades, target shooting on school ranges, or otherwise with the consent of school authorities and which firearms are transported unloaded and enclosed in a suitable case, box or transportation package."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 91-673, eff. 12-22-99.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 91-673, eff. 12-22-99.)",
+  "publicActs": [
+    {
+      "publicAct": "91-673",
+      "effectiveDate": "12-22-99"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "2ffab820e87497a23f02d684e9dbe9e89393eb4ffa2cddade5c99781dbf3cff1",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0790"
+  ]
+}

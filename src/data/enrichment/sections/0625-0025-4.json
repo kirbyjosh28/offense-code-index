@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0025-4",
+  "citation": "625 ILCS 25/4",
+  "docName": "062500250K4",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500250K4",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:22:18.069Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 25/4",
+  "headingText": "Sec. 4. When any person is transporting a child in this State under the age of 8 years in a non-commercial motor vehicle of the first division, any truck or truck tractor that is equipped with seat safety belts, any other motor vehicle of the second division with a gross vehicle weight rating of 9,000 pounds or less, or a recreational vehicle on the roadways, streets or highways of this State, such person shall be responsible for providing for the protection of such child by properly securing him or her in an appropriate child restraint system. The parent or legal guardian of a child under the age of 8 years shall provide a child restraint system to any person who transports his or her child.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 25/4) (from Ch. 95 1/2, par. 1104)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 4. When any person is transporting a child in this State under the age of 8 years in a non-commercial motor vehicle of the first division, any truck or truck tractor that is equipped with seat safety belts, any other motor vehicle of the second division with a gross vehicle weight rating of 9,000 pounds or less, or a recreational vehicle on the roadways, streets or highways of this State, such person shall be responsible for providing for the protection of such child by properly securing him or her in an appropriate child restraint system. The parent or legal guardian of a child under the age of 8 years shall provide a child restraint system to any person who transports his or her child."
+    },
+    {
+      "type": "paragraph",
+      "text": "When any person is transporting a child in this State who is under the age of 2 years in a motor vehicle of the first division or motor vehicle of the second division weighing 9,000 pounds or less, he or she shall be responsible for properly securing the child in a rear-facing child restraint system, unless the child weighs 40 or more pounds or is 40 or more inches tall."
+    },
+    {
+      "type": "paragraph",
+      "text": "For purposes of this Section and Section 4b, \"child restraint system\" means any device which meets the standards of the United States Department of Transportation designed to restrain, seat or position children, which also includes a booster seat."
+    },
+    {
+      "type": "paragraph",
+      "text": "A child weighing more than 40 pounds may be transported in the back seat of a motor vehicle while wearing only a lap belt if the back seat of the motor vehicle is not equipped with a combination lap and shoulder belt."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 100-672, eff. 1-1-19.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 100-672, eff. 1-1-19.)",
+  "publicActs": [
+    {
+      "publicAct": "100-672",
+      "effectiveDate": "1-1-19"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "7281b5b07593fe4796ca447467fa1d7fa35098b16750047578bdd455511f6aec",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0479"
+  ]
+}

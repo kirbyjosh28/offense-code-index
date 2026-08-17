@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-17-39",
+  "citation": "720 ILCS 5/17-39",
+  "docName": "072000050K17-39",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K17-39",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:26:24.360Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/17-39",
+  "headingText": "Sec. 17-39. Receipt of goods or services. A person who receives an item or items of value obtained in violation of this Subdivision 25, knowing that it was so obtained or under such circumstances as would reasonably induce him or her to believe that it was so obtained, is guilty of a Class A misdemeanor if the value of all items of value obtained does not exceed $150 in any 6-month period; and is guilty of a Class 4 felony if the value exceeds $150 in any 6-month period.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/17-39)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 17-39. Receipt of goods or services. A person who receives an item or items of value obtained in violation of this Subdivision 25, knowing that it was so obtained or under such circumstances as would reasonably induce him or her to believe that it was so obtained, is guilty of a Class A misdemeanor if the value of all items of value obtained does not exceed $150 in any 6-month period; and is guilty of a Class 4 felony if the value exceeds $150 in any 6-month period."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 96-1551, eff. 7-1-11.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 96-1551, eff. 7-1-11.)",
+  "publicActs": [
+    {
+      "publicAct": "96-1551",
+      "effectiveDate": "7-1-11"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "d3d99fe1818437bdbcfb037290e4cb67d72209d404681561531f3ef3c6e52f23",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0734"
+  ]
+}

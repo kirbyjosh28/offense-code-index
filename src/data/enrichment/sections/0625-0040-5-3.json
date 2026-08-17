@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0040-5-3",
+  "citation": "625 ILCS 40/5-3",
+  "docName": "062500400K5-3",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500400K5-3",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:22:46.613Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 40/5-3",
+  "headingText": "Sec. 5-3. Youthful Operators.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 40/5-3) (from Ch. 95 1/2, par. 605-3)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 5-3. Youthful Operators."
+    },
+    {
+      "type": "paragraph",
+      "text": "A. No person under 10 years of age may operate a snowmobile, other than machines designed for use by small children primarily as a toy and used only on private property and not on any public use trail."
+    },
+    {
+      "type": "paragraph",
+      "text": "B. Persons at least 10 and less than 12 years of age may operate a snowmobile only if they are either accompanied on the snowmobile by a parent or guardian or a person at least 18 years of age designated by a parent or guardian."
+    },
+    {
+      "type": "paragraph",
+      "text": "C. Persons at least 12 and less than 16 years of age may operate a snowmobile only if they are either accompanied on the snowmobile by a parent or guardian or a person at least 16 years of age designated by a parent or guardian, or such operator is in possession of a certificate issued by the Department authorizing the holder to operate snowmobiles."
+    },
+    {
+      "type": "paragraph",
+      "text": "D. Any person who operates a snowmobile on a highway as provided in Section 5-2 shall (1) possess a valid motor vehicle driver's license; or (2) possess a safety certificate as provided for in this Section. Any such person less than 16 years of age shall also be under the immediate supervision of a parent or guardian or a person at least 18 years of age designated by the parent or guardian."
+    },
+    {
+      "type": "paragraph",
+      "text": "E. Violations of this Section done with the knowledge of a parent or guardian shall be deemed a violation by the parent or guardian and punishable under Article X of this Act."
+    },
+    {
+      "type": "paragraph",
+      "text": "F. The department shall establish a program of instruction on snowmobile laws, regulations, safety and related subjects. It is unlawful for any person under 16 years of age to operate a snowmobile on a public highway in this State. The program shall be conducted by instructors certified by the department. The department may procure liability insurance coverage for certified instructors for work within the scope of their duties under this section. Persons satisfactorily completing this program shall receive certification from the department. The department may charge each person who enrolls in the course an instruction fee of $2.50. If a fee is authorized by the department, the department shall authorize instructors conducting such courses meeting standards established by it to retain $1 of the fee to defray expenses incurred locally to operate the program. The remaining $1.50 of the fee shall be retained by the department to defray a part of its expenses incurred to operate the safety and accident reporting program. A person over the age of 12 years but under the age of 16 years who holds a valid certificate issued by another state or province of the Dominion of Canada need not obtain a certificate from the department if the course content of the program in such other state or province substantially meets that established by the department under this section. A certificate issued by the Department, or by another State or a province of the Dominion of Canada, shall not constitute a valid motor vehicle operator's license for the purpose of this Section."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 92-174, eff. 7-26-01.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 92-174, eff. 7-26-01.)",
+  "publicActs": [
+    {
+      "publicAct": "92-174",
+      "effectiveDate": "7-26-01"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "a2acfb81b27e2a9e304d852c61040b93ff5a5e38f5743be890a1b0182a8c6876",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0497"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-13-104",
+  "citation": "625 ILCS 5/13-104",
+  "docName": "062500050K13-104",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K13-104",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:19:28.383Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/13-104",
+  "headingText": "Sec. 13-104. Obtaining or issuing a certificate of safety without proper test- Suspension or revocation of license.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/13-104) (from Ch. 95 1/2, par. 13-104)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 13-104. Obtaining or issuing a certificate of safety without proper test- Suspension or revocation of license."
+    },
+    {
+      "type": "paragraph",
+      "text": "Any motor vehicle owner, driver or operator who accepts, obtains or attempts to obtain a certificate of safety without securing a test, or by a test which is known by him to have been improperly made, shall be guilty of a petty offense and shall be fined not less than $5.00 nor more than $100.00 for the first such certificate so accepted or obtained, or attempted to be obtained; and for the second such certificate obtained or attempted to be obtained, not less than $25.00 nor more than $200.00; and for each certificate after the second certificate, obtained or attempted to be obtained, not less than $100.00 nor more than $300.00. The same penalties shall apply to official testing station operators who issue certificates of safety in violation of this Chapter."
+    },
+    {
+      "type": "paragraph",
+      "text": "When a license is suspended, the suspension shall be for not less than 30 nor more than 180 days. When a license is revoked, the owner of the station cannot make an application for a new license within the period of twelve months after the date of the revocation and then, upon his making an application, the Department of Transportation shall consider this record in deciding whether or not to grant the license."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 78-255.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 78-255.)",
+  "publicActs": [
+    {
+      "publicAct": "78-255",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "1aed814437d0a153e228e36f58c0a5ce3b8ad1301007341cf49b8e89aae3c0e5",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0429"
+  ]
+}

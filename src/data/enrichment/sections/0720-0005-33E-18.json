@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-33E-18",
+  "citation": "720 ILCS 5/33E-18",
+  "docName": "072000050K33E-18",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K33E-18",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:30:03.599Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/33E-18",
+  "headingText": "Sec. 33E-18. Unlawful stringing of bids.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/33E-18)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 33E-18. Unlawful stringing of bids."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits unlawful stringing of bids when he or she, with the intent to evade the bidding requirements of any unit of local government or school district, knowingly strings or assists in stringing or attempts to string any contract or job order with the unit of local government or school district."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Sentence. Unlawful stringing of bids is a Class 4 felony."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 97-1108, eff. 1-1-13; 98-756, eff. 7-16-14.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 97-1108, eff. 1-1-13; 98-756, eff. 7-16-14.)",
+  "publicActs": [
+    {
+      "publicAct": "97-1108",
+      "effectiveDate": "1-1-13"
+    },
+    {
+      "publicAct": "98-756",
+      "effectiveDate": "7-16-14"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "047552ee3a56b278821893f5b84f997ec59081a591784a47354be15492a73784",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0894"
+  ]
+}

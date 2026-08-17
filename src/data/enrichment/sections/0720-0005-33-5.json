@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-33-5",
+  "citation": "720 ILCS 5/33-5",
+  "docName": "072000050K33-5",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K33-5",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:29:51.560Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/33-5",
+  "headingText": "Sec. 33-5. Preservation of evidence.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/33-5)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 33-5. Preservation of evidence."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) It is unlawful for a law enforcement agency or an agent acting on behalf of the law enforcement agency to intentionally fail to comply with the provisions of subsection (a) of Section 116-4 of the Code of Criminal Procedure of 1963."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Sentence. A person who violates this Section is guilty of a Class 4 felony."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) For purposes of this Section, \"law enforcement agency\" has the meaning ascribed to it in subsection (e) of Section 116-4 of the Code of Criminal Procedure of 1963."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 91-871, eff. 1-1-01; 92-459, eff. 8-22-01.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 91-871, eff. 1-1-01; 92-459, eff. 8-22-01.)",
+  "publicActs": [
+    {
+      "publicAct": "91-871",
+      "effectiveDate": "1-1-01"
+    },
+    {
+      "publicAct": "92-459",
+      "effectiveDate": "8-22-01"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "1ecd1fff3e553d0cee09261e1e46ec8b06b6a38974e1b513bef5e8aead064854",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0880"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0005-0465-5",
+  "citation": "5 ILCS 465/5",
+  "docName": "000504650K5",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=000504650K5",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:13:44.328Z",
+  "transport": "cache",
+  "canonicalCitation": "5 ILCS 465/5",
+  "headingText": "Sec. 5. Any person or persons who shall wilfully injure, deface or destroy any flag, flag-staff or pole, or adjustments attached thereto, erected and arranged for the purpose of carrying out the requirements of this Act, shall be deemed guilty of a petty offense and fined not less than one (1) dollar nor more than fifteen (15) dollars.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(5 ILCS 465/5) (from Ch. 1, par. 3307)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 5. Any person or persons who shall wilfully injure, deface or destroy any flag, flag-staff or pole, or adjustments attached thereto, erected and arranged for the purpose of carrying out the requirements of this Act, shall be deemed guilty of a petty offense and fined not less than one (1) dollar nor more than fifteen (15) dollars."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 77-2446.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 77-2446.)",
+  "publicActs": [
+    {
+      "publicAct": "77-2446",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "d5efa0b32cbf173d48f1ff2ef4f64aff07d8b69dc597977b5d6a22c5ed29faf5",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0514"
+  ]
+}

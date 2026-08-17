@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-13-111",
+  "citation": "625 ILCS 5/13-111",
+  "docName": "062500050K13-111",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K13-111",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:19:29.881Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/13-111",
+  "headingText": "Sec. 13-111. Operation without certificate of safety attached; effective date of certificate.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/13-111) (from Ch. 95 1/2, par. 13-111)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 13-111. Operation without certificate of safety attached; effective date of certificate."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) Except as provided for in Chapter 13, no person shall operate any vehicle required to be inspected by this Chapter upon the highways of this State unless there is affixed to that vehicle a certificate of safety then in effect. The Secretary of State, State Police, and other police officers shall enforce this Section. The Department shall determine the expiration date of the certificate of safety."
+    },
+    {
+      "type": "paragraph",
+      "text": "The certificates, all forms and records, reports of tests and retests, and the full procedure and methods of making the tests and retests, shall be in the form prescribed by the Department."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Every person convicted of violating this Section is guilty of a petty offense with a minimum fine of $95 and a maximum fine of $250; unless the violation is contemporaneous with a motor vehicle crash, in which case the person is guilty of a Class C misdemeanor."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 102-982, eff. 7-1-23.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 102-982, eff. 7-1-23.)",
+  "publicActs": [
+    {
+      "publicAct": "102-982",
+      "effectiveDate": "7-1-23"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "2e832f5784145630d30be1ba2730ea022d288469d0a6f105a04c3ee866fa6c72",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0430"
+  ]
+}

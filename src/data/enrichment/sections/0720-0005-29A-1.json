@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-29A-1",
+  "citation": "720 ILCS 5/29A-1",
+  "docName": "072000050K29A-1",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K29A-1",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:28:48.510Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/29A-1",
+  "headingText": "Sec. 29A-1. A person commits commercial bribery when he confers, or offers or agrees to confer, any benefit upon any employee, agent or fiduciary without the consent of the latter's employer or principal, with intent to influence his conduct in relation to his employer's or principal's affairs.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/29A-1) (from Ch. 38, par. 29A-1)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 29A-1. A person commits commercial bribery when he confers, or offers or agrees to confer, any benefit upon any employee, agent or fiduciary without the consent of the latter's employer or principal, with intent to influence his conduct in relation to his employer's or principal's affairs."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 76-1129.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 76-1129.)",
+  "publicActs": [
+    {
+      "publicAct": "76-1129",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "8faa0c8114a2c61a6f1f5c1b2770055a0bf084b2de06c7bc7f7cd67c52c148c4",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0833"
+  ]
+}

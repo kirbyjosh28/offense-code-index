@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-12-211",
+  "citation": "625 ILCS 5/12-211",
+  "docName": "062500050K12-211",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K12-211",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:18:02.787Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/12-211",
+  "headingText": "Sec. 12-211. Number of driving lamps required or permitted.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/12-211) (from Ch. 95 1/2, par. 12-211)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 12-211. Number of driving lamps required or permitted."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) At all times specified in Section 12-201, at least 2 lighted driving lamps shall be displayed, one on each side of the front of every motor vehicle other than a motorcycle, except when such vehicle is parked subject to the regulations governing lights on parked vehicles."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Whenever a motor vehicle equipped with driving lamps as herein required is also equipped with any auxiliary driving lamps or a spot lamp or any other lamp on the front thereof, not more than a total of 4 of any such lamps on the front of a vehicle shall be lighted at any one time when upon a highway."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 86-1236.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 86-1236.)",
+  "publicActs": [
+    {
+      "publicAct": "86-1236",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "2e160d176e0bb2dfa45435c5f38a758e2d519c619f7b77220756332d65e06677",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0348"
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-24-3.7",
+  "citation": "720 ILCS 5/24-3.7",
+  "docName": "072000050K24-3.7",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K24-3.7",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:28:03.446Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/24-3.7",
+  "headingText": "Sec. 24-3.7. Use of a stolen firearm in the commission of an offense.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/24-3.7)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 24-3.7. Use of a stolen firearm in the commission of an offense."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits the offense of use of a stolen firearm in the commission of an offense when he or she knowingly uses a stolen firearm in the commission of any offense and the person knows that the firearm was stolen."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Sentence. Use of a stolen firearm in the commission of an offense is a Class 2 felony."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 96-190, eff. 1-1-10.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 96-190, eff. 1-1-10.)",
+  "publicActs": [
+    {
+      "publicAct": "96-190",
+      "effectiveDate": "1-1-10"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "c230eaca3c1e579c0290ff83a6b6a54586ce2652486a4e300dc43d66daa09d4e",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0793"
+  ]
+}

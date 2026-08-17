@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-402",
+  "citation": "625 ILCS 5/11-402",
+  "docName": "062500050K11-402",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-402",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:16:41.703Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-402",
+  "headingText": "Sec. 11-402. Motor vehicle crash involving damage to vehicle.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-402) (from Ch. 95 1/2, par. 11-402)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-402. Motor vehicle crash involving damage to vehicle."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) The driver of any vehicle involved in a motor vehicle crash resulting only in damage to a vehicle which is driven or attended by any person shall immediately stop such vehicle at the scene of such motor vehicle crash or as close thereto as possible, but shall forthwith return to and in every event shall remain at the scene of such motor vehicle crash until the requirements of Section 11-403 have been fulfilled. A driver does not violate this Section if the driver moves the vehicle as soon as possible off the highway to the nearest safe location on an exit ramp shoulder, a frontage road, the nearest suitable cross street, or other suitable location that does not obstruct traffic and remains at that location until the driver has fulfilled the requirements of Section 11-403. Every such stop shall be made without obstructing traffic more than is necessary. If a damaged vehicle is obstructing traffic lanes, the driver of the vehicle must make every reasonable effort to move the vehicle or have it moved so as not to block the traffic lanes."
+    },
+    {
+      "type": "paragraph",
+      "text": "Any person failing to comply with this Section shall be guilty of a Class A misdemeanor."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Upon conviction of a violation of this Section, the court shall make a finding as to whether the damage to a vehicle is in excess of $1,000, and in such case a statement of this finding shall be reported to the Secretary of State with the report of conviction as required by Section 6-204 of this Code. Upon receipt of such report of conviction and statement of finding that the damage to a vehicle is in excess of $1,000, the Secretary of State shall suspend the driver's license or any nonresident's driving privilege."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) If any peace officer or highway authority official finds (i) a vehicle standing upon a highway or toll highway in violation of a prohibition, limitation, or restriction on stopping, standing, or parking imposed under this Code or (ii) a disabled vehicle that obstructs the roadway of a highway or toll highway, the peace officer or highway authority official is authorized to move the vehicle or to require the operator of the vehicle to move the vehicle to the shoulder of the road, to a position where parking is permitted, or to public parking or storage premises. The removal may be performed by, or under the direction of, the peace officer or highway authority official or may be contracted for by local authorities. After the vehicle has been removed, the peace officer or highway authority official shall follow appropriate procedures, as provided in Section 4-203 of this Code."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) A towing service, its officers, and its employees are not liable for loss of or damages to any real or personal property that occurs as the result of the removal or towing of any vehicle under subsection (c), as provided in subsection (b) of Section 4-213."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 102-982, eff. 7-1-23.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 102-982, eff. 7-1-23.)",
+  "publicActs": [
+    {
+      "publicAct": "102-982",
+      "effectiveDate": "7-1-23"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "539f2ac2415ac90e5b68c398a619cf1ec311528852e11d83fd99d70f0a3ec9e5",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0193"
+  ]
+}

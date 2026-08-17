@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-32-4a",
+  "citation": "720 ILCS 5/32-4a",
+  "docName": "072000050K32-4a",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K32-4a",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:29:36.552Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/32-4a",
+  "headingText": "Sec. 32-4a. Harassment of representatives for the child, jurors, witnesses and others.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/32-4a) (from Ch. 38, par. 32-4a)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 32-4a. Harassment of representatives for the child, jurors, witnesses and others."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person who, with intent to harass or annoy one who has served or is serving or who is a family member of a person who has served or is serving (1) as a juror because of the verdict returned by the jury in a pending legal proceeding or the participation of the juror in the verdict or (2) as a witness, or who may be expected to serve as a witness in a pending legal proceeding, or who was expected to serve as a witness but who did not serve as a witness because the charges against the defendant were dismissed or because the defendant pleaded guilty to the charges against him or her, because of the testimony or potential testimony of the witness or person who may be expected or may have been expected to serve as a witness, communicates directly or indirectly with the juror, witness or person who may be expected or may have been expected to serve as a witness, or family member of a juror or witness or person who may be expected or may have been expected to serve as a witness in such manner as to produce mental anguish or emotional distress or who conveys a threat of injury or damage to the property or person of any juror, witness or person who may be expected or may have been expected to serve as a witness, or family member of the juror or witness or person who may be expected or may have been expected to serve as a witness commits a Class 2 felony."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) A person who, with intent to harass or annoy one who has served or is serving or who is a family member of a person who has served or is serving as a representative for the child, appointed under Section 506 of the Illinois Marriage and Dissolution of Marriage Act or Section 2-502 of the Code of Civil Procedure, because of the representative service of that capacity, communicates directly or indirectly with the representative or a family member of the representative in such manner as to produce mental anguish or emotional distress or who conveys a threat of injury or damage to the property or person of any representative or a family member of the representative commits a Class A misdemeanor."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) For purposes of this Section, \"family member\" means a spouse, parent, child, stepchild or other person related by blood or by present marriage, a person who has, or allegedly has a child in common, and a person who shares or allegedly shares a blood relationship through a child."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 93-108, eff. 1-1-04; 93-818, eff. 7-27-04.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 93-108, eff. 1-1-04; 93-818, eff. 7-27-04.)",
+  "publicActs": [
+    {
+      "publicAct": "93-108",
+      "effectiveDate": "1-1-04"
+    },
+    {
+      "publicAct": "93-818",
+      "effectiveDate": "7-27-04"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "2de7d00901e2e1bd0c10c08cf67277ac20726126a333c0690e8d5d9d0b1174a6",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0866"
+  ]
+}

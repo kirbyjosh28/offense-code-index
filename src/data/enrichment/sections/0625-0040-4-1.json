@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0040-4-1",
+  "citation": "625 ILCS 40/4-1",
+  "docName": "062500400K4-1",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500400K4-1",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:22:28.577Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 40/4-1",
+  "headingText": "Sec. 4-1. Equipment. All snowmobiles operating within the State of Illinois shall be equipped with:",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 40/4-1) (from Ch. 95 1/2, par. 604-1)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 4-1. Equipment. All snowmobiles operating within the State of Illinois shall be equipped with:"
+    },
+    {
+      "type": "paragraph",
+      "text": "A. At least one white head-lamp having a minimum candlepower of sufficient intensity to exhibit a white light plainly visible from a distance of at least 500 feet ahead during hours of darkness under normal atmospheric conditions. If a snowmobile is equipped with a single beam lamp, such lamp shall be so aimed that when the vehicle is loaded none of the high intensity portion of the light, at a distance of 25 feet in front of the vehicle, projects higher than the level of the center of the lamp from which it originates."
+    },
+    {
+      "type": "paragraph",
+      "text": "B. At least one red tail lamp having a minimum candlepower of sufficient intensity to exhibit a red light plainly visible from a distance of five hundred feet to the rear during hours of darkness under normal atmospheric conditions."
+    },
+    {
+      "type": "paragraph",
+      "text": "C. A brake system in good mechanical condition."
+    },
+    {
+      "type": "paragraph",
+      "text": "D. Reflective material of a minimum area of 16 square inches mounted on each side of the cowling. Identifying numbers may be included in computing the required 16 square inch area."
+    },
+    {
+      "type": "paragraph",
+      "text": "E. Adequate sound suppression equipment. No snowmobile manufactured after June 1, 1972, shall be sold or offered for sale, unless it is equipped with sound suppression devices that limit total machine noise in accordance with noise pollution standards established pursuant to the Environmental Protection Act."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 82-417.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 82-417.)",
+  "publicActs": [
+    {
+      "publicAct": "82-417",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "5cd866cca94bb23ca7c65ffc979cd90c56d8125fb9b4e03eb6ec1a356ccf2e7f",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0485"
+  ]
+}

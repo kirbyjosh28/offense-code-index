@@ -1,0 +1,72 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-12-6.2",
+  "citation": "720 ILCS 5/12-6.2",
+  "docName": "072000050K12-6.2",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K12-6.2",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:24:52.773Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/12-6.2",
+  "headingText": "Sec. 12-6.2. Aggravated intimidation.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/12-6.2)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 12-6.2. Aggravated intimidation."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits aggravated intimidation when he or she commits intimidation and:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) the person committed the offense in furtherance of the activities of an organized gang or because of the person's membership in or allegiance to an organized gang; or (2) the offense is committed with the intent to prevent any person from becoming a community policing volunteer; or (3) the following conditions are met:"
+    },
+    {
+      "type": "subsection",
+      "label": "(A)",
+      "text": "(A) the person knew that the victim was a peace officer, a correctional institution employee, a fireman, a community policing volunteer, or a civilian reporting information regarding a forcible felony to a law enforcement agency; and (B) the offense was committed:"
+    },
+    {
+      "type": "subsection",
+      "label": "(i)",
+      "text": "(i) while the victim was engaged in the execution of his or her official duties; or (ii) to prevent the victim from performing his or her official duties; (iii) in retaliation for the victim's performance of his or her official duties; (iv) by reason of any person's activity as a community policing volunteer; or (v) because the person reported information regarding a forcible felony to a law enforcement agency. (b) Sentence. Aggravated intimidation as defined in paragraph (a)(1) is a Class 1 felony. Aggravated intimidation as defined in paragraph (a)(2) or (a)(3) is a Class 2 felony for which the offender may be sentenced to a term of imprisonment of not less than 3 years nor more than 14 years."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) (Blank)."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 96-1551, eff. 7-1-11; 97-162, eff. 1-1-12; 97-1109, eff. 1-1-13.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 96-1551, eff. 7-1-11; 97-162, eff. 1-1-12; 97-1109, eff. 1-1-13.)",
+  "publicActs": [
+    {
+      "publicAct": "96-1551",
+      "effectiveDate": "7-1-11"
+    },
+    {
+      "publicAct": "97-162",
+      "effectiveDate": "1-1-12"
+    },
+    {
+      "publicAct": "97-1109",
+      "effectiveDate": "1-1-13"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "0657d465b83b268cb4314d9c91aae7b05027cee2ec8730d397f38bb593a00a59",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0633"
+  ]
+}

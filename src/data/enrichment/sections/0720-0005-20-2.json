@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-20-2",
+  "citation": "720 ILCS 5/20-2",
+  "docName": "072000050K20-2",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K20-2",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:27:13.900Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/20-2",
+  "headingText": "Sec. 20-2. Possession of explosives or explosive or incendiary devices.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/20-2) (from Ch. 38, par. 20-2)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 20-2. Possession of explosives or explosive or incendiary devices."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits possession of explosives or explosive or incendiary devices in violation of this Section when he or she possesses, manufactures or transports any explosive compound, timing or detonating device for use with any explosive compound or incendiary device and either intends to use the explosive or device to commit any offense or knows that another intends to use the explosive or device to commit a felony."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Sentence."
+    },
+    {
+      "type": "paragraph",
+      "text": "Possession of explosives or explosive or incendiary devices is a Class 1 felony for which a person, if sentenced to a term of imprisonment, shall be sentenced to not less than 4 years and not more than 30 years."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) (Blank)."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 97-1108, eff. 1-1-13.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 97-1108, eff. 1-1-13.)",
+  "publicActs": [
+    {
+      "publicAct": "97-1108",
+      "effectiveDate": "1-1-13"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "235cff29768ed167b8e700aea543732a717d9583d8486c4419246fc668378cf1",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0759"
+  ]
+}

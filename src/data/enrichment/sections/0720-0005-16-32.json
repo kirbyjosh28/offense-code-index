@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-16-32",
+  "citation": "720 ILCS 5/16-32",
+  "docName": "072000050K16-32",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K16-32",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:25:43.820Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/16-32",
+  "headingText": "Sec. 16-32. Facilitating identity theft.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/16-32)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 16-32. Facilitating identity theft."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits facilitating identity theft when he or she, in the course of his or her employment or official duties, has access to the personal information of another person in the possession of the State of Illinois, whether written, recorded, or on computer disk, and knowingly, with the intent of committing identity theft, aggravated identity theft, or any violation of the Illinois Financial Crime Law, disposes of that written, recorded, or computerized information in any receptacle, trash can, or other container that the public could gain access to, without shredding that information, destroying the recording, or wiping the computer disk so that the information is either unintelligible or destroyed."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Sentence. Facilitating identity theft is a Class A misdemeanor for a first offense and a Class 4 felony for a second or subsequent offense."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) For purposes of this Section, \"personal information\" has the meaning provided in the Personal Information Protection Act."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 97-597, eff. 1-1-12.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 97-597, eff. 1-1-12.)",
+  "publicActs": [
+    {
+      "publicAct": "97-597",
+      "effectiveDate": "1-1-12"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "1f17d88e8b989db1bb51f239e3c5e5c854832c2a86efeb7440d70b1e8a1baa17",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0680"
+  ]
+}

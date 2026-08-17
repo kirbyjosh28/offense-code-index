@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-904",
+  "citation": "625 ILCS 5/11-904",
+  "docName": "062500050K11-904",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-904",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:17:38.768Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-904",
+  "headingText": "Sec. 11-904. Vehicle entering stop or yield intersection.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-904) (from Ch. 95 1/2, par. 11-904)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-904. Vehicle entering stop or yield intersection."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) Preferential right-of-way at an intersection may be indicated by stop or yield signs as authorized in Section 11-302 of this Chapter."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Except when directed to proceed by a police officer or traffic-control signal, every driver of a vehicle approaching a stop intersection indicated by a stop sign shall stop at a clearly marked stop line, but if none, before entering the crosswalk on the near side of the intersection, or if none, then at the point nearest the intersecting roadway where the driver has a view of approaching traffic on the intersecting roadway before entering the intersection. After having stopped, the driver shall yield the right-of-way to any vehicle which has entered the intersection from another roadway or which is approaching so closely on the roadway as to constitute an immediate hazard during the time when the driver is moving across or within the intersection, but said driver having so yielded may proceed at such time as a safe interval occurs."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) The driver of a vehicle approaching a yield sign shall in obedience to such sign slow down to a speed reasonable for the existing conditions and, if required for safety to stop, shall stop at a clearly marked stop line, but if none, before entering the crosswalk on the near side of the intersection, or if none, then at the point nearest the intersecting roadway where the driver has a view of approaching traffic on the intersecting roadway. After slowing or stopping, the driver shall yield the right-of-way to any vehicle in the intersection or approaching on another roadway so closely as to constitute an immediate hazard during the time such driver is moving across or within the intersection."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) If a driver is involved in a collision at an intersection or interferes with the movement of other vehicles after driving past a stop or yield right-of-way sign, such collision or interference shall be deemed prima facie evidence of the driver's failure to yield right-of-way."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 104-577, eff. 7-16-26.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 104-577, eff. 7-16-26.)",
+  "publicActs": [
+    {
+      "publicAct": "104-577",
+      "effectiveDate": "7-16-26"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "544575b3a2eec21a2a5fc4c53d7781fd6b478f3d67fde7e4d09ec282e90598a4",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0250"
+  ]
+}

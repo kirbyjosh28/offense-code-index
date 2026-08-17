@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-21-1.4",
+  "citation": "720 ILCS 5/21-1.4",
+  "docName": "072000050K21-1.4",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K21-1.4",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:27:22.920Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/21-1.4",
+  "headingText": "Sec. 21-1.4. Jackrocks violation.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/21-1.4)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 21-1.4. Jackrocks violation."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits a jackrocks violation when he or she knowingly:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) sells, gives away, manufactures, purchases, or possesses a jackrock; or (2) places, tosses, or throws a jackrock on public or private property. (b) As used in this Section, \"jackrock\" means a caltrop or other object manufactured with one or more rounded or sharpened points, which when placed or thrown present at least one point at such an angle that it is peculiar to and designed for use in puncturing or damaging vehicle tires. It does not include a device designed to puncture or damage the tires of a vehicle driven over it in a particular direction, if a conspicuous and clearly visible warning is posted at the device's location, alerting persons to its presence."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) This Section does not apply to the possession, transfer, or use of jackrocks by any law enforcement officer in the course of his or her official duties."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) Sentence. A jackrocks violation is a Class A misdemeanor."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 97-1108, eff. 1-1-13.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 97-1108, eff. 1-1-13.)",
+  "publicActs": [
+    {
+      "publicAct": "97-1108",
+      "effectiveDate": "1-1-13"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "475890d732cca2d2c313d607f3421171d40e2b9636a2f84e01a2e03856efe21e",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0765"
+  ]
+}

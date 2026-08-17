@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-12-3.1",
+  "citation": "720 ILCS 5/12-3.1",
+  "docName": "072000050K12-3.1",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K12-3.1",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:24:22.727Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/12-3.1",
+  "headingText": "Sec. 12-3.1. Battery of an unborn child; aggravated battery of an unborn child.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/12-3.1) (from Ch. 38, par. 12-3.1)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 12-3.1. Battery of an unborn child; aggravated battery of an unborn child."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits battery of an unborn child if he or she knowingly without legal justification and by any means causes bodily harm to an unborn child."
+    },
+    {
+      "type": "paragraph",
+      "text": "(a-5) A person commits aggravated battery of an unborn child when, in committing a battery of an unborn child, he or she knowingly causes great bodily harm or permanent disability or disfigurement to an unborn child."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) For purposes of this Section, (1) \"unborn child\" shall mean any individual of the human species from the implantation of an embryo until birth, and (2) \"person\" shall not include the pregnant individual whose unborn child is harmed."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Sentence. Battery of an unborn child is a Class A misdemeanor. Aggravated battery of an unborn child is a Class 2 felony."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) This Section shall not apply to acts which cause bodily harm to an unborn child if those acts were committed during any abortion, as defined in Section 1-10 of the Reproductive Health Act, to which the pregnant individual has consented. This Section shall not apply to acts which were committed pursuant to usual and customary standards of medical practice during diagnostic testing or therapeutic treatment."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 101-13, eff. 6-12-19.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 101-13, eff. 6-12-19.)",
+  "publicActs": [
+    {
+      "publicAct": "101-13",
+      "effectiveDate": "6-12-19"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "478f047fd1f4cf96293fe7cf06ae9b446b1bf340c6333c56793ca527eacf2c77",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0616",
+    "offense-0617"
+  ]
+}

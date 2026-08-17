@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-15-317",
+  "citation": "625 ILCS 5/15-317",
+  "docName": "062500050K15-317",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K15-317",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:19:50.907Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/15-317",
+  "headingText": "Sec. 15-317. Special weight limitation on elevated structures.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/15-317) (from Ch. 95 1/2, par. 15-317)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 15-317. Special weight limitation on elevated structures."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) No person shall operate a vehicle or combination of vehicles over a bridge or other elevated structure constituting a part of a highway with a gross weight which is greater than the maximum weight permitted by the Department, when such structure is sign posted as provided in this Section."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) The Department upon request from any local authority shall, or upon its own initiative may, conduct an investigation of any bridge or other elevated structure constituting a part of a highway, and if it finds that such structure cannot with safety to itself withstand the weight of vehicles otherwise permissible under this Chapter the Department shall determine and declare the maximum weight of vehicles which such structure can withstand, and shall cause or permit suitable signs stating maximum weight to be erected and maintained before each end of such structure."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Upon the trial of any person charged with a violation of this Section proof of the determination of the maximum allowable weight by the Department and the existence of the signs, constitutes conclusive evidence of the maximum weight which can be maintained with safety to such bridge or structure."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 76-1586.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 76-1586.)",
+  "publicActs": [
+    {
+      "publicAct": "76-1586",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "35ddec4be97c1b7ba7e78d370d0eb3dd7bfe54457d679896776868ed63a0d36d",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0454"
+  ]
+}

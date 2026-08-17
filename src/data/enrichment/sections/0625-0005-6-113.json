@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-6-113",
+  "citation": "625 ILCS 5/6-113",
+  "docName": "062500050K6-113",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K6-113",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:21:36.026Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/6-113",
+  "headingText": "Sec. 6-113. Restricted licenses and permits.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/6-113) (from Ch. 95 1/2, par. 6-113)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 6-113. Restricted licenses and permits."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) The Secretary of State upon issuing a drivers license or permit shall have the authority whenever good cause appears to impose restrictions suitable to the licensee's driving ability with respect to the type of, or special mechanical control devices required on, a motor vehicle which the licensee may operate or such other restrictions applicable to the licensee as the Secretary of State may determine to be appropriate to assure the safe operation of a motor vehicle by the licensee."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) The Secretary of State may either issue a special restricted license or permit or may set forth such restrictions upon the usual license or permit form."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) The Secretary of State may issue a probationary license to a person whose driving privileges have been suspended pursuant to subsection (d) of this Section or subsection (a)(2) of Section 6-206 of this Code. This subsection (c) does not apply to any driver required to possess a CDL for the purpose of operating a commercial motor vehicle. The Secretary of State shall promulgate rules pursuant to the Illinois Administrative Procedure Act, setting forth the conditions and criteria for the issuance and cancellation of probationary licenses."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) The Secretary of State may upon receiving satisfactory evidence of any violation of the restrictions of such license or permit suspend, revoke or cancel the same without preliminary hearing, but the licensee or permittee shall be entitled to a hearing as in the case of a suspension or revocation."
+    },
+    {
+      "type": "subsection",
+      "label": "(e)",
+      "text": "(e) It is unlawful for any person to operate a motor vehicle in any manner in violation of the restrictions imposed on a restricted license or permit issued to him."
+    },
+    {
+      "type": "subsection",
+      "label": "(f)",
+      "text": "(f) Whenever the holder of a restricted driving permit is issued a citation for any of the following offenses including similar local ordinances, the restricted driving permit is immediately invalidated:"
+    },
+    {
+      "type": "paragraph",
+      "text": "1. Reckless homicide resulting from the operation of a motor vehicle; 2. Violation of Section 11-501 of this Act relating to the operation of a motor vehicle while under the influence of intoxicating liquor or narcotic drugs; 3. Violation of Section 11-401 of this Act relating to the offense of leaving the scene of a traffic crash involving death or injury; 4. Violation of Section 11-504 of this Act relating to the offense of drag racing; or 5. Violation of Section 11-506 of this Act relating to the offense of street racing. The police officer issuing the citation shall confiscate the restricted driving permit and forward it, along with the citation, to the Clerk of the Circuit Court of the county in which the citation was issued."
+    },
+    {
+      "type": "subsection",
+      "label": "(g)",
+      "text": "(g) The Secretary of State may issue a special restricted license for a period of 48 months to individuals using vision aid arrangements other than standard eyeglasses or contact lenses, allowing the operation of a motor vehicle during nighttime hours. The Secretary of State shall adopt rules defining the terms and conditions by which the individual may obtain and renew this special restricted license. At a minimum, all drivers must meet the following requirements:"
+    },
+    {
+      "type": "paragraph",
+      "text": "1. Possess a valid driver's license and have operated a motor vehicle during daylight hours for a period of 12 months using vision aid arrangements other than standard eyeglasses or contact lenses. 2. Have a driving record that does not include any traffic crashes that occurred during nighttime hours, for which the driver has been found to be at fault, during the 12 months before he or she applied for the special restricted license. 3. Successfully complete a road test administered during nighttime hours. The special restricted license holder must submit to the Secretary annually a vision specialist report from his or her ophthalmologist or optometrist that the special restricted license holder's vision has not changed. If the special restricted license holder fails to submit this vision specialist report, the special restricted license shall be cancelled under Section 6-201 of this Code."
+    },
+    {
+      "type": "paragraph",
+      "text": "At a minimum, all drivers renewing this license must meet the following requirements:"
+    },
+    {
+      "type": "paragraph",
+      "text": "1. Successfully complete a road test administered during nighttime hours. 2. Have a driving record that does not include any traffic crashes that occurred during nighttime hours, for which the driver has been found to be at fault, during the 12 months before he or she applied for the special restricted license. (h) Any driver issued a special restricted license as defined in subsection (g) whose privilege to drive during nighttime hours has been suspended due to a crash occurring during nighttime hours may request a hearing as provided in Section 2-118 of this Code to contest that suspension. If it is determined that the crash for which the driver was at fault was not influenced by the driver's use of vision aid arrangements other than standard eyeglasses or contact lenses, the Secretary may reinstate that driver's privilege to drive during nighttime hours."
+    },
+    {
+      "type": "subsection",
+      "label": "(i)",
+      "text": "(i) The Secretary of State may issue a special restricted training permit for a period of 6 months to individuals using vision aid arrangements other than standard eyeglasses or contact lenses, allowing the operation of a motor vehicle between sunset and 10:00 p.m. provided the driver is accompanied by a person holding a valid driver's license without nighttime operation restrictions. The Secretary may adopt rules defining the terms and conditions by which the individual may obtain and renew this special restricted training permit. At a minimum, all persons applying for a special restricted training permit must meet the following requirements:"
+    },
+    {
+      "type": "paragraph",
+      "text": "1. Possess a valid driver's license and have operated a motor vehicle during daylight hours for a period of 6 months using vision aid arrangements other than standard eyeglasses or contact lenses. 2. Have a driving record that does not include any traffic crashes, for which the person has been found to be at fault, during the 6 months before he or she applied for the special restricted training permit. (j) Whenever the Secretary of State has issued an administrative order requiring an individual to use an ignition interlock device after his or her driver's license has been reinstated, that individual shall be issued a driver's license containing the ignition interlock device restriction. The administrative order shall set forth the duration of the restriction and any other applicable terms and conditions."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 102-982, eff. 7-1-23.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 102-982, eff. 7-1-23.)",
+  "publicActs": [
+    {
+      "publicAct": "102-982",
+      "effectiveDate": "7-1-23"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "8554754b2edf5be04dd0cb7e2212d6c17ddf454ad999d0bcaab754fcb1b22a6c",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0126"
+  ]
+}

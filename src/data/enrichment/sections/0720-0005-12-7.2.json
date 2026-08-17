@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-12-7.2",
+  "citation": "720 ILCS 5/12-7.2",
+  "docName": "072000050K12-7.2",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K12-7.2",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:25:00.271Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/12-7.2",
+  "headingText": "Sec. 12-7.2. Educational intimidation. (a) A person commits educational intimidation when he knowingly interferes with the right of any child who is or is believed to be afflicted with a chronic infectious disease to attend or participate in the activities of an elementary or secondary school in this State:",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/12-7.2) (from Ch. 38, par. 12-7.2)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 12-7.2. Educational intimidation. (a) A person commits educational intimidation when he knowingly interferes with the right of any child who is or is believed to be afflicted with a chronic infectious disease to attend or participate in the activities of an elementary or secondary school in this State:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) by actual or threatened physical harm to the person or property of the child or the child's family; or"
+    },
+    {
+      "type": "subsection",
+      "label": "(2)",
+      "text": "(2) by impeding or obstructing the child's right of ingress to, egress from, or freedom of movement at school facilities or activities; or"
+    },
+    {
+      "type": "subsection",
+      "label": "(3)",
+      "text": "(3) by exposing or threatening to expose the child, or the family or friends of the child, to public hatred, contempt or ridicule."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Subsection (a) does not apply to the actions of school officials or the school's infectious disease review team who are acting within the course of their professional duties and in accordance with applicable law."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Educational intimidation is a Class C misdemeanor, except that a second or subsequent offense shall be a Class A misdemeanor."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) Independent of any criminal prosecution or the result thereof, any person suffering injury to his person or damage to his property as a result of educational intimidation may bring a civil action for damages, injunction or other appropriate relief. The court may award actual damages, including damages for emotional distress, or punitive damages. A judgment may include attorney's fees and costs. The parents or legal guardians of an unemancipated minor, other than guardians appointed pursuant to the Juvenile Court Act or the Juvenile Court Act of 1987, shall be liable for the amount of any judgment for actual damages awarded against such minor under this subsection (d) in any amount not exceeding the amount provided under Section of the Parental Responsibility Law."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 86-890.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 86-890.)",
+  "publicActs": [
+    {
+      "publicAct": "86-890",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "4038327646e098532f9a5604aab215410648aa170be210d732adb0e5036901c2",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0638"
+  ]
+}

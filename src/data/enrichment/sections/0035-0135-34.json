@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0035-0135-34",
+  "citation": "35 ILCS 135/34",
+  "docName": "003501350K34",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=003501350K34",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:14:10.028Z",
+  "transport": "cache",
+  "canonicalCitation": "35 ILCS 135/34",
+  "headingText": "Sec. 34. It is unlawful for a person to act in this State as the agent or representative of a distributor who does not maintain a place of business in this State unless such distributor is the holder of a permit issued pursuant to Section 7 of this Act. Any person who violates this provision is guilty of a Class A misdemeanor. Each and every day any such person so acts shall constitute a separate offense.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(35 ILCS 135/34) (from Ch. 120, par. 453.64)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 34. It is unlawful for a person to act in this State as the agent or representative of a distributor who does not maintain a place of business in this State unless such distributor is the holder of a permit issued pursuant to Section 7 of this Act. Any person who violates this provision is guilty of a Class A misdemeanor. Each and every day any such person so acts shall constitute a separate offense."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 83-1428.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 83-1428.)",
+  "publicActs": [
+    {
+      "publicAct": "83-1428",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "d21fd1cb9e17870b563d511f9010bd3c20faa149e492873c9f55914ff85089b1",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0521"
+  ]
+}

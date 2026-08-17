@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-310",
+  "citation": "625 ILCS 5/11-310",
+  "docName": "062500050K11-310",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-310",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:16:34.190Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-310",
+  "headingText": "Sec. 11-310. Display of Unauthorized Signs, Signals or Markings.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-310) (from Ch. 95 1/2, par. 11-310)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-310. Display of Unauthorized Signs, Signals or Markings."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) No person shall place, maintain or display upon or in view of any highway any unauthorized sign, signal, marking, or device which purports to be or is an imitation of or resembles an official traffic-control device or railroad sign or signal, or which attempts to direct the movement of traffic, or which hides from view or interferes with the movement of traffic or the effectiveness of an official traffic-control device or any railroad sign or signal."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) No person shall place or maintain nor shall any public authority permit upon any highway any traffic sign or signal bearing thereon any commercial advertising."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Every such prohibited sign, signal or marking is hereby declared to be a public nuisance and the authority having jurisdiction over the highway is hereby empowered to remove the same or cause it to be removed without notice."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) No person shall sell or offer for sale any traffic control device to be used on any street or highway in this State which does not conform to the requirements of this Chapter."
+    },
+    {
+      "type": "subsection",
+      "label": "(e)",
+      "text": "(e) This Section shall not be deemed to prohibit the erection upon private property adjacent to highways of signs giving useful directional information and of a type that cannot be mistaken for official signs."
+    },
+    {
+      "type": "subsection",
+      "label": "(f)",
+      "text": "(f) This Section shall not be deemed to prohibit the erection of Illinois Adopt-A-Highway signs by municipalities, townships, or counties as provided in the Illinois Adopt-A-Highway Act."
+    },
+    {
+      "type": "subsection",
+      "label": "(g)",
+      "text": "(g) Any person failing to comply with this Section shall be guilty of a Class A misdemeanor."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 87-1118.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 87-1118.)",
+  "publicActs": [
+    {
+      "publicAct": "87-1118",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "cabd20d87a5046250f043f94610c90104e9a1c2b168a2ae3a5f220b57d332d77",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0187"
+  ]
+}

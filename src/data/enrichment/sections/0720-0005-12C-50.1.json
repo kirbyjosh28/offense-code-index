@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-12C-50.1",
+  "citation": "720 ILCS 5/12C-50.1",
+  "docName": "072000050K12C-50.1",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K12C-50.1",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:25:22.785Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/12C-50.1",
+  "headingText": "Sec. 12C-50.1. Failure to report hazing.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/12C-50.1)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 12C-50.1. Failure to report hazing."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) For purposes of this Section, \"school official\" includes any and all paid school administrators, teachers, counselors, support staff, and coaches and any and all volunteer coaches employed by a school, college, university, or other educational institution of this State."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) A school official commits failure to report hazing when:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) while fulfilling his or her official responsibilities as a school official, he or she personally observes an act which is not sanctioned or authorized by that educational institution; (2) the act results in bodily harm to any person; and"
+    },
+    {
+      "type": "subsection",
+      "label": "(3)",
+      "text": "(3) the school official knowingly fails to report the act to supervising educational authorities or, in the event of death or great bodily harm, to law enforcement. (c) Sentence. Failure to report hazing is a Class B misdemeanor. If the act which the person failed to report resulted in death or great bodily harm, the offense is a Class A misdemeanor."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) It is an affirmative defense to a charge of failure to report hazing under this Section that the person who personally observed the act had a reasonable apprehension that timely action to stop the act would result in the imminent infliction of death, great bodily harm, permanent disfigurement, or permanent disability to that person or another in retaliation for reporting."
+    },
+    {
+      "type": "subsection",
+      "label": "(e)",
+      "text": "(e) Nothing in this Section shall be construed to allow prosecution of a person who personally observes the act of hazing and assists with an investigation and any subsequent prosecution of the offender."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 98-393, eff. 8-16-13.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 98-393, eff. 8-16-13.)",
+  "publicActs": [
+    {
+      "publicAct": "98-393",
+      "effectiveDate": "8-16-13"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "0b17760968a7c317605f4b84ce6c74fa8b7fab3f09bd14a9e1cc35c362831e66",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0663"
+  ]
+}

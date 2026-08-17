@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-1002",
+  "citation": "625 ILCS 5/11-1002",
+  "docName": "062500050K11-1002",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-1002",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:14:43.063Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-1002",
+  "headingText": "Sec. 11-1002. Pedestrians' right-of-way at crosswalks.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-1002) (from Ch. 95 1/2, par. 11-1002)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-1002. Pedestrians' right-of-way at crosswalks."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) When traffic control signals are not in place or not in operation the driver of a vehicle shall stop and yield the right-of-way to a pedestrian crossing the roadway within a crosswalk when the pedestrian is upon the half of the roadway upon which the vehicle is traveling, or when the pedestrian is approaching so closely from the opposite half of the roadway as to be in danger."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) No pedestrian shall suddenly leave a curb or other place of safety and walk or run into the path of a moving vehicle which is so close as to constitute an immediate hazard."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Paragraph (a) shall not apply under the condition stated in Section 11-1003(b)."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) Whenever any vehicle is stopped at a marked crosswalk or at any unmarked crosswalk at an intersection to permit a pedestrian to cross the roadway, the driver of any other vehicle approaching from the rear shall not overtake and pass such stopped vehicle."
+    },
+    {
+      "type": "subsection",
+      "label": "(e)",
+      "text": "(e) Whenever stop signs or flashing red signals are in place at an intersection or at a plainly marked crosswalk between intersections, drivers shall yield right-of-way to pedestrians as set forth in Section 11-904 of this Chapter."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 96-1165, eff. 7-22-10.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 96-1165, eff. 7-22-10.)",
+  "publicActs": [
+    {
+      "publicAct": "96-1165",
+      "effectiveDate": "7-22-10"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "09350b11749876bea4b2bce232ef827cc2bab96e2bce9a8b31bea4ad9ce41e38",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0258"
+  ]
+}

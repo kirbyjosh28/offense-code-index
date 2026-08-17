@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-16-2",
+  "citation": "720 ILCS 5/16-2",
+  "docName": "072000050K16-2",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K16-2",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:25:34.811Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/16-2",
+  "headingText": "Sec. 16-2. Theft of lost or mislaid property. A person commits theft of lost or mislaid property when he or she obtains control over the property and:",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/16-2) (from Ch. 38, par. 16-2)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 16-2. Theft of lost or mislaid property. A person commits theft of lost or mislaid property when he or she obtains control over the property and:"
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) Knows or learns the identity of the owner or knows, or is aware of, or learns of a reasonable method of identifying the owner, and"
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Fails to take reasonable measures to restore the property to the owner, and"
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Intends to deprive the owner permanently of the use or benefit of the property."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) Sentence."
+    },
+    {
+      "type": "paragraph",
+      "text": "Theft of lost or mislaid property where:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) the value does not exceed $500 is a Class B misdemeanor; (2) the value exceeds $500 but does not exceed $10,000 is a Class A misdemeanor; and (3) the value exceeds $10,000 is a Class 4 felony."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 97-597, eff. 1-1-12.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 97-597, eff. 1-1-12.)",
+  "publicActs": [
+    {
+      "publicAct": "97-597",
+      "effectiveDate": "1-1-12"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "6861cb39f5000e62a53f1622d5622774d8aecc034d2b0a7073818ebb0c245fd4",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0668"
+  ]
+}

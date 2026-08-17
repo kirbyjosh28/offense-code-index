@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-31-4",
+  "citation": "720 ILCS 5/31-4",
+  "docName": "072000050K31-4",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K31-4",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:29:12.523Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/31-4",
+  "headingText": "Sec. 31-4. Obstructing justice.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/31-4) (from Ch. 38, par. 31-4)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 31-4. Obstructing justice."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person obstructs justice when, with intent to prevent the apprehension or obstruct the prosecution or defense of any person, he or she knowingly commits any of the following acts:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) Destroys, alters, conceals or disguises physical evidence, plants false evidence, furnishes false information; or (2) Induces a witness having knowledge material to the subject at issue to leave the State or conceal himself or herself; or (3) Possessing knowledge material to the subject at issue, he or she leaves the State or conceals himself; or (4) If a parent, legal guardian, or caretaker of a child under 13 years of age reports materially false information to a law enforcement agency, medical examiner, coroner, State's Attorney, or other governmental agency during an investigation of the disappearance or death of a child under circumstances described in subsection (a) or (b) of Section 10-10 of this Code. (b) Sentence."
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) Obstructing justice is a Class 4 felony, except as provided in paragraph (2) of this subsection (b). (2) Obstructing justice in furtherance of streetgang related or gang-related activity, as defined in Section 10 of the Illinois Streetgang Terrorism Omnibus Prevention Act, is a Class 3 felony. (Source: P.A. 97-1079, eff. 1-1-13.)"
+    }
+  ],
+  "sourceLine": null,
+  "publicActs": [],
+  "repealed": false,
+  "bodyHash": "d6545b855c2b49cad794a1cb8f4e561ea19b129463ce056fcc1f0e989ca781c9",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0849",
+    "offense-0850"
+  ]
+}

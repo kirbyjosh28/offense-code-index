@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0570-406",
+  "citation": "720 ILCS 570/406",
+  "docName": "072005700K406",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072005700K406",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:31:09.656Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 570/406",
+  "headingText": "Sec. 406. (a) It is unlawful for any person:",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 570/406) (from Ch. 56 1/2, par. 1406)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 406. (a) It is unlawful for any person:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) who is subject to Article III knowingly to distribute or dispense a controlled substance in violation of Sections 308 through 314.5 of this Act; or (2) who is a registrant, to manufacture a controlled substance not authorized by his or her registration, or to distribute or dispense a controlled substance not authorized by his or her registration to another registrant or other authorized person; or (3) to refuse or fail to make, keep or furnish any record, notification, order form, statement, invoice or information required under this Act; or (4) to refuse an entry into any premises for any inspection authorized by this Act; or (5) knowingly to keep or maintain any store, shop, warehouse, dwelling, building, vehicle, boat, aircraft, or other structure or place, which is resorted to by a person unlawfully possessing controlled substances, or which is used for possessing, manufacturing, dispensing or distributing controlled substances in violation of this Act. Any person who violates this subsection (a) is guilty of a Class A misdemeanor for the first offense and a Class 4 felony for each subsequent offense. The fine for each subsequent offense shall not be more than $100,000. In addition, any practitioner who is found guilty of violating this subsection (a) is subject to suspension and revocation of his or her professional license, in accordance with such procedures as are provided by law for the taking of disciplinary action with regard to the license of said practitioner's profession."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) It is unlawful for any person knowingly:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) to distribute, as a registrant, a controlled substance classified in Schedule I or II, except pursuant to an order form as required by Section 307 of this Act; or (2) to use, in the course of the manufacture or distribution of a controlled substance, a registration number which is fictitious, revoked, suspended, or issued to another person; or (3) to acquire or obtain, or attempt to acquire or obtain, possession of a controlled substance by misrepresentation, fraud, forgery, deception or subterfuge; or (3.1) to withhold information requested from a practitioner, with the intent to obtain a controlled substance that has not been prescribed, by misrepresentation, fraud, forgery, deception, subterfuge, or concealment of a material fact; or (4) to furnish false or fraudulent material information in, or omit any material information from, any application, report or other document required to be kept or filed under this Act, or any record required to be kept by this Act; or (5) to make, distribute or possess any punch, die, plate, stone or other thing designed to print, imprint or reproduce the trademark, trade name or other identifying mark, imprint or device of another, or any likeness of any of the foregoing, upon any controlled substance or container or labeling thereof so as to render the drug a counterfeit substance; or (6) (blank); or"
+    },
+    {
+      "type": "subsection",
+      "label": "(7)",
+      "text": "(7) (blank)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Any person who violates this subsection (b) is guilty of a Class 4 felony for the first offense and a Class 3 felony for each subsequent offense. The fine for the first offense shall be not more than $100,000. The fine for each subsequent offense shall not be more than $200,000."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) A person who knowingly or intentionally violates Section 316, 317, 318, or 319 is guilty of a Class A misdemeanor."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 99-480, eff. 9-9-15.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 99-480, eff. 9-9-15.)",
+  "publicActs": [
+    {
+      "publicAct": "99-480",
+      "effectiveDate": "9-9-15"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "32c14343c788dd6028e6ace7f8fcbfd1bc615744f8f765fd23e7f792df166aca",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0935"
+  ]
+}

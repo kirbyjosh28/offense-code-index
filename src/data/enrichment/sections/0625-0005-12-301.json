@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-12-301",
+  "citation": "625 ILCS 5/12-301",
+  "docName": "062500050K12-301",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K12-301",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:18:10.532Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/12-301",
+  "headingText": "Sec. 12-301. Brakes.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/12-301) (from Ch. 95 1/2, par. 12-301)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 12-301. Brakes."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) Brake equipment required."
+    },
+    {
+      "type": "paragraph",
+      "text": "1. Every motor vehicle, other than a motor-driven cycle, an antique vehicle displaying an antique plate, and an expanded-use antique vehicle displaying expanded-use antique vehicle plates, when operated upon a highway shall be equipped with brakes adequate to control the movement of and to stop and hold such vehicle, including 2 separate means of applying the brakes, each of which means shall be effective to apply the brakes to at least one wheel on a motorcycle and at least 2 wheels on all other first division and second division vehicles. If these 2 separate means of applying the brakes are connected in any way, they shall be so constructed that failure of any one part of the operating mechanism shall not leave the motor vehicle without brakes. 2. Every motor-driven cycle when operated upon a highway shall be equipped with at least one brake which may be operated by hand or foot. 3. Every antique vehicle shall be equipped with the brakes of the same type originally installed by the manufacturer as original equipment and in working order. 4. Except as provided in paragraph 4.1, every trailer or semitrailer of a gross weight of over 3,000 pounds, when operated upon a highway must be equipped with brakes adequate to control the movement of, to stop and to hold such vehicle, and designed so as to be operable by the driver of the towing vehicle from its cab. Such brakes must be so designed and connected that in case of an accidental breakaway of a towed vehicle over 5,000 pounds, the brakes are automatically applied. 4.1. Every boat trailer of a gross weight of over 3,000 pounds, when operated upon a highway, must be equipped with brakes adequate to control the movement of, to stop, and to hold that boat trailer. The brakes must be designed to ensure that, in case of an accidental breakaway of a towed boat trailer over 5,000 pounds, the brakes are automatically applied. 5. Every motor vehicle, expanded-use antique vehicle, trailer, pole trailer or semitrailer, sold in this State or operated upon the highways shall be equipped with service brakes upon all wheels of every such vehicle, except any motor-driven cycle, and except that any trailer, pole trailer or semitrailer 3,000 pounds gross weight or less need not be equipped with brakes, and except that any trailer or semitrailer with gross weight over 3,000 pounds but under 5,001 pounds need be equipped with brakes on only one wheel on each side of the vehicle. Any motor vehicle and truck tractor having 3 or more axles and manufactured prior to July 25, 1980 need not have brakes on the front wheels, except when such vehicles are equipped with at least 2 steerable axles, the wheels of one such axle need not be equipped with brakes. However, a vehicle that is more than 30 years of age and which is driven on the highways only in going to and returning from an antique auto show or for servicing or for a demonstration need be equipped with 2 wheel brakes only. (b) Performance ability of brakes."
+    },
+    {
+      "type": "paragraph",
+      "text": "1. The service brakes upon any motor vehicle or combination of vehicles operating on a level surface shall be adequate to stop such vehicle or vehicles when traveling 20 miles per hour within a distance of 30 feet when upon dry asphalt or concrete pavement surface free from loose material. 2. Under the above conditions the hand brake shall be adequate to stop such vehicle or vehicles, except any motorcycle, within a distance of 55 feet and the hand brake shall be adequate to hold such vehicle or vehicles stationary on any grade upon which operated. 3. Under the above conditions the service brakes upon an antique vehicle or expanded-use antique vehicle shall be adequate to stop the vehicle within a distance of 40 feet and the hand brake adequate to stop the vehicle within a distance of 55 feet. 4. All braking distances specified in this Section apply to all vehicles mentioned, whether such vehicles are unloaded or are loaded to the maximum capacity permitted under this Act. 5. All brakes shall be maintained in good working order and shall be so adjusted as to operate as equally as practicable with respect to the wheels on opposite sides of the vehicle. 6. Brake assembly requirements for mobile homes shall be the standards required by the United States Department of Housing and Urban Development adopted under Title VI of the Housing and Community Development Act of 1974. (c) (Blank)."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 96-487, eff. 1-1-10; 97-412, eff. 1-1-12.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 96-487, eff. 1-1-10; 97-412, eff. 1-1-12.)",
+  "publicActs": [
+    {
+      "publicAct": "96-487",
+      "effectiveDate": "1-1-10"
+    },
+    {
+      "publicAct": "97-412",
+      "effectiveDate": "1-1-12"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "b379a469beca9ccebbc40701d5f86a1b5171321c86f03a73608645353ca63d11",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0357"
+  ]
+}

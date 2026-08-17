@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-24-3.5",
+  "citation": "720 ILCS 5/24-3.5",
+  "docName": "072000050K24-3.5",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K24-3.5",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:28:00.454Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/24-3.5",
+  "headingText": "Sec. 24-3.5. Unlawful purchase of a firearm.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/24-3.5)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 24-3.5. Unlawful purchase of a firearm."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) For purposes of this Section, \"firearms transaction record form\" means a form:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) executed by a transferee of a firearm stating: (i) the transferee's name and address (including county or similar political subdivision); (ii) whether the transferee is a citizen of the United States; (iii) the transferee's State of residence; and (iv) the date and place of birth, height, weight, and race of the transferee; and (2) on which the transferee certifies that he or she is not prohibited by federal law from transporting or shipping a firearm in interstate or foreign commerce or receiving a firearm that has been shipped or transported in interstate or foreign commerce or possessing a firearm in or affecting commerce. (b) A person commits the offense of unlawful purchase of a firearm who knowingly purchases or attempts to purchase a firearm with the intent to deliver that firearm to another person who is prohibited by federal or State law from possessing a firearm."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) A person commits the offense of unlawful purchase of a firearm when he or she, in purchasing or attempting to purchase a firearm, intentionally provides false or misleading information on a United States Department of the Treasury, Bureau of Alcohol, Tobacco and Firearms firearms transaction record form."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) Exemption. It is not a violation of subsection (b) of this Section for a person to make a gift or loan of a firearm to a person who is not prohibited by federal or State law from possessing a firearm if the transfer of the firearm is made in accordance with Section 3 of the Firearm Owners Identification Card Act."
+    },
+    {
+      "type": "subsection",
+      "label": "(e)",
+      "text": "(e) Sentence."
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) A person who commits the offense of unlawful purchase of a firearm: (A) is guilty of a Class 2 felony for purchasing or attempting to purchase one firearm; (B) is guilty of a Class 1 felony for purchasing or attempting to purchase not less than 2 firearms and not more than 5 firearms at the same time or within a one year period; (C) is guilty of a Class X felony for which the offender shall be sentenced to a term of imprisonment of not less than 9 years and not more than 40 years for purchasing or attempting to purchase not less than 6 firearms at the same time or within a 2 year period. (2) In addition to any other penalty that may be imposed for a violation of this Section, the court may sentence a person convicted of a violation of subsection (c) of this Section to a fine not to exceed $250,000 for each violation. (f) A prosecution for unlawful purchase of a firearm may be commenced within 6 years after the commission of the offense."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 95-882, eff. 1-1-09.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 95-882, eff. 1-1-09.)",
+  "publicActs": [
+    {
+      "publicAct": "95-882",
+      "effectiveDate": "1-1-09"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "25f4c674aa62ea954c169d445b5e50737245486558d98be63c8a0ba0b3b80453",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0791"
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-3-707",
+  "citation": "625 ILCS 5/3-707",
+  "docName": "062500050K3-707",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K3-707",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:20:34.445Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/3-707",
+  "headingText": "Sec. 3-707. Operation of uninsured motor vehicle - penalty.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/3-707) (from Ch. 95 1/2, par. 3-707)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 3-707. Operation of uninsured motor vehicle - penalty."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) No person shall operate a motor vehicle in this State unless the motor vehicle is covered by a liability insurance policy in accordance with Section 7-601 of this Code."
+    },
+    {
+      "type": "paragraph",
+      "text": "(a-5) A person commits the offense of operation of uninsured motor vehicle causing bodily harm when the person:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) operates a motor vehicle in violation of Section 7-601 of this Code; and (2) causes, as a proximate result of the person's operation of the motor vehicle, bodily harm to another person. (a-6) Uninsured operation of a motor vehicle under subsection (a-5) is a Class A misdemeanor. If a person convicted of the offense of operation of a motor vehicle under subsection (a-5) has previously been convicted of 2 or more violations of subsection (a-5) of this Section or of Section 7-601 of this Code, a fine of $2,500, in addition to any sentence of incarceration, must be imposed."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Any person who fails to comply with a request by a law enforcement officer for display of evidence of insurance, as required under Section 7-602 of this Code, shall be deemed to be operating an uninsured motor vehicle."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Except as provided in subsections (a-6) and (c-5), any operator of a motor vehicle subject to registration under this Code, or under a similar law of another state, who is convicted of violating this Section is guilty of a petty offense and shall be required to pay a fine in excess of $500, but not more than $1,000, except a person convicted of a third or subsequent violation of this Section shall be guilty of a business offense and shall be required to pay a fine of $1,000. However, no person charged with violating this Section shall be convicted if such person produces in court satisfactory evidence that at the time of the arrest the motor vehicle was covered by a liability insurance policy in accordance with Section 7-601 of this Code. The chief judge of each circuit may designate an officer of the court to review the documentation demonstrating that at the time of arrest the motor vehicle was covered by a liability insurance policy in accordance with Section 7-601 of this Code."
+    },
+    {
+      "type": "paragraph",
+      "text": "(c-1) A person convicted of violating this Section shall also have his or her driver's license, permit, or privileges suspended for 3 months. After the expiration of the 3 months, the person's driver's license, permit, or privileges shall not be reinstated until he or she has paid a reinstatement fee of $100. If a person violates this Section while his or her driver's license, permit, or privileges are suspended under this subsection (c-1), his or her driver's license, permit, or privileges shall be suspended for an additional 6 months and until he or she pays the reinstatement fee."
+    },
+    {
+      "type": "paragraph",
+      "text": "(c-5) A person who (i) has not previously been convicted of or received a disposition of court supervision for violating this Section and (ii) produces at his or her court appearance satisfactory evidence that the motor vehicle is covered, as of the date of the court appearance, by a liability insurance policy in accordance with Section 7-601 of this Code shall, for a violation of this Section, other than a violation of subsection (a-5), pay a fine of $100 and receive a disposition of court supervision. The person must, on the date that the period of court supervision is scheduled to terminate, produce satisfactory evidence that the vehicle was covered by the required liability insurance policy during the entire period of court supervision."
+    },
+    {
+      "type": "paragraph",
+      "text": "An officer of the court designated under subsection (c) may also review liability insurance documentation under this subsection (c-5) to determine if the motor vehicle is, as of the date of the court appearance, covered by a liability insurance policy in accordance with Section 7-601 of this Code. The officer of the court shall also determine, on the date the period of court supervision is scheduled to terminate, whether the vehicle was covered by the required policy during the entire period of court supervision."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) A person convicted a third or subsequent time of violating this Section or a similar provision of a local ordinance must give proof to the Secretary of State of the person's financial responsibility as defined in Section 7-315. The person must maintain the proof in a manner satisfactory to the Secretary for a minimum period of 3 years after the date the proof is first filed. The Secretary must suspend the driver's license of any person determined by the Secretary not to have provided adequate proof of financial responsibility as required by this subsection."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 102-509, eff. 1-1-22.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 102-509, eff. 1-1-22.)",
+  "publicActs": [
+    {
+      "publicAct": "102-509",
+      "effectiveDate": "1-1-22"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "371bd5140b56a4c6ab52e698169fb35f4acbf5c1cb3f0157d088c346ec02f14d",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0041"
+  ]
+}

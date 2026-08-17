@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0035-0135-25a",
+  "citation": "35 ILCS 135/25a",
+  "docName": "003501350K25a",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=003501350K25a",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:13:53.203Z",
+  "transport": "cache",
+  "canonicalCitation": "35 ILCS 135/25a",
+  "headingText": "Sec. 25a. Possession of more than 100 original packages of contraband cigarettes; penalty. With the exception of licensed distributors or transporters, as defined in Section 9c of the Cigarette Tax Act, possessing unstamped original packages of cigarettes, and licensed distributors possessing original packages of cigarettes that bear a tax stamp of another state or taxing jurisdiction, anyone possessing or having possessed more than 100 packages of contraband cigarettes contained in original packages is liable to pay, to the Department for deposit into the Tax Compliance and Administration Fund, a penalty of $25 for each such package of cigarettes in excess of 100 packages, unless reasonable cause can be established by the person upon whom the penalty is imposed. Reasonable cause shall be determined in each situation in accordance with rules adopted by the Department. The provisions of the Uniform Penalty and Interest Act do not apply to this Section.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(35 ILCS 135/25a) (from Ch. 120, par. 453.55a)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 25a. Possession of more than 100 original packages of contraband cigarettes; penalty. With the exception of licensed distributors or transporters, as defined in Section 9c of the Cigarette Tax Act, possessing unstamped original packages of cigarettes, and licensed distributors possessing original packages of cigarettes that bear a tax stamp of another state or taxing jurisdiction, anyone possessing or having possessed more than 100 packages of contraband cigarettes contained in original packages is liable to pay, to the Department for deposit into the Tax Compliance and Administration Fund, a penalty of $25 for each such package of cigarettes in excess of 100 packages, unless reasonable cause can be established by the person upon whom the penalty is imposed. Reasonable cause shall be determined in each situation in accordance with rules adopted by the Department. The provisions of the Uniform Penalty and Interest Act do not apply to this Section."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 100-940, eff. 8-17-18.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 100-940, eff. 8-17-18.)",
+  "publicActs": [
+    {
+      "publicAct": "100-940",
+      "effectiveDate": "8-17-18"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "08fab0b98cf9faa9bdefa0a567455e223ffee1dd4ce23fc8c473b823a378e637",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0517"
+  ]
+}

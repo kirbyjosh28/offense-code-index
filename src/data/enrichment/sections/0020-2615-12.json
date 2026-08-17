@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0020-2615-12",
+  "citation": "20 ILCS 2615/12",
+  "docName": "002026150K12",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=002026150K12",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:13:51.694Z",
+  "transport": "cache",
+  "canonicalCitation": "20 ILCS 2615/12",
+  "headingText": "Sec. 12. Use of public safety radio system by unauthorized radios.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(20 ILCS 2615/12)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 12. Use of public safety radio system by unauthorized radios."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) Radio access to the public safety radio system within the State may only be accomplished upon receipt of written authorization granted by the appropriately licensed authority. No person shall gain access to, or the ability to transmit on, a public safety radio system (i) by changing, or causing to be changed, the hardware, firmware, or software of a radio unit causing it to duplicate the identity of a radio unit operating on the system with proper authority or (ii) by cloning."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Unauthorized access to the State's radio system in violation of this Section is a Class A misdemeanor."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 96-1236, eff. 7-23-10.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 96-1236, eff. 7-23-10.)",
+  "publicActs": [
+    {
+      "publicAct": "96-1236",
+      "effectiveDate": "7-23-10"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "2db3a422bc20474b59a46f538589065416873499ee42d52d87ee6bee19fad72e",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0516"
+  ]
+}

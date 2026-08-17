@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-12C-65",
+  "citation": "720 ILCS 5/12C-65",
+  "docName": "072000050K12C-65",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K12C-65",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:25:25.798Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/12C-65",
+  "headingText": "Sec. 12C-65. Unlawful transfer of a telecommunications device to a minor.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/12C-65) (was 720 ILCS 5/44-2 and 5/44-3)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 12C-65. Unlawful transfer of a telecommunications device to a minor."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits unlawful transfer of a telecommunications device to a minor when he or she gives, sells or otherwise transfers possession of a telecommunications device to a person under 18 years of age with the intent that the device be used to commit any offense under this Code, the Cannabis Control Act, the Illinois Controlled Substances Act, or the Methamphetamine Control and Community Protection Act."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) \"Telecommunications device\" or \"device\" means a device which is portable or which may be installed in a motor vehicle, boat or other means of transportation, and which is capable of receiving or transmitting speech, data, signals or other information, including but not limited to paging devices, cellular and mobile telephones, and radio transceivers, transmitters and receivers, but not including radios designed to receive only standard AM and FM broadcasts."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Sentence. A violation of this Section is a Class A misdemeanor."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) Seizure and forfeiture of property. Any person who commits the offense of unlawful transfer of a telecommunications device to a minor as set forth in this Section is subject to the property forfeiture provisions in Article 124B of the Code of Criminal Procedure of 1963."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 97-1109, eff. 1-1-13.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 97-1109, eff. 1-1-13.)",
+  "publicActs": [
+    {
+      "publicAct": "97-1109",
+      "effectiveDate": "1-1-13"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "c6a915da8a4e080f764f32b435abbcc6e5c6f2211e50e035f8d7248e23dfbea2",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0665"
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-12C-25",
+  "citation": "720 ILCS 5/12C-25",
+  "docName": "072000050K12C-25",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K12C-25",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:25:12.282Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/12C-25",
+  "headingText": "Sec. 12C-25. Contributing to the dependency and neglect of a minor.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/12C-25)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 12C-25. Contributing to the dependency and neglect of a minor."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) Any parent, legal guardian or person having the custody of a child under the age of 18 years commits contributing to the dependency and neglect of a minor when he or she knowingly: (1) causes, aids, or encourages such minor to be or to become a dependent and neglected minor; (2) does acts which directly tend to render any such minor so dependent and neglected; or (3) fails to do that which will directly tend to prevent such state of dependency and neglect. It is not a violation of this Section for a person to relinquish a child in accordance with the Abandoned Newborn Infant Protection Act."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) \"Dependent and neglected minor\" means any child who, while under the age of 18 years, for any reason is destitute, homeless or abandoned; or dependent upon the public for support; or has not proper parental care or guardianship; or habitually begs or receives alms; or is found living in any house of ill fame or with any vicious or disreputable person; or has a home which by reason of neglect, cruelty or depravity on the part of its parents, guardian or any other person in whose care it may be is an unfit place for such child; and any child who while under the age of 10 years is found begging, peddling or selling any articles or singing or playing any musical instrument for gain upon the street or giving any public entertainments or accompanies or is used in aid of any person so doing."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Sentence. A violation of this Section is a Class A misdemeanor."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) The husband or wife of the defendant shall be a competent witness to testify in any case under this Section and to all matters relevant thereto."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 97-1109, eff. 1-1-13.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 97-1109, eff. 1-1-13.)",
+  "publicActs": [
+    {
+      "publicAct": "97-1109",
+      "effectiveDate": "1-1-13"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "e2dea18d29fe75d5ae1cfbb4b2e5ea45e3da24439dad5092db8883c8d172c97d",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0657"
+  ]
+}

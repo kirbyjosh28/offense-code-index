@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-29D-14.9",
+  "citation": "720 ILCS 5/29D-14.9",
+  "docName": "072000050K29D-14.9",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K29D-14.9",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:28:53.003Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/29D-14.9",
+  "headingText": "Sec. 29D-14.9. Terrorism.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/29D-14.9) (was 720 ILCS 5/29D-30)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 29D-14.9. Terrorism."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits the offense of terrorism when, with the intent to intimidate or coerce a significant portion of a civilian population:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) he or she knowingly commits a terrorist act as defined in Section 29D-10(1) of this Code within this State; or (2) he or she, while outside this State, knowingly commits a terrorist act as defined in Section 29D-10(1) of this Code that takes effect within this State or produces substantial detrimental effects within this State. (b) Sentence. Terrorism is a Class X felony. If no deaths are caused by the terrorist act, the sentence shall be a term of 20 years to natural life imprisonment; if the terrorist act caused the death of one or more persons, however, a mandatory term of natural life imprisonment shall be the sentence if the death penalty is not imposed and the person has attained the age of 18 years at the time of the commission of the offense. An offender under the age of 18 years at the time of the commission of the offense shall be sentenced under Section 5-4.5-105 of the Unified Code of Corrections."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 99-69, eff. 1-1-16.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 99-69, eff. 1-1-16.)",
+  "publicActs": [
+    {
+      "publicAct": "99-69",
+      "effectiveDate": "1-1-16"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "e01c3a0022b44c0726064c788270e7dd52a4bb862e9283c286b1dd4e6d36457a",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0836"
+  ]
+}

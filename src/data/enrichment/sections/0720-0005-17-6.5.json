@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-17-6.5",
+  "citation": "720 ILCS 5/17-6.5",
+  "docName": "072000050K17-6.5",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K17-6.5",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:26:43.871Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/17-6.5",
+  "headingText": "Sec. 17-6.5. Persons under deportation order; ineligibility for benefits.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/17-6.5)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 17-6.5. Persons under deportation order; ineligibility for benefits."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) An individual against whom a United States Immigration Judge has issued an order of deportation which has been affirmed by the Board of Immigration Review, as well as an individual who appeals such an order pending appeal, under paragraph 19 of Section 241(a) of the Immigration and Nationality Act relating to persecution of others on account of race, religion, national origin or political opinion under the direction of or in association with the Nazi government of Germany or its allies, shall be ineligible for the following benefits authorized by State law:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) The homestead exemptions and homestead improvement exemption under Sections 15-170, 15-175, 15-176, and 15-180 of the Property Tax Code. (2) Grants under the Senior Citizens and Persons with Disabilities Property Tax Relief Act. (3) The double income tax exemption conferred upon persons 65 years of age or older by Section 204 of the Illinois Income Tax Act. (4) Grants provided by the Department on Aging."
+    },
+    {
+      "type": "subsection",
+      "label": "(5)",
+      "text": "(5) Reductions in vehicle registration fees under Section 3-806.3 of the Illinois Vehicle Code. (6) Free fishing and reduced fishing license fees under Sections 20-5 and 20-40 of the Fish and Aquatic Life Code. (7) Tuition free courses for senior citizens under the Senior Citizen Courses Act. (8) Any benefits under the Illinois Public Aid Code."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) If a person has been found by a court to have knowingly received benefits in violation of subsection (a) and:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) the total monetary value of the benefits received is less than $150, the person is guilty of a Class A misdemeanor; a second or subsequent violation is a Class 4 felony; (2) the total monetary value of the benefits received is $150 or more but less than $1,000, the person is guilty of a Class 4 felony; a second or subsequent violation is a Class 3 felony; (3) the total monetary value of the benefits received is $1,000 or more but less than $5,000, the person is guilty of a Class 3 felony; a second or subsequent violation is a Class 2 felony; (4) the total monetary value of the benefits received is $5,000 or more but less than $10,000, the person is guilty of a Class 2 felony; a second or subsequent violation is a Class 1 felony; or (5) the total monetary value of the benefits received is $10,000 or more, the person is guilty of a Class 1 felony. (c) For purposes of determining the classification of an offense under this Section, all of the monetary value of the benefits received as a result of the unlawful act, practice, or course of conduct may be accumulated."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) Any grants awarded to persons described in subsection (a) may be recovered by the State of Illinois in a civil action commenced by the Attorney General in the circuit court of Sangamon County or the State's Attorney of the county of residence of the person described in subsection (a)."
+    },
+    {
+      "type": "subsection",
+      "label": "(e)",
+      "text": "(e) An individual described in subsection (a) who has been deported shall be restored to any benefits which that individual has been denied under State law pursuant to subsection (a) if (i) the Attorney General of the United States has issued an order cancelling deportation and has adjusted the status of the individual to that of a person lawfully admitted for permanent residence in the United States or (ii) the country to which the individual has been deported adjudicates or exonerates the individual in a judicial or administrative proceeding as not being guilty of the persecution of others on account of race, religion, national origin, or political opinion under the direction of or in association with the Nazi government of Germany or its allies."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 102-1030, eff. 5-27-22.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 102-1030, eff. 5-27-22.)",
+  "publicActs": [
+    {
+      "publicAct": "102-1030",
+      "effectiveDate": "5-27-22"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "7eb7fd766b002062a94fb09d328ad212138d339d2f784765bdb322af2d0bbb83",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0704"
+  ]
+}

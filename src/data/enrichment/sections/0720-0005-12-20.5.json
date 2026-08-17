@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-12-20.5",
+  "citation": "720 ILCS 5/12-20.5",
+  "docName": "072000050K12-20.5",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K12-20.5",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:24:15.217Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/12-20.5",
+  "headingText": "Sec. 12-20.5. Dismembering a human body.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/12-20.5)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 12-20.5. Dismembering a human body."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits dismembering a human body when he or she knowingly dismembers, severs, separates, dissects, or mutilates any body part of a deceased's body."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) This Section does not apply to:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) an anatomical gift made in accordance with the Illinois Anatomical Gift Act; (2) (blank);"
+    },
+    {
+      "type": "subsection",
+      "label": "(3)",
+      "text": "(3) the purchase or sale of drugs, reagents, or other substances made from human body parts, for the use in medical or scientific research, treatment, or diagnosis; (4) persons employed by a county medical examiner's office or coroner's office acting within the scope of their employment while performing an autopsy; (5) the acts of a licensed funeral director or embalmer while performing acts authorized by the Funeral Directors and Embalmers Licensing Code; (6) the acts of emergency medical personnel or physicians performed in good faith and according to the usual and customary standards of medical practice in an attempt to resuscitate a life; or (7) physicians licensed to practice medicine in all of its branches or holding a visiting professor, physician, or resident permit under the Medical Practice Act of 1987, performing acts in accordance with usual and customary standards of medical practice, or a currently enrolled student in an accredited medical school in furtherance of his or her education at the accredited medical school. (c) It is not a defense to a violation of this Section that the decedent died due to natural, accidental, or suicidal causes."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) Sentence. Dismembering a human body is a Class X felony."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 95-331, eff. 8-21-07; 96-1551, eff. 7-1-11.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 95-331, eff. 8-21-07; 96-1551, eff. 7-1-11.)",
+  "publicActs": [
+    {
+      "publicAct": "95-331",
+      "effectiveDate": "8-21-07"
+    },
+    {
+      "publicAct": "96-1551",
+      "effectiveDate": "7-1-11"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "7f833c0d9358ec7d7d0ce6bab9694791e7e786bf2c09b36aad7ee8e1c762369c",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0646"
+  ]
+}

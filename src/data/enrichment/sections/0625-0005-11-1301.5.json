@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-1301.5",
+  "citation": "625 ILCS 5/11-1301.5",
+  "docName": "062500050K11-1301.5",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-1301.5",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:15:07.088Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-1301.5",
+  "headingText": "Sec. 11-1301.5. Fictitious or unlawfully altered disability license plate or parking decal or device.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-1301.5)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-1301.5. Fictitious or unlawfully altered disability license plate or parking decal or device."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) As used in this Section:"
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Fictitious disability license plate or parking decal or device\" means any issued disability license plate or parking decal or device, or any license plate issued to a veteran with a disability under Section 3-609 of this Code, that has been issued by the Secretary of State or an authorized unit of local government that was issued based upon false information contained on the required application."
+    },
+    {
+      "type": "paragraph",
+      "text": "\"False information\" means any incorrect or inaccurate information concerning the name, date of birth, social security number, driver's license number, military identification number, Medicaid or Medicare identification number, physician certification, or any other information required on the Persons with Disabilities Certification for Plate or Parking Placard, on the Application for Replacement Disability Parking Placard, or on the application for license plates issued to veterans with disabilities under Section 3-609 of this Code, that falsifies the content of the application."
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Unlawfully altered disability license plate or parking permit or device\" means any disability license plate or parking permit or device, or any license plate issued to a veteran with a disability under Section 3-609 of this Code, issued by the Secretary of State or an authorized unit of local government that has been physically altered or changed in such manner that false information appears on the license plate or parking decal or device."
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Authorized holder\" means an individual issued a disability license plate under Section 3-616 of this Code or an individual issued a parking decal or device under Section 11-1301.2 of this Code, or an individual issued a license plate for veterans with disabilities under Section 3-609 of this Code."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) It is a violation of this Section for any person:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) to knowingly possess any fictitious or unlawfully altered disability license plate or parking decal or device; (2) to knowingly issue or assist in the issuance of, by the Secretary of State or unit of local government, any fictitious disability license plate or parking decal or device; (3) to knowingly alter any disability license plate or parking decal or device; (4) to knowingly manufacture, possess, transfer, or provide any documentation used in the application process whether real or fictitious, for the purpose of obtaining a fictitious disability license plate or parking decal or device; (5) to knowingly provide any false information to the Secretary of State or a unit of local government in order to obtain a disability license plate or parking decal or device; (6) to knowingly transfer a disability license plate or parking decal or device for the purpose of exercising the privileges granted to an authorized holder of a disability license plate or parking decal or device under this Code in the absence of the authorized holder; or (7) who is a physician, physician assistant, or advanced practice registered nurse to knowingly falsify a certification that a person is a person with disabilities as defined by Section 1-159.1 of this Code. (c) Sentence."
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) Any person convicted of a violation of paragraph (1), (2), (3), (4), (5), or (7) of subsection (b) of this Section shall be guilty of a Class A misdemeanor and fined not less than $1,000 for a first offense and shall be guilty of a Class 4 felony and fined not less than $2,000 for a second or subsequent offense. Any person convicted of a violation of subdivision (b)(6) of this Section is guilty of a Class A misdemeanor and shall be fined not less than $1,000 for a first offense and not less than $2,000 for a second or subsequent offense. The circuit clerk shall distribute one-half of any fine imposed on any person who is found guilty of or pleads guilty to violating this Section, including any person placed on court supervision for violating this Section, to the law enforcement agency that issued the citation or made the arrest. If more than one law enforcement agency is responsible for issuing the citation or making the arrest, one-half of the fine imposed shall be shared equally. (2) Any person who commits a violation of this Section or a similar provision of a local ordinance may have his or her driving privileges suspended or revoked by the Secretary of State for a period of time determined by the Secretary of State. The Secretary of State may suspend or revoke the parking decal or device or the disability license plate of any person who commits a violation of this Section. (3) Any police officer may seize the parking decal or device from any person who commits a violation of this Section. Any police officer may seize the disability license plate upon authorization from the Secretary of State. Any police officer may request that the Secretary of State revoke the parking decal or device or the disability license plate of any person who commits a violation of this Section. (Source: P.A. 99-143, eff. 7-27-15; 100-513, eff. 1-1-18; 100-702, eff. 1-1-19.)"
+    }
+  ],
+  "sourceLine": null,
+  "publicActs": [],
+  "repealed": false,
+  "bodyHash": "a9170527ed402065db80b91abd57d4edc662999b7e17703f954d9f1e5b010c5e",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0277",
+    "offense-0278"
+  ]
+}

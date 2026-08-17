@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-15-111",
+  "citation": "625 ILCS 5/15-111",
+  "docName": "062500050K15-111",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K15-111",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:19:44.920Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/15-111",
+  "headingText": "Sec. 15-111. Wheel and axle loads and gross weights.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/15-111) (from Ch. 95 1/2, par. 15-111)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 15-111. Wheel and axle loads and gross weights."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) No vehicle or combination of vehicles with pneumatic tires may be operated, unladen or with load, when the total weight on the road surface exceeds the following: 20,000 pounds on a single axle; 34,000 pounds on a tandem axle with no axle within the tandem exceeding 20,000 pounds; 80,000 pounds gross weight for vehicle combinations of 5 or more axles; or a total weight on a group of 2 or more consecutive axles in excess of that weight produced by the application of the following formula: W = 500 times the sum of (LN divided by N-1) + 12N + 36, where \"W\" equals overall total weight on any group of 2 or more consecutive axles to the nearest 500 pounds, \"L\" equals the distance measured to the nearest foot between extremes of any group of 2 or more consecutive axles, and \"N\" equals the number of axles in the group under consideration."
+    },
+    {
+      "type": "paragraph",
+      "text": "The above formula when expressed in tabular form results in allowable loads as follows:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Distance measured"
+    },
+    {
+      "type": "paragraph",
+      "text": "to the nearest"
+    },
+    {
+      "type": "paragraph",
+      "text": "foot between the"
+    },
+    {
+      "type": "paragraph",
+      "text": "extremes of any Maximum weight in pounds"
+    },
+    {
+      "type": "paragraph",
+      "text": "group of 2 or of any group of"
+    },
+    {
+      "type": "paragraph",
+      "text": "more consecutive 2 or more consecutive axles"
+    },
+    {
+      "type": "paragraph",
+      "text": "axlesfeet2 axles3 axles4 axles5 axles6 axles434,000534,000634,000734,000834,000*34,000Between 8 and 9"
+    },
+    {
+      "type": "paragraph",
+      "text": "38,000 42,000 939,00042,5001040,00043,5001144,0001245,00050,0001345,50050,5001446,50051,5001547,00052,0001648,00052,50058,0001748,50053,50058,5001849,50054,00059,0001950,00054,50060,0002051,00055,50060,50066,0002151,50056,00061,00066,5002252,50056,50061,50067,0002353,00057,50062,50068,0002454,00058,00063,00068,5002554,50058,50063,50069,0002655,50059,50064,00069,5002756,00060,00065,00070,0002857,00060,50065,50071,0002957,50061,50066,00071,5003058,50062,00066,50072,0003159,00062,50067,50072,5003260,00063,50068,00073,0003364,00068,50074,0003464,50069,00074,5003565,50070,00075,0003666,000**70,50075,5003766,500**71,00076,0003867,500**72,00077,0003968,00072,50077,5004068,50073,00078,0004169,50073,50078,5004270,00074,00079,0004370,50075,00080,0004471,50075,5004572,00076,0004672,50076,5004773,50077,5004874,00078,0004974,50078,5005075,50079,0005176,00080,0005276,5005377,5005478,0005578,5005679,5005780,000*If the distance between 2 axles is 96 inches or less, the 2 axles are tandem axles and the maximum total weight may not exceed 34,000 pounds, notwithstanding the higher limit resulting from the application of the formula."
+    },
+    {
+      "type": "paragraph",
+      "text": "**Two consecutive sets of tandem axles may carry 34,000 pounds each if the overall distance between the first and last axles of these tandems is 36 feet or more."
+    },
+    {
+      "type": "paragraph",
+      "text": "Vehicles not in a combination having more than 4 axles may not exceed the weight in the table in this subsection (a) for 4 axles measured between the extreme axles of the vehicle."
+    },
+    {
+      "type": "paragraph",
+      "text": "Vehicles in a combination having more than 6 axles may not exceed the weight in the table in this subsection (a) for 6 axles measured between the extreme axles of the combination."
+    },
+    {
+      "type": "paragraph",
+      "text": "Local authorities, with respect to streets and highways under their jurisdiction, without additional fees, may also by ordinance or resolution allow the weight limitations of this subsection, provided the maximum gross weight on any one axle shall not exceed 20,000 pounds and the maximum total weight on any tandem axle shall not exceed 34,000 pounds, on designated highways when appropriate regulatory signs giving notice are erected upon the street or highway or portion of any street or highway affected by the ordinance or resolution."
+    },
+    {
+      "type": "paragraph",
+      "text": "The following are exceptions to the above formula:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) Vehicles for which a different limit is established and posted in accordance with Section 15-316 of this Code. (2) Vehicles for which the Department of Transportation and local authorities issue overweight permits under authority of Section 15-301 of this Code. These vehicles are not subject to the bridge formula. (3) Cities having a population of more than 50,000 may permit by ordinance axle loads on 2-axle motor vehicles 33 1/2% above those provided for herein, but the increase shall not become effective until the city has officially notified the Department of the passage of the ordinance and shall not apply to those vehicles when outside of the limits of the city, nor shall the gross weight of any 2-axle motor vehicle operating over any street of the city exceed 40,000 pounds. (4) Weight limitations shall not apply to vehicles (including loads) operated by a public utility when transporting equipment required for emergency repair of public utility facilities or properties or water wells. (4.5) A 3-axle or 4-axle vehicle (including when laden) operated or hired by a municipality within Cook, Lake, McHenry, Kane, DuPage, or Will county being operated for the purpose of performing emergency sewer repair that would be subject to a weight limitation less than 66,000 pounds under the formula in this subsection (a) shall have a weight limitation of 66,000 pounds or the vehicle's gross vehicle weight rating, whichever is less. This paragraph (4.5) does not apply to vehicles being operated on the National System of Interstate and Defense Highways, or to vehicles being operated on bridges or other elevated structures constituting a part of a highway. (5) Two consecutive sets of tandem axles may carry a total weight of 34,000 pounds each if the overall distance between the first and last axles of the consecutive sets of tandem axles is 36 feet or more, notwithstanding the lower limit resulting from the application of the above formula. (6) A truck, not in combination and used exclusively for the collection of rendering materials, may, when laden, transmit upon the road surface, except when on part of the National System of Interstate and Defense Highways, the following maximum weights: 22,000 pounds on a single axle; 40,000 pounds on a tandem axle. (7) A truck not in combination, equipped with a self compactor or an industrial roll-off hoist and roll-off container, used exclusively for garbage, refuse, or recycling operations, may, when laden, transmit upon the road surface, except when on part of the National System of Interstate and Defense Highways, the following maximum weights: 22,000 pounds on a single axle; 40,000 pounds on a tandem axle; 40,000 pounds gross weight on a 2-axle vehicle; 54,000 pounds gross weight on a 3-axle vehicle. This vehicle is not subject to the bridge formula. (7.5) A 3-axle rear discharge truck mixer registered as a Special Hauling Vehicle, used exclusively for the mixing and transportation of concrete in the plastic state, may, when laden, transmit upon the road surface, except when on part of the National System of Interstate and Defense Highways, the following maximum weights: 22,000 pounds on single axle; 40,000 pounds on a tandem axle; 54,000 pounds gross weight on a 3-axle vehicle. This vehicle is not subject to the bridge formula. (8) Except as provided in paragraph (7.5) of this subsection (a), tandem axles on a 3-axle truck registered as a Special Hauling Vehicle with a distance greater than 72 inches but not more than 96 inches between any series of 2 axles, is allowed a combined weight on the series not to exceed 36,000 pounds and neither axle of the series may exceed 20,000 pounds. Any vehicle of this type may not exceed a combined weight of 34,000 pounds through the series of 2 axles and neither axle of the series may exceed 20,000 pounds. A 3-axle combination sewer cleaning jetting vacuum truck registered as a Special Hauling Vehicle, used exclusively for the transportation of non-hazardous solid waste, may, when laden, transmit upon the road surface, except when on part of the National System of Interstate and Defense Highways, the following maximum weights: 22,000 pounds on a single axle; 40,000 pounds on a tandem axle; 54,000 pounds gross weight on a 3-axle vehicle. This vehicle is not subject to the bridge formula. (9) A 4-axle truck mixer registered as a Special Hauling Vehicle, used exclusively for the mixing and transportation of concrete in the plastic state, and not operated on a highway that is part of the National System of Interstate Highways, is allowed the following maximum weights: 20,000 pounds on any single axle; 36,000 pounds on a series of axles greater than 72 inches but not more than 96 inches; and 34,000 pounds on any series of 2 axles greater than 40 inches but not more than 72 inches. The gross weight of this vehicle may not exceed the weights allowed by the bridge formula for 4 axles. The bridge formula does not apply to any series of 3 axles while the vehicle is transporting concrete in the plastic state, but no axle or tandem axle of the series may exceed the maximum weight permitted under this paragraph (9) of subsection (a). (10) Combinations of vehicles, registered as Special Hauling Vehicles that include a semitrailer having 5 axles with a distance of 42 feet or less between extreme axles, may not exceed the following maximum weights: 20,000 pounds on a single axle; 34,000 pounds on a tandem axle; and 72,000 pounds gross weight. This combination of vehicles is not subject to the bridge formula. For all those combinations of vehicles that include a semitrailer manufactured after the effective date of P.A. 92-0417, the overall distance between the first and last axles of the 2 sets of tandems must be 18 feet 6 inches or more. (11) The maximum weight allowed on a vehicle with crawler type tracks is 40,000 pounds. (12) A combination of vehicles, including a tow truck and a disabled vehicle or disabled combination of vehicles, that exceeds the weight restriction imposed by this Code, may be operated on a public highway in this State provided that neither the disabled vehicle nor any vehicle being towed nor the tow truck itself shall exceed the weight limitations permitted under this Chapter. During the towing operation, neither the tow truck nor the vehicle combination shall exceed 24,000 pounds on a single rear axle and 44,000 pounds on a tandem rear axle, provided the towing vehicle: (i) is specifically designed as a tow truck having a gross vehicle weight rating of at least 18,000 pounds and is equipped with air brakes, provided that air brakes are required only if the towing vehicle is towing a vehicle, semitrailer, or tractor-trailer combination that is equipped with air brakes; (ii) is equipped with flashing, rotating, or oscillating amber lights, visible for at least 500 feet in all directions; (iii) is capable of utilizing the lighting and braking systems of the disabled vehicle or combination of vehicles; and (iv) does not engage in a tow exceeding 20 miles from the initial point of wreck or disablement. Any additional movement of the vehicles may occur only upon issuance of authorization for that movement under the provisions of Sections 15-301 through 15-318 of this Code. The towing vehicle, however, may tow any disabled vehicle to a point where repairs are actually to occur. This movement shall be valid only on State routes. The tower must abide by posted bridge weight limits. (12.5) The vehicle weight limitations in this Section do not apply to a covered heavy duty tow and recovery vehicle. The covered heavy duty tow and recovery vehicle license plate must cover the operating empty weight of the covered heavy duty tow and recovery vehicle only. (13) Upon and during a declaration of an emergency propane supply disaster by the Governor under Section 7 of the Illinois Emergency Management Agency Act: (i) a truck not in combination, equipped with a cargo tank, used exclusively for the transportation of propane or liquefied petroleum gas may, when laden, transmit upon the road surface, except when on part of the National System of Interstate and Defense Highways, the following maximum weights: 22,000 pounds on a single axle; 40,000 pounds on a tandem axle; 40,000 pounds gross weight on a 2-axle vehicle; 54,000 pounds gross weight on a 3-axle vehicle; and (ii) a truck when in combination with a trailer equipped with a cargo tank used exclusively for the transportation of propane or liquefied petroleum gas may, when laden, transmit upon the road surface, except when on part of the National System of Interstate and Defense Highways, the following maximum weights: 22,000 pounds on a single axle; 40,000 pounds on a tandem axle; 90,000 pounds gross weight on a 5-axle or 6-axle vehicle. Vehicles operating under this paragraph (13) are not subject to the bridge formula. (14) A vehicle or combination of vehicles that uses either natural gas or propane gas as a motor fuel or is operated by an engine fueled wholly or partially by an electric battery or hydrogen fuel cell electric fueling system may exceed the above weight limitations by up to 2,000 pounds, the total allowance is calculated by an amount that is equal to the difference between the weight of the vehicle attributable to the natural gas or propane or hydrogen gas tank, batteries, and fueling system carried by the vehicle, and the weight of a comparable diesel tank and fueling system. This paragraph (14) shall not allow a vehicle to exceed any posted weight limit on a highway or structure. (15) An emergency vehicle or fire apparatus that is a vehicle designed to be used under emergency conditions to transport personnel and equipment, and used to support the suppression of fires and mitigation of other hazardous situations on a Class I highway, may not exceed 86,000 pounds gross weight, or any of the following weight allowances: (i) 24,000 pounds on a single steering axle;"
+    },
+    {
+      "type": "subsection",
+      "label": "(ii)",
+      "text": "(ii) 33,500 pounds on a single drive axle;"
+    },
+    {
+      "type": "subsection",
+      "label": "(iii)",
+      "text": "(iii) 62,000 pounds on a tandem axle; or"
+    },
+    {
+      "type": "subsection",
+      "label": "(iv)",
+      "text": "(iv) 52,000 pounds on a tandem rear drive steer axle. (16) A bus, motor coach, or recreational vehicle may carry a total weight of 24,000 pounds on a single axle, but may not exceed other weight provisions of this Section. Gross weight limits shall not apply to the combination of the tow truck and vehicles being towed. The tow truck license plate must cover the operating empty weight of the tow truck only. The weight of each vehicle being towed shall be covered by a valid license plate issued to the owner or operator of the vehicle being towed and displayed on that vehicle. If no valid plate issued to the owner or operator of that vehicle is displayed on that vehicle, or the plate displayed on that vehicle does not cover the weight of the vehicle, the weight of the vehicle shall be covered by the third tow truck plate issued to the owner or operator of the tow truck and temporarily affixed to the vehicle being towed. If a roll-back carrier is registered and being used as a tow truck, however, the license plate or plates for the tow truck must cover the gross vehicle weight, including any load carried on the bed of the roll-back carrier."
+    },
+    {
+      "type": "paragraph",
+      "text": "The Department may by rule or regulation prescribe additional requirements. However, nothing in this Code shall prohibit a tow truck under instructions of a police officer from legally clearing a disabled vehicle, that may be in violation of weight limitations of this Chapter, from the roadway to the berm or shoulder of the highway. If in the opinion of the police officer that location is unsafe, the officer is authorized to have the disabled vehicle towed to the nearest place of safety."
+    },
+    {
+      "type": "paragraph",
+      "text": "For the purpose of this subsection, gross vehicle weight rating, or GVWR, means the value specified by the manufacturer as the loaded weight of the tow truck."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) As used in this Section, \"recycling haul\" or \"recycling operation\" means the hauling of non-hazardous, non-special, non-putrescible materials, such as paper, glass, cans, or plastic, for subsequent use in the secondary materials market."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) No vehicle or combination of vehicles equipped with pneumatic tires shall be operated, unladen or with load, upon the highways of this State in violation of the provisions of any permit issued under the provisions of Sections 15-301 through 15-318 of this Chapter."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) No vehicle or combination of vehicles equipped with other than pneumatic tires may be operated, unladen or with load, upon the highways of this State when the gross weight on the road surface through any wheel exceeds 800 pounds per inch width of tire tread or when the gross weight on the road surface through any axle exceeds 16,000 pounds."
+    },
+    {
+      "type": "subsection",
+      "label": "(e)",
+      "text": "(e) No person shall operate a vehicle or combination of vehicles over a bridge or other elevated structure constituting part of a highway with a gross weight that is greater than the maximum weight permitted by the Department, when the structure is sign posted as provided in this Section."
+    },
+    {
+      "type": "subsection",
+      "label": "(f)",
+      "text": "(f) The Department upon request from any local authority shall, or upon its own initiative may, conduct an investigation of any bridge or other elevated structure constituting a part of a highway, and if it finds that the structure cannot with safety to itself withstand the weight of vehicles otherwise permissible under this Code the Department shall determine and declare the maximum weight of vehicles that the structures can withstand, and shall cause or permit suitable signs stating maximum weight to be erected and maintained before each end of the structure. No person shall operate a vehicle or combination of vehicles over any structure with a gross weight that is greater than the posted maximum weight."
+    },
+    {
+      "type": "subsection",
+      "label": "(g)",
+      "text": "(g) Upon the trial of any person charged with a violation of subsection (e) or (f) of this Section, proof of the determination of the maximum allowable weight by the Department and the existence of the signs, constitutes conclusive evidence of the maximum weight that can be maintained with safety to the bridge or structure."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 104-436, eff. 6-1-26; 104-468, eff. 6-16-26.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 104-436, eff. 6-1-26; 104-468, eff. 6-16-26.)",
+  "publicActs": [
+    {
+      "publicAct": "104-436",
+      "effectiveDate": "6-1-26"
+    },
+    {
+      "publicAct": "104-468",
+      "effectiveDate": "6-16-26"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "a6eb5f865c132911cdc499bf087b9d137b1892ec70bc50d35726691b99d23d70",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0441",
+    "offense-0442",
+    "offense-0443"
+  ]
+}

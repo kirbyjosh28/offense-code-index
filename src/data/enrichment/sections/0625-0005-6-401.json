@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-6-401",
+  "citation": "625 ILCS 5/6-401",
+  "docName": "062500050K6-401",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K6-401",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:21:57.051Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/6-401",
+  "headingText": "Sec. 6-401. Driver training schools-license required.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/6-401) (from Ch. 95 1/2, par. 6-401)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 6-401. Driver training schools-license required."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) No person, firm, association, partnership or corporation shall operate a driver training school or engage in the business of giving instruction for hire or for a fee in (1) the driving of motor vehicles; or (2) the preparation of an applicant for examination given by the Secretary of State for a drivers license or permit, unless a license therefor has been issued by the Secretary. No public schools or educational institutions shall contract with entities engaged in the business of giving instruction for hire or for a fee in the driving of motor vehicles for the preparation of an applicant for examination given by the Secretary of State for a driver's license or permit, unless a license therefor has been issued by the Secretary."
+    },
+    {
+      "type": "paragraph",
+      "text": "This subsection (a) shall not apply to (i) public schools or to educational institutions in which driving instruction is part of the curriculum, (ii) employers giving instruction to their employees, (iii) schools that teach enhanced driving skills to licensed drivers as set forth in Article X of Chapter 6 of this Code, or (iv) driver rehabilitation specialists or programs in which the clients of the rehabilitation specialists or programs have previously held driver's licenses."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Any person, firm, association, partnership, or corporation that violates subsection (a) of this Section shall be guilty of a Class A misdemeanor for a first offense and a Class 4 felony for a second or subsequent offense."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 102-749, eff. 1-1-23.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 102-749, eff. 1-1-23.)",
+  "publicActs": [
+    {
+      "publicAct": "102-749",
+      "effectiveDate": "1-1-23"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "cc629274b38b02ec653cfc3b690176a7c9fa5a18ee3b918b4bde1acec116a3b9",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0159"
+  ]
+}

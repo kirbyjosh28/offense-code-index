@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-17-6",
+  "citation": "720 ILCS 5/17-6",
+  "docName": "072000050K17-6",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K17-6",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:26:40.877Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/17-6",
+  "headingText": "Sec. 17-6. State benefits fraud.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/17-6) (from Ch. 38, par. 17-6)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 17-6. State benefits fraud."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits State benefits fraud when he or she obtains or attempts to obtain money or benefits from the State of Illinois, from any political subdivision thereof, or from any program funded or administered in whole or in part by the State of Illinois or any political subdivision thereof through the knowing use of false identification documents or through the knowing misrepresentation of his or her age, place of residence, number of dependents, marital or family status, employment status, financial status, or any other material fact upon which his eligibility for or degree of participation in any benefit program might be based."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Notwithstanding any provision of State law to the contrary, every application or other document submitted to an agency or department of the State of Illinois or any political subdivision thereof to establish or determine eligibility for money or benefits from the State of Illinois or from any political subdivision thereof, or from any program funded or administered in whole or in part by the State of Illinois or any political subdivision thereof, shall be made available upon request to any law enforcement agency for use in the investigation or prosecution of State benefits fraud or for use in the investigation or prosecution of any other crime arising out of the same transaction or occurrence. Except as otherwise permitted by law, information disclosed pursuant to this subsection shall be used and disclosed only for the purposes provided herein. The provisions of this Section shall be operative only to the extent that they do not conflict with any federal law or regulation governing federal grants to this State."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Any employee of the State of Illinois or any agency or political subdivision thereof may seize as evidence any false or fraudulent document presented to him or her in connection with an application for or receipt of money or benefits from the State of Illinois, from any political subdivision thereof, or from any program funded or administered in whole or in part by the State of Illinois or any political subdivision thereof."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) Sentence."
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) State benefits fraud is a Class 4 felony except when more than $300 is obtained, in which case State benefits fraud is a Class 3 felony."
+    },
+    {
+      "type": "subsection",
+      "label": "(2)",
+      "text": "(2) If a person knowingly misrepresents oneself as a veteran or as a dependent of a veteran with the intent of obtaining benefits or privileges provided by the State or its political subdivisions to veterans or their dependents, then State benefits fraud is a Class 3 felony when $300 or less is obtained and a Class 2 felony when more than $300 is obtained. For the purposes of this paragraph (2), benefits and privileges include, but are not limited to, those benefits and privileges available under the Veterans' Employment Act, the Viet Nam Veterans Compensation Act, the Prisoner of War Bonus Act, the War Bonus Extension Act, the Military Veterans Assistance Act, the Veterans' Employment Representative Act, the Veterans Preference Act, Service Member Employment and Reemployment Rights Act, the Service Member's Tenure Act, the Housing for Veterans with Disabilities Act, the Under Age Veterans Benefits Act, the Survivors Compensation Act, the Children of Deceased Veterans Act, the Veterans Burial Places Act, the Higher Education Student Assistance Act, or any other loans, assistance in employment, monetary payments, or tax exemptions offered by the State or its political subdivisions for veterans or their dependents."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 99-143, eff. 7-27-15; 100-1101, eff. 1-1-19.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 99-143, eff. 7-27-15; 100-1101, eff. 1-1-19.)",
+  "publicActs": [
+    {
+      "publicAct": "99-143",
+      "effectiveDate": "7-27-15"
+    },
+    {
+      "publicAct": "100-1101",
+      "effectiveDate": "1-1-19"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "ec74115401e3e054aeaac05347264f5be219d4fb8f4fdc2554c4c2b5b72be1a3",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0701"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-1412.2",
+  "citation": "625 ILCS 5/11-1412.2",
+  "docName": "062500050K11-1412.2",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-1412.2",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:15:37.134Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-1412.2",
+  "headingText": "Sec. 11-1412.2. Operating an electric personal assistive mobility device on a public sidewalk. A person may not operate an electric personal assistive mobility device upon a public sidewalk at a speed greater than 8 miles per hour. Nothing in this Section shall be deemed to limit or preempt the authority of any home rule or non-home rule unit of local government from regulating or prohibiting the use of electric personal assistive mobility devices.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-1412.2)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-1412.2. Operating an electric personal assistive mobility device on a public sidewalk. A person may not operate an electric personal assistive mobility device upon a public sidewalk at a speed greater than 8 miles per hour. Nothing in this Section shall be deemed to limit or preempt the authority of any home rule or non-home rule unit of local government from regulating or prohibiting the use of electric personal assistive mobility devices."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 92-868, eff. 6-1-03.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 92-868, eff. 6-1-03.)",
+  "publicActs": [
+    {
+      "publicAct": "92-868",
+      "effectiveDate": "6-1-03"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "7555ade38c48f9cb678c1b63090fa6baaf18dc564d25f2ab91d92422f0462ba6",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0301"
+  ]
+}

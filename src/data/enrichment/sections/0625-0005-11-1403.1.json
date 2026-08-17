@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-1403.1",
+  "citation": "625 ILCS 5/11-1403.1",
+  "docName": "062500050K11-1403.1",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-1403.1",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:15:20.612Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-1403.1",
+  "headingText": "Sec. 11-1403.1. Riding on mopeds.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-1403.1) (from Ch. 95 1/2, par. 11-1403.1)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-1403.1. Riding on mopeds."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) The operator of a moped shall ride only astride the permanent and regular seat attached thereto, and shall not permit 2 persons to ride thereon at the same time, unless the moped is designed to carry 2 persons; any moped designed for 2 persons must be equipped with a passenger seat and footrests for use of a passenger."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) The provisions of Article XV shall be applicable to the operation of mopeds, except for those provisions which by their nature can have no application to mopeds."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 96-554, eff. 1-1-10.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 96-554, eff. 1-1-10.)",
+  "publicActs": [
+    {
+      "publicAct": "96-554",
+      "effectiveDate": "1-1-10"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "baf49759904de852eb7d1c54c195ea7647ea6b69e6610309bfe72c000b5a1b87",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0289"
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-10-8",
+  "citation": "720 ILCS 5/10-8",
+  "docName": "072000050K10-8",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K10-8",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:23:15.150Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/10-8",
+  "headingText": "Sec. 10-8. Unlawful sale of a public conveyance travel ticket to a minor.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/10-8) (from Ch. 38, par. 10-8)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 10-8. Unlawful sale of a public conveyance travel ticket to a minor."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits the offense of unlawful sale of a public conveyance travel ticket to a minor when the person sells a ticket for travel on any public conveyance to an unemancipated minor under 17 years of age without the consent of the minor's parents or guardian for passage to a destination outside this state and knows the minor's age or fails to take reasonable measures to ascertain the minor's age."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Evidence. The fact that the defendant demanded, was shown, and reasonably relied upon written evidence of a person's age in any transaction forbidden by this Section is competent evidence, and may be considered in any criminal prosecution for a violation of this Section."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Definition. \"Public Conveyance\", includes an airplane, boat, bus, railroad, train, taxicab or other vehicle used for the transportation of passengers for hire."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) Sentence. Unlawful sale of a public conveyance travel ticket to a minor is a Class C misdemeanor."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 86-336.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 86-336.)",
+  "publicActs": [
+    {
+      "publicAct": "86-336",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "75da6ca27577fd071c746d4bb77c6267404f6ca78fa006b3ce4fe03439de3903",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0569"
+  ]
+}

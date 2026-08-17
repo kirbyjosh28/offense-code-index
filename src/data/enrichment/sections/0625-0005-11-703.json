@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-703",
+  "citation": "625 ILCS 5/11-703",
+  "docName": "062500050K11-703",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-703",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:17:13.236Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-703",
+  "headingText": "Sec. 11-703. Overtaking a vehicle on the left. The following rules govern the overtaking and passing of vehicles proceeding in the same direction, subject to those limitations, exceptions, and special rules otherwise stated in this Chapter:",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-703) (from Ch. 95 1/2, par. 11-703)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-703. Overtaking a vehicle on the left. The following rules govern the overtaking and passing of vehicles proceeding in the same direction, subject to those limitations, exceptions, and special rules otherwise stated in this Chapter:"
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) The driver of a vehicle overtaking another vehicle proceeding in the same direction shall pass to the left thereof at a safe distance and shall not again drive to the right side of the roadway until safely clear of the overtaken vehicle. In no event shall such movement be made by driving off the pavement or the main traveled portion of the roadway. (b) Except when overtaking and passing on the right is permitted, the driver of an overtaken vehicle shall give way to the right in favor of the overtaking vehicle on audible signal and shall not increase the speed of his vehicle until completely passed by the overtaking vehicle. (c) The driver of a 2 wheeled vehicle may not, in passing upon the left of any vehicle proceeding in the same direction, pass upon the right of any vehicle proceeding in the same direction unless there is an unobstructed lane of traffic available to permit such passing maneuver safely. (d) The operator of a motor vehicle overtaking a bicycle or individual proceeding in the same direction on a highway shall: (1) if another lane of traffic proceeding in the same direction is available, make a lane change into another available lane with due regard for safety and traffic conditions, if practicable and not prohibited by law, before overtaking or passing the bicycle or individual; and (2) leave a safe distance, but not less than 3 feet, when passing the bicycle or individual and shall maintain that distance until safely past the overtaken bicycle or individual. (d-5) A driver of a motor vehicle overtaking a bicycle proceeding in the same direction on a highway may, subject to the provisions in paragraph (d) of this Section and Section 11-706 of this Code, pass to the left of the bicycle on a portion of the highway designated as a no-passing zone under Section 11-707 of this Code if the driver is able to overtake and pass the bicycle when: (1) the bicycle is traveling at a speed of less than half of the posted speed limit of the highway; (2) the driver is able to overtake and pass the bicycle without exceeding the posted speed limit of the highway; and (3) there is sufficient distance to the left of the centerline of the highway for the motor vehicle to meet the overtaking and passing requirements under this Section. (e) A person driving a motor vehicle shall not, in a reckless manner, drive the motor vehicle unnecessarily close to, toward, or near a bicyclist, pedestrian, or a person riding a horse or driving an animal drawn vehicle. (f) Every person convicted of paragraph (e) of this Section shall be guilty of a Class A misdemeanor if the violation does not result in great bodily harm or permanent disability or disfigurement to another. If the violation results in great bodily harm or permanent disability or disfigurement to another, the person shall be guilty of a Class 3 felony. (Source: P.A. 104-260, eff. 8-15-25.)"
+    }
+  ],
+  "sourceLine": null,
+  "publicActs": [],
+  "repealed": false,
+  "bodyHash": "4a444595abaed854246b7013983e05dea4041e7b9dd2e601c2ed41dfde99ffd8",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0227",
+    "offense-0228",
+    "offense-0229",
+    "offense-0230"
+  ]
+}

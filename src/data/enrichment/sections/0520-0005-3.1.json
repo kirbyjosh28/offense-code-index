@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0520-0005-3.1",
+  "citation": "520 ILCS 5/3.1",
+  "docName": "052000050K3.1",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=052000050K3.1",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:14:29.549Z",
+  "transport": "cache",
+  "canonicalCitation": "520 ILCS 5/3.1",
+  "headingText": "Sec. 3.1. License and stamps required.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(520 ILCS 5/3.1) (from Ch. 61, par. 3.1)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 3.1. License and stamps required."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) Before any person shall take or attempt to take any of the species protected by Section 2.2 for which an open season is established under this Act, he shall first have procured and possess a valid hunting license, except as provided in Section 3.1-5 of this Code."
+    },
+    {
+      "type": "paragraph",
+      "text": "Before any person 18 years of age or older shall take or attempt to take any bird of the species defined as migratory waterfowl by Section 2.2, including coots, he shall first have procured a State Migratory Waterfowl Stamp."
+    },
+    {
+      "type": "paragraph",
+      "text": "Before any person 18 years of age or older takes, attempts to take, or pursues any species of wildlife protected by this Code, except migratory waterfowl, coots, and hand-reared birds on licensed game breeding and hunting preserve areas and state controlled pheasant hunting areas, he or she shall first obtain a State Habitat Stamp. Any person who obtained a lifetime license before January 1, 1993, shall not be required to obtain State Habitat Stamps. Income from the sale of State Furbearer Stamps and State Pheasant Stamps received after the effective date of this amendatory Act of 1992 shall be deposited into the State Furbearer Fund and State Pheasant Fund, respectively."
+    },
+    {
+      "type": "paragraph",
+      "text": "Before any person 18 years of age or older shall take, attempt to take, or sell the green hide of any mammal of the species defined as fur-bearing mammals by Section 2.2 for which an open season is established under this Act, he shall first have procured a State Habitat Stamp."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Before any person who is a non-resident of the State of Illinois shall take or attempt to take any of the species protected by Section 2.2 for which an open season is established under this Act, he shall, unless specifically exempted by law, first procure a non-resident license as provided by this Act for the taking of any wild game."
+    },
+    {
+      "type": "paragraph",
+      "text": "Before a nonresident shall take or attempt to take white-tailed deer, he shall first have procured a Deer Hunting Permit as defined in Section 2.26 of this Code."
+    },
+    {
+      "type": "paragraph",
+      "text": "Before a nonresident shall take or attempt to take wild turkeys, he shall have procured a Wild Turkey Hunting Permit as defined in Section 2.11 of this Code."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) The owners residing on, or bona fide tenants of, farm lands and their children, parents, brothers, and sisters actually permanently residing on their lands shall have the right to hunt any of the species protected by Section 2.2 upon their lands and waters without procuring hunting licenses; but the hunting shall be done only during periods of time and with devices and by methods as are permitted by this Act. Any person on active duty with the Armed Forces of the United States who is now and who was at the time of entering the Armed Forces a resident of Illinois and who entered the Armed Forces from this State, and who is presently on ordinary or emergency leave from the Armed Forces, and any resident of Illinois who has a disability may hunt any of the species protected by Section 2.2 without procuring a hunting license, but the hunting shall be done only during such periods of time and with devices and by methods as are permitted by this Act. For the purpose of this Section a person is a person with a disability when that person has a Type 1 or Type 4, Class 2 disability as defined in Section 4A of the Illinois Identification Card Act. For purposes of this Section, an Illinois Person with a Disability Identification Card issued pursuant to the Illinois Identification Card Act indicating that the person named has a Type 1 or Type 4, Class 2 disability shall be adequate documentation of the disability."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) A courtesy non-resident license, permit, or stamp for taking game may be issued at the discretion of the Director, without fee, to any person officially employed in the game and fish or conservation department of another state or of the United States who is within the State to assist or consult or cooperate with the Director; or to the officials of other states, the United States, foreign countries, or officers or representatives of conservation organizations or publications while in the State as guests of the Governor or Director. The Director may provide to nonresident participants and official gunners at field trials an exemption from licensure while participating in a field trial."
+    },
+    {
+      "type": "subsection",
+      "label": "(e)",
+      "text": "(e) State Migratory Waterfowl Stamps shall be required for those persons qualifying under subsections (c) and (d) who intend to hunt migratory waterfowl, including coots, to the extent that hunting licenses of the various types are authorized and required by this Section for those persons."
+    },
+    {
+      "type": "subsection",
+      "label": "(f)",
+      "text": "(f) Registration in the U.S. Fish and Wildlife Migratory Bird Harvest Information Program shall be required for those persons who are required to have a hunting license before taking or attempting to take any bird of the species defined as migratory game birds by Section 2.2, except that this subsection shall not apply to crows in this State or hand-reared birds on licensed game breeding and hunting preserve areas, for which an open season is established by this Act. Persons registering with the Program must carry proof of registration with them while migratory bird hunting."
+    },
+    {
+      "type": "paragraph",
+      "text": "The Department shall publish suitable prescribed regulations pertaining to registration by the migratory bird hunter in the U.S. Fish and Wildlife Service Migratory Bird Harvest Information Program."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 102-837, eff. 5-13-22.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 102-837, eff. 5-13-22.)",
+  "publicActs": [
+    {
+      "publicAct": "102-837",
+      "effectiveDate": "5-13-22"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "8f6ac170872e978c9e242c031077260f80d0d706d638857a2deae0c4b9df147f",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0541"
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-24-1.1",
+  "citation": "720 ILCS 5/24-1.1",
+  "docName": "072000050K24-1.1",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K24-1.1",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:27:45.436Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/24-1.1",
+  "headingText": "Sec. 24-1.1. Unlawful possession of weapons by felons or persons in the custody of the Department of Corrections facilities.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/24-1.1) (from Ch. 38, par. 24-1.1)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 24-1.1. Unlawful possession of weapons by felons or persons in the custody of the Department of Corrections facilities."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) It is unlawful for a person to knowingly possess on or about his person or on his land or in his own abode or fixed place of business any weapon prohibited under Section 24-1 of this Act or any firearm or any firearm ammunition if the person has been convicted of a felony under the laws of this State or any other jurisdiction. This Section shall not apply if the person has been granted relief by the Director of the Illinois State Police under Section 10 of the Firearm Owners Identification Card Act."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) It is unlawful for any person confined in a penal institution, which is a facility of the Illinois Department of Corrections, to possess any weapon prohibited under Section 24-1 of this Code or any firearm or firearm ammunition, regardless of the intent with which he possesses it."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) It shall be an affirmative defense to a violation of subsection (b), that such possession was specifically authorized by rule, regulation, or directive of the Illinois Department of Corrections or order issued pursuant thereto."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) The defense of necessity is not available to a person who is charged with a violation of subsection (b) of this Section."
+    },
+    {
+      "type": "subsection",
+      "label": "(e)",
+      "text": "(e) Sentence. Violation of this Section by a person not confined in a penal institution shall be a Class 3 felony for which the person shall be sentenced to no less than 2 years and no more than 10 years. A second or subsequent violation of this Section shall be a Class 2 felony for which the person shall be sentenced to a term of imprisonment of not less than 3 years and not more than 14 years, except as provided for in Section 5-4.5-110 of the Unified Code of Corrections. Violation of this Section by a person not confined in a penal institution who has been convicted of a forcible felony, a felony violation of Article 24 of this Code or of the Firearm Owners Identification Card Act, stalking or aggravated stalking, or a Class 2 or greater felony under the Illinois Controlled Substances Act, the Cannabis Control Act, or the Methamphetamine Control and Community Protection Act is a Class 2 felony for which the person shall be sentenced to not less than 3 years and not more than 14 years, except as provided for in Section 5-4.5-110 of the Unified Code of Corrections. Violation of this Section by a person who is on parole or mandatory supervised release is a Class 2 felony for which the person shall be sentenced to not less than 3 years and not more than 14 years, except as provided for in Section 5-4.5-110 of the Unified Code of Corrections. Violation of this Section by a person not confined in a penal institution is a Class X felony when the firearm possessed is a machine gun. Any person who violates this Section while confined in a penal institution, which is a facility of the Illinois Department of Corrections, is guilty of a Class 1 felony, if he possesses any weapon prohibited under Section 24-1 of this Code regardless of the intent with which he possesses it, a Class X felony if he possesses any firearm, firearm ammunition or explosive, and a Class X felony for which the offender shall be sentenced to not less than 12 years and not more than 50 years when the firearm possessed is a machine gun. A violation of this Section while wearing or in possession of body armor as defined in Section 33F-1 is a Class X felony punishable by a term of imprisonment of not less than 10 years and not more than 40 years. The possession of each firearm or firearm ammunition in violation of this Section constitutes a single and separate violation."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 102-538, eff. 8-20-21; 103-822, eff. 1-1-25.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 102-538, eff. 8-20-21; 103-822, eff. 1-1-25.)",
+  "publicActs": [
+    {
+      "publicAct": "102-538",
+      "effectiveDate": "8-20-21"
+    },
+    {
+      "publicAct": "103-822",
+      "effectiveDate": "1-1-25"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "454570182687c9e156ffee1b94588177b7f8bcdd2cef1e51b5f789c9ec30935c",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0780"
+  ]
+}

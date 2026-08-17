@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-407",
+  "citation": "625 ILCS 5/11-407",
+  "docName": "062500050K11-407",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-407",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:16:46.208Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-407",
+  "headingText": "Sec. 11-407. Immediate notice of crash.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-407) (from Ch. 95 1/2, par. 11-407)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-407. Immediate notice of crash."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) The driver of a vehicle that is in any manner involved in a crash in this State that requires notice to be given to the local police department, the county sheriff, or the Illinois State Police under this Section shall, if no police officer is present, give notice of the crash by the fastest available means of communication to the local police department if such crash occurs within a municipality or otherwise to the nearest office of the county sheriff or nearest headquarters of the Illinois State Police. Notice is required to be given under this subsection (a) if the crash: (1) results in injury to or death of any person; (2) results in damage to the property of any person, including the driver, in excess of $1,500 (or $500 if any of the vehicles involved in the accident is subject to Section 7-601 but is not covered by a liability insurance policy) in accordance with Section 7-601; (3) if a school bus is involved in the crash and the crash is caused by a collision, a sudden stop, or otherwise, and the crash results in any property damage, personal injury, or death; or (4) if the crash occurs within 50 feet of a school bus and results in personal injury to or death of any person who is awaiting or preparing to board the school bus or immediately after the person exits the school bus."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Whenever the driver of a vehicle is physically incapable of giving immediate notice of a crash as required in Subsection (a) and there was another occupant in the vehicle at the time of the crash capable of doing so, that occupant must give notice as required in Subsection (a)."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 102-982, eff. 7-1-23; 103-1047, eff. 1-1-25.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 102-982, eff. 7-1-23; 103-1047, eff. 1-1-25.)",
+  "publicActs": [
+    {
+      "publicAct": "102-982",
+      "effectiveDate": "7-1-23"
+    },
+    {
+      "publicAct": "103-1047",
+      "effectiveDate": "1-1-25"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "4858ef7264e64ad148effae3ab9519f8af96f2bb7af9926b3a6636c253f77d9d",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0196"
+  ]
+}

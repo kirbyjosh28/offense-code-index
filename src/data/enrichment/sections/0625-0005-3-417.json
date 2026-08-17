@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-3-417",
+  "citation": "625 ILCS 5/3-417",
+  "docName": "062500050K3-417",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K3-417",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:20:22.447Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/3-417",
+  "headingText": "Sec. 3-417. Lost or damaged or stolen cards, plates and registration stickers.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/3-417) (from Ch. 95 1/2, par. 3-417)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 3-417. Lost or damaged or stolen cards, plates and registration stickers."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) In the event any registration card, plate or digital plate, registration sticker or digital registration sticker, or other Illinois evidence of proper registration is lost, mutilated or becomes illegible, the owner or legal representative or successor in interest of the owner of the vehicle for which the same was issued as shown by the records of the Secretary of State shall immediately make application for and may obtain a duplicate under a new registration card, plate or digital plate, registration sticker or digital registration sticker, or other Illinois evidence of proper registration."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) In the event any registration card, plate or digital plate, registration sticker or digital registration sticker, or other Illinois evidence of proper registration is stolen from the owner, the owner or legal representative or successor in interest of the owner of the vehicle shall promptly notify the Secretary of State, and in order to comply with Section 3-413 of this Act the owner shall make application for and obtain a duplicate registration card, plate or digital plate, registration sticker or digital registration sticker, or other Illinois evidence of proper registration."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) The Secretary of State may, if advisable, issue a substitute or new registration number in lieu of issuing a duplicate."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) An applicant for a duplicate shall furnish information satisfactory to and prescribed by the Secretary of State, and he or she shall forward with the application, the fees prescribed by law."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 101-395, eff. 8-16-19.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 101-395, eff. 8-16-19.)",
+  "publicActs": [
+    {
+      "publicAct": "101-395",
+      "effectiveDate": "8-16-19"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "bf762668131ef384091b9d95e308bcf0af3d0e1eb73bc744fd696c2118d1a0f6",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0031"
+  ]
+}

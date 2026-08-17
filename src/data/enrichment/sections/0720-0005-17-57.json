@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-17-57",
+  "citation": "720 ILCS 5/17-57",
+  "docName": "072000050K17-57",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K17-57",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:26:36.361Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/17-57",
+  "headingText": "Sec. 17-57. Defrauding drug and alcohol screening tests.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/17-57) (was 720 ILCS 5/17-28)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 17-57. Defrauding drug and alcohol screening tests."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) It is unlawful for a person to:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) manufacture, sell, give away, distribute, or market synthetic or human substances or other products in this State or transport urine into this State with the intent of using the synthetic or human substances or other products to defraud a drug or alcohol screening test; (2) substitute or spike a sample or advertise a sample substitution or other spiking device or measure, with the intent of attempting to foil or defeat a drug or alcohol screening test; (3) adulterate synthetic or human substances with the intent to defraud a drug or alcohol screening test; or (4) manufacture, sell, or possess adulterants that are intended to be used to adulterate synthetic or human substances with the intent of defrauding a drug or alcohol screening test. (b) The trier of fact may infer intent to violate this Section if a heating element or any other device used to thwart a drug or alcohol screening test accompanies the sale, giving, distribution, or marketing of synthetic or human substances or other products or instructions that provide a method for thwarting a drug or alcohol screening test accompany the sale, giving, distribution, or marketing of synthetic or human substances or other products."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Sentence. A violation of this Section is a Class 4 felony for which the court shall impose a minimum fine of $1,000."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) For the purposes of this Section, \"drug or alcohol screening test\" includes, but is not limited to, urine testing, hair follicle testing, perspiration testing, saliva testing, blood testing, fingernail testing, and eye drug testing."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 96-1551, eff. 7-1-11.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 96-1551, eff. 7-1-11.)",
+  "publicActs": [
+    {
+      "publicAct": "96-1551",
+      "effectiveDate": "7-1-11"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "1aeace174179857f71b2d6c3434e160b4fafaca47407a63fe24a62af2d34b2fa",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0740"
+  ]
+}

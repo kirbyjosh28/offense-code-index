@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-12C-5",
+  "citation": "720 ILCS 5/12C-5",
+  "docName": "072000050K12C-5",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K12C-5",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:25:20.001Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/12C-5",
+  "headingText": "Sec. 12C-5. Endangering the life or health of a child.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/12C-5) (was 720 ILCS 5/12-21.6)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 12C-5. Endangering the life or health of a child."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits endangering the life or health of a child when he or she knowingly: (1) causes or permits the life or health of a child under the age of 18 to be endangered; or (2) causes or permits a child to be placed in circumstances that endanger the child's life or health. It is not a violation of this Section for a person to relinquish a child in accordance with the Abandoned Newborn Infant Protection Act."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) A trier of fact may infer that a child 6 years of age or younger is unattended if that child is left in a motor vehicle for more than 10 minutes."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) \"Unattended\" means either: (i) not accompanied by a person 14 years of age or older; or (ii) if accompanied by a person 14 years of age or older, out of sight of that person."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) Sentence. A violation of this Section is a Class A misdemeanor. A second or subsequent violation of this Section is a Class 3 felony. A violation of this Section that is a proximate cause of the death of the child is a Class 3 felony for which a person, if sentenced to a term of imprisonment, shall be sentenced to a term of not less than 2 years and not more than 10 years. A parent, who is found to be in violation of this Section with respect to his or her child, may be sentenced to probation for this offense pursuant to Section 12C-15."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 97-1109, eff. 1-1-13.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 97-1109, eff. 1-1-13.)",
+  "publicActs": [
+    {
+      "publicAct": "97-1109",
+      "effectiveDate": "1-1-13"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "da1223b7f2a97b8d74a88e7236cfd7245d01d5918174ba925364a658269cc25f",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0654"
+  ]
+}

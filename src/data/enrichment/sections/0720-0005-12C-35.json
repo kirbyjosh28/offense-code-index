@@ -1,0 +1,72 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-12C-35",
+  "citation": "720 ILCS 5/12C-35",
+  "docName": "072000050K12C-35",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K12C-35",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:25:15.276Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/12C-35",
+  "headingText": "Sec. 12C-35. Tattooing the body of a minor.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/12C-35) (was 720 ILCS 5/12-10)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 12C-35. Tattooing the body of a minor."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person, other than a person licensed to practice medicine in all its branches, commits tattooing the body of a minor when he or she knowingly or recklessly tattoos or offers to tattoo a person under the age of 18."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) A person who is an owner or employee of a business that performs tattooing, other than a person licensed to practice medicine in all its branches, may not permit a person under 18 years of age to enter or remain on the premises where tattooing is being performed unless the person under 18 years of age is accompanied by his or her parent or legal guardian."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) \"Tattoo\" means to insert pigment under the surface of the skin of a human being, by pricking with a needle or otherwise, so as to produce an indelible mark or figure visible through the skin."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) Subsection (a) of this Section does not apply to a person under 18 years of age who tattoos or offers to tattoo another person under 18 years of age away from the premises of any business at which tattooing is performed."
+    },
+    {
+      "type": "paragraph",
+      "text": "(d-5) Subsections (a) and (b) of this Section do not apply to the removal of a tattoo from a person under 18 years of age, who is a victim of a violation of Section 10-9 of this Code or who is or has been a streetgang member as defined in Section 10 of the Illinois Streetgang Terrorism Omnibus Prevention Act, if the removal of the tattoo is performed in an establishment or multi-type establishment which has received a certificate of registration from the Department of Public Health or its agent under the Tattoo and Body Piercing Establishment Registration Act and the removal of the tattoo is performed by the operator or an authorized employee of the operator of the establishment or multi-type establishment. For the purposes of this subsection (d-5), \"tattoo\" also means the indelible mark or figure visible through the skin created by tattooing."
+    },
+    {
+      "type": "subsection",
+      "label": "(e)",
+      "text": "(e) Sentence. A violation of this Section is a Class A misdemeanor."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 97-1109, eff. 1-1-13; 98-936, eff. 8-15-14.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 97-1109, eff. 1-1-13; 98-936, eff. 8-15-14.)",
+  "publicActs": [
+    {
+      "publicAct": "97-1109",
+      "effectiveDate": "1-1-13"
+    },
+    {
+      "publicAct": "98-936",
+      "effectiveDate": "8-15-14"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "85bcaa4db529fd39749954aad7ed4de82984e368e9a45cb1da289f5b8d6423e2",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0659"
+  ]
+}

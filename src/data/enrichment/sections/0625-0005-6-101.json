@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-6-101",
+  "citation": "625 ILCS 5/6-101",
+  "docName": "062500050K6-101",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K6-101",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:21:28.512Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/6-101",
+  "headingText": "Sec. 6-101. Drivers must have licenses or permits.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/6-101) (from Ch. 95 1/2, par. 6-101)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 6-101. Drivers must have licenses or permits."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) No person, except those expressly exempted by Section 6-102, shall drive any motor vehicle upon a highway in this State unless such person has a valid license or permit, an Illinois mobile driver's license, or a restricted driving permit, issued under the provisions of this Act."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) No person shall drive a motor vehicle unless the person holds a valid license or permit, an Illinois mobile driver's license, or a restricted driving permit issued under this Act. Any person to whom a license is issued under the provisions of this Act must surrender to the Secretary of State all valid licenses or permits, except that an applicant for a non-domiciled commercial learner's permit or commercial driver's license shall not be required to surrender a license or permit issued by the applicant's state or country of domicile. No driver's license or instruction permit shall be issued to any person who holds a valid Foreign State license, identification card, or permit unless such person first surrenders to the Secretary of State any such valid Foreign State license, identification card, or permit."
+    },
+    {
+      "type": "paragraph",
+      "text": "(b-5) Any person who commits a violation of subsection (a) or (b) of this Section is guilty of a Class A misdemeanor, if at the time of the violation the person's driver's license or permit was cancelled under clause (a)9 of Section 6-201 of this Code."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Any person licensed as a driver hereunder shall not be required by any city, village, incorporated town or other municipal corporation to obtain any other license to exercise the privilege thereby granted."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) In addition to other penalties imposed under this Section, any person in violation of this Section who is also in violation of Section 7-601 of this Code relating to mandatory insurance requirements shall have his or her motor vehicle immediately impounded by the arresting law enforcement officer. The motor vehicle may be released to any licensed driver upon a showing of proof of insurance for the motor vehicle that was impounded and the notarized written consent for the release by the vehicle owner."
+    },
+    {
+      "type": "subsection",
+      "label": "(e)",
+      "text": "(e) In addition to other penalties imposed under this Section, the vehicle of any person in violation of this Section who is also in violation of Section 7-601 of this Code relating to mandatory insurance requirements and who, in violating this Section, has caused death or personal injury to another person is subject to forfeiture under Sections 36-1 and 36-2 of the Criminal Code of 2012. For the purposes of this Section, a personal injury shall include any type A injury as indicated on the traffic crash report completed by a law enforcement officer that requires immediate professional attention in either a doctor's office or a medical facility. A type A injury shall include severely bleeding wounds, distorted extremities, and injuries that require the injured party to be carried from the scene."
+    },
+    {
+      "type": "paragraph",
+      "text": "(f)(1) The Secretary of State may issue a mobile driver's license to an individual in addition to, and not instead of, a license or an identification card if the Secretary of State has issued a driver's license to the person."
+    },
+    {
+      "type": "subsection",
+      "label": "(2)",
+      "text": "(2) The Secretary may enter into agreements with an agency of the State, another state, or the United States to facilitate the issuance, use, and verification of a mobile driver's license issued by the Secretary or another state."
+    },
+    {
+      "type": "subsection",
+      "label": "(3)",
+      "text": "(3) Any mobile driver's license issued by the Secretary shall be in accordance with American Association of Motor Vehicle Administrator's Mobile Driver's License (mDL) Implementation Guidelines, Version 1.1."
+    },
+    {
+      "type": "subsection",
+      "label": "(4)",
+      "text": "(4) The Secretary shall design the mobile driver's license in a manner that allows the credential holder to maintain physical possession of the device on which the electronic credential is accessed during verification."
+    },
+    {
+      "type": "subsection",
+      "label": "(g)",
+      "text": "(g) As used in this Section:"
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Mobile driver's license\" means an electronic extension of the Secretary of State issued physical driver's license that conveys identity and driving privilege information and is in compliance with the American Association of Motor Vehicle Administrator's Mobile Driver's License Implementation Guidelines and the ISO/IEC 18013-5 standard. \"Mobile driver's license\" does not include a digital copy, photograph, or image of a driver's license that is not downloaded through the Secretary of State's application on a mobile device."
+    },
+    {
+      "type": "subsection",
+      "label": "(h)",
+      "text": "(h) A person may be required to produce when so requested a physical driver's license to a law enforcement officer, a representative of a State or federal department or agency, or a private entity and is subject to all applicable laws and consequences for failure to produce such a license."
+    },
+    {
+      "type": "subsection",
+      "label": "(i)",
+      "text": "(i) The Secretary of State shall adopt such rules as are necessary to implement a mobile driver's license."
+    },
+    {
+      "type": "subsection",
+      "label": "(j)",
+      "text": "(j) The display of a mobile driver's license shall not serve as consent or authorization for a law enforcement officer, or any other person, to search, view, or access any other data or application on the mobile device. If a person presents his or her mobile device to a law enforcement officer for purposes of displaying a mobile driver's license, the law enforcement officer shall promptly return the mobile device to the person once the officer has had an opportunity to verify the identity and license status of the person. Except for willful and wanton misconduct, any law enforcement officer, court, or officer of the court presented with the device shall be immune from any liability resulting from damage to the mobile device."
+    },
+    {
+      "type": "subsection",
+      "label": "(k)",
+      "text": "(k) The fee to install the application to display a mobile driver's license as defined in this subsection shall not exceed $6."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 102-982, eff. 7-1-23; 103-824, eff. 1-1-25.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 102-982, eff. 7-1-23; 103-824, eff. 1-1-25.)",
+  "publicActs": [
+    {
+      "publicAct": "102-982",
+      "effectiveDate": "7-1-23"
+    },
+    {
+      "publicAct": "103-824",
+      "effectiveDate": "1-1-25"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "e97133cb996ce1a2cc78ff5650552dbfabac8293a5f8cefd2c7c345191bb5646",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0115"
+  ]
+}

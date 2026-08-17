@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-11-22",
+  "citation": "720 ILCS 5/11-22",
+  "docName": "072000050K11-22",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K11-22",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:23:40.679Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/11-22",
+  "headingText": "Sec. 11-22. Tie-in sales of obscene publications to distributors.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/11-22) (from Ch. 38, par. 11-22)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-22. Tie-in sales of obscene publications to distributors."
+    },
+    {
+      "type": "paragraph",
+      "text": "Any person, firm or corporation, or any agent, officer or employee thereof, engaged in the business of distributing books, magazines, periodicals, comic books or other publications to retail dealers, who shall refuse to furnish to any retail dealer such quantity of books, magazines, periodicals, comic books or other publications as such retail dealer normally sells because the retail dealer refuses to sell, or offer for sale, any books, magazines, periodicals, comic books or other publications which are obscene, lewd, lascivious, filthy or indecent is guilty of a petty offense. Each publication sold or delivered in violation of this Act shall constitute a separate petty offense."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 77-2638.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 77-2638.)",
+  "publicActs": [
+    {
+      "publicAct": "77-2638",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "d8905e46b655902232eda10b022c69e91b9cc1e5f4896a8c7f7e35f45ccc0cad",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0597"
+  ]
+}

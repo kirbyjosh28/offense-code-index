@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-1510",
+  "citation": "625 ILCS 5/11-1510",
+  "docName": "062500050K11-1510",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-1510",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:16:19.172Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-1510",
+  "headingText": "Sec. 11-1510. Left Turns.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-1510) (from Ch. 95 1/2, par. 11-1510)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-1510. Left Turns."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person riding a bicycle or moped intending to turn left shall follow a course described in Section 11-801 or in paragraph (b) of this Section."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) A person riding a bicycle or moped intending to turn left shall approach the turn as close as practicable to the right curb or edge of the roadway. After proceeding across the intersecting roadway to the far corner of the curb or intersection of the roadway edges, the bicyclist or moped driver shall stop, as much as practicable out of the way of traffic. After stopping the person shall yield to any traffic proceeding in either direction along the roadway such person had been using. After yielding, the bicycle or moped driver shall comply with any official traffic control device or police officer regulating traffic on the highway along which he intends to proceed, and the bicyclist or moped driver may proceed in the new direction."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Notwithstanding the foregoing provisions, the Department and local authorities in their respective jurisdictions may cause official traffic-control devices to be placed and thereby require and direct that a specific course be traveled by turning bicycles and moped, and when such devices are so placed, no person shall turn a bicycle or moped other than as directed and required by such devices."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 96-554, eff. 1-1-10.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 96-554, eff. 1-1-10.)",
+  "publicActs": [
+    {
+      "publicAct": "96-554",
+      "effectiveDate": "1-1-10"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "edf5ec4cfc6b00adc961e891e05eb64b308900d89b8ebee9d57f06528763dd97",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0331"
+  ]
+}

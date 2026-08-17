@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-12-601.1",
+  "citation": "625 ILCS 5/12-601.1",
+  "docName": "062500050K12-601.1",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K12-601.1",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:18:25.315Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/12-601.1",
+  "headingText": "Sec. 12-601.1. Traffic control signal preemption devices.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/12-601.1)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 12-601.1. Traffic control signal preemption devices."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) As used in this Section, \"traffic control signal preemption device\" means any device, either mechanical or electrical, that emits a pulse of light or other signal that, when received by a detector attached to a traffic control signal, changes that traffic control signal to a green light or, if the traffic control signal is already green, extends the duration of the green light."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Except as provided in subsection (d), a traffic control signal preemption device may not be installed on a motor vehicle, may not be transported in the passenger compartment of a motor vehicle, and may not be operated by the driver or passenger of a motor vehicle."
+    },
+    {
+      "type": "paragraph",
+      "text": "Violation of this subsection (b) is a Class A misdemeanor, punishable by a fine of $1,000 in addition to any other penalty that may be imposed."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) A retailer or manufacturer may not sell a traffic control signal preemption device to any person or entity for any intended use other than operation as permitted under subsection (d)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Violation of this subsection (c) is a Class A misdemeanor, punishable by a fine of $5,000 for each sale of each device, in addition to any other penalty that may be imposed."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) Installation of a traffic control signal preemption device is permitted on the following vehicles, and operation of the device is permitted as follows:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) Police department vehicles, when responding to a bona fide emergency, when used in combination with red or blue oscillating, rotating, or flashing lights. (2) Law enforcement vehicles of State or local authorities, when responding to a bona fide emergency, when used in combination with red oscillating, rotating, or flashing lights. (3) Vehicles of local fire departments, fire protection districts, and State or federal firefighting vehicles, when responding to a bona fide emergency, when used in combination with red oscillating, rotating, or flashing lights. (4) Vehicles that are designed and used exclusively as ambulances or rescue vehicles, when responding to a bona fide emergency, when used in combination with red oscillating, rotating, or flashing lights. (5) Vehicles that are equipped and used exclusively as organ transport vehicles, when the transportation is declared an emergency by a member of the transplant team or a representative of the organ procurement organization, when used in combination with red oscillating, rotating, or flashing lights. (6) Vehicles of the Illinois Emergency Management Agency and vehicles of the Department of Nuclear Safety, when responding to a bona fide emergency, when used in combination with red oscillating, rotating, or flashing lights. (7) Commuter buses owned by any political subdivision of this State, operated either by the political subdivision or its lessee or agent, and offering short-haul for-hire regularly scheduled passenger transportation service, over regular routes with fixed schedules, within metropolitan and suburban areas, when used to extend the duration of an already green light to meet schedules. (8) Vehicles used for snow removal owned by any political subdivision of this State, operated either by the political subdivision or its lessee or agent, when used during a snow emergency in combination with yellow or amber oscillating, rotating, or flashing lights, when used to extend the duration of an already green light. (9) Vehicles used by a local or county emergency management services agency, as defined in the Illinois Emergency Management Agency Act, when responding to a bona fide emergency and when used in combination with red oscillating, rotating, or flashing lights. (e) This Section does not prohibit use by motorcycles of electronic or magnetic safety devices designed to allow traffic control signal systems to recognize or detect motorcycles."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 104-226, eff. 1-1-26.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 104-226, eff. 1-1-26.)",
+  "publicActs": [
+    {
+      "publicAct": "104-226",
+      "effectiveDate": "1-1-26"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "cc7e3de4e12e1f7847cf00201de18a83838aef958642b25db4cdc7e231dec809",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0380",
+    "offense-0381"
+  ]
+}

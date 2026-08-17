@@ -1,0 +1,106 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-11-20",
+  "citation": "720 ILCS 5/11-20",
+  "docName": "072000050K11-20",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K11-20",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:23:36.179Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/11-20",
+  "headingText": "Sec. 11-20. Obscenity.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/11-20) (from Ch. 38, par. 11-20)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-20. Obscenity."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) Elements of the Offense. A person commits obscenity when, with knowledge of the nature or content thereof, or recklessly failing to exercise reasonable inspection which would have disclosed the nature or content thereof, he or she:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) Sells, delivers or provides, or offers or agrees to sell, deliver or provide any obscene writing, picture, record or other representation or embodiment of the obscene; or (2) Presents or directs an obscene play, dance or other performance or participates directly in that portion thereof which makes it obscene; or (3) Publishes, exhibits or otherwise makes available anything obscene; or (4) Performs an obscene act or otherwise presents an obscene exhibition of his or her body for gain; or (5) Creates, buys, procures or possesses obscene matter or material with intent to disseminate it in violation of this Section, or of the penal laws or regulations of any other jurisdiction; or (6) Advertises or otherwise promotes the sale of material represented or held out by him or her to be obscene, whether or not it is obscene. (b) Obscene Defined."
+    },
+    {
+      "type": "paragraph",
+      "text": "Any material or performance is obscene if: (1) the average person, applying contemporary adult community standards, would find that, taken as a whole, it appeals to the prurient interest; and (2) the average person, applying contemporary adult community standards, would find that it depicts or describes, in a patently offensive way, ultimate sexual acts or sadomasochistic sexual acts, whether normal or perverted, actual or simulated, or masturbation, excretory functions or lewd exhibition of the genitals; and (3) taken as a whole, it lacks serious literary, artistic, political or scientific value."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Interpretation of Evidence."
+    },
+    {
+      "type": "paragraph",
+      "text": "Obscenity shall be judged with reference to ordinary adults, except that it shall be judged with reference to children or other specially susceptible audiences if it appears from the character of the material or the circumstances of its dissemination to be specially designed for or directed to such an audience."
+    },
+    {
+      "type": "paragraph",
+      "text": "Where circumstances of production, presentation, sale, dissemination, distribution, or publicity indicate that material is being commercially exploited for the sake of its prurient appeal, such evidence is probative with respect to the nature of the matter and can justify the conclusion that the matter is lacking in serious literary, artistic, political or scientific value."
+    },
+    {
+      "type": "paragraph",
+      "text": "In any prosecution for an offense under this Section evidence shall be admissible to show:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) The character of the audience for which the material was designed or to which it was directed; (2) What the predominant appeal of the material would be for ordinary adults or a special audience, and what effect, if any, it would probably have on the behavior of such people; (3) The artistic, literary, scientific, educational or other merits of the material, or absence thereof; (4) The degree, if any, of public acceptance of the material in this State; (5) Appeal to prurient interest, or absence thereof, in advertising or other promotion of the material; (6) Purpose of the author, creator, publisher or disseminator. (d) Sentence."
+    },
+    {
+      "type": "paragraph",
+      "text": "Obscenity is a Class A misdemeanor. A second or subsequent offense is a Class 4 felony."
+    },
+    {
+      "type": "subsection",
+      "label": "(e)",
+      "text": "(e) Permissive Inference."
+    },
+    {
+      "type": "paragraph",
+      "text": "The trier of fact may infer an intent to disseminate from the creation, purchase, procurement or possession of a mold, engraved plate or other embodiment of obscenity specially adapted for reproducing multiple copies, or the possession of more than 3 copies of obscene material."
+    },
+    {
+      "type": "subsection",
+      "label": "(f)",
+      "text": "(f) Affirmative Defenses."
+    },
+    {
+      "type": "paragraph",
+      "text": "It shall be an affirmative defense to obscenity that the dissemination:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) Was not for gain and was made to personal associates other than children under 18 years of age; (2) Was to institutions or individuals having scientific or other special justification for possession of such material. (g) Forfeiture of property. A person who has been convicted previously of the offense of obscenity and who is convicted of a second or subsequent offense of obscenity is subject to the property forfeiture provisions set forth in Article 124B of the Code of Criminal Procedure of 1963."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 96-712, eff. 1-1-10; 96-1551, eff. 7-1-11.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 96-712, eff. 1-1-10; 96-1551, eff. 7-1-11.)",
+  "publicActs": [
+    {
+      "publicAct": "96-712",
+      "effectiveDate": "1-1-10"
+    },
+    {
+      "publicAct": "96-1551",
+      "effectiveDate": "7-1-11"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "a851aeee1f6f668c91c4f52879e58f7d7ec30453a29bebd368d6c634c1e48964",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0594"
+  ]
+}

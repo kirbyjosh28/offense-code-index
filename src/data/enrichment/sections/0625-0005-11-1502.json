@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-1502",
+  "citation": "625 ILCS 5/11-1502",
+  "docName": "062500050K11-1502",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-1502",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:16:05.657Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-1502",
+  "headingText": "Sec. 11-1502. Traffic laws apply to persons riding bicycles. Every person riding a bicycle upon a highway shall be granted all of the rights, including, but not limited to, rights under Article IX of this Chapter, and shall be subject to all of the duties applicable to the driver of a vehicle by this Code, except as to special regulations in this Article XV and those provisions of this Code which by their nature can have no application.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-1502) (from Ch. 95 1/2, par. 11-1502)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-1502. Traffic laws apply to persons riding bicycles. Every person riding a bicycle upon a highway shall be granted all of the rights, including, but not limited to, rights under Article IX of this Chapter, and shall be subject to all of the duties applicable to the driver of a vehicle by this Code, except as to special regulations in this Article XV and those provisions of this Code which by their nature can have no application."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 99-785, eff. 1-1-17.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 99-785, eff. 1-1-17.)",
+  "publicActs": [
+    {
+      "publicAct": "99-785",
+      "effectiveDate": "1-1-17"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "abded751b4a15a7a603e7bed66f43d86291c51b9d774d4b0b40e3213cf05199f",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0322"
+  ]
+}

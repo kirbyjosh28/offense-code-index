@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-10-10",
+  "citation": "720 ILCS 5/10-10",
+  "docName": "072000050K10-10",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K10-10",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:23:00.126Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/10-10",
+  "headingText": "Sec. 10-10. Failure to report the death or disappearance of a child under 13 years of age.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/10-10)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 10-10. Failure to report the death or disappearance of a child under 13 years of age."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A parent, legal guardian, or caretaker of a child under 13 years of age commits failure to report the death or disappearance of a child under 13 years of age when he or she knows or should know and fails to report the child as missing or deceased to a law enforcement agency within 24 hours if the parent, legal guardian, or caretaker reasonably believes that the child is missing or deceased. In the case of a child under the age of 2 years, the reporting requirement is reduced to no more than one hour."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) A parent, legal guardian, or caretaker of a child under 13 years of age must report the death of the child to the law enforcement agency of the county where the child's corpse was found if the parent, legal guardian, or caretaker reasonably believes that the death of the child was caused by a homicide, accident, or other suspicious circumstance."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) The Department of Children and Family Services Guardianship Administrator shall not personally be subject to the reporting requirements in subsection (a) or (b) of this Section."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) A parent, legal guardian, or caretaker does not commit the offense of failure to report the death or disappearance of a child under 13 years of age when:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) the failure to report is due to an act of God, act of war, or inability of a law enforcement agency to receive a report of the disappearance of a child; (2) the parent, legal guardian, or caretaker calls 911 to report the disappearance of the child; (3) the parent, legal guardian, or caretaker knows that the child is under the care of another parent, family member, relative, friend, or baby sitter; or (4) the parent, legal guardian, or caretaker is hospitalized, in a coma, or is otherwise seriously physically or mentally impaired as to prevent the person from reporting the death or disappearance. (e) Sentence. A violation of this Section is a Class 4 felony."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 97-1079, eff. 1-1-13.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 97-1079, eff. 1-1-13.)",
+  "publicActs": [
+    {
+      "publicAct": "97-1079",
+      "effectiveDate": "1-1-13"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "90a88696f000c3388ac6c6734e6aeb1082edb3d3f9ca7aef98a16210581fdfcf",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0571"
+  ]
+}

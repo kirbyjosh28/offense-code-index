@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-1201",
+  "citation": "625 ILCS 5/11-1201",
+  "docName": "062500050K11-1201",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-1201",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:14:56.583Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-1201",
+  "headingText": "Sec. 11-1201. Obedience to signal indicating approach of train or railroad track equipment.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-1201) (from Ch. 95 1/2, par. 11-1201)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-1201. Obedience to signal indicating approach of train or railroad track equipment."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) Whenever any person driving a vehicle approaches a railroad grade crossing where the driver is not always required to stop, the person must exercise due care and caution as the existence of a railroad track across a highway is a warning of danger, and under any of the circumstances stated in this Section, the driver shall stop within 50 feet but not less than 15 feet from the nearest rail of the railroad and shall not proceed until the tracks are clear and he or she can do so safely. The foregoing requirements shall apply when:"
+    },
+    {
+      "type": "paragraph",
+      "text": "1. A clearly visible electric or mechanical signal device gives warning of the immediate approach of a railroad train or railroad track equipment; 2. A crossing gate is lowered or a human flagman gives or continues to give a signal of the approach or passage of a railroad train or railroad track equipment; 3. A railroad train or railroad track equipment approaching a highway crossing emits a warning signal and such railroad train or railroad track equipment, by reason of its speed or nearness to such crossing, is an immediate hazard; 4. An approaching railroad train or railroad track equipment is plainly visible and is in hazardous proximity to such crossing; 5. A railroad train or railroad track equipment is approaching so closely that an immediate hazard is created. (a-1) Whenever any person driving a commercial motor vehicle, as defined in Section 6-500 of this Code, approaches a railroad grade crossing where the driver is not always required to stop, the person must exercise due care and caution as the existence of a railroad track across a highway is a warning of danger, and under any of the circumstances stated in this Section, the driver shall stop within 50 feet but not less than 15 feet from the nearest rail of the railroad and shall not proceed until the tracks are clear and he or she can do so safely. The foregoing requirements shall apply when:"
+    },
+    {
+      "type": "paragraph",
+      "text": "1. A clearly visible electric or mechanical signal device gives warning of the immediate approach of a railroad train or railroad track equipment; 2. A crossing gate is lowered or a human flagman gives or continues to give a signal of the approach or passage of a railroad train or railroad track equipment; 3. A railroad train or railroad track equipment approaching a highway crossing emits a warning signal and such railroad train or railroad track equipment, by reason of its speed or nearness to such crossing, is an immediate hazard; 4. An approaching railroad train or railroad track equipment is plainly visible and is in hazardous proximity to such crossing; 5. A railroad train or railroad track equipment is approaching so closely that an immediate hazard is created. (a-5) Whenever a person driving a commercial motor vehicle, as defined in Section 6-500 of this Code, approaches a railroad grade crossing where the driver is not always required to stop but must slow down, the person must exercise due care and caution as the existence of a railroad track across a highway is a warning of danger, and under any of the circumstances stated in this Section, the driver shall slow down within 50 feet but not less than 15 feet from the nearest rail of the railroad and shall not proceed until he or she checks that the tracks are clear of an approaching train or railroad track equipment."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) No person shall drive any vehicle through, around or under any crossing gate or barrier at a railroad crossing while such gate or barrier is closed or is being opened or closed."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) The Department, and local authorities with the approval of the Department, are hereby authorized to designate particularly dangerous highway grade crossings of railroads and to erect stop signs thereat. When such stop signs are erected the driver of any vehicle shall stop within 50 feet but not less than 15 feet from the nearest rail of such railroad and shall proceed only upon exercising due care."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) At any railroad grade crossing provided with railroad crossbuck signs, without automatic, electric, or mechanical signal devices, crossing gates, or a human flagman giving a signal of the approach or passage of a train or railroad track equipment, the driver of a vehicle shall in obedience to the railroad crossbuck sign, yield the right-of-way and slow down to a speed reasonable for the existing conditions and shall stop, if required for safety, at a clearly marked stopped line, or if no stop line, within 50 feet but not less than 15 feet from the nearest rail of the railroad and shall not proceed until he or she can do so safely. If a driver is involved in a collision at a railroad crossing or interferes with the movement of a train or railroad track equipment after driving past the railroad crossbuck sign, the collision or interference is prima facie evidence of the driver's failure to yield right-of-way."
+    },
+    {
+      "type": "paragraph",
+      "text": "(d-1) No person shall, while driving a commercial motor vehicle, fail to negotiate a railroad-highway grade railroad crossing because of insufficient undercarriage clearance."
+    },
+    {
+      "type": "paragraph",
+      "text": "(d-5) (Blank)."
+    },
+    {
+      "type": "subsection",
+      "label": "(e)",
+      "text": "(e) It is unlawful to violate any part of this Section."
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) A violation of this Section is a petty offense for which a fine of $500 shall be imposed for a first violation, and a fine of $1,000 shall be imposed for a second or subsequent violation. The court may impose 25 hours of community service in place of the $500 fine for the first violation. (2) For a second or subsequent violation, the Secretary of State may suspend the driving privileges of the offender for a minimum of 6 months. (f) Corporate authorities of municipal corporations regulating operators of vehicles that fail to obey signals indicating the presence, approach, passage, or departure of a train or railroad track equipment shall impose fines as established in subsection (e) of this Section."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 103-179, eff. 6-30-23.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 103-179, eff. 6-30-23.)",
+  "publicActs": [
+    {
+      "publicAct": "103-179",
+      "effectiveDate": "6-30-23"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "1f8e82196535e0254bf48c684992a3d33ed720da5a34b66fe824a3d3c83f2f27",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0267"
+  ]
+}

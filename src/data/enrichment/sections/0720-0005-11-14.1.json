@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-11-14.1",
+  "citation": "720 ILCS 5/11-14.1",
+  "docName": "072000050K11-14.1",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K11-14.1",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:23:28.659Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/11-14.1",
+  "headingText": "Sec. 11-14.1. Solicitation of a sexual act.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/11-14.1)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-14.1. Solicitation of a sexual act."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) Any person who offers a person not his or her spouse any money, property, token, object, or article or anything of value for that person or any other person not his or her spouse to perform any act of sexual penetration as defined in Section 11-0.1 of this Code, or any touching or fondling of the sex organs of one person by another person for the purpose of sexual arousal or gratification, commits solicitation of a sexual act."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Sentence. Solicitation of a sexual act is a Class A misdemeanor. Solicitation of a sexual act from a person who is under the age of 18 or who is a person with a severe or profound intellectual disability is a Class 4 felony. If the court imposes a fine under this subsection (b), it shall be collected and distributed to the Specialized Services for Survivors of Human Trafficking Fund in accordance with Section 5-9-1.21 of the Unified Code of Corrections."
+    },
+    {
+      "type": "paragraph",
+      "text": "(b-5) (Blank)."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) This Section does not apply to a person engaged in prostitution who is under 18 years of age."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) A person cannot be convicted under this Section if the practice of prostitution underlying the offense consists exclusively of the accused's own acts of prostitution under Section 11-14 of this Code."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 102-939, eff. 1-1-23.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 102-939, eff. 1-1-23.)",
+  "publicActs": [
+    {
+      "publicAct": "102-939",
+      "effectiveDate": "1-1-23"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "d82280d7d763cad41ee47a11e86bcec3b89028743d1fcd956ffe86781e40f8ba",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0589"
+  ]
+}

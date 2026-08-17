@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-48-8",
+  "citation": "720 ILCS 5/48-8",
+  "docName": "072000050K48-8",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K48-8",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:30:29.104Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/48-8",
+  "headingText": "Sec. 48-8. Service animal access.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/48-8)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 48-8. Service animal access."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) When a person with a physical, mental, or intellectual disability requiring the use of a service animal is accompanied by a service animal or when a trainer of a service animal is accompanied by a service animal, neither the person nor the service animal shall be denied the right of entry and use of facilities of any public place of accommodation as defined in Section 5-101 of the Illinois Human Rights Act."
+    },
+    {
+      "type": "paragraph",
+      "text": "For the purposes of this Section, \"service animal\" means a dog or miniature horse trained or being trained as a hearing animal, a guide animal, an assistance animal, a seizure alert animal, a mobility animal, a psychiatric service animal, an autism service animal, or an animal trained for any other physical, mental, or intellectual disability. \"Service animal\" includes a miniature horse that a public place of accommodation shall make reasonable accommodation so long as the public place of accommodation takes into consideration: (1) the type, size, and weight of the miniature horse and whether the facility can accommodate its features; (2) whether the handler has sufficient control of the miniature horse; (3) whether the miniature horse is housebroken; and (4) whether the miniature horse's presence in the facility compromises legitimate safety requirements necessary for operation."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) A person who knowingly violates this Section commits a Class C misdemeanor."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 97-1108, eff. 1-1-13; incorporates 97-956, eff. 8-14-12; 97-1150, eff. 1-25-13.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 97-1108, eff. 1-1-13; incorporates 97-956, eff. 8-14-12; 97-1150, eff. 1-25-13.)",
+  "publicActs": [
+    {
+      "publicAct": "97-1108",
+      "effectiveDate": "1-1-13"
+    },
+    {
+      "publicAct": "97-1150",
+      "effectiveDate": "1-25-13"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "76bdccc8f3bf533fbb33d53106b23e370dce3251d2ee368af801d86a8da3ad89",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0904"
+  ]
+}

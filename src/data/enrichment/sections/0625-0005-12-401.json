@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-12-401",
+  "citation": "625 ILCS 5/12-401",
+  "docName": "062500050K12-401",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K12-401",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:18:11.800Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/12-401",
+  "headingText": "Sec. 12-401. Restriction as to tire equipment. No metal tired vehicle, including tractors, motor vehicles of the second division, traction engines and other similar vehicles, shall be operated over any improved highway of this State, if such vehicle has on the periphery of any of the road wheels any block, stud, flange, cleat, ridge, lug or any projection of metal or wood which projects radially beyond the tread or traffic surface of the tire. This prohibition does not apply to pneumatic tires with metal studs used on vehicles operated by rural letter carriers who are employed or enjoy a contract with the United States Postal Service for the purpose of delivering mail if such vehicle is actually used for such purpose during operations between November 15 of any year and April 1 of the following year, or to motor vehicles displaying a disability license plate or a license plate for veterans with disabilities whose owner resides in an unincorporated area located upon a county or township highway or road and possesses a valid driver's license and operates the vehicle with such tires only during the period heretofore described, or to tracked type motor vehicles when that part of the vehicle coming in contact with the road surface does not contain any projections of any kind likely to injure the surface of the road; however, tractors, traction engines, and similar vehicles may be operated which have upon their road wheels V-shaped, diagonal or other cleats arranged in such a manner as to be continuously in contact with the road surface, provided that the gross weight upon such wheels per inch of width of such cleats in contact with the road surface, when measured in the direction of the axle of the vehicle, does not exceed 800 pounds.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/12-401) (from Ch. 95 1/2, par. 12-401)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 12-401. Restriction as to tire equipment. No metal tired vehicle, including tractors, motor vehicles of the second division, traction engines and other similar vehicles, shall be operated over any improved highway of this State, if such vehicle has on the periphery of any of the road wheels any block, stud, flange, cleat, ridge, lug or any projection of metal or wood which projects radially beyond the tread or traffic surface of the tire. This prohibition does not apply to pneumatic tires with metal studs used on vehicles operated by rural letter carriers who are employed or enjoy a contract with the United States Postal Service for the purpose of delivering mail if such vehicle is actually used for such purpose during operations between November 15 of any year and April 1 of the following year, or to motor vehicles displaying a disability license plate or a license plate for veterans with disabilities whose owner resides in an unincorporated area located upon a county or township highway or road and possesses a valid driver's license and operates the vehicle with such tires only during the period heretofore described, or to tracked type motor vehicles when that part of the vehicle coming in contact with the road surface does not contain any projections of any kind likely to injure the surface of the road; however, tractors, traction engines, and similar vehicles may be operated which have upon their road wheels V-shaped, diagonal or other cleats arranged in such a manner as to be continuously in contact with the road surface, provided that the gross weight upon such wheels per inch of width of such cleats in contact with the road surface, when measured in the direction of the axle of the vehicle, does not exceed 800 pounds."
+    },
+    {
+      "type": "paragraph",
+      "text": "All motor vehicles and all other vehicles in tow thereof, or thereunto attached, operating upon any roadway, shall have tires of rubber or some material of equal resiliency. Solid tires shall be considered defective and shall not be permitted to be used if the rubber or other material has been worn or otherwise reduced to a thickness of less than three-fourths of an undue vibration when the vehicle is in motion or to cause undue concentration of the wheel load on the surface of the road. The requirements of this Section do not apply to agricultural tractors or traction engines or to agricultural machinery, including wagons being used for agricultural purposes in tow thereof, or to road rollers or road building machinery operated at a speed not in excess of 10 miles per hour. All motor vehicles of the second division, operating upon any roadway shall have pneumatic tires, unless exempted herein."
+    },
+    {
+      "type": "paragraph",
+      "text": "Nothing in this Section shall be deemed to prohibit the use of tire chains of reasonable proportion upon any vehicle when required for safety because of snow, ice or other conditions tending to cause a vehicle to skid."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 99-143, eff. 7-27-15.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 99-143, eff. 7-27-15.)",
+  "publicActs": [
+    {
+      "publicAct": "99-143",
+      "effectiveDate": "7-27-15"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "d0ecff32dea19a1fe172e082c3b2df9480bafbb614817481a3dadfa4761a3228",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0358"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-15-103",
+  "citation": "625 ILCS 5/15-103",
+  "docName": "062500050K15-103",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K15-103",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:19:32.893Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/15-103",
+  "headingText": "Sec. 15-103. Height of vehicles. The height of a vehicle from the under side of the tire to the top of the vehicle, inclusive of load, shall not exceed 13 feet, 6 inches on any highway in the State.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/15-103) (from Ch. 95 1/2, par. 15-103)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 15-103. Height of vehicles. The height of a vehicle from the under side of the tire to the top of the vehicle, inclusive of load, shall not exceed 13 feet, 6 inches on any highway in the State."
+    },
+    {
+      "type": "paragraph",
+      "text": "A person convicted of violating this Section is subject to the penalty provided in paragraph (b) of Section 15-113."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 92-417, eff. 1-1-02.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 92-417, eff. 1-1-02.)",
+  "publicActs": [
+    {
+      "publicAct": "92-417",
+      "effectiveDate": "1-1-02"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "97fd1cb0a8843d9a5ad3317abdcf43bc6127e44099d665ac7ab53d957bc1ae58",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0432"
+  ]
+}

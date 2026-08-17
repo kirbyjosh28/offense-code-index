@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-804",
+  "citation": "625 ILCS 5/11-804",
+  "docName": "062500050K11-804",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-804",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:17:32.752Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-804",
+  "headingText": "Sec. 11-804. When signal required.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-804) (from Ch. 95 1/2, par. 11-804)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-804. When signal required."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) No person may turn a vehicle at an intersection unless the vehicle is in proper position upon the highway as required in Section 11-801 or turn a vehicle to enter a private road or driveway, or otherwise turn a vehicle from a direct course or move right or left upon a highway unless and until such movement can be made with reasonable safety. No person may so turn any vehicle without giving an appropriate signal in the manner hereinafter provided."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) A signal of intention to turn right or left, change lanes, otherwise turn a vehicle from a direct course, move right or left upon a highway, or when required must be given continuously during not less than the last 100 feet traveled by the vehicle within a business or residence district, and such signal must be given continuously during not less than the last 200 feet traveled by the vehicle outside a business or residence district."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) No person may stop or suddenly decrease the speed of a vehicle without first giving an appropriate signal in the manner provided in this Chapter to the driver of any vehicle immediately to the rear when there is opportunity to give such a signal."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) The electric turn signal device required in Section 12-208 of this Act must be used and operated as prescribed in subsection (b) of this Section to indicate an intention to turn, change lanes, turn a vehicle from a direct course, move right or left upon a highway, or start from a parallel parked position. Unless the conditions of subsection (b) of this Section are met, an electric turn signal device required in Section 12-208 shall not be left in the on position and must not be flashed on one side only on a parked or disabled vehicle or flashed as a courtesy or \"do pass\" signal to operators of other vehicles approaching from the rear. However, such signal devices may be flashed simultaneously on both sides of a motor vehicle to indicate the presence of a vehicular traffic hazard requiring unusual care in approaching, overtaking and passing."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 104-577, eff. 7-16-26.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 104-577, eff. 7-16-26.)",
+  "publicActs": [
+    {
+      "publicAct": "104-577",
+      "effectiveDate": "7-16-26"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "bb358627c7cf3d6d944d0aa81708f73d16746c5d311c8f2a31398bae02daffa9",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0245",
+    "offense-0246"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-704",
+  "citation": "625 ILCS 5/11-704",
+  "docName": "062500050K11-704",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-704",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:17:14.735Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-704",
+  "headingText": "Sec. 11-704. When overtaking on the right is permitted.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-704) (from Ch. 95 1/2, par. 11-704)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-704. When overtaking on the right is permitted."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) The driver of a vehicle with 3 or more wheels may overtake and pass upon the right of another vehicle only under the following conditions:"
+    },
+    {
+      "type": "paragraph",
+      "text": "1. When the vehicle overtaken is making or about to make a left turn. 2. Upon a roadway with unobstructed pavement of sufficient width for 2 or more lines of vehicles moving lawfully in the direction being traveled by the overtaking vehicle. 3. Upon a one-way street, or upon any roadway on which traffic is restricted to one direction of movement, where the roadway is free from obstructions and of sufficient width for 2 or more lines of moving vehicles. (b) The driver of a 2-wheeled vehicle may not pass upon the right of any other vehicle proceeding in the same direction unless the unobstructed pavement to the right of the vehicle being passed is of a width of not less than 8 feet. This subsection does not apply to devices propelled by human power."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) The driver of a vehicle may overtake and pass another vehicle upon the right only under conditions permitting such movement in safety. Such movement shall not be made by driving off the roadway."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 102-558, eff. 8-20-21.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 102-558, eff. 8-20-21.)",
+  "publicActs": [
+    {
+      "publicAct": "102-558",
+      "effectiveDate": "8-20-21"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "71e2767d4ed8e14d9919a24d12af0f4c3e5a06e4fed79e707a682f318398fe19",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0231",
+    "offense-0232",
+    "offense-0233"
+  ]
+}

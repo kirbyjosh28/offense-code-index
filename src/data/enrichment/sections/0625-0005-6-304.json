@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-6-304",
+  "citation": "625 ILCS 5/6-304",
+  "docName": "062500050K6-304",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K6-304",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:21:51.038Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/6-304",
+  "headingText": "Sec. 6-304. Permitting unauthorized person to drive.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/6-304) (from Ch. 95 1/2, par. 6-304)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 6-304. Permitting unauthorized person to drive."
+    },
+    {
+      "type": "paragraph",
+      "text": "No person shall cause, authorize or knowingly permit a motor vehicle owned by him or under his control to be driven upon any highway by any person who is not authorized hereunder or in violation of any of the provisions of this Act."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 76-1586.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 76-1586.)",
+  "publicActs": [
+    {
+      "publicAct": "76-1586",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "1ee61d3640abd8c65c7f57dc6ec169a78460542aa12ce89aa9103731b328670a",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0153"
+  ]
+}

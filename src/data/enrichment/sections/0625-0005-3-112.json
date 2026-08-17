@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-3-112",
+  "citation": "625 ILCS 5/3-112",
+  "docName": "062500050K3-112",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K3-112",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:20:05.926Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/3-112",
+  "headingText": "Sec. 3-112. Transfer.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/3-112) (from Ch. 95 1/2, par. 3-112)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 3-112. Transfer."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) If an owner transfers his interest in a vehicle, other than by the creation of a security interest, at the time of the delivery of the vehicle he shall execute to the transferee an assignment and warranty of title in the space provided on the certificate of title, or as the Secretary of State prescribes, and cause the certificate and assignment to be mailed or delivered to the transferee or to the Secretary of State."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the vehicle is subject to a tax under the Mobile Home Local Services Tax Act in a county with a population of less than 3,000,000, the owner shall also provide to the transferee a certification by the treasurer of the county in which the vehicle is situated that all taxes imposed upon the vehicle for the years the owner was the actual titleholder of the vehicle have been paid. The transferee shall be liable only for the taxes he or she incurred while he or she was the actual titleholder of the mobile home. The county treasurer shall refund any amount of taxes paid by the transferee that were imposed in years when the transferee was not the actual titleholder. The provisions of this amendatory Act of 1997 (P.A. 90-542) apply retroactively to January 1, 1996. In no event may the county treasurer refund amounts paid by the transferee during any year except the 10 years immediately preceding the year in which the refund is made. If the owner is a licensed dealer who has purchased the vehicle and is holding it for resale, in lieu of acquiring a certification from the county treasurer he shall forward the certification received from the previous owner to the next buyer of the vehicle. The owner shall cause the certification to be mailed or delivered to the Secretary of State with the certificate of title and assignment."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Except as provided in Section 3-113, the transferee shall, promptly and within 20 days after delivery to him of the vehicle and the assigned title, execute the application for a new certificate of title in the space provided therefor on the certificate or as the Secretary of State prescribes, and cause the certificate and application to be mailed or delivered to the Secretary of State."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Upon request of the owner or transferee, a lienholder in possession of the certificate of title shall, unless the transfer was a breach of his security agreement, either deliver the certificate to the transferee for delivery to the Secretary of State or, upon receipt from the transferee of the owner's assignment, the transferee's application for a new certificate and the required fee, mail or deliver them to the Secretary of State. The delivery of the certificate does not affect the rights of the lienholder under his security agreement."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) If a security interest is reserved or created at the time of the transfer, the certificate of title shall be retained by or delivered to the person who becomes the lienholder, and the parties shall comply with the provisions of Section 3-203."
+    },
+    {
+      "type": "subsection",
+      "label": "(e)",
+      "text": "(e) Except as provided in Section 3-113 and as between the parties, a transfer by an owner is not effective until the provisions of this Section and Section 3-115 have been complied with; however, an owner who has delivered possession of the vehicle to the transferee and has complied with the provisions of this Section and Section 3-115 requiring action by him as not liable as owner for any damages thereafter resulting from operation of the vehicle."
+    },
+    {
+      "type": "subsection",
+      "label": "(f)",
+      "text": "(f) The Secretary of State shall not process any application for a transfer of an interest in a vehicle if any fees or taxes due under this Act from the transferor or the transferee have not been paid upon reasonable notice and demand."
+    },
+    {
+      "type": "subsection",
+      "label": "(g)",
+      "text": "(g) If the Secretary of State receives an application for transfer of a vehicle subject to a tax under the Mobile Home Local Services Tax Act in a county with a population of less than 3,000,000, such application must be accompanied by the required certification by the county treasurer or tax assessor authorizing the issuance of the title."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 92-651, eff. 7-11-02.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 92-651, eff. 7-11-02.)",
+  "publicActs": [
+    {
+      "publicAct": "92-651",
+      "effectiveDate": "7-11-02"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "930122876dd9622439f5039372f6a52d286579f797479938d99ee8efcef73332",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0002"
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-1425",
+  "citation": "625 ILCS 5/11-1425",
+  "docName": "062500050K11-1425",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-1425",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:15:53.909Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-1425",
+  "headingText": "Sec. 11-1425. Stop when traffic obstructed.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-1425) (from Ch. 95 1/2, par. 11-1425)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-1425. Stop when traffic obstructed."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) No driver shall enter an intersection or a marked crosswalk or drive onto any railroad grade crossing unless there is sufficient space on the other side of the intersection, crosswalk or railroad grade crossing to accommodate the vehicle he is operating without obstructing the passage of other vehicles, pedestrians, or railroad trains notwithstanding any traffic-control signal indication to proceed."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) No driver shall enter a highway rail grade crossing unless there is sufficient space on the other side of the highway rail grade crossing to accommodate the vehicle being operated without obstructing the passage of a train or other railroad equipment using the rails, notwithstanding any traffic-control signal indication to proceed."
+    },
+    {
+      "type": "paragraph",
+      "text": "(b-5) No driver operating a commercial motor vehicle, as defined in Section 6-500 of this Code, shall enter a highway rail grade crossing unless there is sufficient space on the other side of the highway rail grade crossing to accommodate the vehicle being operated without obstructing the passage of a train or other railroad equipment using the rails, notwithstanding any traffic-control signal indication to proceed."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) (Blank)."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) Beginning with the effective date of this amendatory Act of the 95th General Assembly, the Secretary of State shall suspend for a period of one month the driving privileges of any person convicted of a violation of subsection (b) or (b-5) of this Section or a similar provision of a local ordinance; the Secretary shall suspend for a period of 3 months the driving privileges of any person convicted of a second or subsequent violation of subsection (b) or (b-5) of this Section or a similar provision of a local ordinance if the second or subsequent violation occurs within 5 years of a prior conviction for the same offense. In addition to the suspensions authorized by this Section, any person convicted of violating subsection (b) or (b-5) of this Section or a similar provision of a local ordinance shall be subject to a mandatory fine of $500 or 50 hours of community service. Any person given a disposition of court supervision for violating subsection (b) or (b-5) of this Section or a similar provision of a local ordinance shall also be subject to a mandatory fine of $500 or 50 hours of community service. Upon a second or subsequent violation, in addition to the suspensions authorized by this Section, the person shall be subject to a mandatory fine of $500 and 50 hours community service. The Secretary may also grant, for the duration of any suspension issued under this subsection, a restricted driving permit granting the privilege of driving a motor vehicle between the driver's residence and place of employment or within other proper limits that the Secretary of State shall find necessary to avoid any undue hardship. A restricted driving permit issued hereunder shall be subject to cancellation, revocation, and suspension by the Secretary of State in like manner and for like cause as a driver's license may be cancelled, revoked, or suspended; except that a conviction upon one or more offenses against laws or ordinances regulating the movement of traffic shall be deemed sufficient cause for the revocation, suspension, or cancellation of the restricted driving permit. The Secretary of State may, as a condition to the issuance of a restricted driving permit, require the applicant to participate in a designated driver remedial or rehabilitative program. Any conviction for a violation of this subsection shall be included as an offense for the purposes of determining suspension action under any other provision of this Code, provided however, that the penalties provided under this subsection shall be imposed unless those penalties imposed under other applicable provisions are greater."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 103-179, eff. 6-30-23; 104-260, eff. 8-15-25.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 103-179, eff. 6-30-23; 104-260, eff. 8-15-25.)",
+  "publicActs": [
+    {
+      "publicAct": "103-179",
+      "effectiveDate": "6-30-23"
+    },
+    {
+      "publicAct": "104-260",
+      "effectiveDate": "8-15-25"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "8b2dfeb7fe7fcbb273be69c0201e2af4a4315ae71c7fa7d2cd3523c63c1da3ae",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0313",
+    "offense-0314"
+  ]
+}

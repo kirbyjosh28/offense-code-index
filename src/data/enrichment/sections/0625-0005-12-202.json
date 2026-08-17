@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-12-202",
+  "citation": "625 ILCS 5/12-202",
+  "docName": "062500050K12-202",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K12-202",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:17:50.775Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/12-202",
+  "headingText": "Sec. 12-202. Clearance, identification and side marker lamps.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/12-202) (from Ch. 95 1/2, par. 12-202)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 12-202. Clearance, identification and side marker lamps."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) Second division vehicles with a GVWR over 10,000 pounds, the length of which together with any trailer or trailers in tow thereof, is more than 25 feet or the width of which is more than 80 inches exclusive of mirrors, bumpers and other required safety devices, while being operated on the highways of this State during the period from sunset to sunrise, shall display on the front of the vehicle 2 yellow or amber lights, one on each upper front corner of the vehicle, which shall be plainly visible at a distance of at least 500 feet; also on the rear thereof in a horizontal line, 3 red lights plainly visible at a distance of not less than 500 feet; also on the front of the body of that vehicle near the lower left hand corner one yellow or amber tinted reflector, and near the lower right hand corner one yellow or amber tinted reflector; also red reflectors on the rear of the body of that vehicle, not more than 12 inches from the lower left and right hand corners. All motor vehicles of the second division more than 20 feet long, and all trailers and semitrailers, except trailers and semitrailers having a gross weight of 3,000 pounds or less including the weight of the trailer and maximum load, while being operated on the highways of this State during the period from sunset to sunrise, shall display on each side of the vehicle at approximately the one-third points of the length of the same, at a height not exceeding 5 feet above the surface of the road, and reflecting on a line approximately at right angles to the center line of the vehicle, 2 amber tinted reflectors. After January, 1974, all new motor vehicles of the second division more than 20 feet long, and all trailers and semitrailers except trailers and semitrailers having a gross weight of 3,000 pounds or less including the weight of the trailer and maximum load sold as new in this State, while being operated on the highways of this State during period from sunset to sunrise, shall display on each side of the vehicle, not more than 12 inches from the front, one amber tinted reflector, and not more than 12 inches from the rear one red reflector at a height not exceeding 5 feet above the surface of the road, and reflecting on a line approximately at right angles to the center line of the vehicle, approved by the Department."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Every trailer and semitrailer having a gross weight of 3,000 pounds or less including the weight of the trailer and maximum load, towed either by a motor vehicle of the first division or a motor vehicle of the second division shall be equipped with 2 red reflectors, which will be visible when hit by headlight beams 300 feet away at night, on the rear of the body of such trailer, not more than 12 inches from the lower left hand and lower right hand corners."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Every vehicle designated in paragraph (a) or (b) of this Section that is manufactured after December 31, 1973, shall, at the places and times specified in paragraph (a) or (b) of this Section, display reflectors and clearance, identification, and side marker lamps in conformance with the specifications prescribed by the Department."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 97-201, eff. 1-1-12.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 97-201, eff. 1-1-12.)",
+  "publicActs": [
+    {
+      "publicAct": "97-201",
+      "effectiveDate": "1-1-12"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "08f0c6d26a5b01ecbd1f937f4a7a09f90196c6845957db536995f537d2f76086",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0339"
+  ]
+}

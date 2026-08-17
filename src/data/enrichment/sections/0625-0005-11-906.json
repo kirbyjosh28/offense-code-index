@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-906",
+  "citation": "625 ILCS 5/11-906",
+  "docName": "062500050K11-906",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-906",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:17:41.758Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-906",
+  "headingText": "Sec. 11-906. Vehicle entering highway from private road or driveway.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-906) (from Ch. 95 1/2, par. 11-906)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-906. Vehicle entering highway from private road or driveway."
+    },
+    {
+      "type": "paragraph",
+      "text": "The driver of a vehicle about to enter or cross a highway from an alley, building, private road or driveway shall yield the right-of-way to all vehicles approaching on the highway to be entered."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 76-1739.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 76-1739.)",
+  "publicActs": [
+    {
+      "publicAct": "76-1739",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "dec744422b04ea1df8720d814e88cf42a56cbf25503238b85b7ba1379d6b8ebb",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0252"
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-12-607",
+  "citation": "625 ILCS 5/12-607",
+  "docName": "062500050K12-607",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K12-607",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:18:38.834Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/12-607",
+  "headingText": "Sec. 12-607. Suspension System.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/12-607) (from Ch. 95 1/2, par. 12-607)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 12-607. Suspension System."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) It shall be unlawful to operate a motor vehicle on any highway of this State when the suspension system has been modified from the original manufactured design by lifting the body from the chassis in excess of 3 inches or to cause the horizontal line from the front to the rear bumper to vary over 3 inches in height when measured from a level surface of the highway to the lower edge of the bumper, except that it is unlawful to operate a street rod or custom vehicle when the suspension system has been modified from the original manufactured design so that the horizontal line from the front to the rear bumper varies over 7 inches in height when measured from a level surface of the highway to the lower edge of the bumper."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Nothing in this Section shall prevent the installation of manufactured heavy duty equipment to include shock absorbers and overload springs, nor shall anything contained in this Section prevent a person to operate a motor vehicle on any highway of this State with normal wear of the suspension system if normal wear does not affect the control or safe operation of the vehicle. This Section shall not apply to motor vehicles designed or modified primarily for off-highway racing purposes while such vehicles are in tow or to motorcycles or motor driven cycles."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 92-668, eff. 1-1-03.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 92-668, eff. 1-1-03.)",
+  "publicActs": [
+    {
+      "publicAct": "92-668",
+      "effectiveDate": "1-1-03"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "57bcd2c41eb051ef6a21e2a3e8fb7331cd466fd6b4087133957cc62c5bfeb1bb",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0392"
+  ]
+}

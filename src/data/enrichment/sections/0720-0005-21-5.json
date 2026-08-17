@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-21-5",
+  "citation": "720 ILCS 5/21-5",
+  "docName": "072000050K21-5",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K21-5",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:27:31.925Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/21-5",
+  "headingText": "Sec. 21-5. Criminal trespass to State supported land.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/21-5) (from Ch. 38, par. 21-5)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 21-5. Criminal trespass to State supported land."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits criminal trespass to State supported land when he or she enters upon land supported in whole or in part with State funds, or federal funds administered or granted through State agencies or any building on the land, after receiving, prior to the entry, notice from the State or its representative that the entry is forbidden, or remains upon the land or in the building after receiving notice from the State or its representative to depart, and who thereby interferes with another person's lawful use or enjoyment of the building or land."
+    },
+    {
+      "type": "paragraph",
+      "text": "A person has received notice from the State within the meaning of this subsection if he or she has been notified personally, either orally or in writing, or if a printed or written notice forbidding entry to him or her or a group of which he or she is a part, has been conspicuously posted or exhibited at the main entrance to the land or the forbidden part thereof."
+    },
+    {
+      "type": "paragraph",
+      "text": "(a-5) A person commits criminal trespass to State supported land when he or she enters upon a right-of-way, including facilities and improvements thereon, owned, leased, or otherwise used by a public body or district organized under the Chicago Transit Authority Act, the Local Mass Transit District Act, or the Northern Illinois Transit Authority Act, after receiving, prior to the entry, notice from the public body or district, or its representative, that the entry is forbidden, or the person remains upon the right-of-way after receiving notice from the public body or district, or its representative, to depart, and in either of these instances intends to compromise public safety by causing a delay in transit service lasting more than 15 minutes or destroying property."
+    },
+    {
+      "type": "paragraph",
+      "text": "A person has received notice from the public body or district within the meaning of this subsection if he or she has been notified personally, either orally or in writing, or if a printed or written notice forbidding entry to him or her has been conspicuously posted or exhibited at any point of entrance to the right-of-way or the forbidden part of the right-of-way."
+    },
+    {
+      "type": "paragraph",
+      "text": "As used in this subsection (a-5), \"right-of-way\" has the meaning ascribed to it in Section 18c-7502 of the Illinois Vehicle Code."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) A person commits criminal trespass to State supported land when he or she enters upon land supported in whole or in part with State funds, or federal funds administered or granted through State agencies or any building on the land by presenting false documents or falsely representing his or her identity orally to the State or its representative in order to obtain permission from the State or its representative to enter the building or land; or remains upon the land or in the building by presenting false documents or falsely representing his or her identity orally to the State or its representative in order to remain upon the land or in the building, and who thereby interferes with another person's lawful use or enjoyment of the building or land."
+    },
+    {
+      "type": "paragraph",
+      "text": "This subsection does not apply to a peace officer or other official of a unit of government who enters upon land supported in whole or in part with State funds, or federal funds administered or granted through State agencies or any building on the land in the performance of his or her official duties."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Sentence. Criminal trespass to State supported land is a Class A misdemeanor, except a violation of subsection (a-5) of this Section is a Class A misdemeanor for a first violation and a Class 4 felony for a second or subsequent violation."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 104-457, Article 10, Section 10-70, eff. 6-1-26; 104-457, Article 15, Section 15-205, eff. 6-1-26.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 104-457, Article 10, Section 10-70, eff. 6-1-26; 104-457, Article 15, Section 15-205, eff. 6-1-26.)",
+  "publicActs": [
+    {
+      "publicAct": "104-457",
+      "effectiveDate": null
+    },
+    {
+      "publicAct": "104-457",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "37ceaeef07439b395b6cf8a358668852f34b4febffc2ed2612d6e7d277907c84",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0769"
+  ]
+}

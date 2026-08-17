@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-17-13",
+  "citation": "720 ILCS 5/17-13",
+  "docName": "072000050K17-13",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K17-13",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:26:00.336Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/17-13",
+  "headingText": "Sec. 17-13. Fraud in transfers of real and personal property.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/17-13)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 17-13. Fraud in transfers of real and personal property."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) Conditional sale; sale without consent of title holder. No person purchasing personal property under a conditional sales contract shall, during the existence of such conditional sales contract and before the conditions thereof have been fulfilled, knowingly sell, transfer, conceal, or in any manner dispose of such property, or cause or allow the same to be done, without the written consent of the holder of title."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Acknowledgment of fraudulent conveyance. No officer authorized to take the proof and acknowledgment of a conveyance of real or personal property or other instrument shall knowingly certify that the conveyance or other instrument was duly proven or acknowledged by a party to the conveyance or other instrument when no such acknowledgment or proof was made, or was not made at the time it was certified to have been made, with intent to injure or defraud or to enable any other person to injure or defraud."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Fraudulent land sales. No person, after once selling, bartering, or disposing of a tract or tracts of land or a town lot or lots, or executing a bond or agreement for the sale of lands or a town lot or lots, shall again knowingly and with intent to defraud sell, barter, or dispose of the same tract or tracts of land or town lot or lots, or any part of those tracts of land or town lot or lots, or knowingly and with intent to defraud execute a bond or agreement to sell, barter, or dispose of the same land or lot or lots, or any part of that land or lot or lots, to any other person for a valuable consideration."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) Sentence. A violation of subsection (a) of this Section is a Class A misdemeanor. A violation of subsection (b) of this Section is a Class 4 felony. A violation of subsection (c) of this Section is a Class 3 felony."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 96-1551, eff. 7-1-11.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 96-1551, eff. 7-1-11.)",
+  "publicActs": [
+    {
+      "publicAct": "96-1551",
+      "effectiveDate": "7-1-11"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "6f2b27ba0926608a8ff0beab19205c97b1f4877207c72107750d43b7941ce6fb",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0718",
+    "offense-0719"
+  ]
+}

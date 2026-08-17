@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-11-25",
+  "citation": "720 ILCS 5/11-25",
+  "docName": "072000050K11-25",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K11-25",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:23:45.182Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/11-25",
+  "headingText": "Sec. 11-25. Grooming.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/11-25)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-25. Grooming."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits grooming when, being 5 years or more older than a child, or holding a position of trust, authority, or supervision in relation to the child at the time of the offense, he or she knowingly:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) uses a computer on-line service, Internet service, local bulletin board service, or any other device capable of electronic data storage or transmission, performs an act in person or by conduct through a third party, or uses written communication to seduce, solicit, lure, or entice, or attempt to seduce, solicit, lure, or entice, a child, a child's guardian, or another person believed by the person to be a child or a child's guardian, to commit any sex offense, to distribute photographs depicting the sex organs of the child, or to otherwise engage in any unlawful sexual conduct with a child or with another person believed by the person to be a child; or (2) engages in a pattern of conduct that seduces, solicits, lures, or entices, or attempts to seduce, solicit, lure, or entice, a child to engage or participate in unlawful sexual conduct that is for the purpose of sexual gratification or arousal of the victim, the accused, or another. (a-5) As used in this Section:"
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Child\" means a person under 17 years of age."
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Pattern\" means 2 or more instances of conduct."
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Sex offense\" means any violation of Article 11 of this Code."
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Sexual conduct\" means masturbation, sexual conduct, or sexual penetration as defined in Section 11-0.1 of this Code."
+    },
+    {
+      "type": "paragraph",
+      "text": "(a-6) Illinois has a compelling interest in effective education and \"grooming\" does not include conduct that serves a legitimate educational purpose pursuant to Section 27-9.1a of the School Code."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Sentence. Grooming is a Class 4 felony."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 104-245, eff. 1-1-26.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 104-245, eff. 1-1-26.)",
+  "publicActs": [
+    {
+      "publicAct": "104-245",
+      "effectiveDate": "1-1-26"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "92484195cbdb90b8172b14164b047238a80673f77ac370ba826f43b3c7e4eff1",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0600"
+  ]
+}

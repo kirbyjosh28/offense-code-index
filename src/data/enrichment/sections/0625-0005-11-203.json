@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-203",
+  "citation": "625 ILCS 5/11-203",
+  "docName": "062500050K11-203",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-203",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:16:22.173Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-203",
+  "headingText": "Sec. 11-203. Obedience to police officers. No person shall wilfully fail or refuse to comply with any lawful order or direction of any police officer, fireman, person authorized by a local authority to direct traffic, or school crossing guard invested by law with authority to direct, control, or regulate traffic. Any person convicted of violating this Section is guilty of a petty offense and shall be subject to a mandatory fine of $150.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-203) (from Ch. 95 1/2, par. 11-203)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-203. Obedience to police officers. No person shall wilfully fail or refuse to comply with any lawful order or direction of any police officer, fireman, person authorized by a local authority to direct traffic, or school crossing guard invested by law with authority to direct, control, or regulate traffic. Any person convicted of violating this Section is guilty of a petty offense and shall be subject to a mandatory fine of $150."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 98-396, eff. 1-1-14.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 98-396, eff. 1-1-14.)",
+  "publicActs": [
+    {
+      "publicAct": "98-396",
+      "effectiveDate": "1-1-14"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "a40ebe7dd28df40df095e299020bfa3afd7a4d5a9498bdb7fea9bf36c6153bcd",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0178"
+  ]
+}

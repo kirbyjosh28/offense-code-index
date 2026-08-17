@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0620-0005-43D",
+  "citation": "620 ILCS 5/43D",
+  "docName": "062000050K43D",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062000050K43D",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:14:41.567Z",
+  "transport": "cache",
+  "canonicalCitation": "620 ILCS 5/43d",
+  "headingText": "Sec. 43d. Intoxicated persons in or about aircraft.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(620 ILCS 5/43d) (from Ch. 15 1/2, par. 22.43d)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 43d. Intoxicated persons in or about aircraft."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) No person shall:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) Operate or attempt to operate any aircraft in this State while under the influence of intoxicating liquor or any narcotic drug or other controlled substance. (2) Knowingly permit any individual who is under the influence of intoxicating liquor or any narcotic drug or other controlled substance to operate any aircraft owned by the person or in his custody or control. (3) Perform any act in connection with the maintenance or operation of any aircraft when under the influence of intoxicating liquor or any narcotic drug or other controlled substance, except medication prescribed by a physician which will not render the person incapable of performing his duties safely. (4)(i) Consume alcoholic liquor within 8 hours prior to operating or acting as a crew member of any aircraft within this State. (ii) Act as a crew member of any aircraft within this State while under the influence of alcohol or when the alcohol concentration in the person's blood, other bodily substance, or breath is 0.04 or more based on the definition of blood, other bodily substance, and breath units contained in Section 11-501.2 of the Illinois Vehicle Code. (iii) Operate any aircraft within this State when the alcohol concentration in the person's blood, other bodily substance, or breath is 0.04 or more based on the definition of blood, other bodily substance, and breath units contained in Section 11-501.2 of the Illinois Vehicle Code. (iv) Operate or act as a crew member of any aircraft within this State when there is any amount of a drug, substance, or compound in the person's blood, other bodily substance, or urine resulting from the unlawful use or consumption of cannabis as listed in the Cannabis Control Act or a controlled substance as listed in the Illinois Controlled Substances Act. (5) Knowingly consume while a crew member of any aircraft any intoxicating liquor, narcotic drug, or other controlled substance while the aircraft is in operation. (b) Any person who violates clause (4)(i) of subsection (a) of this Section is guilty of a Class A misdemeanor. A person who violates paragraph (2), (3), or (5) or clause (4)(ii) of subsection (a) of this Section is guilty of a Class 4 felony. A person who violates paragraph (1) or clause (4)(iii) or (4)(iv) of subsection (a) of this Section is guilty of a Class 3 felony."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 98-756, eff. 7-16-14; 99-697, eff. 7-29-16.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 98-756, eff. 7-16-14; 99-697, eff. 7-29-16.)",
+  "publicActs": [
+    {
+      "publicAct": "98-756",
+      "effectiveDate": "7-16-14"
+    },
+    {
+      "publicAct": "99-697",
+      "effectiveDate": "7-29-16"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "c62053915582ac4b70872f4fd490e72a3a6542cacffbb0ddbd29c12d0f35c9d6",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0549"
+  ]
+}

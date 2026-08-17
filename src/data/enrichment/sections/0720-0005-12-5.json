@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-12-5",
+  "citation": "720 ILCS 5/12-5",
+  "docName": "072000050K12-5",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K12-5",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:24:42.260Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/12-5",
+  "headingText": "Sec. 12-5. Reckless conduct.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/12-5) (from Ch. 38, par. 12-5)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 12-5. Reckless conduct."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits reckless conduct when he or she, by any means lawful or unlawful, recklessly performs an act or acts that:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) cause bodily harm to or endanger the safety of another person; or (2) cause great bodily harm or permanent disability or disfigurement to another person. (b) Sentence."
+    },
+    {
+      "type": "paragraph",
+      "text": "Reckless conduct under subdivision (a)(1) is a Class A misdemeanor. Reckless conduct under subdivision (a)(2) is a Class 4 felony."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 96-1551, eff. 7-1-11.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 96-1551, eff. 7-1-11.)",
+  "publicActs": [
+    {
+      "publicAct": "96-1551",
+      "effectiveDate": "7-1-11"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "cdbd1dc20353bd174434e340637068547b9104e80a95de08aa194d8b0b17240d",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0625"
+  ]
+}

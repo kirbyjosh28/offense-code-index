@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-1301.8",
+  "citation": "625 ILCS 5/11-1301.8",
+  "docName": "062500050K11-1301.8",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-1301.8",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:15:10.101Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-1301.8",
+  "headingText": "Sec. 11-1301.8. Obstruction of parking places for persons with disabilities.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-1301.8)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-1301.8. Obstruction of parking places for persons with disabilities."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) No property owner shall allow any unreasonable obstruction of a designated aisle or parking place specifically reserved for persons with disabilities after 24 hours following the conclusion of an adverse weather event."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) No property owner shall allow the accumulation of debris or large objects, such as trash containers, to unreasonably obstruct any designated aisle or parking place specifically reserved for persons with disabilities without providing suitable and equivalent alternative parking spaces on-site."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) This Section shall apply to both public and private property where any designated aisle or parking place is specifically reserved for persons with disabilities, by the posting of an official sign as designated under Section 11-301 of this Code."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) A person who violates this Section shall be guilty of a petty offense and pay a fine of not more than $250."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 96-1125, eff. 1-1-11; 97-333, eff. 8-12-11.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 96-1125, eff. 1-1-11; 97-333, eff. 8-12-11.)",
+  "publicActs": [
+    {
+      "publicAct": "96-1125",
+      "effectiveDate": "1-1-11"
+    },
+    {
+      "publicAct": "97-333",
+      "effectiveDate": "8-12-11"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "154f604304c3b9c1c4415da9ba444df453db24507512c433b467cc07051969f7",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0280"
+  ]
+}

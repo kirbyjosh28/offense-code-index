@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-10-1",
+  "citation": "720 ILCS 5/10-1",
+  "docName": "072000050K10-1",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K10-1",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:22:58.629Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/10-1",
+  "headingText": "Sec. 10-1. Kidnapping.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/10-1) (from Ch. 38, par. 10-1)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 10-1. Kidnapping."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits the offense of kidnapping when he or she knowingly:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) and secretly confines another against his or her will; (2) by force or threat of imminent force carries another from one place to another with intent secretly to confine that other person against his or her will; or (3) by deceit or enticement induces another to go from one place to another with intent secretly to confine that other person against his or her will. (b) Confinement of a child under the age of 13 years, or of a person with a severe or profound intellectual disability, is against that child's or person's will within the meaning of this Section if that confinement is without the consent of that child's or person's parent or legal guardian."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Sentence. Kidnapping is a Class 2 felony."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 99-143, eff. 7-27-15.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 99-143, eff. 7-27-15.)",
+  "publicActs": [
+    {
+      "publicAct": "99-143",
+      "effectiveDate": "7-27-15"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "f8ba14cc51f2f95a9f3e28e6aa31947b9d7030a68262dc40df6be3ae80a923cb",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0559"
+  ]
+}

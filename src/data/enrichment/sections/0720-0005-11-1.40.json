@@ -1,0 +1,70 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-11-1.40",
+  "citation": "720 ILCS 5/11-1.40",
+  "docName": "072000050K11-1.40",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K11-1.40",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:23:21.164Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/11-1.40",
+  "headingText": "Sec. 11-1.40. Predatory criminal sexual assault of a child.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/11-1.40) (was 720 ILCS 5/12-14.1)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-1.40. Predatory criminal sexual assault of a child."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits predatory criminal sexual assault of a child if that person is 17 years of age or older, and commits an act of contact, however slight, between the sex organ or anus of one person and the part of the body of another for the purpose of sexual gratification or arousal of the victim or the accused, or an act of sexual penetration, and:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) the victim is under 13 years of age; or"
+    },
+    {
+      "type": "subsection",
+      "label": "(2)",
+      "text": "(2) the victim is under 13 years of age and that person: (A) is armed with a firearm;"
+    },
+    {
+      "type": "subsection",
+      "label": "(B)",
+      "text": "(B) personally discharges a firearm during the commission of the offense; (C) causes great bodily harm to the victim that:"
+    },
+    {
+      "type": "subsection",
+      "label": "(i)",
+      "text": "(i) results in permanent disability; or"
+    },
+    {
+      "type": "subsection",
+      "label": "(ii)",
+      "text": "(ii) is life threatening; or"
+    },
+    {
+      "type": "subsection",
+      "label": "(D)",
+      "text": "(D) delivers (by injection, inhalation, ingestion, transfer of possession, or any other means) any controlled substance to the victim without the victim's consent or by threat or deception, for other than medical purposes. (b) Sentence."
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) A person convicted of a violation of subsection (a)(1) commits a Class X felony, for which the person shall be sentenced to a term of imprisonment of not less than 6 years and not more than 60 years. A person convicted of a violation of subsection (a)(2)(A) commits a Class X felony for which 15 years shall be added to the term of imprisonment imposed by the court. A person convicted of a violation of subsection (a)(2)(B) commits a Class X felony for which 20 years shall be added to the term of imprisonment imposed by the court. A person who has attained the age of 18 years at the time of the commission of the offense and who is convicted of a violation of subsection (a)(2)(C) commits a Class X felony for which the person shall be sentenced to a term of imprisonment of not less than 50 years or up to a term of natural life imprisonment. An offender under the age of 18 years at the time of the commission of predatory criminal sexual assault of a child in violation of subsections (a)(1), (a)(2)(A), (a)(2)(B), and (a)(2)(C) shall be sentenced under Section 5-4.5-105 of the Unified Code of Corrections. (1.1) A person convicted of a violation of subsection (a)(2)(D) commits a Class X felony for which the person shall be sentenced to a term of imprisonment of not less than 50 years and not more than 60 years. An offender under the age of 18 years at the time of the commission of predatory criminal sexual assault of a child in violation of subsection (a)(2)(D) shall be sentenced under Section 5-4.5-105 of the Unified Code of Corrections. (1.2) A person who has attained the age of 18 years at the time of the commission of the offense and convicted of predatory criminal sexual assault of a child committed against 2 or more persons regardless of whether the offenses occurred as the result of the same act or of several related or unrelated acts shall be sentenced to a term of natural life imprisonment and an offender under the age of 18 years at the time of the commission of the offense shall be sentenced under Section 5-4.5-105 of the Unified Code of Corrections. (2) A person who has attained the age of 18 years at the time of the commission of the offense and who is convicted of a second or subsequent offense of predatory criminal sexual assault of a child, or who is convicted of the offense of predatory criminal sexual assault of a child after having previously been convicted of the offense of criminal sexual assault or the offense of aggravated criminal sexual assault, or who is convicted of the offense of predatory criminal sexual assault of a child after having previously been convicted under the laws of this State or any other state of an offense that is substantially equivalent to the offense of predatory criminal sexual assault of a child, the offense of aggravated criminal sexual assault or the offense of criminal sexual assault, shall be sentenced to a term of natural life imprisonment. The commission of the second or subsequent offense is required to have been after the initial conviction for this paragraph (2) to apply. An offender under the age of 18 years at the time of the commission of the offense covered by this paragraph (2) shall be sentenced under Section 5-4.5-105 of the Unified Code of Corrections. (Source: P.A. 98-370, eff. 1-1-14; 98-756, eff. 7-16-14; 98-903, eff. 8-15-14; 99-69, eff. 1-1-16.)"
+    }
+  ],
+  "sourceLine": null,
+  "publicActs": [],
+  "repealed": false,
+  "bodyHash": "90a5d92a04b4b0102d83fc1fc84dc7ffdd2a71413b24d0587d9a439e9f56013f",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0574"
+  ]
+}

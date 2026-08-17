@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-16-6",
+  "citation": "720 ILCS 5/16-6",
+  "docName": "072000050K16-6",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K16-6",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:25:48.325Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/16-6",
+  "headingText": "Sec. 16-6. Theft-related devices.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/16-6) (from Ch. 38, par. 16-6)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 16-6. Theft-related devices."
+    },
+    {
+      "type": "paragraph",
+      "text": "(a)(1) A person commits unlawful possession of a key or device for a coin-operated machine when he or she possesses a key, drawing, print, mold of a key, device, or substance designed to open, break into, tamper with, or damage a coin-operated machine, with intent to commit a theft from the machine."
+    },
+    {
+      "type": "subsection",
+      "label": "(2)",
+      "text": "(2) A person commits unlawful use of a key or device for a coin-operated machine when he or she with the intent to commit a theft from a coin-operated machine uses a key, drawing, print, mold of a key, device, or substance and causes damage or loss to the coin-operated machine of more than $300."
+    },
+    {
+      "type": "paragraph",
+      "text": "(b)(1) A person commits unlawful use of a theft detection shielding device when he or she knowingly manufactures, sells, offers for sale or distributes any theft detection shielding device."
+    },
+    {
+      "type": "subsection",
+      "label": "(2)",
+      "text": "(2) A person commits unlawful possession of a theft detection shielding device when he or she knowingly possesses a theft detection shielding device with the intent to commit theft or retail theft."
+    },
+    {
+      "type": "subsection",
+      "label": "(3)",
+      "text": "(3) A person commits unlawful possession of a theft detection device remover when he or she knowingly possesses a theft detection device remover with the intent to use such tool to remove any theft detection device from any merchandise without the permission of the merchant or person owning or holding the merchandise."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) A person commits use of a scanning device or reencoder to defraud when the person knowingly uses:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) a scanning device to access, read, obtain, memorize, or store, temporarily or permanently, information encoded on the magnetic strip or stripe of a payment card without the permission of the authorized user of the payment card and with the intent to defraud the authorized user, the issuer of the authorized user's payment card, or a merchant; or (2) a reencoder to place information encoded on the magnetic strip or stripe of a payment card onto the magnetic strip or stripe of a different card without the permission of the authorized user of the card from which the information is being reencoded and with the intent to defraud the authorized user, the issuer of the authorized user's payment card, or a merchant. (d) Sentence. A violation of subdivision (a)(1), (b)(1), (b)(2), or (b)(3) is a Class A misdemeanor. A second or subsequent violation of subdivision (b)(1), (b)(2), or (b)(3) is a Class 4 felony. A violation of subdivision (a)(2), (c)(1), or (c)(2) is a Class 4 felony. A second or subsequent violation of subdivision (c)(1) or (c)(2) is a Class 3 felony."
+    },
+    {
+      "type": "subsection",
+      "label": "(e)",
+      "text": "(e) The owner of a coin-operated machine may maintain a civil cause of action against a person engaged in the activities covered in subdivisions (a)(1) and (a)(2) and may recover treble actual damages, reasonable attorney's fees, and costs."
+    },
+    {
+      "type": "subsection",
+      "label": "(f)",
+      "text": "(f) As used in this Section, \"substance\" means a corrosive or acidic liquid or solid but does not include items purchased through a coin-operated machine at the location or acquired as condiments at the location of the coin-operated machine."
+    },
+    {
+      "type": "subsection",
+      "label": "(g)",
+      "text": "(g) For the purposes of this Section, \"theft detection shielding device\" means any laminated or coated bag or device peculiar to and marketed for shielding and intended to shield merchandise from detection by an electronic or magnetic theft alarm sensor."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 97-597, eff. 1-1-12.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 97-597, eff. 1-1-12.)",
+  "publicActs": [
+    {
+      "publicAct": "97-597",
+      "effectiveDate": "1-1-12"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "7e00d3b56edbdf71241e97d2f66c23792c0e81cb263ae66786122562f4d1d56c",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0671"
+  ]
+}

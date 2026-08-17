@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0520-0005-2.24",
+  "citation": "520 ILCS 5/2.24",
+  "docName": "052000050K2.24",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=052000050K2.24",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:14:26.562Z",
+  "transport": "cache",
+  "canonicalCitation": "520 ILCS 5/2.24",
+  "headingText": "Sec. 2.24. It shall be unlawful to take or possess deer in this State, except in compliance with the provisions of Sections 2.25, 2.26, and 3.23 and subsections (a), (g), (n), (r), (t), (w), and (y) of Section 2.33, and the administrative rules issued under the provisions of those Sections. It is unlawful for any person to knowingly take any all-white whitetail deer (Odocoileus virginianus) in this State at any time.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(520 ILCS 5/2.24) (from Ch. 61, par. 2.24)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 2.24. It shall be unlawful to take or possess deer in this State, except in compliance with the provisions of Sections 2.25, 2.26, and 3.23 and subsections (a), (g), (n), (r), (t), (w), and (y) of Section 2.33, and the administrative rules issued under the provisions of those Sections. It is unlawful for any person to knowingly take any all-white whitetail deer (Odocoileus virginianus) in this State at any time."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 99-528, eff. 7-8-16.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 99-528, eff. 7-8-16.)",
+  "publicActs": [
+    {
+      "publicAct": "99-528",
+      "effectiveDate": "7-8-16"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "28012135019c2a5e6f3155b9b3b37777f17c6e765a022d8646769985c211a923",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0539"
+  ]
+}

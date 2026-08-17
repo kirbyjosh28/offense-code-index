@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-12-807.2",
+  "citation": "625 ILCS 5/12-807.2",
+  "docName": "062500050K12-807.2",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K12-807.2",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:19:19.372Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/12-807.2",
+  "headingText": "Sec. 12-807.2. Crossing control arms.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/12-807.2)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 12-807.2. Crossing control arms."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) No Type I or Type II school bus may be operated or used as a school bus within this State after December 31, 1999 unless that bus is equipped with a crossing control arm on the front of the bus that conforms to equipment and installation standards that the Department of Transportation shall promulgate for purposes of this subsection."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) If a Type I or Type II school bus is manufactured after December 31, 1997, that bus shall not be sold for use as, or purchased for the use as, or used as a school bus within this State unless that bus is equipped with a crossing control arm that is installed on the front of the bus by the original bus body manufacturer and that conforms to equipment and installation standards that the Department shall promulgate for purposes of this subsection."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) A crossing control arm meeting standards promulgated by the Department under this Section shall be designed to swing out from the front of a school bus when the bus stops and opens its doors while school children enter or exit the bus, as prescribed in rules promulgated by the State Board of Education."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) This Section does not apply to the temporary operation in this State of a school bus that is legally registered in another state and is displaying valid registration plates of that state if (i) the bus is not operated in Illinois on a regular basis, and (ii) the bus is being operated in Illinois in connection with a cultural, tourist, athletic, or similar activity that is sponsored by one or more schools located outside of Illinois for the benefit of their enrolled students who are being transported to or from that activity."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 90-108, eff. 7-14-97.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 90-108, eff. 7-14-97.)",
+  "publicActs": [
+    {
+      "publicAct": "90-108",
+      "effectiveDate": "7-14-97"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "63d41ba78a80d0d5788e024382e83fd99e4f20971899fd0cc308065b85d74992",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0422"
+  ]
+}

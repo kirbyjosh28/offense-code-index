@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-9-3.3",
+  "citation": "720 ILCS 5/9-3.3",
+  "docName": "072000050K9-3.3",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K9-3.3",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:30:45.624Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/9-3.3",
+  "headingText": "Sec. 9-3.3. Drug-induced homicide.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/9-3.3) (from Ch. 38, par. 9-3.3)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 9-3.3. Drug-induced homicide."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits drug-induced homicide when he or she violates Section 401 of the Illinois Controlled Substances Act or Section 55 of the Methamphetamine Control and Community Protection Act by unlawfully delivering a controlled substance to another, and any person's death is caused by the injection, inhalation, absorption, or ingestion of any amount of that controlled substance."
+    },
+    {
+      "type": "paragraph",
+      "text": "(a-5) A person commits drug-induced homicide when he or she violates the law of another jurisdiction, which if the violation had been committed in this State could be charged under Section 401 of the Illinois Controlled Substances Act or Section 55 of the Methamphetamine Control and Community Protection Act, by unlawfully delivering a controlled substance to another, and any person's death is caused in this State by the injection, inhalation, absorption, or ingestion of any amount of that controlled substance."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Sentence. Drug-induced homicide is a Class X felony, except:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) A person who commits drug-induced homicide by violating subsection (a) or subsection (c) of Section 401 of the Illinois Controlled Substances Act or Section 55 of the Methamphetamine Control and Community Protection Act commits a Class X felony for which the defendant shall in addition to a sentence authorized by law, be sentenced to a term of imprisonment of not less than 15 years and not more than 30 years or an extended term of not less than 30 years and not more than 60 years. (2) A person who commits drug-induced homicide by violating the law of another jurisdiction, which if the violation had been committed in this State could be charged under subsection (a) or subsection (c) of Section 401 of the Illinois Controlled Substances Act or Section 55 of the Methamphetamine Control and Community Protection Act, commits a Class X felony for which the defendant shall, in addition to a sentence authorized by law, be sentenced to a term of imprisonment of not less than 15 years and not more than 30 years or an extended term of not less than 30 years and not more than 60 years. (Source: P.A. 100-404, eff. 1-1-18.)"
+    }
+  ],
+  "sourceLine": null,
+  "publicActs": [],
+  "repealed": false,
+  "bodyHash": "ae7d7a3ffc78a080013a60526d29130c7de146e91d1c87a3b31e41ed24bc1c24",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0556"
+  ]
+}

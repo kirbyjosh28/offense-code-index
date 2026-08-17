@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-11-14",
+  "citation": "720 ILCS 5/11-14",
+  "docName": "072000050K11-14",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K11-14",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:23:27.162Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/11-14",
+  "headingText": "Sec. 11-14. Prostitution.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/11-14) (from Ch. 38, par. 11-14)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-14. Prostitution."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) Any person who knowingly performs, offers or agrees to perform any act of sexual penetration as defined in Section 11-0.1 of this Code for anything of value, or any touching or fondling of the sex organs of one person by another person, for anything of value, for the purpose of sexual arousal or gratification commits an act of prostitution."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Sentence. A violation of this Section is a Class A misdemeanor."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) (Blank)."
+    },
+    {
+      "type": "paragraph",
+      "text": "(c-5) It is an affirmative defense to a charge under this Section that the accused engaged in or performed prostitution as a result of being a victim of involuntary servitude or trafficking in persons as defined in Section 10-9 of this Code."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) Notwithstanding the foregoing, if it is determined, after a reasonable detention for investigative purposes, that a person suspected of or charged with a violation of this Section is a person under the age of 18, that person shall be immune from prosecution for a prostitution offense under this Section, and shall be subject to the temporary protective custody provisions of Sections 2-5 and 2-6 of the Juvenile Court Act of 1987. Pursuant to the provisions of Section 2-6 of the Juvenile Court Act of 1987, a law enforcement officer who takes a person under 18 years of age into custody under this Section shall immediately report an allegation of a violation of Section 10-9 of this Code to the Illinois Department of Children and Family Services State Central Register, which shall commence an initial investigation into child abuse or child neglect within 24 hours pursuant to Section 7.4 of the Abused and Neglected Child Reporting Act."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 98-164, eff. 1-1-14; 98-538, eff. 8-23-13; 98-756, eff. 7-16-14; 99-109, eff. 7-22-15.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 98-164, eff. 1-1-14; 98-538, eff. 8-23-13; 98-756, eff. 7-16-14; 99-109, eff. 7-22-15.)",
+  "publicActs": [
+    {
+      "publicAct": "98-164",
+      "effectiveDate": "1-1-14"
+    },
+    {
+      "publicAct": "98-538",
+      "effectiveDate": "8-23-13"
+    },
+    {
+      "publicAct": "98-756",
+      "effectiveDate": "7-16-14"
+    },
+    {
+      "publicAct": "99-109",
+      "effectiveDate": "7-22-15"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "9e162baec6a36d610ad54b325fc24d57c8c82e218e201092872e2636d8a0e52e",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0588"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-33F-2",
+  "citation": "720 ILCS 5/33F-2",
+  "docName": "072000050K33F-2",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K33F-2",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:30:14.093Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/33F-2",
+  "headingText": "Sec. 33F-2. Unlawful use of body armor. A person commits the offense of unlawful use of body armor when he knowingly wears body armor and is in possession of a dangerous weapon, other than a firearm, in the commission or attempted commission of any offense.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/33F-2) (from Ch. 38, par. 33F-2)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 33F-2. Unlawful use of body armor. A person commits the offense of unlawful use of body armor when he knowingly wears body armor and is in possession of a dangerous weapon, other than a firearm, in the commission or attempted commission of any offense."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 93-906, eff. 8-11-04.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 93-906, eff. 8-11-04.)",
+  "publicActs": [
+    {
+      "publicAct": "93-906",
+      "effectiveDate": "8-11-04"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "f4db77aaed21e104323ae69850c57e44ace8c2aeca2183ee03bce7e0eead323e",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0895"
+  ]
+}

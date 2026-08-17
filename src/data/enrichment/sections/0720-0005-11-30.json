@@ -1,0 +1,72 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-11-30",
+  "citation": "720 ILCS 5/11-30",
+  "docName": "072000050K11-30",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K11-30",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:23:48.179Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/11-30",
+  "headingText": "Sec. 11-30. Public indecency.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/11-30) (was 720 ILCS 5/11-9)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-30. Public indecency."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) Any person of the age of 17 years and upwards who performs any of the following acts in a public place commits a public indecency:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) An act of sexual penetration or sexual conduct; or"
+    },
+    {
+      "type": "subsection",
+      "label": "(2)",
+      "text": "(2) A lewd exposure of the body done with intent to arouse or to satisfy the sexual desire of the person. Breast-feeding of infants is not an act of public indecency."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) \"Public place\" for purposes of this Section means any place where the conduct may reasonably be expected to be viewed by others."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Sentence."
+    },
+    {
+      "type": "paragraph",
+      "text": "Public indecency is a Class A misdemeanor. A person convicted of a third or subsequent violation for public indecency is guilty of a Class 4 felony. Public indecency is a Class 4 felony if committed by a person 18 years of age or older who is on or within 500 feet of elementary or secondary school grounds when children are present on the grounds."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 96-1098, eff. 1-1-11; 96-1551, eff. 7-1-11.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 96-1098, eff. 1-1-11; 96-1551, eff. 7-1-11.)",
+  "publicActs": [
+    {
+      "publicAct": "96-1098",
+      "effectiveDate": "1-1-11"
+    },
+    {
+      "publicAct": "96-1551",
+      "effectiveDate": "7-1-11"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "d710094ce891acbc7c02d62c8f4cf73e4b741a190ce1cf8f450d3daa4390405a",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0602"
+  ]
+}

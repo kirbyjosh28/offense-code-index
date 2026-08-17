@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-11-1.60",
+  "citation": "720 ILCS 5/11-1.60",
+  "docName": "072000050K11-1.60",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K11-1.60",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:23:24.157Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/11-1.60",
+  "headingText": "Sec. 11-1.60. Aggravated criminal sexual abuse.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/11-1.60) (was 720 ILCS 5/12-16)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-1.60. Aggravated criminal sexual abuse."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits aggravated criminal sexual abuse if that person commits criminal sexual abuse and any of the following aggravating circumstances exist (i) during the commission of the offense or (ii) for purposes of paragraph (7), as part of the same course of conduct as the commission of the offense:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) the person displays, threatens to use, or uses a dangerous weapon or any other object fashioned or used in a manner that leads the victim, under the circumstances, reasonably to believe that the object is a dangerous weapon; (2) the person causes bodily harm to the victim;"
+    },
+    {
+      "type": "subsection",
+      "label": "(3)",
+      "text": "(3) the victim is 60 years of age or older;"
+    },
+    {
+      "type": "subsection",
+      "label": "(4)",
+      "text": "(4) the victim is a person with a physical disability;"
+    },
+    {
+      "type": "subsection",
+      "label": "(5)",
+      "text": "(5) the person acts in a manner that threatens or endangers the life of the victim or any other person; (6) the person commits the criminal sexual abuse during the course of committing or attempting to commit any other felony; or (7) the person delivers (by injection, inhalation, ingestion, transfer of possession, or any other means) any controlled substance to the victim for other than medical purposes without the victim's consent or by threat or deception. (b) A person commits aggravated criminal sexual abuse if that person commits an act of sexual conduct with a victim who is under 18 years of age and the person is a family member."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) A person commits aggravated criminal sexual abuse if:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) that person is 17 years of age or over and: (i) commits an act of sexual conduct with a victim who is under 13 years of age; or (ii) commits an act of sexual conduct with a victim who is at least 13 years of age but under 17 years of age and the person uses force or threat of force to commit the act; or (2) that person is under 17 years of age and: (i) commits an act of sexual conduct with a victim who is under 9 years of age; or (ii) commits an act of sexual conduct with a victim who is at least 9 years of age but under 17 years of age and the person uses force or threat of force to commit the act. (d) A person commits aggravated criminal sexual abuse if that person commits an act of sexual penetration or sexual conduct with a victim who is at least 13 years of age but under 17 years of age and the person is at least 5 years older than the victim."
+    },
+    {
+      "type": "subsection",
+      "label": "(e)",
+      "text": "(e) A person commits aggravated criminal sexual abuse if that person commits an act of sexual conduct with a victim who is a person with a severe or profound intellectual disability."
+    },
+    {
+      "type": "subsection",
+      "label": "(f)",
+      "text": "(f) A person commits aggravated criminal sexual abuse if that person commits an act of sexual conduct with a victim who is but under 18 years of age and the person is 17 years of age or over and holds a position of trust, authority, or supervision in relation to the victim."
+    },
+    {
+      "type": "subsection",
+      "label": "(g)",
+      "text": "(g) Sentence. Aggravated criminal sexual abuse for a violation of subsection (a), (b), (c), (d) or (e) of this Section is a Class 2 felony. Aggravated criminal sexual abuse for a violation of subsection (f) of this Section is a Class 1 felony."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 102-567, eff. 1-1-22.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 102-567, eff. 1-1-22.)",
+  "publicActs": [
+    {
+      "publicAct": "102-567",
+      "effectiveDate": "1-1-22"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "b63f852dd314bbd222385300a0b37ea505b1f3f97bd1e4f18d837d186e1f5033",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0576"
+  ]
+}

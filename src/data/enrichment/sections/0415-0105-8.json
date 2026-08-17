@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0415-0105-8",
+  "citation": "415 ILCS 105/8",
+  "docName": "041501050K8",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=041501050K8",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:14:16.036Z",
+  "transport": "cache",
+  "canonicalCitation": "415 ILCS 105/8",
+  "headingText": "Sec. 8. Persons who violate any of Sections 4 through 7 are subject to the penalties set out in this Section.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(415 ILCS 105/8) (from Ch. 38, par. 86-8)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 8. Persons who violate any of Sections 4 through 7 are subject to the penalties set out in this Section."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) Any person convicted of a violation of Section 4, 5, 6 or 7 is guilty of a Class B misdemeanor. A second conviction for an offense committed after the first conviction is a Class A misdemeanor. A third or subsequent violation, committed after a second conviction is a Class 4 felony."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) In addition to any fine imposed under this Act, the court may order that the person convicted of such a violation remove and properly dispose of the litter, may employ special bailiffs to supervise such removal and disposal, and may tax the costs of such supervision as costs against the person so convicted."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) The penalties prescribed in this Section are in addition to, and not in lieu of, any penalties, rights, remedies, duties or liabilities otherwise imposed or conferred by law."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) An individual convicted of violating Section 4 or Section 5 of this Act by disposing of litter upon a public highway may, in addition to any other penalty, be required to maintain litter control for 30 days over a designated portion of that highway, including, at the discretion of the agency having jurisdiction over the section of highway in question, the site where the offense occurred, as provided in Section 50 of the Illinois Adopt-A-Highway Act."
+    },
+    {
+      "type": "subsection",
+      "label": "(e)",
+      "text": "(e) A mandatory minimum fine of $50 must be imposed against any person who is convicted of violating Section 5 of this Act."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 98-472, eff. 1-1-14.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 98-472, eff. 1-1-14.)",
+  "publicActs": [
+    {
+      "publicAct": "98-472",
+      "effectiveDate": "1-1-14"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "9fcfec6e4ef30530d1e171ee66c6b0686cb663b040e88222ad3780f7e2a486a5",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0533"
+  ]
+}

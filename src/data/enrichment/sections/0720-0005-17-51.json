@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-17-51",
+  "citation": "720 ILCS 5/17-51",
+  "docName": "072000050K17-51",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K17-51",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:26:31.864Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/17-51",
+  "headingText": "Sec. 17-51. Computer tampering.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/17-51) (was 720 ILCS 5/16D-3)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 17-51. Computer tampering."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits computer tampering when he or she knowingly and without the authorization of a computer's owner or in excess of the authority granted to him or her:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) Accesses or causes to be accessed a computer or any part thereof, a computer network, or a program or data; (2) Accesses or causes to be accessed a computer or any part thereof, a computer network, or a program or data, and obtains data or services; (3) Accesses or causes to be accessed a computer or any part thereof, a computer network, or a program or data, and damages or destroys the computer or alters, deletes, or removes a computer program or data; (4) Inserts or attempts to insert a program into a computer or computer program knowing or having reason to know that such program contains information or commands that will or may: (A) damage or destroy that computer, or any other computer subsequently accessing or being accessed by that computer; (B) alter, delete, or remove a computer program or data from that computer, or any other computer program or data in a computer subsequently accessing or being accessed by that computer; or (C) cause loss to the users of that computer or the users of a computer which accesses or which is accessed by such program; or (5) Falsifies or forges electronic mail transmission information or other routing information in any manner in connection with the transmission of unsolicited bulk electronic mail through or into the computer network of an electronic mail service provider or its subscribers. (a-5) Distributing software to falsify routing information. It is unlawful for any person knowingly to sell, give, or otherwise distribute or possess with the intent to sell, give, or distribute software which:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) is primarily designed or produced for the purpose of facilitating or enabling the falsification of electronic mail transmission information or other routing information; (2) has only a limited commercially significant purpose or use other than to facilitate or enable the falsification of electronic mail transmission information or other routing information; or (3) is marketed by that person or another acting in concert with that person with that person's knowledge for use in facilitating or enabling the falsification of electronic mail transmission information or other routing information. (a-10) For purposes of subsection (a), accessing a computer network is deemed to be with the authorization of a computer's owner if:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) the owner authorizes patrons, customers, or guests to access the computer network and the person accessing the computer network is an authorized patron, customer, or guest and complies with all terms or conditions for use of the computer network that are imposed by the owner; (2) the owner authorizes the public to access the computer network and the person accessing the computer network complies with all terms or conditions for use of the computer network that are imposed by the owner; or (3) the person accesses the computer network in compliance with the Revised Uniform Fiduciary Access to Digital Assets Act (2015). (b) Sentence."
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) A person who commits computer tampering as set forth in subdivision (a)(1) or (a)(5) or subsection (a-5) of this Section is guilty of a Class B misdemeanor. (2) A person who commits computer tampering as set forth in subdivision (a)(2) of this Section is guilty of a Class A misdemeanor and a Class 4 felony for the second or subsequent offense. (3) A person who commits computer tampering as set forth in subdivision (a)(3) or (a)(4) of this Section is guilty of a Class 4 felony and a Class 3 felony for the second or subsequent offense. (4) If an injury arises from the transmission of unsolicited bulk electronic mail, the injured person, other than an electronic mail service provider, may also recover attorney's fees and costs, and may elect, in lieu of actual damages, to recover the lesser of $10 for each unsolicited bulk electronic mail message transmitted in violation of this Section, or $25,000 per day. The injured person shall not have a cause of action against the electronic mail service provider that merely transmits the unsolicited bulk electronic mail over its computer network. (5) If an injury arises from the transmission of unsolicited bulk electronic mail, an injured electronic mail service provider may also recover attorney's fees and costs, and may elect, in lieu of actual damages, to recover the greater of $10 for each unsolicited electronic mail advertisement transmitted in violation of this Section, or $25,000 per day. (6) The provisions of this Section shall not be construed to limit any person's right to pursue any additional civil remedy otherwise allowed by law. (c) Whoever suffers loss by reason of a violation of subdivision (a)(4) of this Section may, in a civil action against the violator, obtain appropriate relief. In a civil action under this Section, the court may award to the prevailing party reasonable attorney's fees and other litigation expenses."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 99-775, eff. 8-12-16.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 99-775, eff. 8-12-16.)",
+  "publicActs": [
+    {
+      "publicAct": "99-775",
+      "effectiveDate": "8-12-16"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "f0774e75601fbdeb9ba934508408d40b497a05838f5ccbe9bca3f091bfb3544b",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0737"
+  ]
+}

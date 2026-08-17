@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0425-0035-2",
+  "citation": "425 ILCS 35/2",
+  "docName": "042500350K2",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=042500350K2",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:14:17.535Z",
+  "transport": "cache",
+  "canonicalCitation": "425 ILCS 35/2",
+  "headingText": "Sec. 2. Possession, sale, and use of fireworks. Except as hereinafter provided it shall be unlawful for any person, firm, co-partnership, or corporation to knowingly possess, offer for sale, expose for sale, sell at retail, or use or explode any display fireworks, flame effects, or consumer fireworks; provided that city councils in cities, the president and board of trustees in villages and incorporated towns, and outside the corporate limits of cities, villages and incorporated towns, the county board, shall have power to adopt reasonable rules and regulations for the granting of permits for pyrotechnic and consumer displays.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(425 ILCS 35/2) (from Ch. 127 1/2, par. 128)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 2. Possession, sale, and use of fireworks. Except as hereinafter provided it shall be unlawful for any person, firm, co-partnership, or corporation to knowingly possess, offer for sale, expose for sale, sell at retail, or use or explode any display fireworks, flame effects, or consumer fireworks; provided that city councils in cities, the president and board of trustees in villages and incorporated towns, and outside the corporate limits of cities, villages and incorporated towns, the county board, shall have power to adopt reasonable rules and regulations for the granting of permits for pyrotechnic and consumer displays."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 93-263, eff. 7-22-03; 94-658, eff. 1-1-06.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 93-263, eff. 7-22-03; 94-658, eff. 1-1-06.)",
+  "publicActs": [
+    {
+      "publicAct": "93-263",
+      "effectiveDate": "7-22-03"
+    },
+    {
+      "publicAct": "94-658",
+      "effectiveDate": "1-1-06"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "e8d9e0e7e2a92badd364da38185194935fe8cac7f8a0b3f7cd03a9e6ba8baebd",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0534"
+  ]
+}

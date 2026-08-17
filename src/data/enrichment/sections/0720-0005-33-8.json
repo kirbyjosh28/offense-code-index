@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-33-8",
+  "citation": "720 ILCS 5/33-8",
+  "docName": "072000050K33-8",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K33-8",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:29:54.588Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/33-8",
+  "headingText": "Sec. 33-8. Legislative misconduct.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/33-8)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 33-8. Legislative misconduct."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A member of the General Assembly commits legislative misconduct when he or she knowingly accepts or receives, directly or indirectly, any money or other valuable thing, from any corporation, company or person, for any vote or influence he or she may give or withhold on any bill, resolution or appropriation, or for any other official act."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Sentence. Legislative misconduct is a Class 3 felony."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 97-1108, eff. 1-1-13.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 97-1108, eff. 1-1-13.)",
+  "publicActs": [
+    {
+      "publicAct": "97-1108",
+      "effectiveDate": "1-1-13"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "591f6827a2565e7164652f572a0836819cdb4687a71893300cb0fcf3839d87f6",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0882"
+  ]
+}

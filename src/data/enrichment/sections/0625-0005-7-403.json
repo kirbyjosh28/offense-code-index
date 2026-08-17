@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-7-403",
+  "citation": "625 ILCS 5/7-403",
+  "docName": "062500050K7-403",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K7-403",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:22:13.566Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/7-403",
+  "headingText": "Sec. 7-403. Forged Proof.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/7-403) (from Ch. 95 1/2, par. 7-403)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 7-403. Forged Proof."
+    },
+    {
+      "type": "paragraph",
+      "text": "Any person who shall forge, or, without authority, sign any evidence of proof of financial responsibility for the future, or who files or offers for filing any such evidence of proof knowing or having reason to believe that it is forged or signed without authority, shall be guilty of a Class A misdemeanor."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 77-2720.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 77-2720.)",
+  "publicActs": [
+    {
+      "publicAct": "77-2720",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "3705222a4d2da7688a727447eb12bcb60008fc81f1f5a4ef50213a2484ff8f5b",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0175"
+  ]
+}

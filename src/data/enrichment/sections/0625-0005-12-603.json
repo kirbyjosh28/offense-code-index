@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-12-603",
+  "citation": "625 ILCS 5/12-603",
+  "docName": "062500050K12-603",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K12-603",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:18:29.828Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/12-603",
+  "headingText": "Sec. 12-603. Seat safety belts.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/12-603) (from Ch. 95 1/2, par. 12-603)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 12-603. Seat safety belts."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) No person shall sell any 1965 or later model motor vehicle of the first division unless the front seat of such motor vehicle is equipped with 2 sets of seat safety belts. Motorcycles are exempted from the provisions of this Section."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) No person shall operate any 1965 or later model motor vehicle of the first division that is titled or licensed by the Secretary of State unless the front seat of such motor vehicle is equipped with 2 sets of seat safety belts."
+    },
+    {
+      "type": "paragraph",
+      "text": "(b-5) No person under the age of 18 years shall operate any motor vehicle, except a motor driven cycle or motorcycle, with more than one passenger in the front seat of the motor vehicle and no more passengers in the back seats than the number of available seat safety belts, except that each driver under the age of 18 years operating a second division vehicle having a gross vehicle weight rating of 8,000 pounds or less that contains only a front seat may operate the vehicle with more than one passenger in the front seat, provided that each passenger is wearing a properly adjusted and fastened seat safety belt."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) (Blank)."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) The Department shall establish performance specifications for seat safety belts and for the attachment and installation thereof."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 89-120, eff. 7-7-95; 90-89, eff. 1-1-98; 90-369, eff. 1-1-98; 90-655, eff. 7-30-98.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 89-120, eff. 7-7-95; 90-89, eff. 1-1-98; 90-369, eff. 1-1-98; 90-655, eff. 7-30-98.)",
+  "publicActs": [
+    {
+      "publicAct": "89-120",
+      "effectiveDate": "7-7-95"
+    },
+    {
+      "publicAct": "90-89",
+      "effectiveDate": "1-1-98"
+    },
+    {
+      "publicAct": "90-369",
+      "effectiveDate": "1-1-98"
+    },
+    {
+      "publicAct": "90-655",
+      "effectiveDate": "7-30-98"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "27601b31899cef50d58184ec795acbb52fb7c88f3f58da6e159e48623f044e2d",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0384",
+    "offense-0385"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-903",
+  "citation": "625 ILCS 5/11-903",
+  "docName": "062500050K11-903",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-903",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:17:37.264Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-903",
+  "headingText": "Sec. 11-903. Vehicles entering stop crosswalk.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-903) (from Ch. 95 1/2, par. 11-903)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-903. Vehicles entering stop crosswalk."
+    },
+    {
+      "type": "paragraph",
+      "text": "Where stop signs or flashing red signals are in place at an intersection or flashing red signals are in place at a plainly marked crosswalk between intersections, drivers of vehicles shall stop before entering the nearest crosswalk and pedestrians within or entering the crosswalk at either edge of the roadway shall have the right-of-way over vehicles so stopped. Drivers of vehicles having so yielded the right-of-way to pedestrians entering or within the nearest crosswalk at an intersection shall also yield the right-of-way to pedestrians within any other crosswalk at the intersection."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 76-1586.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 76-1586.)",
+  "publicActs": [
+    {
+      "publicAct": "76-1586",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "72aa1296e5fc250209addeeee32810ff853485957dfbe872e7171f08d3b3170f",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0249"
+  ]
+}

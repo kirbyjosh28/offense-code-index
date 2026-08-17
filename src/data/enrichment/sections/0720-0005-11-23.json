@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-11-23",
+  "citation": "720 ILCS 5/11-23",
+  "docName": "072000050K11-23",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K11-23",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:23:42.172Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/11-23",
+  "headingText": "Sec. 11-23. Posting of identifying or graphic information on a pornographic Internet site or possessing graphic information with pornographic material.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/11-23)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-23. Posting of identifying or graphic information on a pornographic Internet site or possessing graphic information with pornographic material."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person at least 17 years of age who knowingly discloses on an adult obscenity or child sexual abuse material Internet site the name, address, telephone number, or e-mail address of a person under 17 years of age at the time of the commission of the offense or of a person at least 17 years of age without the consent of the person at least 17 years of age is guilty of posting of identifying information on a pornographic Internet site."
+    },
+    {
+      "type": "paragraph",
+      "text": "(a-5) Any person who knowingly places, posts, reproduces, or maintains on an adult obscenity or child sexual abuse material Internet site a photograph, video, or digital image of a person under 18 years of age that is not child sexual abuse material under Section 11-20.1, without the knowledge and consent of the person under 18 years of age, is guilty of posting of graphic information on a pornographic Internet site. This provision applies even if the person under 18 years of age is fully or properly clothed in the photograph, video, or digital image."
+    },
+    {
+      "type": "paragraph",
+      "text": "(a-10) Any person who knowingly places, posts, reproduces, or maintains on an adult obscenity or child sexual abuse material Internet site, or possesses with obscene or child pornographic material a photograph, video, or digital image of a person under 18 years of age in which the child is posed in a suggestive manner with the focus or concentration of the image on the child's clothed genitals, clothed pubic area, clothed buttocks area, or if the child is female, the breast exposed through transparent clothing, and the photograph, video, or digital image is not child sexual abuse material under Section 11-20.1, is guilty of posting of graphic information on a pornographic Internet site or possessing graphic information with pornographic material."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Sentence. A person who violates subsection (a) of this Section is guilty of a Class 4 felony if the victim is at least 17 years of age at the time of the offense and a Class 3 felony if the victim is under 17 years of age at the time of the offense. A person who violates subsection (a-5) of this Section is guilty of a Class 4 felony. A person who violates subsection (a-10) of this Section is guilty of a Class 3 felony."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Definitions. For purposes of this Section:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) \"Adult obscenity or child sexual abuse material Internet site\" means a site on the Internet that contains material that is obscene as defined in Section 11-20 of this Code or that is child sexual abuse material as defined in Section 11-20.1 of this Code. (2) \"Internet\" has the meaning set forth in Section 16-0.1 of this Code.(Source: P.A. 104-245, eff. 1-1-26.)"
+    }
+  ],
+  "sourceLine": null,
+  "publicActs": [],
+  "repealed": false,
+  "bodyHash": "e0254ff03628f732a4b6eae9b4be615c1299cd3231961eba76b02f4e8b1f11d4",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0598"
+  ]
+}

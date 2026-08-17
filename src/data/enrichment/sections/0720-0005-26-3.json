@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-26-3",
+  "citation": "720 ILCS 5/26-3",
+  "docName": "072000050K26-3",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K26-3",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:28:27.486Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/26-3",
+  "headingText": "Sec. 26-3. Use of a facsimile machine in unsolicited advertising or fund-raising.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/26-3) (from Ch. 38, par. 26-3)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 26-3. Use of a facsimile machine in unsolicited advertising or fund-raising."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) Definitions:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) \"Facsimile machine\" means a device which is capable of sending or receiving facsimiles of documents through connection with a telecommunications network. (2) \"Person\" means an individual, public or private corporation, unit of government, partnership or unincorporated association. (b) A person commits use of a facsimile machine in unsolicited advertising or fund-raising when he or she knowingly uses a facsimile machine to send or cause to be sent to another person a facsimile of a document containing unsolicited advertising or fund-raising material, except to a person which the sender knows or under all of the circumstances reasonably believes has given the sender permission, either on a case by case or continuing basis, for the sending of the material."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Sentence. Any person who violates subsection (b) is guilty of a petty offense and shall be fined an amount not to exceed $500."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 97-1108, eff. 1-1-13.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 97-1108, eff. 1-1-13.)",
+  "publicActs": [
+    {
+      "publicAct": "97-1108",
+      "effectiveDate": "1-1-13"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "c6a17aeeb67c239b741b376b67b9609d2c1641c47aae13adc6debeddd7489a9b",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0819"
+  ]
+}

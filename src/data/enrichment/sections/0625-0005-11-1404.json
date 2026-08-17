@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-1404",
+  "citation": "625 ILCS 5/11-1404",
+  "docName": "062500050K11-1404",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-1404",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:15:23.628Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-1404",
+  "headingText": "Sec. 11-1404. Special equipment for persons riding motorcycles, motor driven cycles or mopeds.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-1404) (from Ch. 95 1/2, par. 11-1404)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-1404. Special equipment for persons riding motorcycles, motor driven cycles or mopeds."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) The operator of a motorcycle, motor driven cycle or moped and every passenger thereon shall be protected by glasses, goggles or a transparent shield."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) For the purposes of this Section, glasses, goggles, and transparent shields are defined as follows:"
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Glasses\" means ordinary eye pieces such as spectacles or sunglasses worn before the eye, made of shatter-resistant material. Shatter-resistant material, as used in this Section, means material so manufactured, fabricated, or created that it substantially prevents shattering or flying when struck or broken."
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Goggles\" means a device worn before the eyes, the predominant function of which is protecting the eyes without obstructing peripheral vision. Goggles shall provide protection from the front and sides, and may or may not form a complete seal with the face."
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Transparent shield\" means a windshield attached to the front of a motorcycle that extends above the eyes when an operator is seated in the normal, upright riding position, made of shatter-resistant material, or a shatter-resistant protective face shield that covers the wearer's eyes and face at least to a point approximately to the tip of the nose."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Contact lenses are not acceptable eye protection devices."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 96-554, eff. 1-1-10.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 96-554, eff. 1-1-10.)",
+  "publicActs": [
+    {
+      "publicAct": "96-554",
+      "effectiveDate": "1-1-10"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "9f5bf44b070a8c4ac34d210c626c24e7acd6ebac5dbcf79cb4a0aea929d94346",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0292"
+  ]
+}

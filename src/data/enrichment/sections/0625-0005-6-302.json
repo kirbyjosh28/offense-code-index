@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-6-302",
+  "citation": "625 ILCS 5/6-302",
+  "docName": "062500050K6-302",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K6-302",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:21:48.040Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/6-302",
+  "headingText": "Sec. 6-302. Making false application or affidavit - perjury.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/6-302) (from Ch. 95 1/2, par. 6-302)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 6-302. Making false application or affidavit - perjury."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) It is a violation of this Section for any person:"
+    },
+    {
+      "type": "paragraph",
+      "text": "1. To display or present any document for the purpose of making application for a driver's license or permit knowing that such document contains false information concerning the identity of the applicant; 2. To accept or allow to be accepted any document displayed or presented for the purpose of making application for a driver's license or permit knowing that such document contains false information concerning the identity of the applicant; 3. To knowingly make any false affidavit or swear or affirm falsely to any matter or thing required by the terms of this Act to be sworn to or affirmed. (b) Sentence."
+    },
+    {
+      "type": "paragraph",
+      "text": "1. Any person convicted of a violation of this Section shall be guilty of a Class 4 felony. 2. Any person convicted of a second or subsequent violation of this Section shall be guilty of a Class 3 felony. (c) This Section does not prohibit any lawfully authorized investigative, protective, law enforcement or other activity of any agency of the United States, State of Illinois or any other state or political subdivision thereof."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 99-642, eff. 7-28-16.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 99-642, eff. 7-28-16.)",
+  "publicActs": [
+    {
+      "publicAct": "99-642",
+      "effectiveDate": "7-28-16"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "cef9de8b780801a3d8fec0ac0e1029fc17f6032dd7cc04d44db872f6aae56b43",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0146",
+    "offense-0147"
+  ]
+}

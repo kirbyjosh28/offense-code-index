@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-21-2",
+  "citation": "720 ILCS 5/21-2",
+  "docName": "072000050K21-2",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K21-2",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:27:27.414Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/21-2",
+  "headingText": "Sec. 21-2. Criminal trespass to vehicles.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/21-2) (from Ch. 38, par. 21-2)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 21-2. Criminal trespass to vehicles."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits criminal trespass to vehicles when he or she knowingly and without authority enters any part of or operates any vehicle, aircraft, watercraft or snowmobile."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Sentence. Criminal trespass to vehicles is a Class A misdemeanor."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 97-1108, eff. 1-1-13.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 97-1108, eff. 1-1-13.)",
+  "publicActs": [
+    {
+      "publicAct": "97-1108",
+      "effectiveDate": "1-1-13"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "53db0c8160fee34236a8f3bd3195ee1d9428b4062f33b3666c67cac9620ce4d5",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0766"
+  ]
+}

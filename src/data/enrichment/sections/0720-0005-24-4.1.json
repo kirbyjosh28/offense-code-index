@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-24-4.1",
+  "citation": "720 ILCS 5/24-4.1",
+  "docName": "072000050K24-4.1",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K24-4.1",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:28:09.491Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/24-4.1",
+  "headingText": "Sec. 24-4.1. Report of lost or stolen firearms.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/24-4.1)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 24-4.1. Report of lost or stolen firearms."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) If a person who possesses a valid Firearm Owner's Identification Card and who possesses or acquires a firearm thereafter loses the firearm, or if the firearm is stolen from the person, the person must report the loss or theft of any such firearm to the local law enforcement agency within 48 hours after obtaining knowledge of the loss or theft. The report shall include:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) the date the firearm was lost or stolen;"
+    },
+    {
+      "type": "subsection",
+      "label": "(2)",
+      "text": "(2) the exact location where the firearm was lost or stolen or, if the exact location is not known, the last known location of the firearm; (3) the caliber, make, model, and serial number of the firearm; (4) a description of the circumstances under which the firearm was lost or stolen; and (5) the Firearm Owner's Identification Card number of the person making the report, if applicable. (b) A law enforcement agency having jurisdiction shall take a written report and shall, as soon as practical, and in no event later than 48 hours after receiving the report, enter the information and the firearm's serial number as stolen into the Law Enforcement Agencies Data System (LEADS)."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) A person shall not be in violation of this Section if:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) the failure to report is due to an act of God, act of war, or inability of a law enforcement agency to receive the report; (2) the person is hospitalized, in a coma, or is otherwise seriously physically or mentally impaired as to prevent the person from reporting; or (3) the person's designee makes a report if the person is unable to make the report. (d) Sentence. A person who violates this Section is guilty of a petty offense for a first violation. A second or subsequent violation of this Section is a Class A misdemeanor."
+    },
+    {
+      "type": "subsection",
+      "label": "(e)",
+      "text": "(e) A prosecution for an offense under this Section may be commenced within 3 years after the discovery by law enforcement or prosecution of the failure to report the theft or loss of a firearm as required under subsection (a)."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 104-31, eff. 1-1-26.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 104-31, eff. 1-1-26.)",
+  "publicActs": [
+    {
+      "publicAct": "104-31",
+      "effectiveDate": "1-1-26"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "2cf3146106726c1cffe3d95854cb43af61c1ab0356311eaf6591f43c9447b79f",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0796"
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-5-104.3",
+  "citation": "625 ILCS 5/5-104.3",
+  "docName": "062500050K5-104.3",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K5-104.3",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:21:10.501Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/5-104.3",
+  "headingText": "Sec. 5-104.3. Disclosure of rebuilt vehicle.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/5-104.3)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 5-104.3. Disclosure of rebuilt vehicle."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) No person shall knowingly, with intent to defraud or deceive another, sell a vehicle for which a rebuilt title has been issued unless that vehicle is accompanied by a Disclosure of Rebuilt Vehicle Status form, properly signed and delivered to the buyer."
+    },
+    {
+      "type": "paragraph",
+      "text": "(a-5) No dealer or rebuilder licensed under Sections 5-101, 5-102, or 5-301 of this Code shall sell a vehicle for which a rebuilt title has been issued from another jurisdiction without first obtaining an Illinois certificate of title with a \"REBUILT\" notation under Section 3-118.1 of this Code."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) The Secretary of State may by rule or regulation prescribe the format and information contained in the Disclosure of Rebuilt Vehicle Status form."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) A violation of subsection (a) or (a-5) of this Section is a Class A misdemeanor. A second or subsequent violation of subsection (a) or (a-5) of this Section is a Class 4 felony."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 100-104, eff. 11-9-17; 100-863, eff. 8-14-18.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 100-104, eff. 11-9-17; 100-863, eff. 8-14-18.)",
+  "publicActs": [
+    {
+      "publicAct": "100-104",
+      "effectiveDate": "11-9-17"
+    },
+    {
+      "publicAct": "100-863",
+      "effectiveDate": "8-14-18"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "0708eed4cf2e3dc882edf1e826307f6c7b61dbd1aa720930684b08d667d41435",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0092"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-1428",
+  "citation": "625 ILCS 5/11-1428",
+  "docName": "062500050K11-1428",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-1428",
+  "status": "repealed",
+  "retrievedAt": "2026-08-17T12:15:58.160Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-1428",
+  "headingText": "Sec. 11-1428. (Repealed).",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-1428)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-1428. (Repealed)."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 90-683, eff. 1-1-99. Repealed by P.A. 96-279, eff. 1-1-10.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 90-683, eff. 1-1-99. Repealed by P.A. 96-279, eff. 1-1-10.)",
+  "publicActs": [
+    {
+      "publicAct": "90-683",
+      "effectiveDate": "1-1-99"
+    }
+  ],
+  "repealed": true,
+  "bodyHash": "063f82da5ea6e82e84b4d76eddb60e6355c4e23692cfb9ff22ddc021e3e4dbbb",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0317"
+  ]
+}

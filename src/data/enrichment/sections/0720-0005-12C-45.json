@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-12C-45",
+  "citation": "720 ILCS 5/12C-45",
+  "docName": "072000050K12C-45",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K12C-45",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:25:18.286Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/12C-45",
+  "headingText": "Sec. 12C-45. Drug induced infliction of harm to a child athlete.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/12C-45) (was 720 ILCS 5/12-4.9)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 12C-45. Drug induced infliction of harm to a child athlete."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits drug induced infliction of harm to a child athlete when he or she knowingly distributes a drug to or encourages the ingestion of a drug by a person under the age of 18 with the intent that the person under the age of 18 ingest the drug for the purpose of a quick weight gain or loss in connection with participation in athletics."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) This Section does not apply to care under usual and customary standards of medical practice by a physician licensed to practice medicine in all its branches or to the sale of drugs or products by a retail merchant."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Drug induced infliction of harm to a child athlete is a Class A misdemeanor. A second or subsequent violation is a Class 4 felony."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 97-1109, eff. 1-1-13.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 97-1109, eff. 1-1-13.)",
+  "publicActs": [
+    {
+      "publicAct": "97-1109",
+      "effectiveDate": "1-1-13"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "92535e6c0a7dc45d762118e1619a9854e7beeb42e19d6cbed06039f0cd982d62",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0661"
+  ]
+}

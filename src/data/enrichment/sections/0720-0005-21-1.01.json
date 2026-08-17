@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-21-1.01",
+  "citation": "720 ILCS 5/21-1.01",
+  "docName": "072000050K21-1.01",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K21-1.01",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:27:18.403Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/21-1.01",
+  "headingText": "Sec. 21-1.01. Criminal Damage to Government Supported Property.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/21-1.01) (was 720 ILCS 5/21-4)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 21-1.01. Criminal Damage to Government Supported Property."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits criminal damage to government supported property when he or she knowingly:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) damages any government supported property without the consent of the State; (2) by means of fire or explosive damages government supported property; (3) starts a fire on government supported property without the consent of the State; or (4) deposits on government supported land or in a government supported building, without the consent of the State, any stink bomb or any offensive smelling compound and thereby intends to interfere with the use by another of the land or building. (b) For the purposes of this Section, \"government supported\" means any property supported in whole or in part with State funds, funds of a unit of local government or school district, or federal funds administered or granted through State agencies."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Sentence. A violation of this Section is a Class 4 felony when the damage to property is $500 or less; a Class 3 felony when the damage to property exceeds $500 but does not exceed $10,000; a Class 2 felony when the damage to property exceeds $10,000 but does not exceed $100,000; and a Class 1 felony when the damage to property exceeds $100,000. When the damage to property exceeds $10,000, the court shall impose upon the offender a fine equal to the value of the damages to the property."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 97-1108, eff. 1-1-13.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 97-1108, eff. 1-1-13.)",
+  "publicActs": [
+    {
+      "publicAct": "97-1108",
+      "effectiveDate": "1-1-13"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "11c147b54dd41f200614a320c0894032644aa8f229412613898acf766d02cdba",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0762"
+  ]
+}

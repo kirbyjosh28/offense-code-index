@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0635-1",
+  "citation": "720 ILCS 635/1",
+  "docName": "072006350K1",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072006350K1",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:31:20.154Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 635/1",
+  "headingText": "Sec. 1. Possession of hypodermic syringes and needles.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 635/1) (from Ch. 38, par. 22-50)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 1. Possession of hypodermic syringes and needles."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) Except as provided in subsection (b), no person, not being a physician, dentist, chiropodist or veterinarian licensed under the laws of this State or of the state where he resides, or a registered professional nurse, or a registered embalmer, manufacturer or dealer in embalming supplies, wholesale druggist, manufacturing pharmacist, registered pharmacist, manufacturer of surgical instruments, industrial user, official of any government having possession of the articles hereinafter mentioned by reason of his or her official duties, nurse or a medical laboratory technician acting under the direction of a physician or dentist, employee of an incorporated hospital acting under the direction of its superintendent or officer in immediate charge, or a carrier or messenger engaged in the transportation of the articles, or the holder of a permit issued under Section 5 of this Act, or a farmer engaged in the use of the instruments on livestock, or a person engaged in chemical, clinical, pharmaceutical or other scientific research, or a staff person, volunteer, or participant in a needle or hypodermic syringe access program, shall have in his or her possession a hypodermic syringe, hypodermic needle, or any instrument adapted for the use of controlled substances or cannabis by subcutaneous injection."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) A person who is at least 18 years of age may purchase from a pharmacy and have in his or her possession up to 100 hypodermic syringes or needles."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 100-326, eff. 1-1-18; 101-356, eff. 8-9-19.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 100-326, eff. 1-1-18; 101-356, eff. 8-9-19.)",
+  "publicActs": [
+    {
+      "publicAct": "100-326",
+      "effectiveDate": "1-1-18"
+    },
+    {
+      "publicAct": "101-356",
+      "effectiveDate": "8-9-19"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "18d44f91b94819a23492b5f6f4a4cb08a514f7c2f5d9ef092195bc6971a90096",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0941"
+  ]
+}

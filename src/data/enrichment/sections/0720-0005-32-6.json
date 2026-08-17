@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-32-6",
+  "citation": "720 ILCS 5/32-6",
+  "docName": "072000050K32-6",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K32-6",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:29:39.552Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/32-6",
+  "headingText": "Sec. 32-6. Performance of unauthorized acts.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/32-6) (from Ch. 38, par. 32-6)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 32-6. Performance of unauthorized acts."
+    },
+    {
+      "type": "paragraph",
+      "text": "A person who performs any of the following acts, knowing that his performance is not authorized by law, commits a Class 4 felony:"
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) Conducts a marriage ceremony; or"
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Acknowledges the execution of any document which by law may be recorded; or"
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Becomes a surety for any party in any civil or criminal proceeding, before any court or public officer authorized to accept such surety."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 77-2638)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 77-2638)",
+  "publicActs": [
+    {
+      "publicAct": "77-2638",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "35455092162a732f4045c02b912a3b55405f7fa1252bd289a97f3d4c628c540d",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0868"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0045-5-20",
+  "citation": "625 ILCS 45/5-20",
+  "docName": "062500450K5-20",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500450K5-20",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:22:57.131Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 45/5-20",
+  "headingText": "Sec. 5-20. Unlawful operation at night. Beginning July 1, 1994, no person shall operate a personal watercraft or a specialty prop craft between the hours of sunset and sunrise.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 45/5-20)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 5-20. Unlawful operation at night. Beginning July 1, 1994, no person shall operate a personal watercraft or a specialty prop craft between the hours of sunset and sunrise."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 88-524; 88-670, eff. 12-2-94.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 88-524; 88-670, eff. 12-2-94.)",
+  "publicActs": [
+    {
+      "publicAct": "88-524",
+      "effectiveDate": null
+    },
+    {
+      "publicAct": "88-670",
+      "effectiveDate": "12-2-94"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "85e432b7335b3e634aabfcc8f37b4897b9f4ed5aabb1fff12db676341bd1668a",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0511"
+  ]
+}

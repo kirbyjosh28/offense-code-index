@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-32-10",
+  "citation": "720 ILCS 5/32-10",
+  "docName": "072000050K32-10",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K32-10",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:29:26.035Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/32-10",
+  "headingText": "Sec. 32-10. Violation of conditions of pretrial release.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/32-10) (from Ch. 38, par. 32-10)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 32-10. Violation of conditions of pretrial release."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) (Blank)."
+    },
+    {
+      "type": "paragraph",
+      "text": "(a-5) Any person who knowingly violates a condition of pretrial release by possessing a firearm in violation of his or her conditions of pretrial release commits a Class 4 felony for a first violation and a Class 3 felony for a second or subsequent violation."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Whoever, having been released pretrial under conditions for appearance before any court of this State, while charged with a criminal offense in which the victim is a family or household member as defined in Article 112A of the Code of Criminal Procedure of 1963, knowingly violates a condition of that release as set forth in Section 110-10, subsection (d) of the Code of Criminal Procedure of 1963, commits a Class A misdemeanor."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Whoever, having been released pretrial for appearance before any court of this State for a felony, Class A misdemeanor or a criminal offense in which the victim is a family or household member as defined in Article 112A of the Code of Criminal Procedure of 1963, is charged with any other felony, Class A misdemeanor, or a criminal offense in which the victim is a family or household member as defined in Article 112A of the Code of Criminal Procedure of 1963 while on this release, must appear before the court and may not be released by law enforcement under 109-1 of the Code of Criminal Procedure of 1963 prior to the court appearance."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) Nothing in this Section shall interfere with or prevent the exercise by any court of its power to punish for contempt. Any sentence imposed for violation of this Section may be served consecutive to the sentence imposed for the charge for which pretrial release had been granted and with respect to which the defendant has been convicted."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 101-652, eff. 1-1-23; 102-1104, eff. 1-1-23.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 101-652, eff. 1-1-23; 102-1104, eff. 1-1-23.)",
+  "publicActs": [
+    {
+      "publicAct": "101-652",
+      "effectiveDate": "1-1-23"
+    },
+    {
+      "publicAct": "102-1104",
+      "effectiveDate": "1-1-23"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "71dae66503285864b8ec74bd484700bdd5d0926c52575422beb8788fb50b6fa3",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0872"
+  ]
+}

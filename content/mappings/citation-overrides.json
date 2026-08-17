@@ -1,0 +1,317 @@
+{
+  "schemaVersion": 1,
+  "description": "Hand-maintained citation mappings for records the automatic resolver cannot resolve from the 2024 source publication alone. scripts/build-citation-model.mjs reads this file and never writes to it. Every mapped entry records the evidence that justified it; entries without evidence are not mappings, they are guesses, and must not be added.",
+  "overrides": {
+    "offense-0485": {
+      "resolution": "override",
+      "chapterId": "625",
+      "actId": "40",
+      "sectionId": "4-1",
+      "subsectionPath": [],
+      "rationale": "The source publication prints '625 ILCS 40/-4-1' with a stray leading hyphen before the section number. The Snowmobile Registration and Safety Act has no section '-4-1'; section 4-1 is titled 'Equipment', matching this record's description 'Equipment - lights, etc.'",
+      "evidence": {
+        "canonicalCitation": "625 ILCS 40/4-1",
+        "headingText": "Sec. 4-1. Equipment. All snowmobiles operating within the State of Illinois shall be equipped with:",
+        "retrievedFrom": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500400K4-1",
+        "verifiedOn": "2026-08-17"
+      }
+    },
+    "offense-0952": {
+      "resolution": "override",
+      "chapterId": "810",
+      "actId": "5",
+      "sectionId": "9-315.01",
+      "subsectionPath": [],
+      "rationale": "The source publication prints only 'Section 9-315.01' with no chapter or act. The record's chapter heading reads 'CHAPTER 810, ILCS 5/ - Uniform Commercial Code', and 810 ILCS 5/9-315.01 carries a section title identical to this record's description.",
+      "evidence": {
+        "canonicalCitation": "810 ILCS 5/9-315.01",
+        "headingText": "Sec. 9-315.01. Debtor disposing of collateral and failing to pay secured party amount due under security agreement; penalties for violation.",
+        "retrievedFrom": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=081000050K9-315.01",
+        "verifiedOn": "2026-08-17"
+      }
+    },
+    "offense-0953": {
+      "resolution": "override",
+      "chapterId": "810",
+      "actId": "5",
+      "sectionId": "9-315.02",
+      "subsectionPath": [],
+      "rationale": "As with offense-0952: 'Section 9-315.02' with no chapter or act, under the Uniform Commercial Code chapter heading. 810 ILCS 5/9-315.02 carries a section title identical to this record's description.",
+      "evidence": {
+        "canonicalCitation": "810 ILCS 5/9-315.02",
+        "headingText": "Sec. 9-315.02. Disposal of collateral by debtor to persons other than those previously disclosed to secured party - penalties for violation - defense.",
+        "retrievedFrom": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=081000050K9-315.02",
+        "verifiedOn": "2026-08-17"
+      }
+    },
+    "offense-0129": {
+      "resolution": "not-applicable",
+      "rationale": "Source publication row carries no citation (citationPlaceholder: true). It is guidance text about BAIID requirements rather than a distinct charging section, so there is no single statutory section to resolve. Left unmapped deliberately; do not infer one."
+    },
+    "offense-0130": {
+      "resolution": "not-applicable",
+      "rationale": "Source publication row carries no citation (citationPlaceholder: true). Guidance text about driving while suspended under statutory summary suspension, not a distinct charging section. Left unmapped deliberately; do not infer one."
+    },
+    "offense-0487": {
+      "resolution": "override",
+      "chapterId": "625",
+      "actId": "40",
+      "sectionId": "5-1",
+      "subsectionPath": [
+        "A"
+      ],
+      "rationale": "The source publication prints this as section \"5-1A\". The Snowmobile Registration and Safety Act has no such section; 625 ILCS 40/5-1 (\"Operation Generally\") enumerates prohibited conduct as lettered subsections A through N, and subsection A states the conduct this record describes. Without this mapping the section resolves as unavailable and reads as a repeal, which it is not.",
+      "evidence": {
+        "canonicalCitation": "625 ILCS 40/5-1",
+        "headingText": "Sec. 5-1. Operation Generally. It is unlawful for any person to drive or operate any snowmobile in the following ways:",
+        "subsectionText": "A. At a rate of speed too fast for conditions...",
+        "recordDescription": "Speed too fast for conditions",
+        "retrievedFrom": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500400K5-1",
+        "verifiedOn": "2026-08-17"
+      }
+    },
+    "offense-0488": {
+      "resolution": "override",
+      "chapterId": "625",
+      "actId": "40",
+      "sectionId": "5-1",
+      "subsectionPath": [
+        "B"
+      ],
+      "rationale": "The source publication prints this as section \"5-1B\". The Snowmobile Registration and Safety Act has no such section; 625 ILCS 40/5-1 (\"Operation Generally\") enumerates prohibited conduct as lettered subsections A through N, and subsection B states the conduct this record describes. Without this mapping the section resolves as unavailable and reads as a repeal, which it is not.",
+      "evidence": {
+        "canonicalCitation": "625 ILCS 40/5-1",
+        "headingText": "Sec. 5-1. Operation Generally. It is unlawful for any person to drive or operate any snowmobile in the following ways:",
+        "subsectionText": "B. In a careless, reckless, or negligent manner.",
+        "recordDescription": "Careless, reckless or negligent operation",
+        "retrievedFrom": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500400K5-1",
+        "verifiedOn": "2026-08-17"
+      }
+    },
+    "offense-0489": {
+      "resolution": "override",
+      "chapterId": "625",
+      "actId": "40",
+      "sectionId": "5-1",
+      "subsectionPath": [
+        "D"
+      ],
+      "rationale": "The source publication prints this as section \"5-1D\". The Snowmobile Registration and Safety Act has no such section; 625 ILCS 40/5-1 (\"Operation Generally\") enumerates prohibited conduct as lettered subsections A through N, and subsection D states the conduct this record describes. Without this mapping the section resolves as unavailable and reads as a repeal, which it is not.",
+      "evidence": {
+        "canonicalCitation": "625 ILCS 40/5-1",
+        "headingText": "Sec. 5-1. Operation Generally. It is unlawful for any person to drive or operate any snowmobile in the following ways:",
+        "subsectionText": "D. At any time without at least one lighted headlamp and one lighted tail lamp on the snowmobile.",
+        "recordDescription": "No lighted headlamp or lighted tail lamp",
+        "retrievedFrom": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500400K5-1",
+        "verifiedOn": "2026-08-17"
+      }
+    },
+    "offense-0490": {
+      "resolution": "override",
+      "chapterId": "625",
+      "actId": "40",
+      "sectionId": "5-1",
+      "subsectionPath": [
+        "E"
+      ],
+      "rationale": "The source publication prints this as section \"5-1E\". The Snowmobile Registration and Safety Act has no such section; 625 ILCS 40/5-1 (\"Operation Generally\") enumerates prohibited conduct as lettered subsections A through N, and subsection E states the conduct this record describes. Without this mapping the section resolves as unavailable and reads as a repeal, which it is not.",
+      "evidence": {
+        "canonicalCitation": "625 ILCS 40/5-1",
+        "headingText": "Sec. 5-1. Operation Generally. It is unlawful for any person to drive or operate any snowmobile in the following ways:",
+        "subsectionText": "E. Within any nature preserve.",
+        "recordDescription": "Within any nature preserve",
+        "retrievedFrom": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500400K5-1",
+        "verifiedOn": "2026-08-17"
+      }
+    },
+    "offense-0491": {
+      "resolution": "override",
+      "chapterId": "625",
+      "actId": "40",
+      "sectionId": "5-1",
+      "subsectionPath": [
+        "F"
+      ],
+      "rationale": "The source publication prints this as section \"5-1F\". The Snowmobile Registration and Safety Act has no such section; 625 ILCS 40/5-1 (\"Operation Generally\") enumerates prohibited conduct as lettered subsections A through N, and subsection F states the conduct this record describes. Without this mapping the section resolves as unavailable and reads as a repeal, which it is not.",
+      "evidence": {
+        "canonicalCitation": "625 ILCS 40/5-1",
+        "headingText": "Sec. 5-1. Operation Generally. It is unlawful for any person to drive or operate any snowmobile in the following ways:",
+        "subsectionText": "F. On the tracks or right of way of an operating railroad.",
+        "recordDescription": "On the tracks or right-of-way of an operating railroad",
+        "retrievedFrom": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500400K5-1",
+        "verifiedOn": "2026-08-17"
+      }
+    },
+    "offense-0492": {
+      "resolution": "override",
+      "chapterId": "625",
+      "actId": "40",
+      "sectionId": "5-1",
+      "subsectionPath": [
+        "G"
+      ],
+      "rationale": "The source publication prints this as section \"5-1G\". The Snowmobile Registration and Safety Act has no such section; 625 ILCS 40/5-1 (\"Operation Generally\") enumerates prohibited conduct as lettered subsections A through N, and subsection G states the conduct this record describes. Without this mapping the section resolves as unavailable and reads as a repeal, which it is not.",
+      "evidence": {
+        "canonicalCitation": "625 ILCS 40/5-1",
+        "headingText": "Sec. 5-1. Operation Generally. It is unlawful for any person to drive or operate any snowmobile in the following ways:",
+        "subsectionText": "G. In any tree nursery or planting in a manner which damages or destroys growing stock...",
+        "recordDescription": "Tree nursery violation",
+        "retrievedFrom": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500400K5-1",
+        "verifiedOn": "2026-08-17"
+      }
+    },
+    "offense-0493": {
+      "resolution": "override",
+      "chapterId": "625",
+      "actId": "40",
+      "sectionId": "5-1",
+      "subsectionPath": [
+        "H"
+      ],
+      "rationale": "The source publication prints this as section \"5-1H\". The Snowmobile Registration and Safety Act has no such section; 625 ILCS 40/5-1 (\"Operation Generally\") enumerates prohibited conduct as lettered subsections A through N, and subsection H states the conduct this record describes. Without this mapping the section resolves as unavailable and reads as a repeal, which it is not.",
+      "evidence": {
+        "canonicalCitation": "625 ILCS 40/5-1",
+        "headingText": "Sec. 5-1. Operation Generally. It is unlawful for any person to drive or operate any snowmobile in the following ways:",
+        "subsectionText": "H. On private property, without the written or verbal consent of the owner or lessee thereof...",
+        "recordDescription": "On private property without permission – failure to stop and identify",
+        "retrievedFrom": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500400K5-1",
+        "verifiedOn": "2026-08-17"
+      }
+    },
+    "offense-0494": {
+      "resolution": "override",
+      "chapterId": "625",
+      "actId": "40",
+      "sectionId": "5-1",
+      "subsectionPath": [
+        "K"
+      ],
+      "rationale": "The source publication prints this as section \"5-1K\". The Snowmobile Registration and Safety Act has no such section; 625 ILCS 40/5-1 (\"Operation Generally\") enumerates prohibited conduct as lettered subsections A through N, and subsection K states the conduct this record describes. Without this mapping the section resolves as unavailable and reads as a repeal, which it is not.",
+      "evidence": {
+        "canonicalCitation": "625 ILCS 40/5-1",
+        "headingText": "Sec. 5-1. Operation Generally. It is unlawful for any person to drive or operate any snowmobile in the following ways:",
+        "subsectionText": "K. On the frozen surface of public waters of this State within 100 feet of a person...",
+        "recordDescription": "On frozen surface of public waters within 100 feet of a person not on a snowmobile or within 100 feet of a person engaged in fishing",
+        "retrievedFrom": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500400K5-1",
+        "verifiedOn": "2026-08-17"
+      }
+    },
+    "offense-0495": {
+      "resolution": "override",
+      "chapterId": "625",
+      "actId": "40",
+      "sectionId": "5-1",
+      "subsectionPath": [
+        "L"
+      ],
+      "rationale": "The source publication prints this as section \"5-1L\". The Snowmobile Registration and Safety Act has no such section; 625 ILCS 40/5-1 (\"Operation Generally\") enumerates prohibited conduct as lettered subsections A through N, and subsection L states the conduct this record describes. Without this mapping the section resolves as unavailable and reads as a repeal, which it is not.",
+      "evidence": {
+        "canonicalCitation": "625 ILCS 40/5-1",
+        "headingText": "Sec. 5-1. Operation Generally. It is unlawful for any person to drive or operate any snowmobile in the following ways:",
+        "subsectionText": "L. Within 100 feet of a dwelling between midnight and 6 a.m. at a speed greater than the minimum...",
+        "recordDescription": "Within 100 feet of a dwelling between midnight and 6 a.m. at a speed greater than the minimum to maintain forward movement",
+        "retrievedFrom": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500400K5-1",
+        "verifiedOn": "2026-08-17"
+      }
+    },
+    "offense-0760": {
+      "resolution": "override",
+      "chapterId": "720",
+      "actId": "5",
+      "sectionId": "21-1",
+      "subsectionPath": [],
+      "rationale": "The source publication prints only \"720 ILCS 5/21\", which is an article number rather than a section. 720 ILCS 5/21-1 is titled \"Criminal damage to property\", matching this record description.",
+      "evidence": {
+        "canonicalCitation": "720 ILCS 5/21-1",
+        "headingText": "Sec. 21-1. Criminal damage to property.",
+        "retrievedFrom": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K21-1",
+        "verifiedOn": "2026-08-17"
+      }
+    },
+    "offense-0778": {
+      "resolution": "override",
+      "chapterId": "720",
+      "actId": "5",
+      "sectionId": "21.2-2",
+      "subsectionPath": [],
+      "rationale": "The source publication prints \"720 ILCS 5/21.2.2\", using a period where ILCS uses a hyphen. Section 21.2-2 exists and concerns interference with a public institution of education, matching this record.",
+      "evidence": {
+        "canonicalCitation": "720 ILCS 5/21.2-2",
+        "headingText": "Sec. 21.2-2. Interference with a public institution of education.",
+        "retrievedFrom": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K21.2-2",
+        "verifiedOn": "2026-08-17"
+      }
+    },
+    "offense-0946": {
+      "resolution": "override",
+      "chapterId": "720",
+      "actId": "685",
+      "sectionId": "4",
+      "subsectionPath": [
+        "a"
+      ],
+      "rationale": "The source publication prints this as section \"4a\". The Tobacco Accessories and Smoking Herbs Control Act has no such section; 720 ILCS 685/4 (\"Offenses\") enumerates offenses as lettered subsections, and subsection (a) states the conduct this record describes.",
+      "evidence": {
+        "canonicalCitation": "720 ILCS 685/4",
+        "headingText": "Sec. 4. Offenses.",
+        "subsectionText": "(a) Sale to persons under 21 years of age.",
+        "retrievedFrom": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072006850K4",
+        "verifiedOn": "2026-08-17"
+      }
+    },
+    "offense-0947": {
+      "resolution": "override",
+      "chapterId": "720",
+      "actId": "685",
+      "sectionId": "4",
+      "subsectionPath": [
+        "d"
+      ],
+      "rationale": "The source publication prints this as section \"4d\". The Tobacco Accessories and Smoking Herbs Control Act has no such section; 720 ILCS 685/4 (\"Offenses\") enumerates offenses as lettered subsections, and subsection (d) states the conduct this record describes.",
+      "evidence": {
+        "canonicalCitation": "720 ILCS 685/4",
+        "headingText": "Sec. 4. Offenses.",
+        "subsectionText": "(d) Use of identification cards.",
+        "retrievedFrom": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072006850K4",
+        "verifiedOn": "2026-08-17"
+      }
+    },
+    "offense-0948": {
+      "resolution": "override",
+      "chapterId": "720",
+      "actId": "685",
+      "sectionId": "4",
+      "subsectionPath": [
+        "e"
+      ],
+      "rationale": "The source publication prints this as section \"4e\". The Tobacco Accessories and Smoking Herbs Control Act has no such section; 720 ILCS 685/4 (\"Offenses\") enumerates offenses as lettered subsections, and subsection (e) states the conduct this record describes.",
+      "evidence": {
+        "canonicalCitation": "720 ILCS 685/4",
+        "headingText": "Sec. 4. Offenses.",
+        "subsectionText": "(e) Warning to persons under 21 years of age.",
+        "retrievedFrom": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072006850K4",
+        "verifiedOn": "2026-08-17"
+      }
+    },
+    "offense-0515": {
+      "resolution": "needs-legal-review",
+      "rationale": "720 ILCS 620 (Flag Desecration Act) was repealed in its entirety by P.A. 97-1108, so section 1 no longer exists and ILGA serves no text for it. Whether any current provision covers this conduct is a legal question, not a citation-format one, so no successor is asserted here.",
+      "research": {
+        "actStatus": "repealed",
+        "repealedBy": "P.A. 97-1108",
+        "retrievedFrom": "https://ilga.gov/Legislation/ILCS/Articles?ActID=1951&ChapterID=53",
+        "verifiedOn": "2026-08-17"
+      }
+    },
+    "offense-0949": {
+      "resolution": "needs-legal-review",
+      "rationale": "750 ILCS 30 is the Illinois Domestic Violence Act of 1982, superseded by the Illinois Domestic Violence Act of 1986 (750 ILCS 60), so section 2-12 is no longer served. 720 ILCS 5/12-3.4 (\"Violation of an order of protection\") is the obvious candidate and its heading matches this description, but identifying the successor to a repealed statute is a substantive legal determination rather than a citation correction, so it is left for a reviewer.",
+      "research": {
+        "candidate": "720 ILCS 5/12-3.4",
+        "candidateHeading": "Sec. 12-3.4. Violation of an order of protection.",
+        "retrievedFrom": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K12-3.4",
+        "verifiedOn": "2026-08-17"
+      }
+    }
+  }
+}

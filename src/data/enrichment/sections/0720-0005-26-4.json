@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-26-4",
+  "citation": "720 ILCS 5/26-4",
+  "docName": "072000050K26-4",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K26-4",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:28:28.990Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/26-4",
+  "headingText": "Sec. 26-4. Unauthorized video recording and live video transmission.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/26-4) (from Ch. 38, par. 26-4)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 26-4. Unauthorized video recording and live video transmission."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) It is unlawful for any person to knowingly make a video record or transmit live video of another person without that person's consent in a restroom, tanning bed, tanning salon, locker room, changing room, or hotel bedroom."
+    },
+    {
+      "type": "paragraph",
+      "text": "(a-5) It is unlawful for any person to knowingly make a video record or transmit live video of another person in that other person's residence without that person's consent."
+    },
+    {
+      "type": "paragraph",
+      "text": "(a-6) It is unlawful for any person to knowingly make a video record or transmit live video of another person in that other person's residence without that person's consent when the recording or transmission is made outside that person's residence by use of an audio or video device that records or transmits from a remote location."
+    },
+    {
+      "type": "paragraph",
+      "text": "(a-10) It is unlawful for any person to knowingly make a video record or transmit live video of another person's intimate parts for the purpose of viewing the body of or the undergarments worn by that other person without that person's consent. For the purposes of this subsection (a-10), \"intimate parts\" means the fully unclothed, partially unclothed, or transparently clothed genitals, pubic area, anus, or if the person is female, a partially or fully exposed nipple, including exposure through transparent clothing."
+    },
+    {
+      "type": "paragraph",
+      "text": "(a-15) It is unlawful for any person to place or cause to be placed a device that makes a video record or transmits a live video in a restroom, tanning bed, tanning salon, locker room, changing room, or hotel bedroom with the intent to make a video record or transmit live video of another person without that person's consent."
+    },
+    {
+      "type": "paragraph",
+      "text": "(a-20) It is unlawful for any person to place or cause to be placed a device that makes a video record or transmits a live video with the intent to make a video record or transmit live video of another person in that other person's residence without that person's consent."
+    },
+    {
+      "type": "paragraph",
+      "text": "(a-25) It is unlawful for any person to, by any means, knowingly disseminate, or permit to be disseminated, a video record or live video that he or she knows to have been made or transmitted in violation of (a), (a-5), (a-6), (a-10), (a-15), or (a-20)."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Exemptions. The following activities shall be exempt from the provisions of this Section:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) The making of a video record or transmission of live video by law enforcement officers pursuant to a criminal investigation, which is otherwise lawful; (2) The making of a video record or transmission of live video by correctional officials for security reasons or for investigation of alleged misconduct involving a person committed to the Department of Corrections; and (3) The making of a video record or transmission of live video in a locker room by a reporter or news medium, as those terms are defined in Section 8-902 of the Code of Civil Procedure, where the reporter or news medium has been granted access to the locker room by an appropriate authority for the purpose of conducting interviews. (c) The provisions of this Section do not apply to any sound recording or transmission of an oral conversation made as the result of the making of a video record or transmission of live video, and to which Article 14 of this Code applies."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) Sentence."
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) A violation of subsection (a-15) or (a-20) is a Class A misdemeanor. (2) A violation of subsection (a), (a-5), (a-6), or (a-10) is a Class 4 felony. (3) A violation of subsection (a-25) is a Class 3 felony. (4) A violation of subsection (a), (a-5), (a-6), (a-10), (a-15) or (a-20) is a Class 3 felony if the victim is a person under 18 years of age or if the violation is committed by an individual who is required to register as a sex offender under the Sex Offender Registration Act. (5) A violation of subsection (a-25) is a Class 2 felony if the victim is a person under 18 years of age or if the violation is committed by an individual who is required to register as a sex offender under the Sex Offender Registration Act. (e) For purposes of this Section:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) \"Residence\" includes a rental dwelling, but does not include stairwells, corridors, laundry facilities, or additional areas in which the general public has access. (2) \"Video record\" means and includes any videotape, photograph, film, or other electronic or digital recording of a still or moving visual image; and \"live video\" means and includes any real-time or contemporaneous electronic or digital transmission of a still or moving visual image. (Source: P.A. 102-567, eff. 1-1-22.)"
+    }
+  ],
+  "sourceLine": null,
+  "publicActs": [],
+  "repealed": false,
+  "bodyHash": "e6a1fd3388e219ef281fe8ea76a904d219f6e2c38d2c7b2f0743a67cd7fda8bc",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0820"
+  ]
+}

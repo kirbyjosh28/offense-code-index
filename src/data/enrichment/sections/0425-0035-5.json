@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0425-0035-5",
+  "citation": "425 ILCS 35/5",
+  "docName": "042500350K5",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=042500350K5",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:14:19.049Z",
+  "transport": "cache",
+  "canonicalCitation": "425 ILCS 35/5",
+  "headingText": "Sec. 5. Any person, firm, co-partnership, or corporation violating the provisions of this Act shall be guilty of a Class A misdemeanor.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(425 ILCS 35/5) (from Ch. 127 1/2, par. 131)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 5. Any person, firm, co-partnership, or corporation violating the provisions of this Act shall be guilty of a Class A misdemeanor."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 94-658, eff. 1-1-06; 95-331, eff. 8-21-07.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 94-658, eff. 1-1-06; 95-331, eff. 8-21-07.)",
+  "publicActs": [
+    {
+      "publicAct": "94-658",
+      "effectiveDate": "1-1-06"
+    },
+    {
+      "publicAct": "95-331",
+      "effectiveDate": "8-21-07"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "a445b7f0079a3813d9275442a2caab2d64e7a33048adabb562c5a665aac3ad5d",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0535"
+  ]
+}

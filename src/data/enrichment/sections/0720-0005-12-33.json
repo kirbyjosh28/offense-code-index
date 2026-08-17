@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-12-33",
+  "citation": "720 ILCS 5/12-33",
+  "docName": "072000050K12-33",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K12-33",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:24:33.235Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/12-33",
+  "headingText": "Sec. 12-33. Ritualized abuse of a child.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/12-33) (from Ch. 38, par. 12-33)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 12-33. Ritualized abuse of a child."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits ritualized abuse of a child when he or she knowingly commits any of the following acts with, upon, or in the presence of a child as part of a ceremony, rite or any similar observance:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) actually or in simulation, tortures, mutilates, or sacrifices any warm-blooded animal or human being; (2) forces ingestion, injection or other application of any narcotic, drug, hallucinogen or anaesthetic for the purpose of dulling sensitivity, cognition, recollection of, or resistance to any criminal activity; (3) forces ingestion, or external application, of human or animal urine, feces, flesh, blood, bones, body secretions, nonprescribed drugs or chemical compounds; (4) involves the child in a mock, unauthorized or unlawful marriage ceremony with another person or representation of any force or deity, followed by sexual contact with the child; (5) places a living child into a coffin or open grave containing a human corpse or remains; (6) threatens death or serious harm to a child, his or her parents, family, pets, or friends that instills a well-founded fear in the child that the threat will be carried out; or (7) unlawfully dissects, mutilates, or incinerates a human corpse. (b) The provisions of this Section shall not be construed to apply to:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) lawful agricultural, animal husbandry, food preparation, or wild game hunting and fishing practices and specifically the branding or identification of livestock; (2) the lawful medical practice of male circumcision or any ceremony related to male circumcision; (3) any state or federally approved, licensed, or funded research project; or (4) the ingestion of animal flesh or blood in the performance of a religious service or ceremony. (b-5) For the purposes of this Section, \"child\" means any person under 18 years of age."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Ritualized abuse of a child is a Class 1 felony for a first offense. A second or subsequent conviction for ritualized abuse of a child is a Class X felony for which an offender who has attained the age of 18 years at the time of the commission of the offense may be sentenced to a term of natural life imprisonment and an offender under the age of 18 years at the time of the commission of the offense shall be sentenced under Section 5-4.5-105 of the Unified Code of Corrections."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) (Blank)."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 99-69, eff. 1-1-16.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 99-69, eff. 1-1-16.)",
+  "publicActs": [
+    {
+      "publicAct": "99-69",
+      "effectiveDate": "1-1-16"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "dbfe1a60c8ec5ca73c6be8471265a589462651c10eaf568df63d0e4a583c0ce2",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0650"
+  ]
+}

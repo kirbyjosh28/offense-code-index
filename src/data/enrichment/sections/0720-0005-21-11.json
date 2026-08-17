@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-21-11",
+  "citation": "720 ILCS 5/21-11",
+  "docName": "072000050K21-11",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K21-11",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:27:25.913Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/21-11",
+  "headingText": "Sec. 21-11. Distributing or delivering written or printed solicitation on school property.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/21-11)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 21-11. Distributing or delivering written or printed solicitation on school property."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) Distributing or delivering written or printed solicitation on school property or within 1,000 feet of school property, for the purpose of inviting students to any event when a significant purpose of the event is to commit illegal acts or to solicit attendees to commit illegal acts, or to be held in or around abandoned buildings, is prohibited."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) For the purposes of this Section, \"school property\" is defined as the buildings or grounds of any public or private elementary or secondary school."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Sentence. A violation of this Section is a Class C misdemeanor."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 97-1108, eff. 1-1-13.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 97-1108, eff. 1-1-13.)",
+  "publicActs": [
+    {
+      "publicAct": "97-1108",
+      "effectiveDate": "1-1-13"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "986515bba3b26d68bf66ac939f153da1e2d609819f4cfd96a858ab4824673916",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0776"
+  ]
+}

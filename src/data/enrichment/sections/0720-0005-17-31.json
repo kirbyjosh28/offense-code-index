@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-17-31",
+  "citation": "720 ILCS 5/17-31",
+  "docName": "072000050K17-31",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K17-31",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:26:15.350Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/17-31",
+  "headingText": "Sec. 17-31. False statement to procure credit or debit card. A person commits false statement to procure credit or debit card when he or she makes or causes to be made, either directly or indirectly, any false statement in writing, knowing it to be false and with the intent that it be relied on, respecting his or her identity, his or her address, or his or her employment, or that of any other person, firm, or corporation, with the intent to procure the issuance of a credit card or debit card. A violation of this Section is a Class 4 felony.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/17-31)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 17-31. False statement to procure credit or debit card. A person commits false statement to procure credit or debit card when he or she makes or causes to be made, either directly or indirectly, any false statement in writing, knowing it to be false and with the intent that it be relied on, respecting his or her identity, his or her address, or his or her employment, or that of any other person, firm, or corporation, with the intent to procure the issuance of a credit card or debit card. A violation of this Section is a Class 4 felony."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 96-1551, eff. 7-1-11.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 96-1551, eff. 7-1-11.)",
+  "publicActs": [
+    {
+      "publicAct": "96-1551",
+      "effectiveDate": "7-1-11"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "130499ea485f10797470f31c28ae338ec296b7cb6c9fca655b00e93755f3dd5f",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0728"
+  ]
+}

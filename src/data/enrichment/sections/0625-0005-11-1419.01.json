@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-1419.01",
+  "citation": "625 ILCS 5/11-1419.01",
+  "docName": "062500050K11-1419.01",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-1419.01",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:15:44.637Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-1419.01",
+  "headingText": "Sec. 11-1419.01. Operating without a valid single trip permit. If a single trip permit is required by Section 13a.5 of the Motor Fuel Tax Law, a motor carrier shall not operate in Illinois without a single trip permit issued by the Department of Revenue or its agents.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-1419.01) (from Ch. 95 1/2, par. 11-1419.01)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-1419.01. Operating without a valid single trip permit. If a single trip permit is required by Section 13a.5 of the Motor Fuel Tax Law, a motor carrier shall not operate in Illinois without a single trip permit issued by the Department of Revenue or its agents."
+    },
+    {
+      "type": "paragraph",
+      "text": "If a commercial motor vehicle is found operating in Illinois without displaying a required valid single trip permit, the operator is guilty of a petty offense as provided in Section 13a.6 of the Motor Fuel Tax Law."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 94-1074, eff. 12-26-06.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 94-1074, eff. 12-26-06.)",
+  "publicActs": [
+    {
+      "publicAct": "94-1074",
+      "effectiveDate": "12-26-06"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "32e0b30b038ad0402de9a4ab79233539c2eb99bf56c86ead512d47b929f73195",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0307"
+  ]
+}

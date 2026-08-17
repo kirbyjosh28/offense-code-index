@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-21-6",
+  "citation": "720 ILCS 5/21-6",
+  "docName": "072000050K21-6",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K21-6",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:27:34.922Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/21-6",
+  "headingText": "Sec. 21-6. Unauthorized Possession or Storage of Weapons.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/21-6) (from Ch. 38, par. 21-6)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 21-6. Unauthorized Possession or Storage of Weapons."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) Whoever possesses or stores any weapon enumerated in Section 33A-1 in any building or on land supported in whole or in part with public funds or in any building on such land without prior written permission from the chief security officer for such land or building commits a Class A misdemeanor."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) The chief security officer must grant any reasonable request for permission under paragraph (a)."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 89-685, eff. 6-1-97.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 89-685, eff. 6-1-97.)",
+  "publicActs": [
+    {
+      "publicAct": "89-685",
+      "effectiveDate": "6-1-97"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "22dcdc20de9544ee12f1ce498e24f18e126c8285bac02b27e65806b9274c6576",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0771"
+  ]
+}

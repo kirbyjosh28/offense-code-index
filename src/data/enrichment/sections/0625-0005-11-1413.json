@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-1413",
+  "citation": "625 ILCS 5/11-1413",
+  "docName": "062500050K11-1413",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-1413",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:15:38.630Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-1413",
+  "headingText": "Sec. 11-1413. Depositing material on highway prohibited.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-1413) (from Ch. 95 1/2, par. 11-1413)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-1413. Depositing material on highway prohibited."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) No person shall throw, spill or deposit upon any highway any bottle, glass, nails, tacks, wire, cans, or any litter (as defined in Section 3 of the Litter Control Act)."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Any person who violates subsection (a) upon any highway shall immediately remove such material or cause it to be removed."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Any person removing a wrecked or damaged vehicle from a highway shall remove any glass or other debris, except any hazardous substance as defined in Section 3.215 of the Environmental Protection Act, hazardous waste as defined in Section 3.220 of the Environmental Protection Act, and potentially infectious medical waste as defined in Section 3.360 of the Environmental Protection Act, dropped upon the highway from such vehicle."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 92-574, eff. 6-26-02.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 92-574, eff. 6-26-02.)",
+  "publicActs": [
+    {
+      "publicAct": "92-574",
+      "effectiveDate": "6-26-02"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "bc81ad2b7d5b18162bf0eb63a718a9c2740db3950b5e8c8c38bf18c577f7ccb5",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0302"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-16-202",
+  "citation": "625 ILCS 5/16-202",
+  "docName": "062500050K16-202",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K16-202",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:19:52.411Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/16-202",
+  "headingText": "Sec. 16-202. Offenses by persons owning or controlling vehicles. It is unlawful for the owner, or any other person, employing or otherwise directing the driver of any vehicle to require or knowingly to permit the operation of such vehicle upon a highway in any manner contrary to law.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/16-202) (from Ch. 95 1/2, par. 16-202)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 16-202. Offenses by persons owning or controlling vehicles. It is unlawful for the owner, or any other person, employing or otherwise directing the driver of any vehicle to require or knowingly to permit the operation of such vehicle upon a highway in any manner contrary to law."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 76-1586.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 76-1586.)",
+  "publicActs": [
+    {
+      "publicAct": "76-1586",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "33d5ac02d40f1b570816fb5ffbfdd07a065b444fd367f59385d296716f2f3bdf",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0455"
+  ]
+}

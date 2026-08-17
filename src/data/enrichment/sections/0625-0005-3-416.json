@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-3-416",
+  "citation": "625 ILCS 5/3-416",
+  "docName": "062500050K3-416",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K3-416",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:20:21.154Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/3-416",
+  "headingText": "Sec. 3-416. Notice of change of address or name.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/3-416) (from Ch. 95 1/2, par. 3-416)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 3-416. Notice of change of address or name."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) Whenever any person after making application for or obtaining the registration of a vehicle shall move from the address named in the application or shown upon a registration card such person shall within 10 days thereafter notify the Secretary of State of his or her old and new address."
+    },
+    {
+      "type": "paragraph",
+      "text": "(a-5) A police officer, a deputy sheriff, an elected sheriff, a law enforcement officer for the Illinois State Police, or a fire investigator who, in accordance with Section 3-405, has furnished the address of the office of the headquarters of the governmental entity or police district where he or she works instead of his or her domicile address shall, within 10 days after he or she is no longer employed by that governmental entity or police district as a police officer, a deputy sheriff, an elected sheriff, a law enforcement officer for the Illinois State Police or a fire investigator, notify the Secretary of State of the old address and his or her new address. If, in accordance with Section 3-405, the spouse and children of a police officer, deputy sheriff, elected sheriff, law enforcement officer for the Illinois State Police, or fire investigator have furnished the address of the office of the headquarters of the governmental entity or police district where the police officer, deputy sheriff, elected sheriff, law enforcement officer for the Illinois State Police, or fire investigator works instead of their domicile address, the spouse and children shall notify the Secretary of State of their old address and new address within 10 days after the police officer, deputy sheriff, elected sheriff, law enforcement officer for the Illinois State Police, or fire investigator is no longer employed by that governmental entity or police district as a police officer, deputy sheriff, elected sheriff, law enforcement officer for the Illinois State Police, or fire investigator."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Whenever the name of any person who has made application for or obtained the registration of a vehicle is thereafter changed by marriage or otherwise such person shall within 10 days notify the Secretary of State of such former and new name."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) In either event, any such person may obtain a corrected registration card or certificate of title upon application and payment of the statutory fee."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 102-538, eff. 8-20-21.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 102-538, eff. 8-20-21.)",
+  "publicActs": [
+    {
+      "publicAct": "102-538",
+      "effectiveDate": "8-20-21"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "75204f41c261e1c6f06821c612a6fae907b27b843687ab2a3c42cbce256f4368",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0030"
+  ]
+}

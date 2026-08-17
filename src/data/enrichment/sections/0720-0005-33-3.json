@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-33-3",
+  "citation": "720 ILCS 5/33-3",
+  "docName": "072000050K33-3",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K33-3",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:29:48.555Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/33-3",
+  "headingText": "Sec. 33-3. Official misconduct.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/33-3) (from Ch. 38, par. 33-3)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 33-3. Official misconduct."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A public officer or employee or special government agent commits misconduct when, in his official capacity or capacity as a special government agent, he or she commits any of the following acts:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) Intentionally or recklessly fails to perform any mandatory duty as required by law; or (2) Knowingly performs an act which he knows he is forbidden by law to perform; or (3) With intent to obtain a personal advantage for himself or another, he performs an act in excess of his lawful authority; or (4) Solicits or knowingly accepts for the performance of any act a fee or reward which he knows is not authorized by law. (b) An employee of a law enforcement agency commits misconduct when he or she knowingly uses or communicates, directly or indirectly, information acquired in the course of employment, with the intent to obstruct, impede, or prevent the investigation, apprehension, or prosecution of any criminal offense or person. Nothing in this subsection (b) shall be construed to impose liability for communicating to a confidential resource, who is participating or aiding law enforcement, in an ongoing investigation."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) A public officer or employee or special government agent convicted of violating any provision of this Section forfeits his or her office or employment or position as a special government agent. In addition, he or she commits a Class 3 felony."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) For purposes of this Section:"
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Special government agent\" has the meaning ascribed to it in subsection (l) of Section 4A-101 of the Illinois Governmental Ethics Act. (Source: P.A. 101-652, eff. 7-1-21.)"
+    }
+  ],
+  "sourceLine": null,
+  "publicActs": [],
+  "repealed": false,
+  "bodyHash": "2ac60107ef8b0c9ade5fefabe14d45c15e30869e6ef02e76deea806b90d91883",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0878"
+  ]
+}

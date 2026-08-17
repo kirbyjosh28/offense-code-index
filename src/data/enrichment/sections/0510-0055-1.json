@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0510-0055-1",
+  "citation": "510 ILCS 55/1",
+  "docName": "051000550K1",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=051000550K1",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:14:23.542Z",
+  "transport": "cache",
+  "canonicalCitation": "510 ILCS 55/1",
+  "headingText": "Sec. 1. No person or owner of livestock shall allow livestock to run at large in the State of Illinois. All owners of livestock shall provide the necessary restraints to prevent such livestock from so running at large and shall be liable in civil action for all damages occasioned by such animals running at large; Provided, that no owner or keeper of such animals shall be liable for damages in any civil suit for injury to the person or property of another caused by the running at large thereof, without the knowledge of such owner or keeper, when such owner or keeper can establish that he used reasonable care in restraining such animals from so running at large.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(510 ILCS 55/1) (from Ch. 8, par. 1)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 1. No person or owner of livestock shall allow livestock to run at large in the State of Illinois. All owners of livestock shall provide the necessary restraints to prevent such livestock from so running at large and shall be liable in civil action for all damages occasioned by such animals running at large; Provided, that no owner or keeper of such animals shall be liable for damages in any civil suit for injury to the person or property of another caused by the running at large thereof, without the knowledge of such owner or keeper, when such owner or keeper can establish that he used reasonable care in restraining such animals from so running at large."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 84-28.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 84-28.)",
+  "publicActs": [
+    {
+      "publicAct": "84-28",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "d768855b02524992d48f567c48deb42feba3f69bce8bd462a247037ad39f8988",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0537"
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-6-206.2",
+  "citation": "625 ILCS 5/6-206.2",
+  "docName": "062500050K6-206.2",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K6-206.2",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:21:40.563Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/6-206.2",
+  "headingText": "Sec. 6-206.2. Violations relating to an ignition interlock device.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/6-206.2)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 6-206.2. Violations relating to an ignition interlock device."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) It is unlawful for any person whose driving privilege is restricted by being prohibited from operating a motor vehicle not equipped with an ignition interlock device to operate a motor vehicle not equipped with an ignition interlock device."
+    },
+    {
+      "type": "paragraph",
+      "text": "(a-5) It is unlawful for any person whose driving privilege is restricted by being prohibited from operating a motor vehicle not equipped with an ignition interlock device to request or solicit any other person to blow into an ignition interlock device or to start a motor vehicle equipped with the device for the purpose of providing the person so restricted with an operable motor vehicle."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) It is unlawful to blow into an ignition interlock device or to start a motor vehicle equipped with the device for the purpose of providing an operable motor vehicle to a person whose driving privilege is restricted by being prohibited from operating a motor vehicle not equipped with an ignition interlock device."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) It is unlawful to tamper with, or circumvent the operation of, an ignition interlock device."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) Except as provided in subsection (c)(17) of Section 5-6-3.1 of the Unified Code of Corrections or by rule, no person shall knowingly rent, lease, or lend a motor vehicle to a person known to have his or her driving privilege restricted by being prohibited from operating a vehicle not equipped with an ignition interlock device, unless the vehicle is equipped with a functioning ignition interlock device. Any person whose driving privilege is so restricted shall notify any person intending to rent, lease, or loan a motor vehicle to the restricted person of the driving restriction imposed upon him or her."
+    },
+    {
+      "type": "paragraph",
+      "text": "(d-5) A person convicted of a violation of this Section is guilty of a Class A misdemeanor."
+    },
+    {
+      "type": "subsection",
+      "label": "(e)",
+      "text": "(e) (Blank)."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 95-27, eff. 1-1-08; 95-578, eff. 6-1-08; 95-876, eff. 8-21-08.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 95-27, eff. 1-1-08; 95-578, eff. 6-1-08; 95-876, eff. 8-21-08.)",
+  "publicActs": [
+    {
+      "publicAct": "95-27",
+      "effectiveDate": "1-1-08"
+    },
+    {
+      "publicAct": "95-578",
+      "effectiveDate": "6-1-08"
+    },
+    {
+      "publicAct": "95-876",
+      "effectiveDate": "8-21-08"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "4a35a5b543e31f5a05d1a6e616e9492a1c32901cbad74bb18951ddc7398224d5",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0131",
+    "offense-0132",
+    "offense-0133",
+    "offense-0134",
+    "offense-0135",
+    "offense-0136"
+  ]
+}

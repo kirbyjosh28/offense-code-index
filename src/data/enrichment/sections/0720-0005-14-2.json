@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-14-2",
+  "citation": "720 ILCS 5/14-2",
+  "docName": "072000050K14-2",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K14-2",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:25:27.292Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/14-2",
+  "headingText": "Sec. 14-2. Elements of the offense; affirmative defense.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/14-2) (from Ch. 38, par. 14-2)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 14-2. Elements of the offense; affirmative defense."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits eavesdropping when he or she knowingly and intentionally:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) Uses an eavesdropping device, in a surreptitious manner, for the purpose of overhearing, transmitting, or recording all or any part of any private conversation to which he or she is not a party unless he or she does so with the consent of all of the parties to the private conversation; (2) Uses an eavesdropping device, in a surreptitious manner, for the purpose of transmitting or recording all or any part of any private conversation to which he or she is a party unless he or she does so with the consent of all other parties to the private conversation; (3) Intercepts, records, or transcribes, in a surreptitious manner, any private electronic communication to which he or she is not a party unless he or she does so with the consent of all parties to the private electronic communication; (4) Manufactures, assembles, distributes, or possesses any electronic, mechanical, eavesdropping, or other device knowing that or having reason to know that the design of the device renders it primarily useful for the purpose of the surreptitious overhearing, transmitting, or recording of private conversations or the interception, or transcription of private electronic communications and the intended or actual use of the device is contrary to the provisions of this Article; or (5) Uses or discloses any information which he or she knows or reasonably should know was obtained from a private conversation or private electronic communication in violation of this Article, unless he or she does so with the consent of all of the parties. (a-5) It does not constitute a violation of this Article to surreptitiously use an eavesdropping device to overhear, transmit, or record a private conversation, or to surreptitiously intercept, record, or transcribe a private electronic communication, if the overhearing, transmitting, recording, interception, or transcription is done in accordance with Article 108A or Article 108B of the Code of Criminal Procedure of 1963."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) It is an affirmative defense to a charge brought under this Article relating to the interception of a privileged communication that the person charged:"
+    },
+    {
+      "type": "paragraph",
+      "text": "1. was a law enforcement officer acting pursuant to an order of interception, entered pursuant to Section 108A-1 or 108B-5 of the Code of Criminal Procedure of 1963; and 2. at the time the communication was intercepted, the officer was unaware that the communication was privileged; and 3. stopped the interception within a reasonable time after discovering that the communication was privileged; and 4. did not disclose the contents of the communication."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) It is not unlawful for a manufacturer or a supplier of eavesdropping devices, or a provider of wire or electronic communication services, their agents, employees, contractors, or venders to manufacture, assemble, sell, or possess an eavesdropping device within the normal course of their business for purposes not contrary to this Article or for law enforcement officers and employees of the Illinois Department of Corrections to manufacture, assemble, purchase, or possess an eavesdropping device in preparation for or within the course of their official duties."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) The interception, recording, or transcription of an electronic communication by an employee of a penal institution is not prohibited under this Act, provided that the interception, recording, or transcription is:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) otherwise legally permissible under Illinois law;"
+    },
+    {
+      "type": "subsection",
+      "label": "(2)",
+      "text": "(2) conducted with the approval of the penal institution for the purpose of investigating or enforcing a State criminal law or a penal institution rule or regulation with respect to inmates in the institution; and (3) within the scope of the employee's official duties. For the purposes of this subsection (d), \"penal institution\" has the meaning ascribed to it in clause (c)(1) of Section 31A-1.1."
+    },
+    {
+      "type": "subsection",
+      "label": "(e)",
+      "text": "(e) Nothing in this Article shall prohibit any individual, not a law enforcement officer, from recording a law enforcement officer in the performance of his or her duties in a public place or in circumstances in which the officer has no reasonable expectation of privacy. However, an officer may take reasonable action to maintain safety and control, secure crime scenes and accident sites, protect the integrity and confidentiality of investigations, and protect the public safety and order."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 98-1142, eff. 12-30-14; 99-352, eff. 1-1-16.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 98-1142, eff. 12-30-14; 99-352, eff. 1-1-16.)",
+  "publicActs": [
+    {
+      "publicAct": "98-1142",
+      "effectiveDate": "12-30-14"
+    },
+    {
+      "publicAct": "99-352",
+      "effectiveDate": "1-1-16"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "e84ff5d0c1488e875decc25fcdc1d01afc09187350e0f0e68494c23eac9c4bb0",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0666"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0605-0005-9-124",
+  "citation": "605 ILCS 5/9-124",
+  "docName": "060500050K9-124",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=060500050K9-124",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:14:37.061Z",
+  "transport": "cache",
+  "canonicalCitation": "605 ILCS 5/9-124",
+  "headingText": "Sec. 9-124. It is unlawful for any person to camp on any public highway in this State or to make, other than in an emergency, a rest stop except at areas designated for such rest stops.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(605 ILCS 5/9-124) (from Ch. 121, par. 9-124)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 9-124. It is unlawful for any person to camp on any public highway in this State or to make, other than in an emergency, a rest stop except at areas designated for such rest stops."
+    },
+    {
+      "type": "paragraph",
+      "text": "Any resident of this State may enter complaint before the circuit court against any person or persons found violating this Section and the court shall issue a warrant for the arrest of such violators and have them brought forthwith before such court for examination. Any such violator shall be guilty of a Class C misdemeanor."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 78-628.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 78-628.)",
+  "publicActs": [
+    {
+      "publicAct": "78-628",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "c45712c2734e1409f0deaaf5b3898dd205bd5388b2495cc5365df10b619502a7",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0546"
+  ]
+}

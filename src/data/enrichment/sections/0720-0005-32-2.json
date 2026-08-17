@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-32-2",
+  "citation": "720 ILCS 5/32-2",
+  "docName": "072000050K32-2",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K32-2",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:29:32.045Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/32-2",
+  "headingText": "Sec. 32-2. Perjury.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/32-2) (from Ch. 38, par. 32-2)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 32-2. Perjury."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits perjury when, under oath or affirmation, in a proceeding or in any other matter where by law the oath or affirmation is required, he or she makes a false statement, material to the issue or point in question, knowing the statement is false."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Proof of Falsity."
+    },
+    {
+      "type": "paragraph",
+      "text": "An indictment or information for perjury alleging that the offender, under oath, has knowingly made contradictory statements, material to the issue or point in question, in the same or in different proceedings, where the oath or affirmation is required, need not specify which statement is false. At the trial, the prosecution need not establish which statement is false."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Admission of Falsity."
+    },
+    {
+      "type": "paragraph",
+      "text": "Where the contradictory statements are made in the same continuous trial, an admission by the offender in that same continuous trial of the falsity of a contradictory statement shall bar prosecution therefor under any provisions of this Code."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) A person shall be exempt from prosecution under subsection (a) of this Section if he or she is a peace officer who uses a false or fictitious name in the enforcement of the criminal laws, and this use is approved in writing as provided in Section 10-1 of \"The Liquor Control Act of 1934\", as amended, Section 5 of \"An Act in relation to the use of an assumed name in the conduct or transaction of business in this State\", approved July 17, 1941, as amended, or Section 2605-200 of the Illinois State Police Law. However, this exemption shall not apply to testimony in judicial proceedings where the identity of the peace officer is material to the issue, and he or she is ordered by the court to disclose his or her identity."
+    },
+    {
+      "type": "subsection",
+      "label": "(e)",
+      "text": "(e) Sentence."
+    },
+    {
+      "type": "paragraph",
+      "text": "Perjury is a Class 3 felony."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 102-538, eff. 8-20-21.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 102-538, eff. 8-20-21.)",
+  "publicActs": [
+    {
+      "publicAct": "102-538",
+      "effectiveDate": "8-20-21"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "bbdf8f38123d52ee827192f2fb991f359dcfda673d036308f8bd4bc7f218a851",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0863"
+  ]
+}

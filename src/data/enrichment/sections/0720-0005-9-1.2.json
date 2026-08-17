@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-9-1.2",
+  "citation": "720 ILCS 5/9-1.2",
+  "docName": "072000050K9-1.2",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K9-1.2",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:30:38.126Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/9-1.2",
+  "headingText": "Sec. 9-1.2. Intentional homicide of an unborn child.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/9-1.2) (from Ch. 38, par. 9-1.2)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 9-1.2. Intentional homicide of an unborn child."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits the offense of intentional homicide of an unborn child if, in performing acts which cause the death of an unborn child, he without lawful justification:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) either intended to cause the death of or do great bodily harm to the pregnant individual or unborn child or knew that such acts would cause death or great bodily harm to the pregnant individual or unborn child; or (2) knew that his acts created a strong probability of death or great bodily harm to the pregnant individual or unborn child; and (3) knew that the individual was pregnant."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) For purposes of this Section, (1) \"unborn child\" shall mean any individual of the human species from the implantation of an embryo until birth, and (2) \"person\" shall not include the pregnant woman whose unborn child is killed."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) This Section shall not apply to acts which cause the death of an unborn child if those acts were committed during any abortion, as defined in Section 1-10 of the Reproductive Health Act, to which the pregnant individual has consented. This Section shall not apply to acts which were committed pursuant to usual and customary standards of medical practice during diagnostic testing or therapeutic treatment."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) Penalty. The sentence for intentional homicide of an unborn child shall be the same as for first degree murder, except that:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) (blank);"
+    },
+    {
+      "type": "subsection",
+      "label": "(2)",
+      "text": "(2) if the person committed the offense while armed with a firearm, 15 years shall be added to the term of imprisonment imposed by the court; (3) if, during the commission of the offense, the person personally discharged a firearm, 20 years shall be added to the term of imprisonment imposed by the court; (4) if, during the commission of the offense, the person personally discharged a firearm that proximately caused great bodily harm, permanent disability, permanent disfigurement, or death to another person, 25 years or up to a term of natural life shall be added to the term of imprisonment imposed by the court. (e) The provisions of this Act shall not be construed to prohibit the prosecution of any person under any other provision of law."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 103-51, eff. 1-1-24.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 103-51, eff. 1-1-24.)",
+  "publicActs": [
+    {
+      "publicAct": "103-51",
+      "effectiveDate": "1-1-24"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "930b9842d7d4fc3aeb0601b1d668fb7c6cb009def02afa6400bc4fb111b3388b",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0551"
+  ]
+}

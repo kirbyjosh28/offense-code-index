@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-10-4",
+  "citation": "720 ILCS 5/10-4",
+  "docName": "072000050K10-4",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K10-4",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:23:06.137Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/10-4",
+  "headingText": "Sec. 10-4. Forcible Detention.) (a) A person commits the offense of forcible detention when he holds an individual hostage without lawful authority for the purpose of obtaining performance by a third person of demands made by the person holding the hostage, and",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/10-4) (from Ch. 38, par. 10-4)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 10-4. Forcible Detention.) (a) A person commits the offense of forcible detention when he holds an individual hostage without lawful authority for the purpose of obtaining performance by a third person of demands made by the person holding the hostage, and"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) the person holding the hostage is armed with a dangerous weapon as defined in Section 33A-1 of this Code, or"
+    },
+    {
+      "type": "subsection",
+      "label": "(2)",
+      "text": "(2) the hostage is known to the person holding him to be a peace officer or a correctional employee engaged in the performance of his official duties."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Forcible detention is a Class 2 felony."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 79-941.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 79-941.)",
+  "publicActs": [
+    {
+      "publicAct": "79-941",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "7e2aac4d8c2719805c5bc90d0e15ac12117507a57ebd239926d2450217c6a150",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0563"
+  ]
+}

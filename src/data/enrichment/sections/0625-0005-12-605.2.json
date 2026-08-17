@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-12-605.2",
+  "citation": "625 ILCS 5/12-605.2",
+  "docName": "062500050K12-605.2",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K12-605.2",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:18:35.824Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/12-605.2",
+  "headingText": "Sec. 12-605.2. Beginning 30 days after the effective date of this amendatory Act of 1988, no person shall consume any food or drink, excluding any medicine, upon any bus operated as a part of any local mass transit system in this State. This Section does not apply to buses used for charter service, school buses, intrastate carriers while not providing transportation services pursuant to contracts with any local mass transit system, and private non-profit carriers.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/12-605.2) (from Ch. 95 1/2, par. 12-605.2)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 12-605.2. Beginning 30 days after the effective date of this amendatory Act of 1988, no person shall consume any food or drink, excluding any medicine, upon any bus operated as a part of any local mass transit system in this State. This Section does not apply to buses used for charter service, school buses, intrastate carriers while not providing transportation services pursuant to contracts with any local mass transit system, and private non-profit carriers."
+    },
+    {
+      "type": "paragraph",
+      "text": "Persons found guilty of violating this Section shall be fined $100."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 90-89, eff. 1-1-98.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 90-89, eff. 1-1-98.)",
+  "publicActs": [
+    {
+      "publicAct": "90-89",
+      "effectiveDate": "1-1-98"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "25684ae79d8bf7d49e465b423a4aa7f23694402dc46ce76d0b23353c494c9387",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0390"
+  ]
+}

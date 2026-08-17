@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-312",
+  "citation": "625 ILCS 5/11-312",
+  "docName": "062500050K11-312",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-312",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:16:37.189Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-312",
+  "headingText": "Sec. 11-312. Unlawful Use or Damage to Highways, Appurtenances and Structures. It shall be unlawful for any person to wilfully injure or damage any public highway or street or any bridge or culvert, or to wilfully damage, injure or remove any sign, signpost, or structure upon or used or constructed in connection with any public highway or street for the protection thereof or for protection or regulation of traffic thereon by any wilfully unusual, improper or unreasonable use thereof, or by wilfully careless driving or use of any vehicle thereon, or by the wilful mutilation, defacing, destruction or removal thereof.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-312) (from Ch. 95 1/2, par. 11-312)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-312. Unlawful Use or Damage to Highways, Appurtenances and Structures. It shall be unlawful for any person to wilfully injure or damage any public highway or street or any bridge or culvert, or to wilfully damage, injure or remove any sign, signpost, or structure upon or used or constructed in connection with any public highway or street for the protection thereof or for protection or regulation of traffic thereon by any wilfully unusual, improper or unreasonable use thereof, or by wilfully careless driving or use of any vehicle thereon, or by the wilful mutilation, defacing, destruction or removal thereof."
+    },
+    {
+      "type": "paragraph",
+      "text": "Every person who is convicted of a violation of this Section shall be guilty of a Class A misdemeanor, punishable by a fine of at least $250 in addition to any other penalty which may be imposed."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 83-672.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 83-672.)",
+  "publicActs": [
+    {
+      "publicAct": "83-672",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "ba780faedb4f2e7a12ae23a1645e5d4b1467bb11edb2e92829e4dce3b06e69fd",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0189"
+  ]
+}

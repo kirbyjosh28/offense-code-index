@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-1010",
+  "citation": "625 ILCS 5/11-1010",
+  "docName": "062500050K11-1010",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-1010",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:14:52.076Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-1010",
+  "headingText": "Sec. 11-1010. Pedestrians under influence of alcohol or drugs. A pedestrian who is under the influence of alcohol or any drug to a degree which renders himself a hazard shall not walk or be upon a highway except on a sidewalk.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-1010) (from Ch. 95 1/2, par. 11-1010)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-1010. Pedestrians under influence of alcohol or drugs. A pedestrian who is under the influence of alcohol or any drug to a degree which renders himself a hazard shall not walk or be upon a highway except on a sidewalk."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 79-857.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 79-857.)",
+  "publicActs": [
+    {
+      "publicAct": "79-857",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "9efec17b90dd2bd08bf15ec7a35b03d5bb28369a9732a4cabbf63b86ee075fc0",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0264"
+  ]
+}

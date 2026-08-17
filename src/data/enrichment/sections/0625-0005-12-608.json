@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-12-608",
+  "citation": "625 ILCS 5/12-608",
+  "docName": "062500050K12-608",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K12-608",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:18:41.834Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/12-608",
+  "headingText": "Sec. 12-608. Bumpers.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/12-608) (from Ch. 95 1/2, par. 12-608)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 12-608. Bumpers."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) It shall be unlawful to operate any motor vehicle with a gross vehicle weight rating of 9,000 pounds or less or any motor vehicle registered as a recreational vehicle under this Code on any highway of this State unless such motor vehicle is equipped with both a front and rear bumper."
+    },
+    {
+      "type": "paragraph",
+      "text": "Except as indicated below, maximum bumper heights of such motor vehicles shall be determined by weight category of gross vehicle weight rating (GVWR) measured from a level surface to the highest point of the bottom of the bumper when the vehicle is unloaded and the tires are inflated to the manufacturer's recommended pressure."
+    },
+    {
+      "type": "paragraph",
+      "text": "Maximum bumper heights are as follows: Maximum Front Maximum Rear Bumper height Bumper Height All motor vehicles of the first division except multipurpose passenger vehicles: 22 inches 22 inches Multipurpose passenger vehicles and all other motor vehicles: 4,500 lbs. and under GVWR 24 inches 26 inches 4,501 lbs. through 7,500 lbs. GVWR 27 inches 29 inches 7,501 lbs. through 9,000 lbs. GVWR 28 inches 30 inches It is unlawful to operate upon any highway of this State any vehicle with a front bumper height that exceeds 28 inches or a rear bumper height that exceeds 30 inches, regardless of the GVWR of the vehicle, except those vehicles covered by Chapter 18b of this Code."
+    },
+    {
+      "type": "paragraph",
+      "text": "For any vehicle with bumpers or attaching components which have been modified or altered from the original manufacturer's design in order to conform with the maximum bumper requirements of this section, the bumper height shall be measured from a level surface to the bottom of the vehicle frame rail at the most forward and rearward points of the frame rail. The bumper on any vehicle so modified or altered shall be at least 4.5 inches in vertical height and extend no less than the width of the respective wheel tracks outermost distance."
+    },
+    {
+      "type": "paragraph",
+      "text": "However, nothing in this Section shall prevent the installation of bumper guards."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) This Section shall not apply to street rods, custom vehicles, motor vehicles designed or modified primarily for off-highway purposes while such vehicles are in tow or to motorcycles or motor driven cycles, nor to motor vehicles registered as antique vehicles or expanded-use antique vehicles when the original design of such antique vehicles or expanded-use antique vehicles did not include bumpers. The provisions of this Section shall not apply to any motor vehicle driven during the first 1000 recorded miles of that vehicle, when such vehicle is owned or operated by a manufacturer, dealer or transporter displaying a special plate or plates as described in Chapter 3 of this Code while such vehicle is (1) being delivered from the manufacturing or assembly plant directly to the purchasing dealer or distributor, or from one dealership or distributor to another; (2) being moved by the most direct route from one location to another for the purpose of installing special bodies or equipment; or (3) being driven for purposes of demonstration by a prospective buyer with the dealer or his agent present in the cab of the vehicle during the demonstration."
+    },
+    {
+      "type": "paragraph",
+      "text": "The dealer shall, prior to the receipt of any deposit made or any contract signed by the buyer to secure the purchase of a vehicle, inform such buyer, by written statement signed by the purchaser to indicate acknowledgement of the contents thereof, of the legal requirements of this Section regarding front and rear bumpers if such vehicle is not to be equipped with bumpers at the time of delivery."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Any violation of this Section is a Class C misdemeanor. A second conviction under this Section shall be punishable with a fine of not less than $500. An officer making an arrest under this Section shall order the vehicle driver to remove the vehicle from the highway. A person convicted under this Section shall be ordered to bring his vehicle into compliance with this Section."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 97-412, eff. 1-1-12.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 97-412, eff. 1-1-12.)",
+  "publicActs": [
+    {
+      "publicAct": "97-412",
+      "effectiveDate": "1-1-12"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "83ff193d52d04dff77fdf5c67a1bc6def66c343d836cb93c28d9305453092f35",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0394",
+    "offense-0395"
+  ]
+}

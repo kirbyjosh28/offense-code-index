@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-21-1.3",
+  "citation": "720 ILCS 5/21-1.3",
+  "docName": "072000050K21-1.3",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K21-1.3",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:27:21.406Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/21-1.3",
+  "headingText": "Sec. 21-1.3. Criminal defacement of property.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/21-1.3)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 21-1.3. Criminal defacement of property."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits criminal defacement of property when the person knowingly damages the property of another by defacing, deforming, or otherwise damaging the property by the use of paint or any other similar substance, or by the use of a writing instrument, etching tool, or any other similar device. It is an affirmative defense to a violation of this Section that the owner of the property damaged consented to such damage."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Sentence."
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) Criminal defacement of property is a Class A misdemeanor for a first offense when the aggregate value of the damage to the property does not exceed $500. Criminal defacement of property is a Class 4 felony when the aggregate value of the damage to property does not exceed $500 and the property damaged is a school building or place of worship or property which memorializes or honors an individual or group of police officers, fire fighters, members of the United States Armed Forces or National Guard, or veterans. Criminal defacement of property is a Class 4 felony for a second or subsequent conviction or when the aggregate value of the damage to the property exceeds $500. Criminal defacement of property is a Class 3 felony when the aggregate value of the damage to property exceeds $500 and the property damaged is a school building or place of worship or property which memorializes or honors an individual or group of police officers, fire fighters, members of the United States Armed Forces or National Guard, or veterans."
+    },
+    {
+      "type": "subsection",
+      "label": "(2)",
+      "text": "(2) In addition to any other sentence that may be imposed for a violation of this Section, a person convicted of criminal defacement of property shall:"
+    },
+    {
+      "type": "subsection",
+      "label": "(A)",
+      "text": "(A) pay the actual costs incurred by the property owner or the unit of government to abate, remediate, repair, or remove the effect of the damage to the property. To the extent permitted by law, reimbursement for the costs of abatement, remediation, repair, or removal shall be payable to the person who incurred the costs; and (B) if convicted of criminal defacement of property that is chargeable as a Class 3 or Class 4 felony, pay a mandatory minimum fine of $500. (3) In addition to any other sentence that may be imposed, a court shall order any person convicted of criminal defacement of property to perform community service for not less than 30 and not more than 120 hours, if community service is available in the jurisdiction. The community service shall include, but need not be limited to, the cleanup and repair of the damage to property that was caused by the offense, or similar damage to property located in the municipality or county in which the offense occurred. When the property damaged is a school building, the community service may include cleanup, removal, or painting over the defacement. In addition, whenever any person is placed on supervision for an alleged offense under this Section, the supervision shall be conditioned upon the performance of the community service."
+    },
+    {
+      "type": "subsection",
+      "label": "(4)",
+      "text": "(4) For the purposes of this subsection (b), aggregate value shall be determined by adding the value of the damage to one or more properties if the offenses were committed as part of a single course of conduct."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 98-315, eff. 1-1-14; 98-466, eff. 8-16-13; 98-756, eff. 7-16-14; 99-631, eff. 1-1-17.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 98-315, eff. 1-1-14; 98-466, eff. 8-16-13; 98-756, eff. 7-16-14; 99-631, eff. 1-1-17.)",
+  "publicActs": [
+    {
+      "publicAct": "98-315",
+      "effectiveDate": "1-1-14"
+    },
+    {
+      "publicAct": "98-466",
+      "effectiveDate": "8-16-13"
+    },
+    {
+      "publicAct": "98-756",
+      "effectiveDate": "7-16-14"
+    },
+    {
+      "publicAct": "99-631",
+      "effectiveDate": "1-1-17"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "94aeeb8ba24442b9ba394176e849a87c18fc8a2a803f63988c8c9ae32a8c3780",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0764"
+  ]
+}

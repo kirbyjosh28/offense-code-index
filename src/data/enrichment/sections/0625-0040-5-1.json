@@ -1,0 +1,104 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0040-5-1",
+  "citation": "625 ILCS 40/5-1",
+  "docName": "062500400K5-1",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500400K5-1",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:22:30.082Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 40/5-1",
+  "headingText": "Sec. 5-1. Operation Generally. It is unlawful for any person to drive or operate any snowmobile in the following ways:",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 40/5-1) (from Ch. 95 1/2, par. 605-1)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 5-1. Operation Generally. It is unlawful for any person to drive or operate any snowmobile in the following ways:"
+    },
+    {
+      "type": "paragraph",
+      "text": "A. At a rate of speed too fast for conditions and the fact that the speed of the snowmobile does not exceed the applicable maximum speed limit allowed does not relieve the driver from the duty to decrease speed as may be necessary to avoid colliding with any person or vehicle or object within legal requirements and the duty of all persons to use due care."
+    },
+    {
+      "type": "paragraph",
+      "text": "B. In a careless, reckless, or negligent manner."
+    },
+    {
+      "type": "paragraph",
+      "text": "C. (Blank)"
+    },
+    {
+      "type": "paragraph",
+      "text": "D. At any time without at least one lighted headlamp and one lighted tail lamp on the snowmobile."
+    },
+    {
+      "type": "paragraph",
+      "text": "E. Within any nature preserve."
+    },
+    {
+      "type": "paragraph",
+      "text": "F. On the tracks or right of way of an operating railroad."
+    },
+    {
+      "type": "paragraph",
+      "text": "G. In any tree nursery or planting in a manner which damages or destroys growing stock, or creates a substantial risk thereto."
+    },
+    {
+      "type": "paragraph",
+      "text": "H. On private property, without the written or verbal consent of the owner or lessee thereof. Any person operating a snowmobile upon lands of another shall stop and identify himself upon the request of the landowner or his duly authorized representative, and, if requested to do so by the landowner shall promptly remove the snowmobile from the premises."
+    },
+    {
+      "type": "paragraph",
+      "text": "I. Notwithstanding any other law to the contrary, an owner, lessee, or occupant of premises owes no duty of care to keep the premises safe for entry or use by others for snowmobiling, or to give warning of any condition, use, structure or activity on such premises. This subsection does not apply where permission to snowmobile is given for a valuable consideration other than to this State, any political subdivision or municipality thereof, or any landowner who is paid with funds from the Snowmobile Trail Establishment Fund. In the case of land leased to the State or a subdivision thereof, any consideration received is not valuable consideration within the meaning of this section. Nothing in this section limits in any way liability which otherwise exists for willful or malicious failure to guard or warn against a dangerous condition, use, structure, or activity."
+    },
+    {
+      "type": "paragraph",
+      "text": "J. Notwithstanding any other law to the contrary, an owner, lessee or occupant of premises who gives permission to another to snowmobile upon such premises does not thereby extend any assurance that the premises are safe for such purpose, or assume responsibility for or incur liability for any injury to person or property caused by any act or omission of persons to whom the permission to snowmobile is granted. This subsection shall not apply where permission to snowmobile is given for a valuable consideration other than to this State, any political subdivision or municipality thereof, or any landowner who is paid with funds from the Snowmobile Trail Establishment Fund. In the case of land leased to the State or a subdivision thereof, any consideration received is not valuable consideration within the meaning of this section. Nothing in this section limits in any way liability which otherwise exists for willful or malicious failure to guard or warn against a dangerous condition, use, structure, or activity."
+    },
+    {
+      "type": "paragraph",
+      "text": "K. On the frozen surface of public waters of this State within 100 feet of a person, including a skater not in or upon a snowmobile; within 100 feet of a person engaged in fishing, except at the minimum speed required to maintain forward movement of the snowmobile; on an area which has been cleared of snow for skating purposes unless the area is necessary for access to the frozen waters of this State."
+    },
+    {
+      "type": "paragraph",
+      "text": "L. Within 100 feet of a dwelling between midnight and 6 a.m. at a speed greater than the minimum required to maintain forward movement of the snowmobile. This provision would not apply on private property where verbal or written consent of the owner or lessee has been granted to snowmobile upon such private property or frozen waters of this State."
+    },
+    {
+      "type": "paragraph",
+      "text": "M. Notwithstanding any other law to the contrary, any owner, lessee or occupant of premises or any person or association who, with the permission of the owner of the premises, places, maintains or displays a sign, signal, marking or device to give warning of any unsafe condition on the premises for snowmobiling shall not be liable for any personal injuries allegedly caused by his or her acts or omissions in providing such warning unless the alleged misconduct was willful or malicious. This subsection shall not apply where the owner, occupant or lessee of the premises grants express permission for snowmobiling in exchange for valuable consideration. However, this subsection will apply where such consideration is given to such owner, occupant or lessee by the State or one of its political subdivisions."
+    },
+    {
+      "type": "paragraph",
+      "text": "N. Notwithstanding any other law or Section of this Act to the contrary, the State and any political subdivision or municipality thereof owes no duty of care to keep the premises safe for entry or use by others for snowmobiling or to guard against or give warnings of any condition, use, structure or activity on property in which the State and any political subdivision or municipality thereof has any interest."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 89-55, eff. 1-1-96.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 89-55, eff. 1-1-96.)",
+  "publicActs": [
+    {
+      "publicAct": "89-55",
+      "effectiveDate": "1-1-96"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "8982e2274726e1fe61ca75e41a48d451f5025df286b6ca671d3b0465aa318e40",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0486",
+    "offense-0487",
+    "offense-0488",
+    "offense-0489",
+    "offense-0490",
+    "offense-0491",
+    "offense-0492",
+    "offense-0493",
+    "offense-0494",
+    "offense-0495"
+  ]
+}

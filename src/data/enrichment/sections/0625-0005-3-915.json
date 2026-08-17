@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-3-915",
+  "citation": "625 ILCS 5/3-915",
+  "docName": "062500050K3-915",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K3-915",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:20:47.958Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/3-915",
+  "headingText": "Sec. 3-915. Any person who violates, or who aids or abets another in the violation, of any provision of this Act or any rule or regulation promulgated thereunder, or does any act prohibited by this Act, or who fails, neglects, or refuses to perform any duty required by any provision of this Act or rule or regulation of the Secretary of State, within the time prescribed by the Secretary of State, or who fails, neglects, or refuses to obey any lawful order given or made by the Secretary of State, shall be guilty of a Class B misdemeanor, and each such act, failure, neglect, or refusal shall constitute a separate and distinct offense.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/3-915) (from Ch. 95 1/2, par. 3-915)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 3-915. Any person who violates, or who aids or abets another in the violation, of any provision of this Act or any rule or regulation promulgated thereunder, or does any act prohibited by this Act, or who fails, neglects, or refuses to perform any duty required by any provision of this Act or rule or regulation of the Secretary of State, within the time prescribed by the Secretary of State, or who fails, neglects, or refuses to obey any lawful order given or made by the Secretary of State, shall be guilty of a Class B misdemeanor, and each such act, failure, neglect, or refusal shall constitute a separate and distinct offense."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 77-2720.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 77-2720.)",
+  "publicActs": [
+    {
+      "publicAct": "77-2720",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "74e207b2b9a485c8282e05d3c3ff28dd494a78a6174bab4c0111536a2821cf2d",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0050"
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-12-3.4",
+  "citation": "720 ILCS 5/12-3.4",
+  "docName": "072000050K12-3.4",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K12-3.4",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:24:27.226Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/12-3.4",
+  "headingText": "Sec. 12-3.4. Violation of an order of protection.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/12-3.4) (was 720 ILCS 5/12-30)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 12-3.4. Violation of an order of protection."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits violation of an order of protection if:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) He or she knowingly commits an act which was prohibited by a court or fails to commit an act which was ordered by a court in violation of: (i) a remedy in a valid order of protection authorized under paragraphs (1), (2), (3), (14), or (14.5) of subsection (b) of Section 214 of the Illinois Domestic Violence Act of 1986, (ii) a remedy, which is substantially similar to the remedies authorized under paragraphs (1), (2), (3), (14) or (14.5) of subsection (b) of Section 214 of the Illinois Domestic Violence Act of 1986, in a valid order of protection, which is authorized under the laws of another state, tribe or United States territory, (iii) any other remedy when the act constitutes a crime against the protected parties as the term protected parties is defined in Section 112A-4 of the Code of Criminal Procedure of 1963; and (2) Such violation occurs after the offender has been served notice of the contents of the order, pursuant to the Illinois Domestic Violence Act of 1986 or any substantially similar statute of another state, tribe or United States territory, or otherwise has acquired actual knowledge of the contents of the order. An order of protection issued by a state, tribal or territorial court related to domestic or family violence shall be deemed valid if the issuing court had jurisdiction over the parties and matter under the law of the state, tribe or territory. There shall be a presumption of validity where an order is certified and appears authentic on its face. For purposes of this Section, an \"order of protection\" may have been issued in a criminal or civil proceeding."
+    },
+    {
+      "type": "paragraph",
+      "text": "(a-5) Failure to provide reasonable notice and opportunity to be heard shall be an affirmative defense to any charge or process filed seeking enforcement of a foreign order of protection."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Nothing in this Section shall be construed to diminish the inherent authority of the courts to enforce their lawful orders through civil or criminal contempt proceedings."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) The limitations placed on law enforcement liability by Section 305 of the Illinois Domestic Violence Act of 1986 apply to actions taken under this Section."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) Violation of an order of protection is a Class A misdemeanor. Violation of an order of protection is a Class 4 felony if the defendant has any prior conviction under this Code for domestic battery (Section 12-3.2) or violation of an order of protection (Section 12-3.4 or 12-30) or any prior conviction under the law of another jurisdiction for an offense that could be charged in this State as a domestic battery or violation of an order of protection. Violation of an order of protection is a Class 4 felony if the defendant has any prior conviction under this Code for first degree murder (Section 9-1), attempt to commit first degree murder (Section 8-4), aggravated domestic battery (Section 12-3.3), aggravated battery (Section 12-3.05 or 12-4), heinous battery (Section 12-4.1), aggravated battery with a firearm (Section 12-4.2), aggravated battery with a machine gun or a firearm equipped with a silencer (Section 12-4.2-5), aggravated battery of a child (Section 12-4.3), aggravated battery of an unborn child (subsection (a-5) of Section 12-3.1, or Section 12-4.4), aggravated battery of a senior citizen (Section 12-4.6), stalking (Section 12-7.3), aggravated stalking (Section 12-7.4), criminal sexual assault (Section 11-1.20 or 12-13), aggravated criminal sexual assault (Section 11-1.30 or 12-14), kidnapping (Section 10-1), aggravated kidnapping (Section 10-2), predatory criminal sexual assault of a child (Section 11-1.40 or 12-14.1), aggravated criminal sexual abuse (Section 11-1.60 or 12-16), unlawful restraint (Section 10-3), aggravated unlawful restraint (Section 10-3.1), aggravated arson (Section 20-1.1), aggravated discharge of a firearm (Section 24-1.2), or a violation of any former law of this State that is substantially similar to any listed offense, or any prior conviction under the law of another jurisdiction for an offense that could be charged in this State as one of the offenses listed in this Section, when any of these offenses have been committed against a family or household member as defined in Section 112A-3 of the Code of Criminal Procedure of 1963. The court shall impose a minimum penalty of 24 hours imprisonment for defendant's second or subsequent violation of any order of protection; unless the court explicitly finds that an increased penalty or such period of imprisonment would be manifestly unjust. In addition to any other penalties, the court may order the defendant to pay a fine as authorized under Section 5-9-1 of the Unified Code of Corrections or to make restitution to the victim under Section 5-5-6 of the Unified Code of Corrections."
+    },
+    {
+      "type": "subsection",
+      "label": "(e)",
+      "text": "(e) (Blank)."
+    },
+    {
+      "type": "subsection",
+      "label": "(f)",
+      "text": "(f) A defendant who directed the actions of a third party to violate this Section, under the principles of accountability set forth in Article 5 of this Code, is guilty of violating this Section as if the same had been personally done by the defendant, without regard to the mental state of the third party acting at the direction of the defendant."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 100-987, eff. 7-1-19.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 100-987, eff. 7-1-19.)",
+  "publicActs": [
+    {
+      "publicAct": "100-987",
+      "effectiveDate": "7-1-19"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "57dafa5a38cc3656a72d81098d59d2d6ffd3d49af49aadccb680cb6d52d14f85",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0620"
+  ]
+}

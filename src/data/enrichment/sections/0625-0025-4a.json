@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0025-4a",
+  "citation": "625 ILCS 25/4a",
+  "docName": "062500250K4a",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500250K4a",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:22:19.572Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 25/4a",
+  "headingText": "Sec. 4a. Every person, when transporting a child 8 years of age or older but under the age of 16, as provided in Section 4 of this Act, shall be responsible for properly securing that child in seat belts.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 25/4a) (from Ch. 95 1/2, par. 1104a)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 4a. Every person, when transporting a child 8 years of age or older but under the age of 16, as provided in Section 4 of this Act, shall be responsible for properly securing that child in seat belts."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 92-171, eff. 1-1-02; 93-100, eff. 1-1-04.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 92-171, eff. 1-1-02; 93-100, eff. 1-1-04.)",
+  "publicActs": [
+    {
+      "publicAct": "92-171",
+      "effectiveDate": "1-1-02"
+    },
+    {
+      "publicAct": "93-100",
+      "effectiveDate": "1-1-04"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "07eaebb3cda1c4263e99c8524f615cc33ff69c8da1311948697f18d20e1ef264",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0480"
+  ]
+}

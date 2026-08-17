@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-12-6.4",
+  "citation": "720 ILCS 5/12-6.4",
+  "docName": "072000050K12-6.4",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K12-6.4",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:24:54.255Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/12-6.4",
+  "headingText": "Sec. 12-6.4. Criminal street gang recruitment on school grounds or public property adjacent to school grounds and criminal street gang recruitment of a minor.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/12-6.4)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 12-6.4. Criminal street gang recruitment on school grounds or public property adjacent to school grounds and criminal street gang recruitment of a minor."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits criminal street gang recruitment on school grounds or public property adjacent to school grounds when on school grounds or public property adjacent to school grounds, he or she knowingly threatens the use of physical force to coerce, solicit, recruit, or induce another person to join or remain a member of a criminal street gang, or conspires to do so."
+    },
+    {
+      "type": "paragraph",
+      "text": "(a-5) A person commits the offense of criminal street gang recruitment of a minor when he or she threatens the use of physical force to coerce, solicit, recruit, or induce another person to join or remain a member of a criminal street gang, or conspires to do so, whether or not such threat is communicated in person, by means of the Internet, or by means of a telecommunications device."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Sentence. Criminal street gang recruitment on school grounds or public property adjacent to school grounds is a Class 1 felony and criminal street gang recruitment of a minor is a Class 1 felony."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) In this Section:"
+    },
+    {
+      "type": "paragraph",
+      "text": "\"School grounds\" means the building or buildings or real property comprising a public or private elementary or secondary school, community college, college, or university and includes a school yard, school playing field, or school playground. \"Minor\" means any person under 18 years of age."
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Internet\" means an interactive computer service or system or an information service, system, or access software provider that provides or enables computer access by multiple users to a computer server, and includes, but is not limited to, an information service, system, or access software provider that provides access to a network system commonly known as the Internet, or any comparable system or service and also includes, but is not limited to, a World Wide Web page, newsgroup, message board, mailing list, or chat area on any interactive computer service or system or other online service. \"Telecommunications device\" means a device that is capable of receiving or transmitting speech, data, signals, text, images, sounds, codes, or other information including, but not limited to, paging devices, telephones, and cellular and mobile telephones. (Source: P.A. 96-199, eff. 1-1-10; 96-1551, eff. 7-1-11.)"
+    }
+  ],
+  "sourceLine": null,
+  "publicActs": [],
+  "repealed": false,
+  "bodyHash": "95911c557133ddbbf819b161c8a0ddfe6fd97015e9ca9b60d6a0f2a9187eb2c1",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0634"
+  ]
+}

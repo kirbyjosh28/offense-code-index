@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-4-104",
+  "citation": "625 ILCS 5/4-104",
+  "docName": "062500050K4-104",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K4-104",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:20:56.974Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/4-104",
+  "headingText": "Sec. 4-104. Offenses relating to possession of titles and registration.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/4-104) (from Ch. 95 1/2, par. 4-104)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 4-104. Offenses relating to possession of titles and registration."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) It is a violation of this Chapter for:"
+    },
+    {
+      "type": "paragraph",
+      "text": "1. A person to possess without authority any manufacturer's statement of origin, certificate of title, salvage certificate, junking certificate, display certificate of title, registration card, license plate or digital license plate, registration sticker or digital registration sticker, or temporary registration permit, whether blank or otherwise; 2. A person to possess any manufacturer's certificate of origin, salvage certificate, junking certificate, certificate of title, or display certificate without complete assignment; 3. A person to possess any manufacturer's statement of origin, salvage certificate, junking certificate, display certificate or certificate of title, temporary registration permit, registration card, license plate or digital license plate, or registration sticker or digital registration sticker knowing it to have been stolen, converted, altered, forged, or counterfeited; 4. A person to display or affix to a vehicle any certificate of title, manufacturer's statement of origin, salvage certificate, junking certificate, display certificate, temporary registration permit, registration card, license plate or digital license plate, or registration sticker or digital registration sticker not authorized by law for use on such vehicle; 5. A person to permit another, not entitled thereto, to use or have possession of any manufacturer's statement of origin, salvage certificate, junking certificate, display certificate or certificate of title, registration card, license plate or digital license plate, temporary registration permit, or registration sticker or digital registration sticker; 6. A person to fail to mail or deliver to the proper person, within a reasonable period of time after receipt from the Secretary of State, any certificate of title, salvage certificate, junking certificate, display certificate, registration card, temporary registration permit, license plate or digital license plate, or registration sticker or digital registration sticker. If a person mails or delivers reasonable notice to the proper person after receipt from the Secretary of State, a presumption of delivery within a reasonable period of time shall exist; provided, however, the delivery is made, either by mail or otherwise, within 20 days from the date of receipt from the Secretary of State. (b) Sentence:"
+    },
+    {
+      "type": "paragraph",
+      "text": "1. A person convicted of a violation of subsection 1 or 2 of paragraph (a) of this Section is guilty of a Class 4 felony. 2. A person convicted of a violation of subsection 3 of paragraph (a) of this Section is guilty of a Class 2 felony. 3. A person convicted of a violation of either subsection 4 or 5 of paragraph (a) of this Section is guilty of a Class A misdemeanor and upon a second or subsequent conviction of such a violation is guilty of a Class 4 felony. 4. A person convicted of a violation of subsection 6 of paragraph (a) of this Section is guilty of a petty offense. (Source: P.A. 101-395, eff. 8-16-19; 102-558, eff. 8-20-21.)"
+    }
+  ],
+  "sourceLine": null,
+  "publicActs": [],
+  "repealed": false,
+  "bodyHash": "5139adf214fbdce5c9e1632c38a67d056e4b8708da7404ba26c55d3df79950ad",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0070",
+    "offense-0071",
+    "offense-0072",
+    "offense-0073",
+    "offense-0074",
+    "offense-0075"
+  ]
+}

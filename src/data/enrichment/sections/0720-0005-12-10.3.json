@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-12-10.3",
+  "citation": "720 ILCS 5/12-10.3",
+  "docName": "072000050K12-10.3",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K12-10.3",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:24:12.210Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/12-10.3",
+  "headingText": "Sec. 12-10.3. False representation to a tattoo or body piercing business as the parent or legal guardian of a minor.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/12-10.3)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 12-10.3. False representation to a tattoo or body piercing business as the parent or legal guardian of a minor."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person, other than the parent or legal guardian of a minor, commits the offense of false representation to a tattoo or body piercing business as the parent or legal guardian of a minor when he or she falsely represents himself or herself as the parent or legal guardian of the minor to an owner or employee of a tattoo or body piercing business for the purpose of:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) accompanying the minor to a business that provides tattooing as required under Section 12-10 of this Code (tattooing body of minor); (2) accompanying the minor to a business that provides body piercing as required under Section 12-10.1 of this Code (piercing the body of a minor); or (3) furnishing the written consent required under Section 12-10.1 of this Code (piercing the body of a minor). (b) Sentence. False representation to a tattoo or body piercing business as the parent or legal guardian of a minor is a Class C misdemeanor."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 96-1311, eff. 1-1-11.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 96-1311, eff. 1-1-11.)",
+  "publicActs": [
+    {
+      "publicAct": "96-1311",
+      "effectiveDate": "1-1-11"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "bc04e4504f427e663e1168915c66ec33c8b61cd2cbcc59e7cdb47dd5e7fced81",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0645"
+  ]
+}

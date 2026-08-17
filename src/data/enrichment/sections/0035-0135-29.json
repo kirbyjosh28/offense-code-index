@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0035-0135-29",
+  "citation": "35 ILCS 135/29",
+  "docName": "003501350K29",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=003501350K29",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:14:07.135Z",
+  "transport": "cache",
+  "canonicalCitation": "35 ILCS 135/29",
+  "headingText": "Sec. 29. Every distributor, secondary distributor, or other person who shall knowingly and wilfully sell or offer for sale any original package, as defined in this Act, having affixed thereto any fraudulent, spurious, imitation or counterfeit stamp, or stamp which has been previously affixed, or affixes a stamp which has previously been affixed to an original package, or who shall knowingly and wilfully sell or offer for sale any original package, as defined in this Act, having imprinted thereon underneath the sealed transparent wrapper thereof any fraudulent, spurious, imitation or counterfeit tax imprint, shall be deemed guilty of a Class 2 felony.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(35 ILCS 135/29) (from Ch. 120, par. 453.59)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 29. Every distributor, secondary distributor, or other person who shall knowingly and wilfully sell or offer for sale any original package, as defined in this Act, having affixed thereto any fraudulent, spurious, imitation or counterfeit stamp, or stamp which has been previously affixed, or affixes a stamp which has previously been affixed to an original package, or who shall knowingly and wilfully sell or offer for sale any original package, as defined in this Act, having imprinted thereon underneath the sealed transparent wrapper thereof any fraudulent, spurious, imitation or counterfeit tax imprint, shall be deemed guilty of a Class 2 felony."
+    },
+    {
+      "type": "paragraph",
+      "text": "This Section shall not apply if the violation in a particular case also constitutes a criminal violation of the Cigarette Tax Act."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 96-1027, eff. 7-12-10.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 96-1027, eff. 7-12-10.)",
+  "publicActs": [
+    {
+      "publicAct": "96-1027",
+      "effectiveDate": "7-12-10"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "eb5fd52228c9a4bdcbaa078cb6818af367eb41e962b8e725c3a568684adc2444",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0519"
+  ]
+}

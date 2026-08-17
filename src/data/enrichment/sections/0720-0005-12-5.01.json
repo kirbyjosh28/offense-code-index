@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-12-5.01",
+  "citation": "720 ILCS 5/12-5.01",
+  "docName": "072000050K12-5.01",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K12-5.01",
+  "status": "repealed",
+  "retrievedAt": "2026-08-17T12:24:43.747Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/12-5.01",
+  "headingText": "Sec. 12-5.01. (Repealed).",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/12-5.01)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 12-5.01. (Repealed)."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 97-1046, eff. 8-21-12. Repealed by P.A. 102-168, eff. 7-27-21.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 97-1046, eff. 8-21-12. Repealed by P.A. 102-168, eff. 7-27-21.)",
+  "publicActs": [
+    {
+      "publicAct": "97-1046",
+      "effectiveDate": "8-21-12"
+    }
+  ],
+  "repealed": true,
+  "bodyHash": "8a2be2a025f89f0ae6878f55964f5796ce52a82aab37df45b5ea195dc17769e1",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0626"
+  ]
+}

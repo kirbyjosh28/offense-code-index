@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-17-60",
+  "citation": "720 ILCS 5/17-60",
+  "docName": "072000050K17-60",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K17-60",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:26:45.372Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/17-60",
+  "headingText": "Sec. 17-60. Promotion of pyramid sales schemes.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/17-60) (was 720 ILCS 5/17-7)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 17-60. Promotion of pyramid sales schemes."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person who knowingly sells, offers to sell, or attempts to sell the right to participate in a pyramid sales scheme commits a Class A misdemeanor."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) The term \"pyramid sales scheme\" means any plan or operation whereby a person, in exchange for money or other thing of value, acquires the opportunity to receive a benefit or thing of value, which is primarily based upon the inducement of additional persons, by himself or others, regardless of number, to participate in the same plan or operation and is not primarily contingent on the volume or quantity of goods, services, or other property sold or distributed or to be sold or distributed to persons for purposes of resale to consumers. For purposes of this subsection, \"money or other thing of value\" shall not include payments made for sales demonstration equipment and materials furnished on a nonprofit basis for use in making sales and not for resale."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 96-1551, eff. 7-1-11.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 96-1551, eff. 7-1-11.)",
+  "publicActs": [
+    {
+      "publicAct": "96-1551",
+      "effectiveDate": "7-1-11"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "eb5fceec8bcdd0d3d1e2b652bbcafff67c61549a5fe4d8a229ebd3c17a69c41a",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0743"
+  ]
+}

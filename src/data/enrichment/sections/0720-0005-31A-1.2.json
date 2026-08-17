@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-31A-1.2",
+  "citation": "720 ILCS 5/31A-1.2",
+  "docName": "072000050K31A-1.2",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K31A-1.2",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:29:23.038Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/31A-1.2",
+  "headingText": "Sec. 31A-1.2. Unauthorized bringing of contraband into a penal institution by an employee; unauthorized possessing of contraband in a penal institution by an employee; unauthorized delivery of contraband in a penal institution by an employee.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/31A-1.2) (from Ch. 38, par. 31A-1.2)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 31A-1.2. Unauthorized bringing of contraband into a penal institution by an employee; unauthorized possessing of contraband in a penal institution by an employee; unauthorized delivery of contraband in a penal institution by an employee."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits unauthorized bringing of contraband into a penal institution by an employee when a person who is an employee knowingly and without authority of any person designated or authorized to grant this authority:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) brings or attempts to bring an item of contraband into a penal institution, or (2) causes or permits another to bring an item of contraband into a penal institution. (b) A person commits unauthorized possession of contraband in a penal institution by an employee when a person who is an employee knowingly and without authority of any person designated or authorized to grant this authority possesses an item of contraband in a penal institution, regardless of the intent with which he or she possesses it."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) A person commits unauthorized delivery of contraband in a penal institution by an employee when a person who is an employee knowingly and without authority of any person designated or authorized to grant this authority:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) delivers or possesses with intent to deliver an item of contraband to any inmate of a penal institution, or (2) conspires to deliver or solicits the delivery of an item of contraband to any inmate of a penal institution, or (3) causes or permits the delivery of an item of contraband to any inmate of a penal institution, or (4) permits another person to attempt to deliver an item of contraband to any inmate of a penal institution. (d) For a violation of subsection (a) or (b) involving a cellular telephone or cellular telephone battery, the defendant must intend to provide the cellular telephone or cellular telephone battery to any inmate in a penal institution, or to use the cellular telephone or cellular telephone battery at the direction of an inmate or for the benefit of any inmate of a penal institution."
+    },
+    {
+      "type": "subsection",
+      "label": "(e)",
+      "text": "(e) Sentence."
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) A violation of paragraphs (a) or (b) of this Section involving alcohol is a Class 4 felony. A violation of paragraph (a) or (b) of this Section involving cannabis is a Class 2 felony. A violation of paragraph (a) or (b) involving any amount of a controlled substance classified in Schedules III, IV or V of Article II of the Illinois Controlled Substances Act is a Class 1 felony. A violation of paragraph (a) or (b) of this Section involving any amount of a controlled substance classified in Schedules I or II of Article II of the Illinois Controlled Substances Act is a Class X felony. A violation of paragraph (a) or (b) involving a hypodermic syringe is a Class X felony. A violation of paragraph (a) or (b) involving a weapon, tool to defeat security mechanisms, cutting tool, or electronic contraband is a Class 1 felony. A violation of paragraph (a) or (b) involving a firearm, firearm ammunition, or explosive is a Class X felony. (2) A violation of paragraph (c) of this Section involving alcoholic liquor is a Class 3 felony. A violation of paragraph (c) involving cannabis is a Class 1 felony. A violation of paragraph (c) involving any amount of a controlled substance classified in Schedules III, IV or V of Article II of the Illinois Controlled Substances Act is a Class X felony. A violation of paragraph (c) involving any amount of a controlled substance classified in Schedules I or II of Article II of the Illinois Controlled Substances Act is a Class X felony for which the minimum term of imprisonment shall be 8 years. A violation of paragraph (c) involving a hypodermic syringe is a Class X felony for which the minimum term of imprisonment shall be 8 years. A violation of paragraph (c) involving a weapon, tool to defeat security mechanisms, cutting tool, or electronic contraband is a Class X felony for which the minimum term of imprisonment shall be 10 years. A violation of paragraph (c) involving a firearm, firearm ammunition, or explosive is a Class X felony for which the minimum term of imprisonment shall be 12 years. (f) Items confiscated may be retained for use by the Department of Corrections or disposed of as deemed appropriate by the Chief Administrative Officer in accordance with Department rules or disposed of as required by law."
+    },
+    {
+      "type": "subsection",
+      "label": "(g)",
+      "text": "(g) For a violation of subsection (a) or (b) involving alcoholic liquor, a weapon, firearm, firearm ammunition, tool to defeat security mechanisms, cutting tool, or electronic contraband, the items shall not be considered to be in a penal institution when they are secured in an employee's locked, private motor vehicle parked on the grounds of a penal institution."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 96-328, eff. 8-11-09; 96-1112, eff. 1-1-11; 96-1325, eff. 7-27-10; 97-333, eff. 8-12-11; 97-1108, eff. 1-1-13.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 96-328, eff. 8-11-09; 96-1112, eff. 1-1-11; 96-1325, eff. 7-27-10; 97-333, eff. 8-12-11; 97-1108, eff. 1-1-13.)",
+  "publicActs": [
+    {
+      "publicAct": "96-328",
+      "effectiveDate": "8-11-09"
+    },
+    {
+      "publicAct": "96-1112",
+      "effectiveDate": "1-1-11"
+    },
+    {
+      "publicAct": "96-1325",
+      "effectiveDate": "7-27-10"
+    },
+    {
+      "publicAct": "97-333",
+      "effectiveDate": "8-12-11"
+    },
+    {
+      "publicAct": "97-1108",
+      "effectiveDate": "1-1-13"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "89a23d2c694b3d6608d87793ddcc740a0673cf88bb7fc189252dd239df245066",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0861"
+  ]
+}

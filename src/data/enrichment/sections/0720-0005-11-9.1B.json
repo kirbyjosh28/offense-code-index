@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-11-9.1B",
+  "citation": "720 ILCS 5/11-9.1B",
+  "docName": "072000050K11-9.1B",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K11-9.1B",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:24:01.717Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/11-9.1B",
+  "headingText": "Sec. 11-9.1B. Failure to report sexual abuse of a child.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/11-9.1B)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-9.1B. Failure to report sexual abuse of a child."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) For the purposes of this Section:"
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Child\" means any person under the age of 13."
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Sexual abuse\" means any contact, however slight, between the sex organ or anus of the victim or the accused and an object or body part, including, but not limited to, the sex organ, mouth, or anus of the victim or the accused, or any intrusion, however slight, of any part of the body of the victim or the accused or of any animal or object into the sex organ or anus of the victim or the accused, including, but not limited to, cunnilingus, fellatio, or anal penetration. Evidence of emission of semen is not required to prove sexual abuse."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) A person over the age of 18 commits failure to report sexual abuse of a child when he or she personally observes sexual abuse, as defined by this Section, between a person who he or she knows is over the age of 18 and a person he or she knows is a child, and knowingly fails to report the sexual abuse to law enforcement."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) This Section does not apply to a person who makes timely and reasonable efforts to stop the sexual abuse by reporting the sexual abuse in conformance with the Abused and Neglected Child Reporting Act or by reporting the sexual abuse or causing a report to be made, to medical or law enforcement authorities or anyone who is a mandated reporter under Section 4 of the Abused and Neglected Child Reporting Act."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) A person may not be charged with the offense of failure to report sexual abuse of a child under this Section until the person who committed the offense is charged with criminal sexual assault, aggravated criminal sexual assault, predatory criminal sexual assault of a child, criminal sexual abuse, or aggravated criminal sexual abuse."
+    },
+    {
+      "type": "subsection",
+      "label": "(e)",
+      "text": "(e) It is an affirmative defense to a charge of failure to report sexual abuse of a child under this Section that the person who personally observed the sexual abuse had a reasonable apprehension that timely action to stop the abuse would result in the imminent infliction of death, great bodily harm, permanent disfigurement, or permanent disability to that person or another in retaliation for reporting."
+    },
+    {
+      "type": "subsection",
+      "label": "(f)",
+      "text": "(f) Sentence. A person who commits failure to report sexual abuse of a child is guilty of a Class A misdemeanor for the first violation and a Class 4 felony for a second or subsequent violation."
+    },
+    {
+      "type": "subsection",
+      "label": "(g)",
+      "text": "(g) Nothing in this Section shall be construed to allow prosecution of a person who personally observes the act of sexual abuse and assists with an investigation and any subsequent prosecution of the offender."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 98-370, eff. 1-1-14; 98-756, eff. 7-16-14.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 98-370, eff. 1-1-14; 98-756, eff. 7-16-14.)",
+  "publicActs": [
+    {
+      "publicAct": "98-370",
+      "effectiveDate": "1-1-14"
+    },
+    {
+      "publicAct": "98-756",
+      "effectiveDate": "7-16-14"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "f30c0f63c62b6d9c92f0af9b999f023f187965256237ebad2d3d433543fcdf40",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0582"
+  ]
+}

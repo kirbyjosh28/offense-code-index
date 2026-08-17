@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-3-701",
+  "citation": "625 ILCS 5/3-701",
+  "docName": "062500050K3-701",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K3-701",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:20:28.444Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/3-701",
+  "headingText": "Sec. 3-701. Operation of vehicles without evidence of registration - Operation under mileage plates when odometer broken or disconnected.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/3-701) (from Ch. 95 1/2, par. 3-701)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 3-701. Operation of vehicles without evidence of registration - Operation under mileage plates when odometer broken or disconnected."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) No person shall operate, nor shall an owner knowingly permit to be operated, except as provided in subsection (b) of this Section, a vehicle upon any highway unless there shall be attached thereto and displayed thereon when and as required by law, proper evidence of registration in Illinois, as follows:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) A vehicle required to be registered in Illinois. A current and valid Illinois registration sticker or stickers and plate or plates or digital registration sticker or stickers and digital plate or plates, or an Illinois temporary registration permit, or a drive-away or in-transit permit, issued therefor by the Secretary of State. (2) A vehicle eligible for Reciprocity. A current and valid reciprocal foreign registration plate or digital registration plate or plates properly issued to such vehicle or a temporary registration issued therefor, by the reciprocal State, and, in addition, when required by the Secretary, a current and valid Illinois Reciprocity Permit or Prorate Decal issued therefor by the Secretary of State; or except as otherwise expressly provided for in this Chapter. (3) A vehicle commuting for repairs in Illinois. A dealer plate issued by a foreign state shall exempt a vehicle from the requirements of this Section if the vehicle is being operated for the purpose of transport to a repair facility in Illinois to have repairs performed on the vehicle displaying foreign dealer plates. The driver of the motor vehicle bearing dealer plates shall provide a work order or contract with the repair facility to a law enforcement officer upon request. (b) A person may operate or permit operation of a vehicle upon any highway a vehicle that has been properly registered but does not display a current and valid Illinois registration sticker or digital registration sticker if he or she has proof, in the form of a printed receipt from the Secretary, that he or she registered the vehicle but has not received a new registration sticker or digital registration sticker from the Secretary. This printed proof of registration is valid for 30 days from the expiration of the previous registration sticker's or digital registration sticker's date or 30 days from the purchase date of the new registration sticker or digital registration sticker, whichever occurs later."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) No person shall operate, nor shall any owner knowingly permit to be operated, any vehicle of the second division for which the owner has made an election to pay the mileage tax in lieu of the annual flat weight tax, at any time when the odometer of such vehicle is broken or disconnected, or is inoperable or not operating."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 104-105, eff. 8-1-25.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 104-105, eff. 8-1-25.)",
+  "publicActs": [
+    {
+      "publicAct": "104-105",
+      "effectiveDate": "8-1-25"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "9fd2dd3d117d3aa4f47a92a470bbe1a1279a4f4f7435b3e16fba1f42b3717c0b",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0035",
+    "offense-0036",
+    "offense-0037"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-1411",
+  "citation": "625 ILCS 5/11-1411",
+  "docName": "062500050K11-1411",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-1411",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:15:32.630Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-1411",
+  "headingText": "Sec. 11-1411. Following fire apparatus prohibited. The driver of any vehicle other than one on official business shall not follow any fire apparatus traveling in response to a fire alarm closer than 500 feet or stop such vehicle within 500 feet of any fire apparatus stopped in answer to a fire alarm.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-1411) (from Ch. 95 1/2, par. 11-1411)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-1411. Following fire apparatus prohibited. The driver of any vehicle other than one on official business shall not follow any fire apparatus traveling in response to a fire alarm closer than 500 feet or stop such vehicle within 500 feet of any fire apparatus stopped in answer to a fire alarm."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 79-1069.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 79-1069.)",
+  "publicActs": [
+    {
+      "publicAct": "79-1069",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "6a927f401199057bbe79c9ffa3787373b11c22552c7dfb8a91e411f7a4399701",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0298"
+  ]
+}

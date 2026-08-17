@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-31-4.5",
+  "citation": "720 ILCS 5/31-4.5",
+  "docName": "072000050K31-4.5",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K31-4.5",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:29:14.023Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/31-4.5",
+  "headingText": "Sec. 31-4.5. Obstructing identification.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/31-4.5)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 31-4.5. Obstructing identification."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits the offense of obstructing identification when he or she intentionally or knowingly furnishes a false or fictitious name, residence address, or date of birth to a peace officer who has:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) lawfully arrested the person;"
+    },
+    {
+      "type": "subsection",
+      "label": "(2)",
+      "text": "(2) lawfully detained the person; or"
+    },
+    {
+      "type": "subsection",
+      "label": "(3)",
+      "text": "(3) requested the information from a person that the peace officer has good cause to believe is a witness to a criminal offense. (b) Sentence. Obstructing identification is a Class A misdemeanor."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 96-335, eff. 1-1-10.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 96-335, eff. 1-1-10.)",
+  "publicActs": [
+    {
+      "publicAct": "96-335",
+      "effectiveDate": "1-1-10"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "a19fb093d1ce4c78e66347460a39b4859aec6d7bc0ae4af8c5bdc078b1be48c6",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0851"
+  ]
+}

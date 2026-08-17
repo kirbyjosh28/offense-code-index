@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-1408",
+  "citation": "625 ILCS 5/11-1408",
+  "docName": "062500050K11-1408",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-1408",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:15:29.616Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-1408",
+  "headingText": "Sec. 11-1408. Riding in towed vehicles. No person or persons shall occupy a trailer, semitrailer, farm wagon, or any other vehicle while it is being towed upon a public highway, unless:",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-1408) (from Ch. 95 1/2, par. 11-1408)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-1408. Riding in towed vehicles. No person or persons shall occupy a trailer, semitrailer, farm wagon, or any other vehicle while it is being towed upon a public highway, unless:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) the occupancy of the towed vehicle is necessary to avoid an imminent threat to a person's safety due to extreme weather conditions or another emergency situation; (2) the speed of the vehicle does not exceed 15 miles per hour and the vehicle is used in connection with a parade, farming-related activity, or similar activity; or (3) the speed of the vehicle does not exceed 15 miles per hour and the passenger is over the age of 18. (Source: P.A. 97-17, eff. 1-1-12.)"
+    }
+  ],
+  "sourceLine": null,
+  "publicActs": [],
+  "repealed": false,
+  "bodyHash": "bc193503c2cb294b13739ecd8e651f442abc10cf86a1e8ee9d8618dcb47baca1",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0296"
+  ]
+}

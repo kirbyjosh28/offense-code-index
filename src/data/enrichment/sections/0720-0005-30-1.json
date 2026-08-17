@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-30-1",
+  "citation": "720 ILCS 5/30-1",
+  "docName": "072000050K30-1",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K30-1",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:29:03.511Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/30-1",
+  "headingText": "Sec. 30-1. Treason.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/30-1) (from Ch. 38, par. 30-1)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 30-1. Treason."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person owing allegiance to this State commits treason when he or she knowingly:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) levies war against this State; or"
+    },
+    {
+      "type": "subsection",
+      "label": "(2)",
+      "text": "(2) adheres to the enemies of this State, giving them aid or comfort. (b) No person may be convicted of treason except on the testimony of 2 witnesses to the same overt act, or on his confession in open court."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Sentence. Treason is a Class X felony."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 103-51, eff. 1-1-24.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 103-51, eff. 1-1-24.)",
+  "publicActs": [
+    {
+      "publicAct": "103-51",
+      "effectiveDate": "1-1-24"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "731f5d8d15553670ec738aae937c2e177b2cf2b90a706129359aa39ccba77fc1",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0843"
+  ]
+}

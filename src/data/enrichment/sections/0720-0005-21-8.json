@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-21-8",
+  "citation": "720 ILCS 5/21-8",
+  "docName": "072000050K21-8",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K21-8",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:27:37.926Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/21-8",
+  "headingText": "Sec. 21-8. Criminal trespass to a nuclear facility.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/21-8)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 21-8. Criminal trespass to a nuclear facility."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits criminal trespass to a nuclear facility when he or she knowingly and without lawful authority:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) enters or remains within a nuclear facility or on the grounds of a nuclear facility, after receiving notice before entry that entry to the nuclear facility is forbidden; (2) remains within the facility or on the grounds of the facility after receiving notice from the owner or manager of the facility or other person authorized by the owner or manager of the facility to give that notice to depart from the facility or grounds of the facility; or (3) enters or remains within a nuclear facility or on the grounds of a nuclear facility, by presenting false documents or falsely representing his or her identity orally to the owner or manager of the facility. This paragraph (3) does not apply to a peace officer or other official of a unit of government who enters or remains in the facility in the performance of his or her official duties. (b) A person has received notice from the owner or manager of the facility or other person authorized by the owner or manager of the facility within the meaning of paragraphs (1) and (2) of subsection (a) if he or she has been notified personally, either orally or in writing, or if a printed or written notice forbidding the entry has been conspicuously posted or exhibited at the main entrance to the facility or grounds of the facility or the forbidden part of the facility."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) In this Section, \"nuclear facility\" has the meaning ascribed to it in Section 3 of the Illinois Nuclear Safety Preparedness Act."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) Sentence. Criminal trespass to a nuclear facility is a Class 4 felony."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 97-1108, eff. 1-1-13.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 97-1108, eff. 1-1-13.)",
+  "publicActs": [
+    {
+      "publicAct": "97-1108",
+      "effectiveDate": "1-1-13"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "ff82400e201bae4edb9d08173b0539dcc3418df6a9e38e65b0180a510ba46d36",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0773"
+  ]
+}

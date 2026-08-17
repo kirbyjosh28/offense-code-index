@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-3-703",
+  "citation": "625 ILCS 5/3-703",
+  "docName": "062500050K3-703",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K3-703",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:20:31.451Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/3-703",
+  "headingText": "Sec. 3-703. Improper use of evidences of registration or certificate of title. No person shall lend to another any certificate of title, registration card, registration plate or digital registration plate, registration sticker or digital registration sticker, special plate or permit or other evidences of proper registration issued to him if the person desiring to borrow the same would not be entitled to the use thereof, nor shall any person knowingly permit the use of any of the same by one not entitled thereto, nor shall any person display upon a vehicle any registration card, registration sticker or digital registration sticker, registration plate or digital registration plate or other evidences of proper registration not issued for such vehicle or not otherwise lawfully used thereon under this Code. No person shall duplicate, alter or attempt to reproduce in any manner a registration plate or digital registration plate or registration sticker or digital registration sticker issued under this Code. No person shall make fraudulent use of evidences of registration or certificates of title issued erroneously by the Secretary of State. No person shall manufacture, advertise, distribute or sell any certificate of title, registration card, registration plate or digital registration plate, registration sticker or digital registration sticker, special plate or permit or other evidences of proper registration which purports to have been issued under this Code. The Secretary of State may request the Attorney General to seek a restraining order in the circuit court against any person who violates this Section by advertising such fraudulent items. Any violation of this Section is a Class C misdemeanor.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/3-703) (from Ch. 95 1/2, par. 3-703)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 3-703. Improper use of evidences of registration or certificate of title. No person shall lend to another any certificate of title, registration card, registration plate or digital registration plate, registration sticker or digital registration sticker, special plate or permit or other evidences of proper registration issued to him if the person desiring to borrow the same would not be entitled to the use thereof, nor shall any person knowingly permit the use of any of the same by one not entitled thereto, nor shall any person display upon a vehicle any registration card, registration sticker or digital registration sticker, registration plate or digital registration plate or other evidences of proper registration not issued for such vehicle or not otherwise lawfully used thereon under this Code. No person shall duplicate, alter or attempt to reproduce in any manner a registration plate or digital registration plate or registration sticker or digital registration sticker issued under this Code. No person shall make fraudulent use of evidences of registration or certificates of title issued erroneously by the Secretary of State. No person shall manufacture, advertise, distribute or sell any certificate of title, registration card, registration plate or digital registration plate, registration sticker or digital registration sticker, special plate or permit or other evidences of proper registration which purports to have been issued under this Code. The Secretary of State may request the Attorney General to seek a restraining order in the circuit court against any person who violates this Section by advertising such fraudulent items. Any violation of this Section is a Class C misdemeanor."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 101-395, eff. 8-16-19.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 101-395, eff. 8-16-19.)",
+  "publicActs": [
+    {
+      "publicAct": "101-395",
+      "effectiveDate": "8-16-19"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "3b5e133f297c3acc3fdf70ee9831ec87d1d721beabec11a6d79c38cdd513d3ce",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0039"
+  ]
+}

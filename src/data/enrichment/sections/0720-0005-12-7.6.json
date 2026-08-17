@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-12-7.6",
+  "citation": "720 ILCS 5/12-7.6",
+  "docName": "072000050K12-7.6",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K12-7.6",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:25:06.273Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/12-7.6",
+  "headingText": "Sec. 12-7.6. Cross burning.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/12-7.6)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 12-7.6. Cross burning."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits cross burning when he or she, with the intent to intimidate any other person or group of persons, burns or causes to be burned a cross."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Sentence. Cross burning is a Class A misdemeanor for a first offense and a Class 4 felony for a second or subsequent offense."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) For the purposes of this Section, a person acts with the \"intent to intimidate\" when he or she intentionally places or attempts to place another person in fear of physical injury or fear of damage to that other person's property."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 96-1551, eff. 7-1-11.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 96-1551, eff. 7-1-11.)",
+  "publicActs": [
+    {
+      "publicAct": "96-1551",
+      "effectiveDate": "7-1-11"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "85905e472815d15a24b8088b04f6db859d487387d01d6fd935d398bdc12214e2",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0642"
+  ]
+}

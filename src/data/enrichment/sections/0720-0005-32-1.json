@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-32-1",
+  "citation": "720 ILCS 5/32-1",
+  "docName": "072000050K32-1",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K32-1",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:29:24.547Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/32-1",
+  "headingText": "Sec. 32-1. Compounding a crime.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/32-1) (from Ch. 38, par. 32-1)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 32-1. Compounding a crime."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits compounding a crime when he or she knowingly receives or offers to another any consideration for a promise not to prosecute or aid in the prosecution of an offender."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Sentence. Compounding a crime is a petty offense."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 97-1108, eff. 1-1-13.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 97-1108, eff. 1-1-13.)",
+  "publicActs": [
+    {
+      "publicAct": "97-1108",
+      "effectiveDate": "1-1-13"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "396debb35e1e14d610d6840538654cb41900911a613e44cfb12a39ec120ac322",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0862"
+  ]
+}

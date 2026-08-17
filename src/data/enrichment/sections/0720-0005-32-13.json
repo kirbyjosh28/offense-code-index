@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-32-13",
+  "citation": "720 ILCS 5/32-13",
+  "docName": "072000050K32-13",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K32-13",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:29:29.040Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/32-13",
+  "headingText": "Sec. 32-13. Unlawful clouding of title.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/32-13)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 32-13. Unlawful clouding of title."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) Any person who intentionally records or files or causes to be recorded or filed any document in the office of the recorder or registrar of titles of any county of this State that is a cloud on the title of land in this State, knowing that the theory upon which the purported cloud on title is based is not recognized as a legitimate legal theory by the courts of this State or of the United States, commits the offense of unlawful clouding of title."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Unlawful clouding of title is a Class A misdemeanor for a first offense if the cloud on the title has a value that does not exceed $10,000. Unlawful clouding of title is a Class 4 felony if the cloud on the title has a value that exceeds $10,000, or for a second or subsequent offense."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) In addition to any other sentence that may be imposed, the court shall order any person convicted of a violation of this Section, or placed on supervision for a violation of this Section, to execute a release of the purported cloud on title as may be requested by or on behalf of any person whose property is encumbered or potentially encumbered by the document filed. Irrespective of whether or not a person charged under this Section is convicted of the offense of unlawful clouding of title, when the evidence demonstrates that, as a matter of law, the cloud on title is not a type of cloud recognized or authorized by the courts of this State or the United States, the court shall forthwith direct the recorder or registrar of titles to expunge the cloud."
+    },
+    {
+      "type": "paragraph",
+      "text": "(c-5) This Section does not apply to an attorney licensed to practice law in this State who in good faith files a lien on behalf of his or her client and who in good faith believes that the validity of the lien is supported by statutory law, by a decision of a court of law, or by a good faith argument for an extension, modification, or reversal of existing court decisions relating to the validity of the lien."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) For purposes of this Section, \"cloud on title\" or \"cloud on the title\" means an outstanding claim or encumbrance that, if valid, would affect or impair the title of the owner of an estate in land and on its face has that effect, but can be shown by extrinsic proof to be invalid or inapplicable to that estate."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 98-98, eff. 1-1-14.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 98-98, eff. 1-1-14.)",
+  "publicActs": [
+    {
+      "publicAct": "98-98",
+      "effectiveDate": "1-1-14"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "55c46558e33e12f6f1efe1ebbf6e40649ea5c7650d4e692ac665e43f720855aa",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0874"
+  ]
+}

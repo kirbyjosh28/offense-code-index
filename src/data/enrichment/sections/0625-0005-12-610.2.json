@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-12-610.2",
+  "citation": "625 ILCS 5/12-610.2",
+  "docName": "062500050K12-610.2",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K12-610.2",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:18:47.836Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/12-610.2",
+  "headingText": "Sec. 12-610.2. Electronic communication devices.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/12-610.2)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 12-610.2. Electronic communication devices."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) As used in this Section:"
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Electronic communication device\" means an electronic device, including, but not limited to, a hand-held wireless telephone, hand-held personal digital assistant, tablet, or a portable or mobile computer, but does not include a global positioning system or navigation system or a device that is physically or electronically integrated into the motor vehicle."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) A person may not operate a motor vehicle on a roadway while using an electronic communication device, including using an electronic communication device to watch or stream video, participate in any video conferencing application, including, but not limited to, Zoom, Microsoft Teams, or WebEx, or access any social media site, including, but not limited to, Facebook, Snapchat, Instagram, or Twitter. The exemptions in paragraphs (3) and (9) of subsection (d) do not apply when a person is using the electronic communication device to watch or stream video, participate in any video conferencing application, or access any social media site."
+    },
+    {
+      "type": "paragraph",
+      "text": "(b-5) A person commits aggravated use of an electronic communication device when he or she violates subsection (b) and in committing the violation he or she is involved in a motor vehicle crash that results in great bodily harm, permanent disability, disfigurement, or death to another and the violation is a proximate cause of the injury or death."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) A violation of this Section is an offense against traffic regulations governing the movement of vehicles. A person who violates this Section shall be fined a maximum of $75 for a first offense, $100 for a second offense, $125 for a third offense, and $150 for a fourth or subsequent offense, except that a person who violates subsection (b-5) shall be assessed a minimum fine of $1,000."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) This Section does not apply to:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) a law enforcement officer or operator of an emergency vehicle while performing his or her official duties; (1.5) a first responder, including a volunteer first responder, while operating his or her own personal motor vehicle using an electronic communication device for the sole purpose of receiving information about an emergency situation while en route to performing his or her official duties; (2) a driver using an electronic communication device for the sole purpose of reporting an emergency situation and continued communication with emergency personnel during the emergency situation; (3) a driver using an electronic communication device in hands-free or voice-operated mode, which may include the use of a headset; (4) a driver of a commercial motor vehicle reading a message displayed on a permanently installed communication device designed for a commercial motor vehicle with a screen that does not exceed 10 inches tall by 10 inches wide in size; (5) a driver using an electronic communication device while parked on the shoulder of a roadway; (6) a driver using an electronic communication device when the vehicle is stopped due to normal traffic being obstructed and the driver has the motor vehicle transmission in neutral or park; (7) a driver using two-way or citizens band radio services; (8) a driver using two-way mobile radio transmitters or receivers for licensees of the Federal Communications Commission in the amateur radio service; (9) a driver using an electronic communication device by pressing a single button to initiate or terminate a voice communication; or (10) a driver using an electronic communication device capable of performing multiple functions, other than a hand-held wireless telephone or hand-held personal digital assistant (for example, a fleet management system, dispatching device, citizens band radio, or music player) for a purpose that is not otherwise prohibited by this Section. (e) A person convicted of violating subsection (b-5) commits a Class A misdemeanor if the violation resulted in great bodily harm, permanent disability, or disfigurement to another. A person convicted of violating subsection (b-5) commits a Class 4 felony if the violation resulted in the death of another person."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 102-558, eff. 8-20-21; 102-982, eff. 7-1-23; 103-310, eff. 1-1-24.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 102-558, eff. 8-20-21; 102-982, eff. 7-1-23; 103-310, eff. 1-1-24.)",
+  "publicActs": [
+    {
+      "publicAct": "102-558",
+      "effectiveDate": "8-20-21"
+    },
+    {
+      "publicAct": "102-982",
+      "effectiveDate": "7-1-23"
+    },
+    {
+      "publicAct": "103-310",
+      "effectiveDate": "1-1-24"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "5f3b9b73a323e8872cbeaa9efc6f85110c1738b415b2ca79bf1bf85d4d71e8e7",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0400"
+  ]
+}

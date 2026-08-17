@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-32-3",
+  "citation": "720 ILCS 5/32-3",
+  "docName": "072000050K32-3",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K32-3",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:29:33.548Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/32-3",
+  "headingText": "Sec. 32-3. Subornation of perjury.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/32-3) (from Ch. 38, par. 32-3)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 32-3. Subornation of perjury."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits subornation of perjury when he or she knowingly procures or induces another to make a statement in violation of Section 32-2 which the person knows to be false."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Sentence."
+    },
+    {
+      "type": "paragraph",
+      "text": "Subornation of perjury is a Class 4 felony."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 97-1108, eff. 1-1-13.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 97-1108, eff. 1-1-13.)",
+  "publicActs": [
+    {
+      "publicAct": "97-1108",
+      "effectiveDate": "1-1-13"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "b5de2b5debdd0d37e2f8642934ed8f9b23675c9e54c7dfa608afd74e438bc1ab",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0864"
+  ]
+}

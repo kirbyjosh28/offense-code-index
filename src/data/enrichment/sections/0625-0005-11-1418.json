@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-1418",
+  "citation": "625 ILCS 5/11-1418",
+  "docName": "062500050K11-1418",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-1418",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:15:43.137Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-1418",
+  "headingText": "Sec. 11-1418. Farm tractor operation regulated.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-1418) (from Ch. 95 1/2, par. 11-1418)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-1418. Farm tractor operation regulated."
+    },
+    {
+      "type": "paragraph",
+      "text": "No person shall operate a farm tractor on a highway unless the tractor is being used as an implement of husbandry in connection with farming operations."
+    },
+    {
+      "type": "paragraph",
+      "text": "For the purpose of this Section, use of a farm tractor as an implement of husbandry in connection with farming operations shall be deemed to include use of the tractor in connection with the transportation of agricultural products and of farm machinery, equipment and supplies as well as transportation of the implement of husbandry from its place of purchase to its place of storage, in connection with the obtaining of repairs of the implement of husbandry, and the towing of a registered truck not more than 8,000 pounds for use as return transportation after the tractor is left at the place of work or repair."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 87-1028.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 87-1028.)",
+  "publicActs": [
+    {
+      "publicAct": "87-1028",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "f1976fb1a4d3c95e8228c22fc1f032547337da9d79b346bb8f53a04b09cb7121",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0306"
+  ]
+}

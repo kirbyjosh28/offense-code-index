@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-12-3.6",
+  "citation": "720 ILCS 5/12-3.6",
+  "docName": "072000050K12-3.6",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K12-3.6",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:24:30.240Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/12-3.6",
+  "headingText": "Sec. 12-3.6. Disclosing location of domestic violence victim.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/12-3.6) (was 720 ILCS 5/45-1 and 5/45-2)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 12-3.6. Disclosing location of domestic violence victim."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) As used in this Section:"
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Domestic violence\" means attempting to cause or causing abuse of a family or household member or high-risk adult with disabilities, or attempting to cause or causing neglect or exploitation of a high-risk adult with disabilities which threatens the adult's health and safety."
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Family or household member\" means a spouse, person living as a spouse, parent, or other adult person related by consanguinity or affinity, who is residing or has resided with the person committing domestic violence. \"Family or household member\" includes a high-risk adult with disabilities who resides with or receives care from any person who has the responsibility for a high-risk adult as a result of a family relationship or who has assumed responsibility for all or a portion of the care of an adult with disabilities voluntarily, by express or implied contract, or by court order."
+    },
+    {
+      "type": "paragraph",
+      "text": "\"High-risk adult with disabilities\" means a person aged 18 or over whose physical or mental disability impairs his or her ability to seek or obtain protection from abuse, neglect, or exploitation."
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Abuse\", \"exploitation\", and \"neglect\" have the meanings ascribed to those terms in Section 103 of the Illinois Domestic Violence Act of 1986."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) A person commits disclosure of location of domestic violence victim when he or she publishes, disseminates or otherwise discloses the location of any domestic violence victim, without that person's authorization, knowing the disclosure will result in, or has the substantial likelihood of resulting in, the threat of bodily harm."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Nothing in this Section shall apply to confidential communications between an attorney and his or her client."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) Sentence. Disclosure of location of domestic violence victim is a Class A misdemeanor."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 96-1551, eff. 7-1-11.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 96-1551, eff. 7-1-11.)",
+  "publicActs": [
+    {
+      "publicAct": "96-1551",
+      "effectiveDate": "7-1-11"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "1ed379cdc7d8ee50ee1224f647b997db719829dfbb9d16213dd19f036c9139df",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0622"
+  ]
+}

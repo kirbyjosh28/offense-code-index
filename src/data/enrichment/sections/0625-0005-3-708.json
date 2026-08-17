@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-3-708",
+  "citation": "625 ILCS 5/3-708",
+  "docName": "062500050K3-708",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K3-708",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:20:35.951Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/3-708",
+  "headingText": "Sec. 3-708. Operation of motor vehicle when registration suspended for noninsurance. No person shall operate a vehicle the registration of which is suspended pursuant to Section 7-606 or 7-607 of this Code.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/3-708) (from Ch. 95 1/2, par. 3-708)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 3-708. Operation of motor vehicle when registration suspended for noninsurance. No person shall operate a vehicle the registration of which is suspended pursuant to Section 7-606 or 7-607 of this Code."
+    },
+    {
+      "type": "paragraph",
+      "text": "Any person convicted of violating this Section is guilty of a business offense and shall be required to pay a fine of not less than $1,000 and not more than $2,000. Any person convicted of a second or subsequent violation of this Section is guilty of a Class B misdemeanor and shall be required to pay a fine of not less than $1,000 and not more than $2,000."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 90-559, eff. 6-1-98.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 90-559, eff. 6-1-98.)",
+  "publicActs": [
+    {
+      "publicAct": "90-559",
+      "effectiveDate": "6-1-98"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "e32fe7f48f7e21162889d96ac9690c656a82639d9144e0991e2b87b509825af7",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0042"
+  ]
+}

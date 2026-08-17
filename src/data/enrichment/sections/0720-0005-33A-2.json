@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-33A-2",
+  "citation": "720 ILCS 5/33A-2",
+  "docName": "072000050K33A-2",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K33A-2",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:29:56.075Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/33A-2",
+  "headingText": "Sec. 33A-2. Armed violence-Elements of the offense.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/33A-2) (from Ch. 38, par. 33A-2)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 33A-2. Armed violence-Elements of the offense."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits armed violence when, while armed with a dangerous weapon, he commits any felony defined by Illinois Law, except first degree murder, attempted first degree murder, intentional homicide of an unborn child, second degree murder, involuntary manslaughter, reckless homicide, predatory criminal sexual assault of a child, aggravated battery of a child as described in Section 12-4.3 or subdivision (b)(1) of Section 12-3.05, home invasion, or any offense that makes the possession or use of a dangerous weapon either an element of the base offense, an aggravated or enhanced version of the offense, or a mandatory sentencing factor that increases the sentencing range."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) A person commits armed violence when he or she personally discharges a firearm that is a Category I or Category II weapon while committing any felony defined by Illinois law, except first degree murder, attempted first degree murder, intentional homicide of an unborn child, second degree murder, involuntary manslaughter, reckless homicide, predatory criminal sexual assault of a child, aggravated battery of a child as described in Section 12-4.3 or subdivision (b)(1) of Section 12-3.05, home invasion, or any offense that makes the possession or use of a dangerous weapon either an element of the base offense, an aggravated or enhanced version of the offense, or a mandatory sentencing factor that increases the sentencing range."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) A person commits armed violence when he or she personally discharges a firearm that is a Category I or Category II weapon that proximately causes great bodily harm, permanent disability, or permanent disfigurement or death to another person while committing any felony defined by Illinois law, except first degree murder, attempted first degree murder, intentional homicide of an unborn child, second degree murder, involuntary manslaughter, reckless homicide, predatory criminal sexual assault of a child, aggravated battery of a child as described in Section 12-4.3 or subdivision (b)(1) of Section 12-3.05, home invasion, or any offense that makes the possession or use of a dangerous weapon either an element of the base offense, an aggravated or enhanced version of the offense, or a mandatory sentencing factor that increases the sentencing range."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) This Section does not apply to violations of the Fish and Aquatic Life Code or the Wildlife Code."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 95-688, eff. 10-23-07; 96-1551, eff. 7-1-11.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 95-688, eff. 10-23-07; 96-1551, eff. 7-1-11.)",
+  "publicActs": [
+    {
+      "publicAct": "95-688",
+      "effectiveDate": "10-23-07"
+    },
+    {
+      "publicAct": "96-1551",
+      "effectiveDate": "7-1-11"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "e129753d5d1e0da0148bb1a20429013196f5db36f8f483eb40e4dfa0a9e9a471",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0883"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-24.5-10",
+  "citation": "720 ILCS 5/24.5-10",
+  "docName": "072000050K24.5-10",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K24.5-10",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:28:13.975Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/24.5-10",
+  "headingText": "Sec. 24.5-10. Unlawful manufacture or delivery. Any person, firm, corporation, co-partnership, limited liability company, or association that intentionally manufactures, delivers, or possesses with intent to manufacture or deliver nitrous oxide for any purpose prohibited under Section 24.5-5 is guilty of a Class 3 felony.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/24.5-10)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 24.5-10. Unlawful manufacture or delivery. Any person, firm, corporation, co-partnership, limited liability company, or association that intentionally manufactures, delivers, or possesses with intent to manufacture or deliver nitrous oxide for any purpose prohibited under Section 24.5-5 is guilty of a Class 3 felony."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 91-366, eff. 1-1-00.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 91-366, eff. 1-1-00.)",
+  "publicActs": [
+    {
+      "publicAct": "91-366",
+      "effectiveDate": "1-1-00"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "b7e8f9abd37a2d1a9ceb344f90a3a84116de518bb2efd728daa45a3c714e862a",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0800"
+  ]
+}

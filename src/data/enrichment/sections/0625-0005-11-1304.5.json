@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-1304.5",
+  "citation": "625 ILCS 5/11-1304.5",
+  "docName": "062500050K11-1304.5",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-1304.5",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:15:14.611Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-1304.5",
+  "headingText": "Sec. 11-1304.5. Parking of vehicle with expired registration. No person may stop, park, or leave standing upon a public street, highway, or roadway a vehicle upon which is displayed an Illinois registration plate or plates or digital registration plate or plates or registration sticker or digital registration sticker after the termination of the registration period, except as provided for in subsection (b) of Section 3-701 of this Code, for which the registration plate or plates or digital registration plate or plates or registration sticker or digital registration sticker was issued or after the expiration date set under Section 3-414 or 3-414.1 of this Code.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-1304.5)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-1304.5. Parking of vehicle with expired registration. No person may stop, park, or leave standing upon a public street, highway, or roadway a vehicle upon which is displayed an Illinois registration plate or plates or digital registration plate or plates or registration sticker or digital registration sticker after the termination of the registration period, except as provided for in subsection (b) of Section 3-701 of this Code, for which the registration plate or plates or digital registration plate or plates or registration sticker or digital registration sticker was issued or after the expiration date set under Section 3-414 or 3-414.1 of this Code."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 101-395, eff. 8-16-19.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 101-395, eff. 8-16-19.)",
+  "publicActs": [
+    {
+      "publicAct": "101-395",
+      "effectiveDate": "8-16-19"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "8234c70314ddb602a7f3e375c5a622588a721ecf7a55f8017991d3808fa09d54",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0283"
+  ]
+}

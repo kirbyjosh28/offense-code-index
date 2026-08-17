@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-17-45",
+  "citation": "720 ILCS 5/17-45",
+  "docName": "072000050K17-45",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K17-45",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:26:25.853Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/17-45",
+  "headingText": "Sec. 17-45. Payment of charges without furnishing item of value.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/17-45)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 17-45. Payment of charges without furnishing item of value."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) No person shall process, deposit, negotiate, or obtain payment of a credit card charge through a retail seller's account with a financial institution or through a retail seller's agreement with a financial institution, card issuer, or organization of financial institutions or card issuers if that retail seller did not furnish or agree to furnish the item or items of value that are the subject of the credit card charge."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) No retail seller shall permit any person to process, deposit, negotiate, or obtain payment of a credit card charge through the retail seller's account with a financial institution or the retail seller's agreement with a financial institution, card issuer, or organization of financial institutions or card issuers if that retail seller did not furnish or agree to furnish the item or items of value that are the subject of the credit card charge."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Subsections (a) and (b) do not apply to any of the following:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) A person who furnishes goods or services on the business premises of a general merchandise retail seller and who processes, deposits, negotiates, or obtains payment of a credit card charge through that general merchandise retail seller's account or agreement. (2) A general merchandise retail seller who permits a person described in paragraph (1) to process, deposit, negotiate, or obtain payment of a credit card charge through that general merchandise retail seller's account or agreement. (3) A franchisee who furnishes the cardholder with an item or items of value that are provided in whole or in part by the franchisor and who processes, deposits, negotiates, or obtains payment of a credit card charge through that franchisor's account or agreement. (4) A franchisor who permits a franchisee described in paragraph (3) to process, deposit, negotiate, or obtain payment of a credit card charge through that franchisor's account or agreement. (5) The credit card issuer or a financial institution or a parent, subsidiary, or affiliate of the card issuer or a financial institution. (6) A person who processes, deposits, negotiates, or obtains payment of less than $500 of credit card charges in any one-year period through a retail seller's account or agreement. The person has the burden of producing evidence that the person transacted less than $500 in credit card charges during any one-year period. (7) A telecommunications carrier that includes charges of other parties in its billings to its subscribers and those other parties whose charges are included in the billings of the telecommunications carrier to its subscribers. (d) A person injured by a violation of this Section may bring an action for the recovery of damages, equitable relief, and reasonable attorney's fees and costs."
+    },
+    {
+      "type": "subsection",
+      "label": "(e)",
+      "text": "(e) A person who violates this Section is guilty of a business offense and shall be fined $10,000 for each offense. Each occurrence in which a person processes, deposits, negotiates, or otherwise seeks to obtain payment of a credit card charge in violation of subsection (a) constitutes a separate offense."
+    },
+    {
+      "type": "subsection",
+      "label": "(f)",
+      "text": "(f) The penalties and remedies provided in this Section are in addition to any other remedies or penalties provided by law."
+    },
+    {
+      "type": "subsection",
+      "label": "(g)",
+      "text": "(g) As used in this Section:"
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Franchisor\" and \"franchisee\" have the same meanings as in Section 3 of the Franchise Disclosure Act of 1987."
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Retail seller\" has the same meaning as in Section 2.4 of the Retail Installment Sales Act."
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Telecommunications carrier\" has the same meaning as in Section 13-202 of the Public Utilities Act."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 96-1551, eff. 7-1-11.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 96-1551, eff. 7-1-11.)",
+  "publicActs": [
+    {
+      "publicAct": "96-1551",
+      "effectiveDate": "7-1-11"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "7d00bf5714df00305836483eed74d778ac97b3f508f9c01399733c960384b875",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0735"
+  ]
+}

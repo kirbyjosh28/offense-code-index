@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-32-8",
+  "citation": "720 ILCS 5/32-8",
+  "docName": "072000050K32-8",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K32-8",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:29:42.550Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/32-8",
+  "headingText": "Sec. 32-8. Tampering with public records.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/32-8) (from Ch. 38, par. 32-8)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 32-8. Tampering with public records."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits tampering with public records when he or she knowingly, without lawful authority, and with the intent to defraud any party, public officer or entity, alters, destroys, defaces, removes or conceals any public record."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) (Blank)."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) A judge, circuit clerk or clerk of court, public official or employee, court reporter, or other person commits tampering with public records when he or she knowingly, without lawful authority, and with the intent to defraud any party, public officer or entity, alters, destroys, defaces, removes, or conceals any public record received or held by any judge or by a clerk of any court."
+    },
+    {
+      "type": "paragraph",
+      "text": "(c-5) \"Public record\" expressly includes, but is not limited to, court records, or documents, evidence, or exhibits filed with the clerk of the court and which have become a part of the official court record, pertaining to any civil or criminal proceeding in any court."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) Sentence. A violation of subsection (a) is a Class 4 felony. A violation of subsection (c) is a Class 3 felony. Any person convicted under subsection (c) who at the time of the violation was responsible for making, keeping, storing, or reporting the record for which the tampering occurred:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) shall forfeit his or her public office or public employment, if any, and shall thereafter be ineligible for both State and local public office and public employment in this State for a period of 5 years after completion of any term of probation, conditional discharge, or incarceration in a penitentiary including the period of mandatory supervised release; (2) shall forfeit all retirement, pension, and other benefits arising out of public office or public employment as may be determined by the court in accordance with the applicable provisions of the Illinois Pension Code; (3) shall be subject to termination of any professional licensure or registration in this State as may be determined by the court in accordance with the provisions of the applicable professional licensing or registration laws; (4) may be ordered by the court, after a hearing in accordance with applicable law and in addition to any other penalty or fine imposed by the court, to forfeit to the State an amount equal to any financial gain or the value of any advantage realized by the person as a result of the offense; and (5) may be ordered by the court, after a hearing in accordance with applicable law and in addition to any other penalty or fine imposed by the court, to pay restitution to the victim in an amount equal to any financial loss or the value of any advantage lost by the victim as a result of the offense. For the purposes of this subsection (d), an offense under subsection (c) committed by a person holding public office or public employment shall be rebuttably presumed to relate to or arise out of or in connection with that public office or public employment."
+    },
+    {
+      "type": "subsection",
+      "label": "(e)",
+      "text": "(e) Any party litigant who believes a violation of this Section has occurred may seek the restoration of the court record as provided in the Court Records Restoration Act. Any order of the court denying the restoration of the court record may be appealed as any other civil judgment."
+    },
+    {
+      "type": "subsection",
+      "label": "(f)",
+      "text": "(f) When the sheriff or local law enforcement agency having jurisdiction declines to investigate, or inadequately investigates, the court or any interested party, shall notify the Illinois State Police of a suspected violation of subsection (a) or (c), who shall have the authority to investigate, and may investigate, the same, without regard to whether the local law enforcement agency has requested the Illinois State Police to do so."
+    },
+    {
+      "type": "subsection",
+      "label": "(g)",
+      "text": "(g) If the State's Attorney having jurisdiction declines to prosecute a violation of subsection (a) or (c), the court or interested party shall notify the Attorney General of the refusal. The Attorney General shall, thereafter, have the authority to prosecute, and may prosecute, the violation, without a referral from the State's Attorney."
+    },
+    {
+      "type": "subsection",
+      "label": "(h)",
+      "text": "(h) Prosecution of a violation of subsection (c) shall be commenced within 3 years after the act constituting the violation is discovered or reasonably should have been discovered."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 102-538, eff. 8-20-21.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 102-538, eff. 8-20-21.)",
+  "publicActs": [
+    {
+      "publicAct": "102-538",
+      "effectiveDate": "8-20-21"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "8ac0a1348b30d65ba100b49d8ca5c5bf8c237ec60ea27adbbdb182eef3d54d84",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0870"
+  ]
+}

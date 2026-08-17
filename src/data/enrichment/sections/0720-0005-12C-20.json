@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-12C-20",
+  "citation": "720 ILCS 5/12C-20",
+  "docName": "072000050K12C-20",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K12C-20",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:25:10.769Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/12C-20",
+  "headingText": "Sec. 12C-20. Abandonment of a school bus containing children.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/12C-20)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 12C-20. Abandonment of a school bus containing children."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A school bus driver commits abandonment of a school bus containing children when he or she knowingly abandons the school bus while it contains any children who are without other adult supervision, except in an emergency where the driver is seeking help or otherwise acting in the best interests of the children."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Sentence. A violation of this Section is a Class A misdemeanor for a first offense, and a Class 4 felony for a second or subsequent offense."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 97-1109, eff. 1-1-13.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 97-1109, eff. 1-1-13.)",
+  "publicActs": [
+    {
+      "publicAct": "97-1109",
+      "effectiveDate": "1-1-13"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "fccf925ae3c0fbe720f6272183cd4942b90b66768f05e8b3d7a94c0bcc5ece50",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0656"
+  ]
+}

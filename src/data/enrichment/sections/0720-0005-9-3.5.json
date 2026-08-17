@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-9-3.5",
+  "citation": "720 ILCS 5/9-3.5",
+  "docName": "072000050K9-3.5",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K9-3.5",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:30:48.628Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/9-3.5",
+  "headingText": "Sec. 9-3.5. Concealment of death.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/9-3.5)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 9-3.5. Concealment of death."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) For purposes of this Section, \"conceal\" means the performing of some act or acts for the purpose of preventing or delaying the discovery of a death. \"Conceal\" means something more than simply withholding knowledge or failing to disclose information."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) A person commits the offense of concealment of death when he or she knowingly conceals the death of any other person who died by other than homicidal means."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) A person commits the offense of concealment of death when he or she knowingly moves the body of a dead person from its place of death, with the intent of concealing information regarding the place or manner of death of that person, or the identity of any person with information regarding the death of that person. This subsection shall not apply to any movement of the body of a dead person by medical personnel, fire fighters, law enforcement officers, coroners, medical examiners, or licensed funeral directors, or by any person acting at the direction of medical personnel, fire fighters, law enforcement officers, coroners, medical examiners, or licensed funeral directors."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) Sentence. Concealment of death is a Class 4 felony."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 96-1361, eff. 1-1-11; 97-333, eff. 8-12-11.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 96-1361, eff. 1-1-11; 97-333, eff. 8-12-11.)",
+  "publicActs": [
+    {
+      "publicAct": "96-1361",
+      "effectiveDate": "1-1-11"
+    },
+    {
+      "publicAct": "97-333",
+      "effectiveDate": "8-12-11"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "70c7cf3a2996b8c9785bb0e6ae9e7f27731fe7491869528cee9e89b43284ce24",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0558"
+  ]
+}

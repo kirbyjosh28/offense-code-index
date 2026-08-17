@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-29-3",
+  "citation": "720 ILCS 5/29-3",
+  "docName": "072000050K29-3",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K29-3",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:28:47.264Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/29-3",
+  "headingText": "Sec. 29-3. Failure to report offer of bribe.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/29-3) (from Ch. 38, par. 29-3)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 29-3. Failure to report offer of bribe."
+    },
+    {
+      "type": "paragraph",
+      "text": "Any person participating, officiating or connected with any professional or amateur athletic contest, sporting event or exhibition who fails to report forthwith to his employer, the promoter of such contest, event or exhibition, a peace officer, or the local State's Attorney any offer or promise made to him in violation of Section 29-1 commits a Class A misdemeanor."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 77-2638.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 77-2638.)",
+  "publicActs": [
+    {
+      "publicAct": "77-2638",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "a491368942a227c5d446292a37ea4bb6d2c241efe2d6569da68dde947796ae74",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0832"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-1407",
+  "citation": "625 ILCS 5/11-1407",
+  "docName": "062500050K11-1407",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-1407",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:15:28.122Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-1407",
+  "headingText": "Sec. 11-1407. Opening and closing vehicle doors. No person shall open the door of a vehicle on the side available to moving traffic unless and until it is reasonably safe to do so, and can be done without interfering with the movement of other traffic, nor shall any person leave a door open on the side of a vehicle available to moving traffic for a period of time longer than necessary to load or unload passengers.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-1407) (from Ch. 95 1/2, par. 11-1407)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-1407. Opening and closing vehicle doors. No person shall open the door of a vehicle on the side available to moving traffic unless and until it is reasonably safe to do so, and can be done without interfering with the movement of other traffic, nor shall any person leave a door open on the side of a vehicle available to moving traffic for a period of time longer than necessary to load or unload passengers."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 79-1069.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 79-1069.)",
+  "publicActs": [
+    {
+      "publicAct": "79-1069",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "3f758f84bb93c58e3c8ce27ca66a7c2f3eba43d2282609089190057ef99ce1c3",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0295"
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-1420",
+  "citation": "625 ILCS 5/11-1420",
+  "docName": "062500050K11-1420",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-1420",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:15:50.642Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-1420",
+  "headingText": "Sec. 11-1420. Funeral processions.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-1420) (from Ch. 95 1/2, par. 11-1420)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-1420. Funeral processions."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) Funeral processions have the right-of-way at intersections when vehicles comprising such procession have their headlights and hazard lights lighted, subject to the following conditions and exceptions:"
+    },
+    {
+      "type": "paragraph",
+      "text": "1. Operators of vehicles in a funeral procession shall yield the right-of-way upon the approach of an authorized emergency vehicle giving an audible or visible signal; 2. Operators of vehicles in a funeral procession shall yield the right-of-way when directed to do so by a traffic officer; 3. The operator of the leading vehicle in a funeral procession shall comply with stop signs and traffic control signals but when the leading vehicle has proceeded across an intersection in accordance with such signal or after stopping as required by the stop sign, all vehicles in such procession may proceed without stopping, regardless of the sign or signal and the leading vehicle and the vehicles in procession shall proceed with due caution. (b) The operator of a vehicle not in the funeral procession shall not drive his vehicle in the funeral procession except when authorized to do so by a traffic officer or when such vehicle is an authorized emergency vehicle giving audible or visible signal."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Operators of vehicles not a part of a funeral procession may not form a procession or convoy and have their headlights or hazard lights or both lighted for the purpose of securing the right-of-way granted by this Section to funeral processions."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) The operator of a vehicle not in a funeral procession may overtake and pass the vehicles in such procession if such overtaking and passing can be accomplished without causing a traffic hazard or interfering with such procession."
+    },
+    {
+      "type": "subsection",
+      "label": "(e)",
+      "text": "(e) The lead vehicle in the funeral procession may be equipped with a flashing amber light which may be used only when such vehicle is used as a lead vehicle in such procession. Vehicles comprising a funeral procession may utilize funeral pennants or flags or windshield stickers or flashing hazard warning signal flashers to identify the individual vehicles in such a procession."
+    },
+    {
+      "type": "subsection",
+      "label": "(f)",
+      "text": "(f) In the absence of law enforcement traffic control assistance for a funeral procession, a funeral director or his or her designee may direct traffic during a funeral procession."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 96-859, eff. 1-12-10.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 96-859, eff. 1-12-10.)",
+  "publicActs": [
+    {
+      "publicAct": "96-859",
+      "effectiveDate": "1-12-10"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "f51c2ac454a58e73d09f44e55384252974eb7c6a562920530e9ff4277bbcc80c",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0311"
+  ]
+}

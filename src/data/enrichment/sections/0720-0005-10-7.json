@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-10-7",
+  "citation": "720 ILCS 5/10-7",
+  "docName": "072000050K10-7",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K10-7",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:23:13.641Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/10-7",
+  "headingText": "Sec. 10-7. Aiding or abetting child abduction.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/10-7) (from Ch. 38, par. 10-7)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 10-7. Aiding or abetting child abduction."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person violates this Section when, before or during the commission of a child abduction as defined in Section 10-5 and with the intent to promote or facilitate such offense, he or she intentionally aids or abets another in the planning or commission of child abduction, unless before the commission of the offense he or she makes proper effort to prevent the commission of the offense."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Sentence. A person who violates this Section commits a Class 4 felony."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 96-710, eff. 1-1-10.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 96-710, eff. 1-1-10.)",
+  "publicActs": [
+    {
+      "publicAct": "96-710",
+      "effectiveDate": "1-1-10"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "90c8a24c5c74da0023ee93526a415e4a5ce348cfd4f0433b82bc982edb31624f",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0568"
+  ]
+}

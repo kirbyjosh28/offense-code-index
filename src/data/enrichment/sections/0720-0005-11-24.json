@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-11-24",
+  "citation": "720 ILCS 5/11-24",
+  "docName": "072000050K11-24",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K11-24",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:23:43.674Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/11-24",
+  "headingText": "Sec. 11-24. Child photography by sex offender.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/11-24)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-24. Child photography by sex offender."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) In this Section:"
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Child\" means a person under 18 years of age."
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Child sex offender\" has the meaning ascribed to it in Section 11-0.1 of this Code."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) It is unlawful for a child sex offender to knowingly:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) conduct or operate any type of business in which he or she photographs, videotapes, or takes a digital image of a child; or (2) conduct or operate any type of business in which he or she instructs or directs another person to photograph, videotape, or take a digital image of a child; or (3) photograph, videotape, or take a digital image of a child, or instruct or direct another person to photograph, videotape, or take a digital image of a child without the consent of the parent or guardian. (c) Sentence. A violation of this Section is a Class 2 felony. A person who violates this Section at a playground, park facility, school, forest preserve, early care and education provider's location, or at a facility providing programs or services directed to persons under 17 years of age is guilty of a Class 1 felony."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 104-480, eff. 7-1-26.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 104-480, eff. 7-1-26.)",
+  "publicActs": [
+    {
+      "publicAct": "104-480",
+      "effectiveDate": "7-1-26"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "f5109024a13dddaf0628a1fa887b0a7ba82b476d156bc256f4718267f18ae455",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0599"
+  ]
+}

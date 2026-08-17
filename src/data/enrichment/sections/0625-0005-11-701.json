@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-701",
+  "citation": "625 ILCS 5/11-701",
+  "docName": "062500050K11-701",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-701",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:17:10.233Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-701",
+  "headingText": "Sec. 11-701. Drive on right side of roadway - exceptions.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-701) (from Ch. 95 1/2, par. 11-701)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-701. Drive on right side of roadway - exceptions."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) Upon all roadways of sufficient width a vehicle shall be driven upon the right half of the roadway, except as follows:"
+    },
+    {
+      "type": "paragraph",
+      "text": "1. When overtaking and passing another vehicle proceeding in the same direction under the rules governing such movements; 2. When an obstruction exists making it necessary to drive to the left of the center of the roadway; provided, any person so doing shall yield the right-of-way to all vehicles traveling in the proper direction upon the unobstructed portion of the roadway within such distance as to constitute an immediate hazard; 3. Upon a roadway divided into 3 marked lanes for traffic under the rules applicable thereon; 4. Upon a roadway restricted to one way traffic;"
+    },
+    {
+      "type": "paragraph",
+      "text": "5. Whenever there is a single track paved road on one side of the public highway and 2 vehicles meet thereon, the driver on whose right is the wider shoulder shall give the right-of-way on such pavement to the other vehicle. (b) Upon a 2 lane roadway, providing for 2-way movement of traffic, a vehicle shall be driven in the right-hand lane available for traffic, or as close as practicable to the right hand curb or edge of the roadway, except when overtaking and passing another vehicle proceeding in the same direction or when preparing for a left turn at an intersection or into a private road or driveway."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Upon any roadway having 4 or more lanes for moving traffic and providing for 2-way movement of traffic, no vehicle shall be driven to the left of the center line of the roadway, except when authorized by official traffic-control devices designating certain lanes to the left side of the center of the roadway for use by traffic not otherwise permitted to use such lanes, or except as permitted under Subsection (a) 2. However, this Subsection shall not be construed as prohibiting the crossing of the center line in making a left turn into or from an alley, private road or driveway."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) Upon an Interstate highway or fully access controlled freeway, a vehicle may not be driven in the left lane, except when overtaking and passing another vehicle."
+    },
+    {
+      "type": "subsection",
+      "label": "(e)",
+      "text": "(e) Subsection (d) of this Section does not apply:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) when no other vehicle is directly behind the vehicle in the left lane; (2) when traffic conditions and congestion make it impractical to drive in the right lane; (3) when snow and other inclement weather conditions make it necessary to drive in the left lane; (4) when obstructions or hazards exist in the right lane; (5) when a vehicle changes lanes to comply with Sections 11-907, 11-907.5, and 11-908 of this Code; (6) when, because of highway design, a vehicle must be driven in the left lane when preparing to exit; (7) on toll highways when necessary to use I-Pass, and on toll and other highways when driving in the left lane is required to comply with an official traffic control device; or (8) to law enforcement vehicles, ambulances, and other emergency vehicles engaged in official duties and vehicles engaged in highway maintenance and construction operations. (Source: P.A. 99-681, eff. 1-1-17.)"
+    }
+  ],
+  "sourceLine": null,
+  "publicActs": [],
+  "repealed": false,
+  "bodyHash": "5a0eff200c1cc22c6bf37c015d9a757f0d9406c05962078afdaefe28c48e7c3e",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0225"
+  ]
+}

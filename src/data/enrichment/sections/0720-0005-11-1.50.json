@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-11-1.50",
+  "citation": "720 ILCS 5/11-1.50",
+  "docName": "072000050K11-1.50",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K11-1.50",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:23:22.657Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/11-1.50",
+  "headingText": "Sec. 11-1.50. Criminal sexual abuse.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/11-1.50) (was 720 ILCS 5/12-15)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-1.50. Criminal sexual abuse."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits criminal sexual abuse if that person:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) commits an act of sexual conduct by the use of force or threat of force; or (2) commits an act of sexual conduct and knows that the victim is unable to understand the nature of the act or is unable to give knowing consent. (b) A person commits criminal sexual abuse if that person is under 17 years of age and commits an act of sexual penetration or sexual conduct with a victim who is at least 9 years of age but under 17 years of age."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) A person commits criminal sexual abuse if that person commits an act of sexual penetration or sexual conduct with a victim who is at least 13 years of age but under 17 years of age and the person is less than 5 years older than the victim."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) Sentence. Criminal sexual abuse for a violation of subsection (b) or (c) of this Section is a Class A misdemeanor. Criminal sexual abuse for a violation of paragraph (1) or (2) of subsection (a) of this Section is a Class 4 felony. A second or subsequent conviction for a violation of subsection (a) of this Section is a Class 2 felony. For purposes of this Section it is a second or subsequent conviction if the accused has at any time been convicted under this Section or under any similar statute of this State or any other state for any offense involving sexual abuse or sexual assault that is substantially equivalent to or more serious than the sexual abuse prohibited under this Section."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 96-1551, eff. 7-1-11.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 96-1551, eff. 7-1-11.)",
+  "publicActs": [
+    {
+      "publicAct": "96-1551",
+      "effectiveDate": "7-1-11"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "254df80c31f0d480ed5f0f738ad04b21fb2d5b20e0cdf0ca33c1840351855933",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0575"
+  ]
+}

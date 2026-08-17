@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-17-5",
+  "citation": "720 ILCS 5/17-5",
+  "docName": "072000050K17-5",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K17-5",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:26:27.358Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/17-5",
+  "headingText": "Sec. 17-5. Deceptive collection practices. A collection agency as defined in the Collection Agency Act or any employee of such collection agency commits a deceptive collection practice when, with the intent to collect a debt owed to an individual or a corporation or other entity, he, she, or it does any of the following:",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/17-5) (from Ch. 38, par. 17-5)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 17-5. Deceptive collection practices. A collection agency as defined in the Collection Agency Act or any employee of such collection agency commits a deceptive collection practice when, with the intent to collect a debt owed to an individual or a corporation or other entity, he, she, or it does any of the following:"
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) Represents falsely that he or she is an attorney, a policeman, a sheriff or deputy sheriff, a bailiff, a county clerk or employee of a county clerk's office, or any other person who by statute is authorized to enforce the law or any order of a court. (b) While attempting to collect an alleged debt, misrepresents to the alleged debtor or to his or her immediate family the corporate, partnership or proprietary name or other trade or business name under which the debt collector is engaging in debt collections and which he, she, or it is legally authorized to use. (c) While attempting to collect an alleged debt, adds to the debt any service charge, interest or penalty which he, she, or it is not entitled by law to add. (d) Threatens to ruin, destroy, or otherwise adversely affect an alleged debtor's credit rating unless, at the same time, a disclosure is made in accordance with federal law that the alleged debtor has a right to inspect his or her credit rating. (e) Accepts from an alleged debtor a payment which he, she, or it knows is not owed. Sentence. The commission of a deceptive collection practice is a Business Offense punishable by a fine not to exceed $3,000."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 96-1551, eff. 7-1-11.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 96-1551, eff. 7-1-11.)",
+  "publicActs": [
+    {
+      "publicAct": "96-1551",
+      "effectiveDate": "7-1-11"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "03fc68eae4a7504df23f73d089b2343cf90321372700aad0c71e123a3ab56c0d",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0699"
+  ]
+}

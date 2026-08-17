@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0045-5-2",
+  "citation": "625 ILCS 45/5-2",
+  "docName": "062500450K5-2",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500450K5-2",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:22:55.623Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 45/5-2",
+  "headingText": "Sec. 5-2. Reckless operation.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 45/5-2) (from Ch. 95 1/2, par. 315-2)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 5-2. Reckless operation."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) No person shall operate any watercraft, specialty prop-craft, personal watercraft or manipulate any water skis, aquaplane, or similar device in such a manner as to willfully or wantonly endanger the life, limb or property of any person, to weave through congested traffic, to jump the wake of another vessel unreasonably or unnecessarily close to the other vessel or when visibility around the other vessel is obstructed, to wait until the last possible moment to swerve to avoid collision, or operate any watercraft so as to approach or pass another watercraft in such a manner or at such a rate of speed as to create a hazardous wake or wash."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) A person convicted of committing a violation of this Section shall be guilty of aggravated reckless operation of a watercraft if the violation of this Section resulted in great bodily harm or permanent disability or disfigurement of another, when the violation was a proximate cause of the injuries."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 93-782, eff. 1-1-05.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 93-782, eff. 1-1-05.)",
+  "publicActs": [
+    {
+      "publicAct": "93-782",
+      "effectiveDate": "1-1-05"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "83014349d158a4576730ed2ba41e79d28a7e3afaacd6ad15cd2922c275f7a366",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0509"
+  ]
+}

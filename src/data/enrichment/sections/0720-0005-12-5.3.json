@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-12-5.3",
+  "citation": "720 ILCS 5/12-5.3",
+  "docName": "072000050K12-5.3",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K12-5.3",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:24:48.263Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/12-5.3",
+  "headingText": "Sec. 12-5.3. Use of a dangerous place for the commission of a controlled substance or cannabis offense.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/12-5.3) (was 720 ILCS 5/12-2.6)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 12-5.3. Use of a dangerous place for the commission of a controlled substance or cannabis offense."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits use of a dangerous place for the commission of a controlled substance or cannabis offense when that person knowingly exercises control over any place with the intent to use that place to manufacture, produce, deliver, or possess with intent to deliver a controlled or counterfeit substance or controlled substance analog in violation of Section 401 of the Illinois Controlled Substances Act or to manufacture, produce, deliver, or possess with intent to deliver cannabis in violation of Section 5, 5.1, 5.2, 7, or 8 of the Cannabis Control Act and:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) the place, by virtue of the presence of the substance or substances used or intended to be used to manufacture a controlled or counterfeit substance, controlled substance analog, or cannabis, presents a substantial risk of injury to any person from fire, explosion, or exposure to toxic or noxious chemicals or gas; or (2) the place used or intended to be used to manufacture, produce, deliver, or possess with intent to deliver a controlled or counterfeit substance, controlled substance analog, or cannabis has located within it or surrounding it devices, weapons, chemicals, or explosives designed, hidden, or arranged in a manner that would cause a person to be exposed to a substantial risk of great bodily harm. (b) It may be inferred that a place was intended to be used to manufacture a controlled or counterfeit substance or controlled substance analog if a substance containing a controlled or counterfeit substance or controlled substance analog or a substance containing a chemical important to the manufacture of a controlled or counterfeit substance or controlled substance analog is found at the place of the alleged illegal controlled substance manufacturing in close proximity to equipment or a chemical used for facilitating the manufacture of the controlled or counterfeit substance or controlled substance analog that is alleged to have been intended to be manufactured."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) As used in this Section, \"place\" means a premises, conveyance, or location that offers seclusion, shelter, means, or facilitation for manufacturing, producing, possessing, or possessing with intent to deliver a controlled or counterfeit substance, controlled substance analog, or cannabis."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) Use of a dangerous place for the commission of a controlled substance or cannabis offense is a Class 1 felony."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 96-1551, eff. 7-1-11.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 96-1551, eff. 7-1-11.)",
+  "publicActs": [
+    {
+      "publicAct": "96-1551",
+      "effectiveDate": "7-1-11"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "0d02b23878e2eb364becdc214715427eff67ec548172faf0f1ec10752d72f477",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0630"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-12-609",
+  "citation": "625 ILCS 5/12-609",
+  "docName": "062500050K12-609",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K12-609",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:18:43.335Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/12-609",
+  "headingText": "Sec. 12-609. (a) No official or employee of the State, any political subdivision thereof, any county, municipality, or local authority, and no owner or employee of any new vehicle dealer, used vehicle dealer, or vehicle auctioneer shall sell, trade or otherwise dispose of any motor vehicle bearing equipment, markings, or other indicia of police authority unless, prior to delivery of the vehicle, the equipment and markings have been sufficiently altered or obliterated to remove the appearance of such authority.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/12-609) (from Ch. 95 1/2, par. 12-609)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 12-609. (a) No official or employee of the State, any political subdivision thereof, any county, municipality, or local authority, and no owner or employee of any new vehicle dealer, used vehicle dealer, or vehicle auctioneer shall sell, trade or otherwise dispose of any motor vehicle bearing equipment, markings, or other indicia of police authority unless, prior to delivery of the vehicle, the equipment and markings have been sufficiently altered or obliterated to remove the appearance of such authority."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) A person may not operate on the highways of this State a vehicle bearing the equipment, markings, or other indicia of police authority, unless the vehicle is an authorized emergency vehicle as defined in Section 1-105 of this Code."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) This Section does not apply to vehicles bearing indicia of police authority that are antique vehicles, as defined in Section 1-102.1, and are registered as antique vehicles, as provided in Section 3-804."
+    },
+    {
+      "type": "paragraph",
+      "text": "(c-5) Nothing in this Section shall prohibit a manufacturer of authorized emergency vehicle equipment, markings, or other indicia, or the manufacturer's representative or authorized vendor, from temporarily mounting the equipment, markings, or other indicia on a vehicle for demonstration purposes only. If the equipment, markings, or other indicia are not covered while the vehicle is operated upon a highway, the vehicle shall display signage indicating that the vehicle is out of service or not an emergency vehicle. The signage shall be displayed on all sides of the vehicle in letters at least 2 inches tall and one-half inch wide."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) Any police officer is authorized to seize any vehicle that is in violation of this Section and to impound that vehicle, at the owner's expense, until any equipment, markings, or other indicia of police authority have been sufficiently removed, altered, or obliterated to remove the appearance of police authority."
+    },
+    {
+      "type": "subsection",
+      "label": "(e)",
+      "text": "(e) A person convicted of violating this Section is guilty of a petty offense and subject to a fine of not less than $500 and not more than $1,000."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 97-1173, eff. 1-1-14.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 97-1173, eff. 1-1-14.)",
+  "publicActs": [
+    {
+      "publicAct": "97-1173",
+      "effectiveDate": "1-1-14"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "a2c9035ab4e7b0c6c2e9fb68887d80b3b2f6ddc24785948e7189819cdcadd83e",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0396"
+  ]
+}

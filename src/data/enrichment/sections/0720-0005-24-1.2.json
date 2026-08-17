@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-24-1.2",
+  "citation": "720 ILCS 5/24-1.2",
+  "docName": "072000050K24-1.2",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K24-1.2",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:27:46.934Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/24-1.2",
+  "headingText": "Sec. 24-1.2. Aggravated discharge of a firearm.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/24-1.2) (from Ch. 38, par. 24-1.2)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 24-1.2. Aggravated discharge of a firearm."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits aggravated discharge of a firearm when he or she knowingly or intentionally:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) Discharges a firearm at or into a building he or she knows or reasonably should know to be occupied and the firearm is discharged from a place or position outside that building; (2) Discharges a firearm in the direction of another person or in the direction of a vehicle he or she knows or reasonably should know to be occupied by a person; (3) Discharges a firearm in the direction of a person he or she knows to be a peace officer, a community policing volunteer, a correctional institution employee, or a fireman while the officer, volunteer, employee or fireman is engaged in the execution of any of his or her official duties, or to prevent the officer, volunteer, employee or fireman from performing his or her official duties, or in retaliation for the officer, volunteer, employee or fireman performing his or her official duties; (4) Discharges a firearm in the direction of a vehicle he or she knows to be occupied by a peace officer, a person summoned or directed by a peace officer, a correctional institution employee or a fireman while the officer, employee or fireman is engaged in the execution of any of his or her official duties, or to prevent the officer, employee or fireman from performing his or her official duties, or in retaliation for the officer, employee or fireman performing his or her official duties; (5) Discharges a firearm in the direction of a person he or she knows to be emergency medical services personnel who is engaged in the execution of any of his or her official duties, or to prevent the emergency medical services personnel from performing his or her official duties, or in retaliation for the emergency medical services personnel performing his or her official duties; (6) Discharges a firearm in the direction of a vehicle he or she knows to be occupied by emergency medical services personnel while the emergency medical services personnel is engaged in the execution of any of his or her official duties, or to prevent the emergency medical services personnel from performing his or her official duties, or in retaliation for the emergency medical services personnel performing his or her official duties; (7) Discharges a firearm in the direction of a person he or she knows to be a teacher or other person employed in any school and the teacher or other employee is upon the grounds of a school or grounds adjacent to a school, or is in any part of a building used for school purposes; (8) Discharges a firearm in the direction of a person he or she knows to be an emergency management worker while the emergency management worker is engaged in the execution of any of his or her official duties, or to prevent the emergency management worker from performing his or her official duties, or in retaliation for the emergency management worker performing his or her official duties; or (9) Discharges a firearm in the direction of a vehicle he or she knows to be occupied by an emergency management worker while the emergency management worker is engaged in the execution of any of his or her official duties, or to prevent the emergency management worker from performing his or her official duties, or in retaliation for the emergency management worker performing his or her official duties. (b) A violation of subsection (a)(1) or subsection (a)(2) of this Section is a Class 1 felony. A violation of subsection (a)(1) or (a)(2) of this Section committed in a school, on the real property comprising a school, within 1,000 feet of the real property comprising a school, at a school related activity or on or within 1,000 feet of any conveyance owned, leased, or contracted by a school to transport students to or from school or a school related activity, regardless of the time of day or time of year that the offense was committed is a Class X felony. A violation of subsection (a)(3), (a)(4), (a)(5), (a)(6), (a)(7), (a)(8), or (a)(9) of this Section is a Class X felony for which the sentence shall be a term of imprisonment of no less than 10 years and not more than 45 years."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) For purposes of this Section:"
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Emergency medical services personnel\" has the meaning specified in Section 3.5 of the Emergency Medical Services (EMS) Systems Act and shall include all ambulance crew members, including drivers or pilots."
+    },
+    {
+      "type": "paragraph",
+      "text": "\"School\" means a public or private elementary or secondary school, community college, college, or university."
+    },
+    {
+      "type": "paragraph",
+      "text": "\"School related activity\" means any sporting, social, academic, or other activity for which students' attendance or participation is sponsored, organized, or funded in whole or in part by a school or school district."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 99-816, eff. 8-15-16.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 99-816, eff. 8-15-16.)",
+  "publicActs": [
+    {
+      "publicAct": "99-816",
+      "effectiveDate": "8-15-16"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "9eb3a520a06b9739f2879e397ebe3b69c19a30496380272f7dc1e7c020c12e0a",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0781"
+  ]
+}

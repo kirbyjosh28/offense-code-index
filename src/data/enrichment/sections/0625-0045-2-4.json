@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0045-2-4",
+  "citation": "625 ILCS 45/2-4",
+  "docName": "062500450K2-4",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500450K2-4",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:22:51.120Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 45/2-4",
+  "headingText": "Sec. 2-4. Resistance to officers.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 45/2-4) (from Ch. 95 1/2, par. 312-4)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 2-4. Resistance to officers."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) It is unlawful for any person to resist or obstruct any officer or employee of the Department in the discharge of his duties under the provisions hereof."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) It is unlawful for the operator of a watercraft, having been given a signal by a conservation police officer, sheriff, deputy sheriff, or other police officer directing the operator of the watercraft to bring the watercraft to a stop, to willfully fail or refuse to obey the direction, to increase speed, to extinguish lights, or otherwise flee or attempt to elude the officer. The signal given by the officer may be by hand, voice, sign, siren, or blue or red light."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 88-524.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 88-524.)",
+  "publicActs": [
+    {
+      "publicAct": "88-524",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "d4fc9ea13bd8e78b81c74768a79151bdf2ab43cddefe9603bb429b7ce321be2a",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0507"
+  ]
+}

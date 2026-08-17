@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-17-21",
+  "citation": "720 ILCS 5/17-21",
+  "docName": "072000050K17-21",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K17-21",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:26:06.339Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/17-21",
+  "headingText": "Sec. 17-21. Obstructing service meters. A person commits obstructing service meters when he or she knowingly, and, with the intent to defraud, tampers with, alters, obstructs or prevents the action of a meter, register, or other counting device that is a part of a mechanical or electrical machine, equipment, or device that measures service, without the consent of the owner of the machine, equipment, or device. A violation of this Section is a Class B misdemeanor.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/17-21)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 17-21. Obstructing service meters. A person commits obstructing service meters when he or she knowingly, and, with the intent to defraud, tampers with, alters, obstructs or prevents the action of a meter, register, or other counting device that is a part of a mechanical or electrical machine, equipment, or device that measures service, without the consent of the owner of the machine, equipment, or device. A violation of this Section is a Class B misdemeanor."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 96-1551, eff. 7-1-11.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 96-1551, eff. 7-1-11.)",
+  "publicActs": [
+    {
+      "publicAct": "96-1551",
+      "effectiveDate": "7-1-11"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "10d9fa3c40965c669b863366f763e105712c75767e693995d45379882bff8a62",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0722"
+  ]
+}

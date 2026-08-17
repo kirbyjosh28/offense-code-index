@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-1405",
+  "citation": "625 ILCS 5/11-1405",
+  "docName": "062500050K11-1405",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-1405",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:15:25.118Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-1405",
+  "headingText": "Sec. 11-1405. Required equipment on motorcycles.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-1405) (from Ch. 95 1/2, par. 11-1405)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-1405. Required equipment on motorcycles."
+    },
+    {
+      "type": "paragraph",
+      "text": "Any motorcycle carrying a passenger, other than in a sidecar or enclosed cab, shall be equipped with footrests for such passenger."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 84-602.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 84-602.)",
+  "publicActs": [
+    {
+      "publicAct": "84-602",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "3e7c3a59c80f756b86f7192958b221ac9e2064fc12baf3403d90b08d968a6fe4",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0293"
+  ]
+}

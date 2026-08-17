@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-17-36",
+  "citation": "720 ILCS 5/17-36",
+  "docName": "072000050K17-36",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K17-36",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:26:22.846Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/17-36",
+  "headingText": "Sec. 17-36. Use of counterfeited, forged, expired, revoked, or unissued credit or debit card. A person who, with intent to defraud either the issuer, or a person providing an item or items of value, or any other person, (i) uses, with the intent to obtain an item or items of value, a credit card or debit card obtained or retained in violation of this Subdivision 25 or without the cardholder's consent, or a credit card or debit card which he or she knows is counterfeited, or forged, or expired, or revoked or (ii) obtains or attempts to obtain an item or items of value by representing without the consent of the cardholder that he or she is the holder of a specified card or by representing that he or she is the holder of a card and such card has not in fact been issued is guilty of a Class 4 felony if the value of all items of value obtained or sought in violation of this Section does not exceed $300 in any 6-month period; and is guilty of a Class 3 felony if the value exceeds $300 in any 6-month period. The trier of fact may infer that knowledge of revocation has been received by a cardholder 4 days after it has been mailed to him or her at the address set forth on the credit card or debit card or at his or her last known address by registered or certified mail, return receipt requested, and, if the address is more than 500 miles from the place of mailing, by air mail. The trier of fact may infer that notice was received 10 days after mailing by registered or certified mail if the address is located outside the United States, Puerto Rico, the Virgin Islands, the Canal Zone, and Canada.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/17-36)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 17-36. Use of counterfeited, forged, expired, revoked, or unissued credit or debit card. A person who, with intent to defraud either the issuer, or a person providing an item or items of value, or any other person, (i) uses, with the intent to obtain an item or items of value, a credit card or debit card obtained or retained in violation of this Subdivision 25 or without the cardholder's consent, or a credit card or debit card which he or she knows is counterfeited, or forged, or expired, or revoked or (ii) obtains or attempts to obtain an item or items of value by representing without the consent of the cardholder that he or she is the holder of a specified card or by representing that he or she is the holder of a card and such card has not in fact been issued is guilty of a Class 4 felony if the value of all items of value obtained or sought in violation of this Section does not exceed $300 in any 6-month period; and is guilty of a Class 3 felony if the value exceeds $300 in any 6-month period. The trier of fact may infer that knowledge of revocation has been received by a cardholder 4 days after it has been mailed to him or her at the address set forth on the credit card or debit card or at his or her last known address by registered or certified mail, return receipt requested, and, if the address is more than 500 miles from the place of mailing, by air mail. The trier of fact may infer that notice was received 10 days after mailing by registered or certified mail if the address is located outside the United States, Puerto Rico, the Virgin Islands, the Canal Zone, and Canada."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 96-1551, eff. 7-1-11.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 96-1551, eff. 7-1-11.)",
+  "publicActs": [
+    {
+      "publicAct": "96-1551",
+      "effectiveDate": "7-1-11"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "28d17aadfd668d4e11f5458de8459251f741ea2d64e42bd27bc3f019aa0726f7",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0733"
+  ]
+}

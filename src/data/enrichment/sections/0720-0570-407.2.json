@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0570-407.2",
+  "citation": "720 ILCS 570/407.2",
+  "docName": "072005700K407.2",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072005700K407.2",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:31:14.161Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 570/407.2",
+  "headingText": "Sec. 407.2. Delivery of a controlled substance to a pregnant woman.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 570/407.2) (from Ch. 56 1/2, par. 1407.2)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 407.2. Delivery of a controlled substance to a pregnant woman."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) Any person who violates subsection (a) of Section 401 of this Act by delivering a controlled substance to a woman he knows to be pregnant may be sentenced to imprisonment for a term twice the maximum amount authorized by Section 401 of this Act."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Any person who delivers an amount of a controlled substance set forth in subsections (c) and (d) of Section 401 of this Act to a woman he knows to be pregnant commits a Class 1 felony. The fine for a violation of this subsection (b) shall not be more than $250,000."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 86-1459; 87-754.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 86-1459; 87-754.)",
+  "publicActs": [
+    {
+      "publicAct": "86-1459",
+      "effectiveDate": null
+    },
+    {
+      "publicAct": "87-754",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "509b662c3ac24ce021bbba57e47bc21b85c40e9bc9981e7ba7f8360db28ca3e1",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0938"
+  ]
+}

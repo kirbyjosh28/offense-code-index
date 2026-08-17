@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-3-903",
+  "citation": "625 ILCS 5/3-903",
+  "docName": "062500050K3-903",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K3-903",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:20:44.968Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/3-903",
+  "headingText": "Sec. 3-903. License. It shall be unlawful for any person to act as a \"remittance agent\" in the State of Illinois without first having obtained or renewed a license and posted a bond, as hereafter provided.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/3-903) (from Ch. 95 1/2, par. 3-903)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 3-903. License. It shall be unlawful for any person to act as a \"remittance agent\" in the State of Illinois without first having obtained or renewed a license and posted a bond, as hereafter provided."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 97-832, eff. 7-20-12.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 97-832, eff. 7-20-12.)",
+  "publicActs": [
+    {
+      "publicAct": "97-832",
+      "effectiveDate": "7-20-12"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "7950ef15a4fabeaec3da322fe6a29c4c8da4758752519ead7890709da7a5823c",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0048"
+  ]
+}

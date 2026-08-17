@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-49-1",
+  "citation": "720 ILCS 5/49-1",
+  "docName": "072000050K49-1",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K49-1",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:30:30.619Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/49-1",
+  "headingText": "Sec. 49-1. Flag desecration.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/49-1)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 49-1. Flag desecration."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) Definition. As used in this Section:"
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Flag\", \"standard\", \"color\" or \"ensign\" shall include any flag, standard, color, ensign or any picture or representation of either thereof, made of any substance or represented on any substance and of any size evidently purporting to be either of said flag, standard, color or ensign of the United States of America, or a picture or a representation of either thereof, upon which shall be shown the colors, the stars, and the stripes, in any number of either thereof, of the flag, colors, standard, or ensign of the United States of America. (b) A person commits flag desecration when he or she knowingly:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) for exhibition or display, places or causes to be placed any word, figure, mark, picture, design, drawing, or any advertisement of any nature, upon any flag, standard, color or ensign of the United States or State flag of this State or ensign; (2) exposes or causes to be exposed to public view any such flag, standard, color or ensign, upon which has been printed, painted or otherwise placed, or to which has been attached, appended, affixed, or annexed, any word, figure, mark, picture, design or drawing or any advertisement of any nature; (3) exposes to public view, manufactures, sells, exposes for sale, gives away, or has in possession for sale or to give away or for use for any purpose, any article or substance, being an article of merchandise, or a receptacle of merchandise or article or thing for carrying or transporting merchandise upon which has been printed, painted, attached, or otherwise placed a representation of any such flag, standard, color, or ensign, to advertise, call attention to, decorate, mark or distinguish the article or substance on which so placed; or (4) publicly mutilates, defaces, defiles, tramples, or intentionally displays on the ground or floor any such flag, standard, color or ensign. (c) All prosecutions under this Section shall be brought by any person in the name of the People of the State of Illinois, against any person or persons violating any of the provisions of this Section, before any circuit court. The State's Attorneys shall see that this Section is enforced in their respective counties, and shall prosecute all offenders on receiving information of the violation of this Section. Sheriffs, deputy sheriffs, and police officers shall inform against and prosecute all persons whom there is probable cause to believe are guilty of violating this Section. One-half of the amount recovered in any penal action under this Section shall be paid to the person making and filing the complaint in the action, and the remaining 1/2 to the school fund of the county in which the conviction is obtained."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) All prosecutions under this Section shall be commenced within six months from the time the offense was committed, and not afterwards."
+    },
+    {
+      "type": "subsection",
+      "label": "(e)",
+      "text": "(e) Sentence. A violation of paragraphs (1) through (3) of subsection (b) is a Class C misdemeanor. A violation of paragraph (4) of subsection (b) is a Class 4 felony."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 97-1108, eff. 1-1-13.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 97-1108, eff. 1-1-13.)",
+  "publicActs": [
+    {
+      "publicAct": "97-1108",
+      "effectiveDate": "1-1-13"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "b6a35d3393aea295cfba0128f7abe3b23f8de05fddce6e93bdc58ddbfaaa082a",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0906"
+  ]
+}

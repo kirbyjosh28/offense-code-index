@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-12-208",
+  "citation": "625 ILCS 5/12-208",
+  "docName": "062500050K12-208",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K12-208",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:17:58.275Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/12-208",
+  "headingText": "Sec. 12-208. Signal lamps and signal devices.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/12-208) (from Ch. 95 1/2, par. 12-208)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 12-208. Signal lamps and signal devices."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) Every vehicle other than an antique vehicle displaying an antique plate or an expanded-use antique vehicle displaying expanded-use antique vehicle plates operated in this State shall be equipped with a stop lamp or lamps on the rearmost of the vehicle which shall display a red or amber light visible from a distance of not less than 500 feet to the rear in normal sunlight and which shall be actuated upon application of the service (foot) brake, and which may but need not be incorporated with other rear lamps. During times when lighted lamps are not required, an antique vehicle or an expanded-use antique vehicle may be equipped with a stop lamp or lamps on the rear of such vehicle of the same type originally installed by the manufacturer as original equipment and in working order. However, at all other times, except as provided in subsection (a-1), such antique vehicle or expanded-use antique vehicle must be equipped with stop lamps meeting the requirements of Section 12-208 of this Act."
+    },
+    {
+      "type": "paragraph",
+      "text": "(a-1) A motorcycle or an antique vehicle or an expanded-use antique vehicle, including an antique motorcycle, may display a blue light or lights of up to one inch in diameter as part of the vehicle's rear stop lamp or lamps."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Every motor vehicle other than an antique vehicle displaying an antique plate or an expanded-use antique vehicle displaying expanded-use antique vehicle plates shall be equipped with an electric turn signal device which shall indicate the intention of the driver to turn to the right or to the left, change lanes, turn a vehicle, or otherwise turn or maneuver a vehicle from a direct course of travel in the form of flashing lights located at and showing to the front and rear of the vehicle on the side of the vehicle toward which the turn is to be made. The lamps showing to the front shall be mounted on the same level and as widely spaced laterally as practicable and, when signaling, shall emit a white or amber light, or any shade of light between white and amber. The lamps showing to the rear shall be mounted on the same level and as widely spaced laterally as practicable and, when signaling, shall emit a red or amber light. An antique vehicle or expanded-use antique vehicle shall be equipped with a turn signal device of the same type originally installed by the manufacturer as original equipment and in working order."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Every trailer and semitrailer shall be equipped with an electric turn signal device which indicates the intention of the driver in the power unit to turn to the right or to the left in the form of flashing red or amber lights located at the rear of the vehicle on the side toward which the turn is to be made and mounted on the same level and as widely spaced laterally as practicable."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) Turn signal lamps must be visible from a distance of not less than 300 feet in normal sunlight."
+    },
+    {
+      "type": "subsection",
+      "label": "(e)",
+      "text": "(e) Motorcycles and motor-driven cycles need not be equipped with electric turn signals. Antique vehicles and expanded-use antique vehicles need not be equipped with turn signals unless such were installed by the manufacturer as original equipment."
+    },
+    {
+      "type": "subsection",
+      "label": "(f)",
+      "text": "(f) (Blank)."
+    },
+    {
+      "type": "subsection",
+      "label": "(g)",
+      "text": "(g) Motorcycles and motor-driven cycles may be equipped with a stop lamp or lamps on the rear of the vehicle that display a red or amber light, visible from a distance of not less than 500 feet to the rear in normal sunlight, that flashes and becomes steady only when the brake is actuated."
+    },
+    {
+      "type": "subsection",
+      "label": "(h)",
+      "text": "(h) Electric turn signal lamps shall not be flashed or left in the on position other than to indicate the intention of a driver to turn a vehicle left or right, change lanes, or otherwise turn or maneuver a vehicle from a direct course of travel."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 102-508, eff. 8-20-21; 103-706, eff. 1-1-25.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 102-508, eff. 8-20-21; 103-706, eff. 1-1-25.)",
+  "publicActs": [
+    {
+      "publicAct": "102-508",
+      "effectiveDate": "8-20-21"
+    },
+    {
+      "publicAct": "103-706",
+      "effectiveDate": "1-1-25"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "6a38c115326beeb31da0902fc5cb841c4c37c6db743a8c60e4ee09cf04dfa64b",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0345"
+  ]
+}

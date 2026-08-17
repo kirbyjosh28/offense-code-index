@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0040-2-2",
+  "citation": "625 ILCS 40/2-2",
+  "docName": "062500400K2-2",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500400K2-2",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:22:24.071Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 40/2-2",
+  "headingText": "Sec. 2-2. Inspection; seizure; impoundment.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 40/2-2) (from Ch. 95 1/2, par. 602-2)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 2-2. Inspection; seizure; impoundment."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) Agents of the Department or other duly authorized police officers may stop and inspect any snowmobile at any time for the purpose of determining if the provisions of this Act are being complied with. If the inspecting officer or agent discovers any violation of the provisions of this Act, the officer may issue a summons to the operator of such snowmobile requiring that the operator appear before the circuit court for the county within which the offense was committed."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Every snowmobile subject to this Act, if under way and upon being hailed by a designated law enforcement officer, must stop immediately."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Agents of the Department and other duly authorized police officers may seize and impound, at the owner's expense, any snowmobile involved in an accident or a violation of subsection B of Section 5-1 or of Section 5-7 of this Act."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) If a snowmobile is causing a traffic hazard because of its position in relation to the highway or its physical appearance is causing the impeding of traffic, its immediate removal from the highway or private property adjacent to the highway by a towing service may be authorized by a law enforcement agency having jurisdiction."
+    },
+    {
+      "type": "subsection",
+      "label": "(e)",
+      "text": "(e) Whenever a peace officer reasonably believes that a person under arrest for a violation of subsection B of Section 5-1 or Section 5-7 of this Act or similar provision of a local ordinance, is likely, upon release, to commit a subsequent violation of subsection B of Section 5-1 or Section 5-7 or a similar provision of a local ordinance, the arresting officer shall have the snowmobile which the person was operating at the time of the arrest impounded for a period of not more than 12 hours after the time of the arrest. The snowmobile may be released by the arresting law enforcement agency without impoundment, or may be released prior to the end of the impoundment period, however, if:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) the snowmobile was not owned by the person under arrest, and the lawful owner requesting release of the snowmobile possesses proof of ownership, and would not, as determined by the arresting law enforcement agency: (i) indicate a lack of ability to operate a snowmobile in a safe manner, or (ii) otherwise, by operating the snowmobile, be in violation of this Act; or (2) the snowmobile is owned by the person under arrest, and the person under arrest gives permission to another person to operate the snowmobile, and the other person would not, as determined by the arresting law enforcement agency: (i) indicate a lack of ability to operate a snowmobile in a safe manner, or (ii) otherwise, by operating the snowmobile, be in violation of this Act.(Source: P.A. 104-325, eff. 1-1-26.)"
+    }
+  ],
+  "sourceLine": null,
+  "publicActs": [],
+  "repealed": false,
+  "bodyHash": "6d1cc694596d2a4367a11d792dbaabc73f4477ebb3b674eda2a375cb9859af95",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0482"
+  ]
+}

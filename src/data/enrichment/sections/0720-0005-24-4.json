@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-24-4",
+  "citation": "720 ILCS 5/24-4",
+  "docName": "072000050K24-4",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K24-4",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:28:07.957Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/24-4",
+  "headingText": "Sec. 24-4. Register of sales by dealer.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/24-4) (from Ch. 38, par. 24-4)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 24-4. Register of sales by dealer."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) Any seller of firearms of a size which may be concealed upon the person, other than a manufacturer selling to a bona fide wholesaler or retailer or a wholesaler selling to a bona fide retailer, shall keep a register of all firearms sold or given away."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Such register shall contain the date of the sale or gift, the name, address, age and occupation of the person to whom the weapon is sold or given, the price of the weapon, the kind, description and number of the weapon, and the purpose for which it is purchased and obtained."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Such seller on demand of a peace officer shall produce for inspection the register and allow such peace officer to inspect such register and all stock on hand."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) Sentence."
+    },
+    {
+      "type": "paragraph",
+      "text": "Violation of this Section is a Class B misdemeanor."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 77-2638.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 77-2638.)",
+  "publicActs": [
+    {
+      "publicAct": "77-2638",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "c6e9bc3a96440dd7f054db973b58a37977b97459bebad40eb3f8a0fd2ddc37d2",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0795"
+  ]
+}

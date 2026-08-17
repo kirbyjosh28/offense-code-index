@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-12-810",
+  "citation": "625 ILCS 5/12-810",
+  "docName": "062500050K12-810",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K12-810",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:19:23.882Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/12-810",
+  "headingText": "Sec. 12-810. Restraining devices for passengers who are persons with disabilities. Each school bus which is operated for transporting passengers who are persons with disabilities shall be equipped with an appropriate restraining or safety device for each such passenger.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/12-810) (from Ch. 95 1/2, par. 12-810)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 12-810. Restraining devices for passengers who are persons with disabilities. Each school bus which is operated for transporting passengers who are persons with disabilities shall be equipped with an appropriate restraining or safety device for each such passenger."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 88-685, eff. 1-24-95.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 88-685, eff. 1-24-95.)",
+  "publicActs": [
+    {
+      "publicAct": "88-685",
+      "effectiveDate": "1-24-95"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "e74e6b6277241fd9fe3992703d8e16a545b01340fdd5eec6350324027a6b513a",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0425"
+  ]
+}

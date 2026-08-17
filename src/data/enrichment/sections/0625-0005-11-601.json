@@ -1,0 +1,112 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-601",
+  "citation": "625 ILCS 5/11-601",
+  "docName": "062500050K11-601",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-601",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:16:59.716Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-601",
+  "headingText": "Sec. 11-601. General speed restrictions.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-601) (from Ch. 95 1/2, par. 11-601)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-601. General speed restrictions."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) No vehicle may be driven upon any highway of this State at a speed which is greater than is reasonable and proper with regard to traffic conditions and the use of the highway, or endangers the safety of any person or property. The fact that the speed of a vehicle does not exceed the applicable maximum speed limit does not relieve the driver from the duty to decrease speed when approaching and crossing an intersection, approaching and going around a curve, when approaching a hill crest, when traveling upon any narrow or winding roadway, or when special hazard exists with respect to pedestrians or other traffic or by reason of weather or highway conditions. Speed must be decreased as may be necessary to avoid colliding with any person or vehicle on or entering the highway in compliance with legal requirements and the duty of all persons to use due care."
+    },
+    {
+      "type": "paragraph",
+      "text": "(a-5) For purposes of this Section, \"urban district\" does not include any interstate highway as defined by Section 1-133.1 of this Code which includes all highways under the jurisdiction of the Illinois State Toll Highway Authority."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) No person may drive a vehicle upon any highway of this State at a speed which is greater than the applicable statutory maximum speed limit established by paragraphs (c), (d), (e), (f) or (g) of this Section, by Section 11-605 or by a regulation or ordinance made under this Chapter."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Unless some other speed restriction is established under this Chapter, the maximum speed limit in an urban district for all vehicles is:"
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 30 miles per hour; and"
+    },
+    {
+      "type": "paragraph",
+      "text": "2. 15 miles per hour in an alley."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) Unless some other speed restriction is established under this Chapter, the maximum speed limit outside an urban district for any vehicle is (1) 65 miles per hour for all or part of highways that are designated by the Department, have at least 4 lanes of traffic, and have a separation between the roadways moving in opposite directions and (2) 55 miles per hour for all other highways, roads, and streets."
+    },
+    {
+      "type": "paragraph",
+      "text": "(d-1) Unless some other speed restriction is established under this Chapter, the maximum speed limit outside an urban district for any vehicle is (1) 70 miles per hour on any interstate highway as defined by Section 1-133.1 of this Code which includes all highways under the jurisdiction of the Illinois State Toll Highway Authority; (2) 65 miles per hour for all or part of highways that are designated by the Department, have at least 4 lanes of traffic, and have a separation between the roadways moving in opposite directions; and (3) 55 miles per hour for all other highways, roads, and streets. The counties of Cook, DuPage, Kane, Lake, Madison, McHenry, St. Clair, and Will may adopt ordinances setting a maximum speed limit on highways, roads, and streets that is lower than the limits established by this Section."
+    },
+    {
+      "type": "subsection",
+      "label": "(e)",
+      "text": "(e) In the counties of Cook, DuPage, Kane, Lake, McHenry, and Will, unless some lesser speed restriction is established under this Chapter, the maximum speed limit outside an urban district for a second division vehicle designed or used for the carrying of a gross weight of 8,001 pounds or more (including the weight of the vehicle and maximum load) is 60 miles per hour on any interstate highway as defined by Section 1-133.1 of this Code and 55 miles per hour on all other highways, roads, and streets."
+    },
+    {
+      "type": "paragraph",
+      "text": "(e-1) (Blank)."
+    },
+    {
+      "type": "subsection",
+      "label": "(f)",
+      "text": "(f) Unless some other speed restriction is established under this Chapter, the maximum speed limit outside an urban district for a bus is:"
+    },
+    {
+      "type": "paragraph",
+      "text": "1. 65 miles per hour upon any highway which has at least 4 lanes of traffic and of which the roadways for traffic moving in opposite directions are separated by a strip of ground which is not surfaced or suitable for vehicular traffic, except that the maximum speed limit for a bus on all highways, roads, or streets not under the jurisdiction of the Department or the Illinois State Toll Highway Authority is 55 miles per hour; 1.5. 70 miles per hour upon any interstate highway as defined by Section 1-133.1 of this Code outside the counties of Cook, DuPage, Kane, Lake, McHenry, and Will; and 2. 55 miles per hour on any other highway."
+    },
+    {
+      "type": "subsection",
+      "label": "(g)",
+      "text": "(g) (Blank)."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 98-511, eff. 1-1-14; 98-1126, eff. 1-1-15; 98-1128, eff. 1-1-15; 99-78, eff. 7-20-15.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 98-511, eff. 1-1-14; 98-1126, eff. 1-1-15; 98-1128, eff. 1-1-15; 99-78, eff. 7-20-15.)",
+  "publicActs": [
+    {
+      "publicAct": "98-511",
+      "effectiveDate": "1-1-14"
+    },
+    {
+      "publicAct": "98-1126",
+      "effectiveDate": "1-1-15"
+    },
+    {
+      "publicAct": "98-1128",
+      "effectiveDate": "1-1-15"
+    },
+    {
+      "publicAct": "99-78",
+      "effectiveDate": "7-20-15"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "3a30360209d4ea8228e7102e066ebb7e251fbecb05352cd53eea2429cdc5f301",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0215",
+    "offense-0216",
+    "offense-0217"
+  ]
+}

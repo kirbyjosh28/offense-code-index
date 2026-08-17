@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-17-62",
+  "citation": "720 ILCS 5/17-62",
+  "docName": "072000050K17-62",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K17-62",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:26:46.872Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/17-62",
+  "headingText": "Sec. 17-62. Unlawful possession of device for manufacturing a false universal price code label. It is unlawful for a person to knowingly possess a device the purpose of which is to manufacture a false, counterfeit, altered, or simulated universal price code label. A violation of this Section is a Class 3 felony.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/17-62)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 17-62. Unlawful possession of device for manufacturing a false universal price code label. It is unlawful for a person to knowingly possess a device the purpose of which is to manufacture a false, counterfeit, altered, or simulated universal price code label. A violation of this Section is a Class 3 felony."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 96-1551, eff. 7-1-11.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 96-1551, eff. 7-1-11.)",
+  "publicActs": [
+    {
+      "publicAct": "96-1551",
+      "effectiveDate": "7-1-11"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "4db39363886d53f3e7b1f2a51818f631747fbfff3e5a220e720ef1f58cb6eb07",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0744"
+  ]
+}

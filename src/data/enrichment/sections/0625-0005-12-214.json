@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-12-214",
+  "citation": "625 ILCS 5/12-214",
+  "docName": "062500050K12-214",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K12-214",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:18:05.801Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/12-214",
+  "headingText": "Sec. 12-214. Special lighting equipment on rural mail delivery vehicles.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/12-214) (from Ch. 95 1/2, par. 12-214)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 12-214. Special lighting equipment on rural mail delivery vehicles."
+    },
+    {
+      "type": "paragraph",
+      "text": "If a rural mail delivery vehicle is equipped with special signal lamps, there shall be displayed to the front 2 such alternately flashing amber lamps located at the same level and mounted as high and as widely spaced laterally as practicable and to the rear 2 alternately flashing amber lamps located at the same level and mounted as high and as widely spaced laterally as practicable. Such lamps shall be of sufficient intensity to be visible at 500 feet in normal sunlight and shall be controlled so that they will only be used to indicate to other traffic that a stop is being made for the purpose of picking up or delivering U. S. mail."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 77-37.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 77-37.)",
+  "publicActs": [
+    {
+      "publicAct": "77-37",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "cb4cf50ebff4a37a2bd327b2af77633051272d51d3d8cd1fab8d568825dca757",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0350"
+  ]
+}

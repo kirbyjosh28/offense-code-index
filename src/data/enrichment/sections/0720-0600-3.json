@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0600-3",
+  "citation": "720 ILCS 600/3",
+  "docName": "072006000K3",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072006000K3",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:31:15.642Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 600/3",
+  "headingText": "Sec. 3. (a) Any person who keeps for sale, offers for sale, sells, or delivers for any commercial consideration any item of drug paraphernalia commits a Class 4 felony for which a minimum fine of $1,000 for each such item shall be imposed. Any person 18 years of age or older who sells or delivers for any commercial consideration any item of drug paraphernalia to a person under 18 years of age is guilty of a Class 3 felony.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 600/3) (from Ch. 56 1/2, par. 2103)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 3. (a) Any person who keeps for sale, offers for sale, sells, or delivers for any commercial consideration any item of drug paraphernalia commits a Class 4 felony for which a minimum fine of $1,000 for each such item shall be imposed. Any person 18 years of age or older who sells or delivers for any commercial consideration any item of drug paraphernalia to a person under 18 years of age is guilty of a Class 3 felony."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Any person who sells or delivers for a commercial consideration any item of drug paraphernalia to a woman he knows to be pregnant is guilty of a Class 2 felony."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Any store, place, or premises from which or in which any item of drug paraphernalia is kept for sale, offered for sale, sold, or delivered for any commercial consideration is declared to be a public nuisance."
+    },
+    {
+      "type": "paragraph",
+      "text": "The State's Attorney of the county in which such a nuisance is located may commence an action in the circuit court, in the name of the People of the State of Illinois, to abate the public nuisance as described in this subsection (c)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Upon being satisfied by affidavits or other sworn evidence that an alleged public nuisance exists, the court may, without bond, enter a temporary restraining order to enjoin any defendant from maintaining the nuisance and may, without bond, enter a preliminary injunction restraining any defendant from removing or interfering with any property used in connection with the public nuisance."
+    },
+    {
+      "type": "paragraph",
+      "text": "If during the proceedings and hearings upon the merits the existence of the nuisance is established, and it is established that the nuisance was maintained with the intentional, knowing or reckless permission of the owner, or an agent of the owner managing the premises, the court shall enter an order restraining all persons from maintaining or permitting the nuisance and from using the premises for a period of one year thereafter. However an owner, lessee, or other occupant thereof may use the premises if the owner gives bond with sufficient security or surety, in an amount between $5,000 and $10,000 approved by the court, payable to the People of the State of Illinois. The bond shall include a condition that no offense specified in this Act shall be committed at, in, or upon the property described, and a condition that the principal obligor and surety assume responsibility for any fine, costs, or damages incurred by any person resulting from such an offense."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 86-271; 86-1459; 86-1466; 87-435; 87-828.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 86-271; 86-1459; 86-1466; 87-435; 87-828.)",
+  "publicActs": [
+    {
+      "publicAct": "86-271",
+      "effectiveDate": null
+    },
+    {
+      "publicAct": "86-1459",
+      "effectiveDate": null
+    },
+    {
+      "publicAct": "86-1466",
+      "effectiveDate": null
+    },
+    {
+      "publicAct": "87-435",
+      "effectiveDate": null
+    },
+    {
+      "publicAct": "87-828",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "7bcf97b4f0ba2d1ac8d46b1e1d6830aa15eca1b41fb3494add1411018f1b89af",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0939"
+  ]
+}

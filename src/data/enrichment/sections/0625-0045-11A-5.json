@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0045-11A-5",
+  "citation": "625 ILCS 45/11A-5",
+  "docName": "062500450K11A-5",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500450K11A-5",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:22:49.621Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 45/11A-5",
+  "headingText": "Sec. 11A-5. A person may not operate a watercraft during any period when his or her privilege to operate a watercraft is suspended or revoked in this State, by another state, by a federal agency, or by a province of Canada. Any person who operates any watercraft during the period when he is denied the privilege to so operate is guilty of a Class A misdemeanor for a first offense and a Class 4 felony for a second or subsequent offense.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 45/11A-5) (from Ch. 95 1/2, par. 321A-5)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11A-5. A person may not operate a watercraft during any period when his or her privilege to operate a watercraft is suspended or revoked in this State, by another state, by a federal agency, or by a province of Canada. Any person who operates any watercraft during the period when he is denied the privilege to so operate is guilty of a Class A misdemeanor for a first offense and a Class 4 felony for a second or subsequent offense."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 93-782, eff. 1-1-05; 94-214, eff. 1-1-06.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 93-782, eff. 1-1-05; 94-214, eff. 1-1-06.)",
+  "publicActs": [
+    {
+      "publicAct": "93-782",
+      "effectiveDate": "1-1-05"
+    },
+    {
+      "publicAct": "94-214",
+      "effectiveDate": "1-1-06"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "e14e55b53fc78db9b9ebc6701d5bfdf51d7bf19b59e68b24684ebed3a912b449",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0512"
+  ]
+}

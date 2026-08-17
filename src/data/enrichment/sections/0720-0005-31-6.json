@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-31-6",
+  "citation": "720 ILCS 5/31-6",
+  "docName": "072000050K31-6",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K31-6",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:29:17.024Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/31-6",
+  "headingText": "Sec. 31-6. Escape; failure to report to a penal institution or to report for periodic imprisonment.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/31-6) (from Ch. 38, par. 31-6)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 31-6. Escape; failure to report to a penal institution or to report for periodic imprisonment."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person convicted of a felony or charged with the commission of a felony, or charged with or adjudicated delinquent for an act which, if committed by an adult, would constitute a felony, who intentionally escapes from any penal institution or from the custody of an employee of that institution commits a Class 2 felony; however, a person convicted of a felony, or adjudicated delinquent for an act which, if committed by an adult, would constitute a felony, who knowingly fails to report to a penal institution or to report for periodic imprisonment at any time or knowingly fails to return from furlough or from work and day release or who knowingly fails to abide by the terms of home confinement is guilty of a Class 3 felony."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) A person convicted of a misdemeanor or charged with the commission of a misdemeanor, or charged with or adjudicated delinquent for an act which, if committed by an adult, would constitute a misdemeanor, who intentionally escapes from any penal institution or from the custody of an employee of that institution commits a Class A misdemeanor; however, a person convicted of a misdemeanor, or adjudicated delinquent for an act which, if committed by an adult, would constitute a misdemeanor, who knowingly fails to report to a penal institution or to report for periodic imprisonment at any time or knowingly fails to return from furlough or from work and day release or who knowingly fails to abide by the terms of home confinement is guilty of a Class B misdemeanor."
+    },
+    {
+      "type": "paragraph",
+      "text": "(b-1) A person in the custody of the Department of Human Services under the provisions of the Sexually Violent Persons Commitment Act under a detention order, commitment order, conditional release order, or other court order who intentionally escapes from any secure residential facility or from a Department employee or any of its agents commits a Class 2 felony."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) A person in the lawful custody of a peace officer for the alleged commission of a felony offense or an act which, if committed by an adult, would constitute a felony, and who intentionally escapes from custody commits a Class 2 felony; however, a person in the lawful custody of a peace officer for the alleged commission of a misdemeanor offense or an act which, if committed by an adult, would constitute a misdemeanor, who intentionally escapes from custody commits a Class A misdemeanor."
+    },
+    {
+      "type": "paragraph",
+      "text": "(c-5) A person in the lawful custody of a peace officer for an alleged violation of a term or condition of probation, conditional discharge, parole, aftercare release, or mandatory supervised release for a felony or an act which, if committed by an adult, would constitute a felony, who intentionally escapes from custody is guilty of a Class 2 felony."
+    },
+    {
+      "type": "paragraph",
+      "text": "(c-6) A person in the lawful custody of a peace officer for an alleged violation of a term or condition of supervision, probation, or conditional discharge for a misdemeanor or an act which, if committed by an adult, would constitute a misdemeanor, who intentionally escapes from custody is guilty of a Class A misdemeanor."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) A person who violates this Section while armed with a dangerous weapon commits a Class 1 felony."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 98-558, eff. 1-1-14; 98-770, eff. 1-1-15.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 98-558, eff. 1-1-14; 98-770, eff. 1-1-15.)",
+  "publicActs": [
+    {
+      "publicAct": "98-558",
+      "effectiveDate": "1-1-14"
+    },
+    {
+      "publicAct": "98-770",
+      "effectiveDate": "1-1-15"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "a8c70794c28f77d23aa921c9c6260cc6036ce82578527183e175c48f689c1cc1",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0853",
+    "offense-0854",
+    "offense-0855",
+    "offense-0856",
+    "offense-0857"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-313",
+  "citation": "625 ILCS 5/11-313",
+  "docName": "062500050K11-313",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-313",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:16:38.696Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-313",
+  "headingText": "Sec. 11-313. Unlawful possession of highway sign or marker. The Department and local authorities, with reference to traffic control signs, signals, or markers owned by the Department or local authority, are authorized to indicate the ownership of the signs, signals, or markers in letters not less than 3/8 inch or more than 3/4 inch in height, by use of a metal stamp, etching, or other permanent means and, except for employees of the Department or local authorities, police officers, contractors and their employees engaged in a highway construction contract or work on the highway approved by the Department or local authority, it is unlawful for any person to possess such sign, signal, or marker so identified.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-313) (from Ch. 95 1/2, par. 11-313)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-313. Unlawful possession of highway sign or marker. The Department and local authorities, with reference to traffic control signs, signals, or markers owned by the Department or local authority, are authorized to indicate the ownership of the signs, signals, or markers in letters not less than 3/8 inch or more than 3/4 inch in height, by use of a metal stamp, etching, or other permanent means and, except for employees of the Department or local authorities, police officers, contractors and their employees engaged in a highway construction contract or work on the highway approved by the Department or local authority, it is unlawful for any person to possess such sign, signal, or marker so identified."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 91-512, eff. 8-13-99.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 91-512, eff. 8-13-99.)",
+  "publicActs": [
+    {
+      "publicAct": "91-512",
+      "effectiveDate": "8-13-99"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "84b14447851095c39eba341b5c20b4e14a5d3d97edad2c57e2fb51fba2afdfa4",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0190"
+  ]
+}

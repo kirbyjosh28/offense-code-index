@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-6-112",
+  "citation": "625 ILCS 5/6-112",
+  "docName": "062500050K6-112",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K6-112",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:21:34.515Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/6-112",
+  "headingText": "Sec. 6-112. License and Permits to be carried and exhibited on demand. Every licensee or permittee shall have his drivers license or permit in his immediate possession at all times when operating a motor vehicle and, for the purpose of indicating compliance with this requirement, shall display such license or permit if it is in his possession upon demand made, when in uniform or displaying a badge or other sign of authority, by a member of the Illinois State Police, a sheriff or other police officer or designated agent of the Secretary of State. However, no person charged with violating this Section shall be convicted if he produces in court satisfactory evidence that a drivers license was theretofore issued to him and was valid at the time of his arrest.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/6-112) (from Ch. 95 1/2, par. 6-112)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 6-112. License and Permits to be carried and exhibited on demand. Every licensee or permittee shall have his drivers license or permit in his immediate possession at all times when operating a motor vehicle and, for the purpose of indicating compliance with this requirement, shall display such license or permit if it is in his possession upon demand made, when in uniform or displaying a badge or other sign of authority, by a member of the Illinois State Police, a sheriff or other police officer or designated agent of the Secretary of State. However, no person charged with violating this Section shall be convicted if he produces in court satisfactory evidence that a drivers license was theretofore issued to him and was valid at the time of his arrest."
+    },
+    {
+      "type": "paragraph",
+      "text": "For the purposes of this Section, \"display\" means the manual surrender of his license certificate into the hands of the demanding officer for his inspection thereof."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 102-538, eff. 8-20-21.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 102-538, eff. 8-20-21.)",
+  "publicActs": [
+    {
+      "publicAct": "102-538",
+      "effectiveDate": "8-20-21"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "a014a4c24279cd8a7782a24b3916473ef80b3f57c4bcfb4c17a1230062bb30ac",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0125"
+  ]
+}

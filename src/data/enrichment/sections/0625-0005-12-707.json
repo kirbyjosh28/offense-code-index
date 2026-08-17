@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-12-707",
+  "citation": "625 ILCS 5/12-707",
+  "docName": "062500050K12-707",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K12-707",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:19:01.346Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/12-707",
+  "headingText": "Sec. 12-707. Vehicle passenger capacity. No school bus, commuter van or motor vehicle owned by or used for hire by and in connection with the operation of private or public schools, day camps, summer camps or nursery schools or in charter operations, and no commuter van or passenger car used for a for-profit ridesharing arrangement, shall be operated if it is occupied by more passengers than recommended by the manufacturer thereof if the vehicle is manufactured as a passenger vehicle; if the vehicle is manufactured for use other than passenger, then it shall not accommodate more passengers than provided for by the manufacturer in passenger vehicles of like style or rating.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/12-707) (from Ch. 95 1/2, par. 12-707)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 12-707. Vehicle passenger capacity. No school bus, commuter van or motor vehicle owned by or used for hire by and in connection with the operation of private or public schools, day camps, summer camps or nursery schools or in charter operations, and no commuter van or passenger car used for a for-profit ridesharing arrangement, shall be operated if it is occupied by more passengers than recommended by the manufacturer thereof if the vehicle is manufactured as a passenger vehicle; if the vehicle is manufactured for use other than passenger, then it shall not accommodate more passengers than provided for by the manufacturer in passenger vehicles of like style or rating."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 83-1091.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 83-1091.)",
+  "publicActs": [
+    {
+      "publicAct": "83-1091",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "c6f474a0dbb173cdc5b7011034c60d33283479976c79fb0133082cc700457f0b",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0410"
+  ]
+}

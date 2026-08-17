@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-4-201",
+  "citation": "625 ILCS 5/4-201",
+  "docName": "062500050K4-201",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K4-201",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:21:02.994Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/4-201",
+  "headingText": "Sec. 4-201. Abandonment of vehicles prohibited.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/4-201) (from Ch. 95 1/2, par. 4-201)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 4-201. Abandonment of vehicles prohibited."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) The abandonment of a vehicle or any part thereof on any highway in this State is unlawful and subject to penalties as set forth under Penalty Section 4-214 of this Chapter."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) The abandonment of a vehicle or any part thereof on private or public property, other than a highway, in view of the general public, anywhere in this State is unlawful except on property of the owner or bailee of such abandoned vehicle. A vehicle or any part thereof so abandoned on private property shall be authorized for removal, by a law enforcement agency having jurisdiction, after a waiting period of 7 days or more, or may be removed immediately if determined to be a hazardous dilapidated motor vehicle under Section 11-40-3.1 of the Illinois Municipal Code. A violation of subsections (a) or (b) of this Section is subject to penalties as set forth under Section 4-214 of this Chapter."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) A towing service may begin to process an unclaimed vehicle as abandoned by requesting a record search by the Secretary of State up to 10 days after the date of the tow, or any later date acceptable to the Secretary of State. This subsection (c) shall not apply to vehicles towed by order or authorization of a law enforcement agency."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 90-330, eff. 8-8-97.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 90-330, eff. 8-8-97.)",
+  "publicActs": [
+    {
+      "publicAct": "90-330",
+      "effectiveDate": "8-8-97"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "ee0bccd8463b5028317077281e1416a92ad31eefd7051329a22b2d3ce42e679d",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0087"
+  ]
+}

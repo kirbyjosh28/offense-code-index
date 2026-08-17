@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-1011",
+  "citation": "625 ILCS 5/11-1011",
+  "docName": "062500050K11-1011",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-1011",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:14:53.581Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-1011",
+  "headingText": "Sec. 11-1011. Bridge and railroad signals.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-1011) (from Ch. 95 1/2, par. 11-1011)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-1011. Bridge and railroad signals."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) No pedestrian shall enter or remain upon any bridge or approach thereto beyond the bridge signal, gate, or barrier after a bridge operation signal indication has been given."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) No pedestrian shall pass through, around, over, or under any crossing gate or barrier at a railroad grade crossing or bridge while such gate or barrier is closed or is being opened or closed."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) No pedestrian shall enter, remain upon or traverse over a railroad grade crossing or pedestrian walkway crossing a railroad track when an audible bell or clearly visible electric or mechanical signal device is operational giving warning of the presence, approach, passage, or departure of a railroad train or railroad track equipment."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) A violation of any part of this Section is a petty offense for which a $250 fine shall be imposed for a first violation, and a $500 fine shall be imposed for a second or subsequent violation. The court may impose 25 hours of community service in place of the $250 fine for a first violation."
+    },
+    {
+      "type": "subsection",
+      "label": "(e)",
+      "text": "(e) Local authorities shall impose fines as established in subsection (d) for pedestrians who fail to obey signals indicating the presence, approach, passage, or departure of a train or railroad track equipment."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 96-1244, eff. 1-1-11.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 96-1244, eff. 1-1-11.)",
+  "publicActs": [
+    {
+      "publicAct": "96-1244",
+      "effectiveDate": "1-1-11"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "d4cf080261edf3f5f7a7da7a260f1f163998fa478f1eb6b31d424b67e1f384ae",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0265"
+  ]
+}

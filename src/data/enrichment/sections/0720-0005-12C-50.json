@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-12C-50",
+  "citation": "720 ILCS 5/12C-50",
+  "docName": "072000050K12C-50",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K12C-50",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:25:21.275Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/12C-50",
+  "headingText": "Sec. 12C-50. Hazing.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/12C-50)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 12C-50. Hazing."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits hazing when he or she knowingly requires the performance of any act by a student or other person in a school, college, university, or other educational institution of this State, for the purpose of induction or admission into any group, organization, or society associated or connected with that institution, if:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) the act is not sanctioned or authorized by that educational institution; and (2) the act results in bodily harm to any person."
+    },
+    {
+      "type": "paragraph",
+      "text": "(a-1) It is not a defense to a prosecution under subsection (a) that the person against whom the hazing was directed consented to or acquiesced in the hazing."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Sentence. Hazing is a Class A misdemeanor, except that hazing that results in death or great bodily harm is a Class 4 felony."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 103-765, eff. 1-1-25.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 103-765, eff. 1-1-25.)",
+  "publicActs": [
+    {
+      "publicAct": "103-765",
+      "effectiveDate": "1-1-25"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "a933f2e6c6dcc4207ab9afb37dabb413769519a0149456fd2973f7feb01c6f35",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0662"
+  ]
+}

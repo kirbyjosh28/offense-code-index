@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-15-109",
+  "citation": "625 ILCS 5/15-109",
+  "docName": "062500050K15-109",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K15-109",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:19:40.408Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/15-109",
+  "headingText": "Sec. 15-109. Spilling loads on highways prohibited. (a) No vehicle shall be driven or moved on any highway unless such vehicle is so constructed or loaded as to prevent any of its load from dropping, shifting, leaking or otherwise escaping therefrom, except that sand may be dropped for the purpose of securing traction, or water or other substance may be sprinkled on a roadway in cleaning or maintaining such roadway.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/15-109) (from Ch. 95 1/2, par. 15-109)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 15-109. Spilling loads on highways prohibited. (a) No vehicle shall be driven or moved on any highway unless such vehicle is so constructed or loaded as to prevent any of its load from dropping, shifting, leaking or otherwise escaping therefrom, except that sand may be dropped for the purpose of securing traction, or water or other substance may be sprinkled on a roadway in cleaning or maintaining such roadway."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) No person shall operate on any highway any vehicle with any load unless said load and any covering thereon is securely fastened so as to prevent said covering or load from becoming loose, detached, or in any manner a hazard to other users of the highway."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) The Department shall adopt such rules and regulations it deems appropriate which require the securing of steel rolls and other objects on flatbed trucks so as to prevent injury to users of highways and damage to property. Any person who operates a flatbed truck on any highway in violation of the rules and regulations promulgated by the Department under this subsection shall be guilty of a Class A misdemeanor."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 82-231.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 82-231.)",
+  "publicActs": [
+    {
+      "publicAct": "82-231",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "bc50e1537c4e04dd58f2febab7c5db9b33ace0b0277c1d6387231b6cec3da5f0",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0438"
+  ]
+}

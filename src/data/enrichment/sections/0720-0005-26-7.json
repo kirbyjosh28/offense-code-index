@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-26-7",
+  "citation": "720 ILCS 5/26-7",
+  "docName": "072000050K26-7",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K26-7",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:28:31.992Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/26-7",
+  "headingText": "Sec. 26-7. Disorderly conduct with a laser or laser pointer.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/26-7)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 26-7. Disorderly conduct with a laser or laser pointer."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) Definitions. For the purposes of this Section:"
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Aircraft\" means any contrivance now known or hereafter invented, used, or designed for navigation of or flight in the air, but excluding parachutes. \"Laser\" means both of the following:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) any device that utilizes the natural oscillations of atoms or molecules between energy levels for generating coherent electromagnetic radiation in the ultraviolet, visible, or infrared region of the spectrum and when discharged exceeds one milliwatt continuous wave; (2) any device designed or used to amplify electromagnetic radiation by simulated emission that is visible to the human eye. \"Laser pointer\" means a hand-held device that emits light amplified by the stimulated emission of radiation that is visible to the human eye. \"Laser sight\" means a laser pointer that can be attached to a firearm and can be used to improve the accuracy of the firearm. (b) A person commits disorderly conduct with a laser or laser pointer when he or she intentionally or knowingly:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) aims an operating laser pointer at a person he or she knows or reasonably should know to be a peace officer; or (2) aims and discharges a laser or other device that creates visible light into the cockpit of an aircraft that is in the process of taking off, landing, or is in flight. (c) Paragraph (2) of subsection (b) does not apply to the following individuals who aim and discharge a laser or other device at an aircraft:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) an authorized individual in the conduct of research and development or flight test operations conducted by an aircraft manufacturer, the Federal Aviation Administration, or any other person authorized by the Federal Aviation Administration to conduct this research and development or flight test operations; or (2) members or elements of the Department of Defense or Department of Homeland Security acting in an official capacity for the purpose of research, development, operations, testing, or training. (d) Sentence. Disorderly conduct with a laser or laser pointer is a Class A misdemeanor."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 97-1108, eff. 1-1-13.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 97-1108, eff. 1-1-13.)",
+  "publicActs": [
+    {
+      "publicAct": "97-1108",
+      "effectiveDate": "1-1-13"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "c92a133d34f247791f2b557ad163d2a2de4728b3f86c6cd054a7b378da524b11",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0822"
+  ]
+}

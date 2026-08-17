@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-33E-14",
+  "citation": "720 ILCS 5/33E-14",
+  "docName": "072000050K33E-14",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K33E-14",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:29:57.567Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/33E-14",
+  "headingText": "Sec. 33E-14. False statements on vendor applications.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/33E-14)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 33E-14. False statements on vendor applications."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits false statements on vendor applications when he or she knowingly makes any false statement or report with the intent to influence in any way the action of any unit of local government or school district in considering a vendor application."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Sentence. False statements on vendor applications is a Class 3 felony."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 99-78, eff. 7-20-15.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 99-78, eff. 7-20-15.)",
+  "publicActs": [
+    {
+      "publicAct": "99-78",
+      "effectiveDate": "7-20-15"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "1e66b0aea641e7f5f2614ea549b602a3dba2adfc3cc036141ec804bb70a8e0d7",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0890"
+  ]
+}

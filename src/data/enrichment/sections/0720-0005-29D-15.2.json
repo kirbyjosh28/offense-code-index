@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-29D-15.2",
+  "citation": "720 ILCS 5/29D-15.2",
+  "docName": "072000050K29D-15.2",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K29D-15.2",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:28:56.026Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/29D-15.2",
+  "headingText": "Sec. 29D-15.2. Possession of a deadly substance.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/29D-15.2) (was 720 ILCS 5/20.5-6)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 29D-15.2. Possession of a deadly substance."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits the offense of possession of a deadly substance when he or she possesses, manufactures, or transports any poisonous gas, deadly biological or chemical contaminant or agent, or radioactive substance either with the intent to use that gas, biological or chemical contaminant or agent, or radioactive substance to commit a felony or with the knowledge that another person intends to use that gas, biological or chemical contaminant or agent, or radioactive substance to commit a felony."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Sentence. Possession of a deadly substance is a Class 1 felony for which a person, if sentenced to a term of imprisonment, shall be sentenced to a term of not less than 4 years and not more than 30 years."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 96-710, eff. 1-1-10.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 96-710, eff. 1-1-10.)",
+  "publicActs": [
+    {
+      "publicAct": "96-710",
+      "effectiveDate": "1-1-10"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "342cfb84604c1538540d19657f98fe91eddb19ad1ba9409f456c3ecfd6247453",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0838"
+  ]
+}

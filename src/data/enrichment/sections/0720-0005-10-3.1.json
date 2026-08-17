@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-10-3.1",
+  "citation": "720 ILCS 5/10-3.1",
+  "docName": "072000050K10-3.1",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K10-3.1",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:23:04.628Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/10-3.1",
+  "headingText": "Sec. 10-3.1. Aggravated unlawful restraint.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/10-3.1) (from Ch. 38, par. 10-3.1)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 10-3.1. Aggravated unlawful restraint."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits the offense of aggravated unlawful restraint when he or she commits unlawful restraint while using a deadly weapon."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Sentence. Aggravated unlawful restraint is a Class 3 felony."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 96-710, eff. 1-1-10.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 96-710, eff. 1-1-10.)",
+  "publicActs": [
+    {
+      "publicAct": "96-710",
+      "effectiveDate": "1-1-10"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "a11346ec9e209c77406fdabc2b944691875b302e4888fe43b0389aac5ca678f6",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0562"
+  ]
+}

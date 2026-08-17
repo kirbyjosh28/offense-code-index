@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-1401",
+  "citation": "625 ILCS 5/11-1401",
+  "docName": "062500050K11-1401",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-1401",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:15:16.116Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-1401",
+  "headingText": "Sec. 11-1401. Unattended motor vehicles. Except for a law enforcement officer or an operator of an authorized emergency vehicle performing his or her official duties, no person driving or in charge of a motor vehicle shall permit it to stand unattended without first stopping the engine, locking the ignition, removing the key from the ignition, effectively setting the brake thereon and, when standing upon any perceptible grade, turning the front wheels to the curb or side of the highway. An unattended motor vehicle shall not include an unattended locked motor vehicle with the engine running after being started by a remote starter system.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-1401) (from Ch. 95 1/2, par. 11-1401)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-1401. Unattended motor vehicles. Except for a law enforcement officer or an operator of an authorized emergency vehicle performing his or her official duties, no person driving or in charge of a motor vehicle shall permit it to stand unattended without first stopping the engine, locking the ignition, removing the key from the ignition, effectively setting the brake thereon and, when standing upon any perceptible grade, turning the front wheels to the curb or side of the highway. An unattended motor vehicle shall not include an unattended locked motor vehicle with the engine running after being started by a remote starter system."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 100-435, eff. 8-25-17.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 100-435, eff. 8-25-17.)",
+  "publicActs": [
+    {
+      "publicAct": "100-435",
+      "effectiveDate": "8-25-17"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "6180a067ffdbf2ab495911cd64b8e46b287fa967f38e6b3d3606eb51bfe7a11d",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0284"
+  ]
+}

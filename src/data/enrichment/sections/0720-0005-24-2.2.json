@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-24-2.2",
+  "citation": "720 ILCS 5/24-2.2",
+  "docName": "072000050K24-2.2",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K24-2.2",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:27:52.934Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/24-2.2",
+  "headingText": "Sec. 24-2.2. Manufacture, sale or transfer of bullets or shells represented to be armor piercing bullets, dragon's breath shotgun shells, bolo shells, or flechette shells.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/24-2.2) (from Ch. 38, par. 24-2.2)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 24-2.2. Manufacture, sale or transfer of bullets or shells represented to be armor piercing bullets, dragon's breath shotgun shells, bolo shells, or flechette shells."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) Except as provided in subsection (b) of this Section, it is unlawful for any person to knowingly manufacture, sell, offer to sell, or transfer any bullet or shell which is represented to be an armor piercing bullet, a dragon's breath shotgun shell, a bolo shell, or a flechette shell as defined in Section 24-2.1 of this Code."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Exemptions. This Section does not apply to or affect any person authorized under Section 24-2.1 to manufacture, sell, purchase, possess, or carry any armor piercing bullet or any dragon's breath shotgun shell, bolo shell, or flechette shell with respect to activities which are within the lawful scope of the exemption therein granted."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) An information or indictment based upon a violation of this Section need not negate any exemption herein contained. The defendant shall have the burden of proving such an exemption and that the activities forming the basis of any criminal charge brought pursuant to this Section were within the lawful scope of such exemption."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) Sentence. A violation of this Section is a Class 4 felony."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 92-423, eff. 1-1-02.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 92-423, eff. 1-1-02.)",
+  "publicActs": [
+    {
+      "publicAct": "92-423",
+      "effectiveDate": "1-1-02"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "206cf8d87b176e479a616818b65d2125dc09fe2be4ed49b149a3ff040ee241c9",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0785"
+  ]
+}

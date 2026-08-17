@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-49-6",
+  "citation": "720 ILCS 5/49-6",
+  "docName": "072000050K49-6",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K49-6",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:30:35.117Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/49-6",
+  "headingText": "Sec. 49-6. Container label obliteration prohibited.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/49-6)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 49-6. Container label obliteration prohibited."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) No person shall sell or offer for sale any product, article or substance in a container on which any statement of weight, quantity, quality, grade, ingredients or identification of the manufacturer, supplier or processor is obliterated by any other labeling unless the other labeling correctly restates the obliterated statement."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) This Section does not apply to any obliteration which is done in order to comply with subsection (c) of this Section."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) No person shall utilize any used container for the purpose of sale of any product, article or substance unless the original marks of identification, weight, grade, quality and quantity have first been obliterated."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) This Section shall not be construed as permitting the use of any containers or labels in a manner prohibited by any other law."
+    },
+    {
+      "type": "subsection",
+      "label": "(e)",
+      "text": "(e) Sentence. A violation of this Section is a business offense for which a fine shall be imposed not to exceed $1,000."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 97-1108, eff. 1-1-13.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 97-1108, eff. 1-1-13.)",
+  "publicActs": [
+    {
+      "publicAct": "97-1108",
+      "effectiveDate": "1-1-13"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "4d00f88c4c0267e2efc7b83001cc5a48bf957dffb3959c5706b709aa89421354",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0909"
+  ]
+}

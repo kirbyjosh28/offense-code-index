@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-11-35",
+  "citation": "720 ILCS 5/11-35",
+  "docName": "072000050K11-35",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K11-35",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:23:49.711Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/11-35",
+  "headingText": "Sec. 11-35. Adultery.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/11-35) (was 720 ILCS 5/11-7)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-35. Adultery."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits adultery when he or she has sexual intercourse with another not his or her spouse, if the behavior is open and notorious, and:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) the person is married and knows the other person involved in such intercourse is not his spouse; or (2) the person is not married and knows that the other person involved in such intercourse is married. A person shall be exempt from prosecution under this Section if his liability is based solely on evidence he has given in order to comply with the requirements of Section 4-1.7 of the Illinois Public Aid Code."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Sentence."
+    },
+    {
+      "type": "paragraph",
+      "text": "Adultery is a Class A misdemeanor."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 103-154, eff. 6-30-23.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 103-154, eff. 6-30-23.)",
+  "publicActs": [
+    {
+      "publicAct": "103-154",
+      "effectiveDate": "6-30-23"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "49d2fa3485795652a780b03bac99478d72b1f07305f085b4d5812ba21ec7fdb9",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0603"
+  ]
+}

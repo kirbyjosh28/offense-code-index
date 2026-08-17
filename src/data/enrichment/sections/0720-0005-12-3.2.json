@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-12-3.2",
+  "citation": "720 ILCS 5/12-3.2",
+  "docName": "072000050K12-3.2",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K12-3.2",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:24:24.230Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/12-3.2",
+  "headingText": "Sec. 12-3.2. Domestic battery.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/12-3.2) (from Ch. 38, par. 12-3.2)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 12-3.2. Domestic battery."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits domestic battery if he or she knowingly without legal justification by any means:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) causes bodily harm to any family or household member; (2) makes physical contact of an insulting or provoking nature with any family or household member. (b) Sentence. Domestic battery is a Class A misdemeanor. Domestic battery is a Class 4 felony if the defendant has any prior conviction under this Code for violation of an order of protection (Section 12-3.4 or 12-30), or any prior conviction under the law of another jurisdiction for an offense which is substantially similar. Domestic battery is a Class 4 felony if the defendant has any prior conviction under this Code for first degree murder (Section 9-1), attempt to commit first degree murder (Section 8-4), aggravated domestic battery (Section 12-3.3), aggravated battery (Section 12-3.05 or 12-4), heinous battery (Section 12-4.1), aggravated battery with a firearm (Section 12-4.2), aggravated battery with a machine gun or a firearm equipped with a silencer (Section 12-4.2-5), aggravated battery of a child (Section 12-4.3), aggravated battery of an unborn child (subsection (a-5) of Section 12-3.1, or Section 12-4.4), aggravated battery of a senior citizen (Section 12-4.6), stalking (Section 12-7.3), aggravated stalking (Section 12-7.4), criminal sexual assault (Section 11-1.20 or 12-13), aggravated criminal sexual assault (Section 11-1.30 or 12-14), kidnapping (Section 10-1), aggravated kidnapping (Section 10-2), predatory criminal sexual assault of a child (Section 11-1.40 or 12-14.1), aggravated criminal sexual abuse (Section 11-1.60 or 12-16), unlawful restraint (Section 10-3), aggravated unlawful restraint (Section 10-3.1), aggravated arson (Section 20-1.1), or aggravated discharge of a firearm (Section 24-1.2), or any prior conviction under the law of another jurisdiction for any offense that is substantially similar to the offenses listed in this Section, when any of these offenses have been committed against a family or household member. Domestic battery is a Class 4 felony if the defendant has one or 2 prior convictions under this Code for domestic battery (Section 12-3.2), or one or 2 prior convictions under the law of another jurisdiction for any offense which is substantially similar. Domestic battery is a Class 3 felony if the defendant had 3 prior convictions under this Code for domestic battery (Section 12-3.2), or 3 prior convictions under the law of another jurisdiction for any offense which is substantially similar. Domestic battery is a Class 2 felony if the defendant had 4 or more prior convictions under this Code for domestic battery (Section 12-3.2), or 4 or more prior convictions under the law of another jurisdiction for any offense which is substantially similar. In addition to any other sentencing alternatives, for any second or subsequent conviction of violating this Section, the offender shall be mandatorily sentenced to a minimum of 72 consecutive hours of imprisonment. The imprisonment shall not be subject to suspension, nor shall the person be eligible for probation in order to reduce the sentence."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Domestic battery committed in the presence of a child. In addition to any other sentencing alternatives, a defendant who commits, in the presence of a child, a felony domestic battery (enhanced under subsection (b)), aggravated domestic battery (Section 12-3.3), aggravated battery (Section 12-3.05 or 12-4), unlawful restraint (Section 10-3), or aggravated unlawful restraint (Section 10-3.1) against a family or household member shall be required to serve a mandatory minimum imprisonment of 10 days or perform 300 hours of community service, or both. The defendant shall further be liable for the cost of any counseling required for the child at the discretion of the court in accordance with subsection (b) of Section 5-5-6 of the Unified Code of Corrections. For purposes of this Section, \"child\" means a person under 18 years of age who is the defendant's or victim's child or step-child or who is a minor child residing within or visiting the household of the defendant or victim."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) Upon conviction of domestic battery, the court shall advise the defendant orally or in writing, substantially as follows: \"An individual convicted of domestic battery may be subject to federal criminal penalties for possessing, transporting, shipping, or receiving any firearm or ammunition in violation of the federal Gun Control Act of 1968 (18 U.S.C. 922(g)(8) and (9)).\" A notation shall be made in the court file that the admonition was given."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 97-1109, eff. 1-1-13; 98-187, eff. 1-1-14; 98-994, eff. 1-1-15.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 97-1109, eff. 1-1-13; 98-187, eff. 1-1-14; 98-994, eff. 1-1-15.)",
+  "publicActs": [
+    {
+      "publicAct": "97-1109",
+      "effectiveDate": "1-1-13"
+    },
+    {
+      "publicAct": "98-187",
+      "effectiveDate": "1-1-14"
+    },
+    {
+      "publicAct": "98-994",
+      "effectiveDate": "1-1-15"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "6e0883332a2e3045a42d814fe2dfdcf8011e12ee7f9fb0b2e5e71e13485ec67b",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0618"
+  ]
+}

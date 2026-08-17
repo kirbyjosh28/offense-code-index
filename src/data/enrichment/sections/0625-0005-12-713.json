@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-12-713",
+  "citation": "625 ILCS 5/12-713",
+  "docName": "062500050K12-713",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K12-713",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:19:08.860Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/12-713",
+  "headingText": "Sec. 12-713. Commercial trucks used by construction contractors or subcontractors to display company name.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/12-713) (from Ch. 95 1/2, par. 12-713)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 12-713. Commercial trucks used by construction contractors or subcontractors to display company name."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) Every second division vehicle operating commercially in this State that is used by a construction contractor or subcontractor shall display on the side of the vehicle or its trailer the name of the company for which it is employed. The name shall be in letters at least 2 inches tall and one-half inch wide. This Section shall not apply to any motor vehicle upon which is affixed the insignia required under Section 18c-4701 of the Illinois Commercial Transportation Law."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Any person convicted of violating this Section shall be guilty of a petty offense and subject to a fine of not less than $500."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 96-1179, eff. 1-1-11.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 96-1179, eff. 1-1-11.)",
+  "publicActs": [
+    {
+      "publicAct": "96-1179",
+      "effectiveDate": "1-1-11"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "3a4b0e8a43fbcd0eca15254867a6e512b0ce43ae66fd7669278365268bffd475",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0415"
+  ]
+}

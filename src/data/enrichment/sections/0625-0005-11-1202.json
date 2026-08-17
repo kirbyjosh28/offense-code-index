@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-1202",
+  "citation": "625 ILCS 5/11-1202",
+  "docName": "062500050K11-1202",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-1202",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:14:58.082Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-1202",
+  "headingText": "Sec. 11-1202. Certain vehicles must stop at all railroad grade crossings.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-1202) (from Ch. 95 1/2, par. 11-1202)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-1202. Certain vehicles must stop at all railroad grade crossings."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) The driver of any of the following vehicles shall, before crossing a railroad track or tracks at grade, stop such vehicle within 50 feet but not less than 15 feet from the nearest rail and, while so stopped, shall listen and look for the approach of a train or railroad track equipment and shall not proceed until such movement can be made with safety:"
+    },
+    {
+      "type": "paragraph",
+      "text": "1. Any second division vehicle carrying passengers for hire; 2. Any bus that meets all of the special requirements for school buses in Sections 12-801, 12-803, and 12-805 of this Code. The driver of the bus, in addition to complying with all other applicable requirements of this subsection (a), must also (i) turn off all noise producing accessories, including heater blowers, defroster fans, auxiliary fans, and radios, and (ii) open the service door and driver's window, before crossing a railroad track or tracks; 3. (Blank)."
+    },
+    {
+      "type": "paragraph",
+      "text": "(a-1) The driver of any of the following vehicles shall, before crossing a railroad track or tracks at grade, stop such vehicle within 50 feet but not less than 15 feet from the nearest rail and, while so stopped, shall listen and look for the approach of a train or railroad track equipment and shall not proceed until such movement can be made with safety:"
+    },
+    {
+      "type": "paragraph",
+      "text": "1. A commercial motor vehicle, as defined in Section 6-500 of this Code, carrying passengers for hire; 2. Any bus that meets all of the special requirements for school buses in Sections 12-801, 12-803, and 12-805 of this Code and is designed to transport 16 or more persons, including the driver. The driver of the bus, in addition to complying with all other applicable requirements of this subsection (a-1), must also (i) turn off all noise producing accessories, including heater blowers, defroster fans, auxiliary fans, and radios, and (ii) open the service door and driver's window, before crossing a railroad track or tracks; 3. Any other vehicle which is required by federal or State law to be placarded when carrying as a cargo or part of a cargo hazardous material as defined in the Illinois Hazardous Materials Transportation Act. After stopping as required in this Section, the driver shall proceed only in a gear not requiring a change of gears during the crossing, and the driver shall not shift gears while crossing the track or tracks."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) This Section shall not apply:"
+    },
+    {
+      "type": "paragraph",
+      "text": "1. At any railroad grade crossing where traffic is controlled by a police officer or flagperson; 2. At any railroad grade crossing controlled by a functioning traffic-control signal transmitting a green indication which, under law, permits the vehicle to proceed across the railroad tracks without slowing or stopping, except that subsection (a) shall apply to any school bus; 3. At any streetcar grade crossing within a business or residence district; or 4. At any abandoned, industrial or spur track railroad grade crossing designated as exempt by the Illinois Commerce Commission and marked with an official sign as authorized in the State Manual on Uniform Traffic Control Devices for Streets and Highways. (Source: P.A. 103-179, eff. 6-30-23.)"
+    }
+  ],
+  "sourceLine": null,
+  "publicActs": [],
+  "repealed": false,
+  "bodyHash": "3a0d9a120f6e41520986453ae962f11ec0f3fd3297296076ffe7b0e2632a1dd9",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0268"
+  ]
+}

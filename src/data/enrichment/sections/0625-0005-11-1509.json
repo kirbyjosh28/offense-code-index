@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-1509",
+  "citation": "625 ILCS 5/11-1509",
+  "docName": "062500050K11-1509",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-1509",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:16:17.680Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-1509",
+  "headingText": "Sec. 11-1509. Inspecting bicycles. A uniformed police officer may at any time upon reasonable cause to believe that a bicycle is unsafe or not equipped as required by law, or that its equipment is not in proper adjustment or repair, require the person riding the bicycle to stop and submit the bicycle to an inspection and such test with reference thereto as may be appropriate.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-1509) (from Ch. 95 1/2, par. 11-1509)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-1509. Inspecting bicycles. A uniformed police officer may at any time upon reasonable cause to believe that a bicycle is unsafe or not equipped as required by law, or that its equipment is not in proper adjustment or repair, require the person riding the bicycle to stop and submit the bicycle to an inspection and such test with reference thereto as may be appropriate."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 82-132.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 82-132.)",
+  "publicActs": [
+    {
+      "publicAct": "82-132",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "e094c8ddb155ce4dfe62a5bcc3c3db4147ddd35ce8114b8e4b9f8988ac3305eb",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0330"
+  ]
+}

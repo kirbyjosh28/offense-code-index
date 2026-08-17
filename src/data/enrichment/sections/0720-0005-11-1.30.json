@@ -1,0 +1,70 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-11-1.30",
+  "citation": "720 ILCS 5/11-1.30",
+  "docName": "072000050K11-1.30",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K11-1.30",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:23:19.651Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/11-1.30",
+  "headingText": "Sec. 11-1.30. Aggravated Criminal Sexual Assault.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/11-1.30) (was 720 ILCS 5/12-14)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-1.30. Aggravated Criminal Sexual Assault."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits aggravated criminal sexual assault if that person commits criminal sexual assault and any of the following aggravating circumstances exist during the commission of the offense or, for purposes of paragraph (7), occur as part of the same course of conduct as the commission of the offense:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) the person displays, threatens to use, or uses a dangerous weapon, other than a firearm, or any other object fashioned or used in a manner that leads the victim, under the circumstances, reasonably to believe that the object is a dangerous weapon; (2) the person causes bodily harm to the victim, except as provided in paragraph (10); (3) the person acts in a manner that threatens or endangers the life of the victim or any other person; (4) the person commits the criminal sexual assault during the course of committing or attempting to commit any other felony; (5) the victim is 60 years of age or older;"
+    },
+    {
+      "type": "subsection",
+      "label": "(6)",
+      "text": "(6) the victim is a person with a physical disability;"
+    },
+    {
+      "type": "subsection",
+      "label": "(7)",
+      "text": "(7) the person delivers (by injection, inhalation, ingestion, transfer of possession, or any other means) any controlled substance to the victim without the victim's consent or by threat or deception for other than medical purposes; (8) the person is armed with a firearm;"
+    },
+    {
+      "type": "subsection",
+      "label": "(9)",
+      "text": "(9) the person personally discharges a firearm during the commission of the offense; or (10) the person personally discharges a firearm during the commission of the offense, and that discharge proximately causes great bodily harm, permanent disability, permanent disfigurement, or death to another person. (b) A person commits aggravated criminal sexual assault if that person is under 17 years of age and: (i) commits an act of sexual penetration with a victim who is under 9 years of age; or (ii) commits an act of sexual penetration with a victim who is at least 9 years of age but under 13 years of age and the person uses force or threat of force to commit the act."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) A person commits aggravated criminal sexual assault if that person commits an act of sexual penetration with a victim who is a person with a severe or profound intellectual disability."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) Sentence."
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) Aggravated criminal sexual assault in violation of paragraph (2), (3), (4), (5), (6), or (7) of subsection (a) or in violation of subsection (b) or (c) is a Class X felony. A violation of subsection (a)(1) is a Class X felony for which 10 years shall be added to the term of imprisonment imposed by the court. A violation of subsection (a)(8) is a Class X felony for which 15 years shall be added to the term of imprisonment imposed by the court. A violation of subsection (a)(9) is a Class X felony for which 20 years shall be added to the term of imprisonment imposed by the court. A violation of subsection (a)(10) is a Class X felony for which 25 years or up to a term of natural life imprisonment shall be added to the term of imprisonment imposed by the court. An offender under the age of 18 years at the time of the commission of aggravated criminal sexual assault in violation of paragraphs (1) through (10) of subsection (a) shall be sentenced under Section 5-4.5-105 of the Unified Code of Corrections. (2) A person who has attained the age of 18 years at the time of the commission of the offense and who is convicted of a second or subsequent offense of aggravated criminal sexual assault, or who is convicted of the offense of aggravated criminal sexual assault after having previously been convicted of the offense of criminal sexual assault or the offense of predatory criminal sexual assault of a child, or who is convicted of the offense of aggravated criminal sexual assault after having previously been convicted under the laws of this or any other state of an offense that is substantially equivalent to the offense of criminal sexual assault, the offense of aggravated criminal sexual assault or the offense of predatory criminal sexual assault of a child, shall be sentenced to a term of natural life imprisonment. The commission of the second or subsequent offense is required to have been after the initial conviction for this paragraph (2) to apply. An offender under the age of 18 years at the time of the commission of the offense covered by this paragraph (2) shall be sentenced under Section 5-4.5-105 of the Unified Code of Corrections. (Source: P.A. 99-69, eff. 1-1-16; 99-143, eff. 7-27-15; 99-642, eff. 7-28-16.)"
+    }
+  ],
+  "sourceLine": null,
+  "publicActs": [],
+  "repealed": false,
+  "bodyHash": "970a31145f771aa72dee321647f662bdf3886871efe81ca250192154d6718333",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0573"
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-3-101",
+  "citation": "625 ILCS 5/3-101",
+  "docName": "062500050K3-101",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K3-101",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:20:04.429Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/3-101",
+  "headingText": "Sec. 3-101. Certificate of title required.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/3-101) (from Ch. 95 1/2, par. 3-101)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 3-101. Certificate of title required."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) Except as provided in Section 3-102, every owner of a vehicle which is in this State and for which no Illinois certificate of title has been issued by the Secretary of State shall make application to the Secretary of State for an Illinois certificate of title of the vehicle. Except as provided in Section 3-102, every owner of a vehicle, excluding vehicles acquired by insurance companies through a settlement of an insurance claim or by lienholders taking title through repossession, that is in this State for which no Illinois certificate of title has been issued by the Secretary of State and every owner of a vehicle that is in the State applying for a duplicate certificate of title or a corrected certificate of title, including a dealer lien release certificate of title, must make application to the Secretary of State for an Illinois duplicate certificate of title or corrected certificate of title. A certificate of title issued to any owner of a vehicle, excluding vehicles acquired by insurance companies through a settlement of an insurance claim or by lienholders taking title through repossession, in this State showing an Illinois address for the owner that has been issued by an entity other than the Secretary of State must be converted to an Illinois title before the owner can transfer ownership of the vehicle."
+    },
+    {
+      "type": "paragraph",
+      "text": "Under no circumstances shall a dealer required to obtain an Illinois certificate of title pursuant to this Code be allowed to obtain an out-of-state certificate of title for purposes of a vehicle held for sale in this State by the dealer. Under no circumstances shall a dealer be allowed to obtain an out-of-state certificate of title in lieu of an Illinois-issued dealer lien release certificate of title when a dealer may have need of such title issuance. Nothing in this Section shall be construed so as to allow a dealer to acquire an out-of-state certificate of title in lieu of acquiring an Illinois certificate of title for purposes of a vehicle held for sale in this State by the dealer."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Every owner of a motorcycle or motor driven cycle purchased new on and after January 1, 1980 shall make application to the Secretary of State for a certificate of title. However, if such cycle is not properly manufactured or equipped for general highway use pursuant to the provisions of this Act, it shall not be eligible for license registration, but shall be issued a distinctive certificate of title except as provided in Sections 3-102 and 3-110 of this Act."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) The Secretary of State shall not register or renew the registration of a vehicle unless a certificate of title has been issued by the Secretary of State to the owner or an application therefor has been delivered by the owner to the Secretary of State."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) Every owner of an all-terrain vehicle or off-highway motorcycle purchased on or after January 1, 1998 shall make application to the Secretary of State for a certificate of title."
+    },
+    {
+      "type": "subsection",
+      "label": "(e)",
+      "text": "(e) Every owner of a low-speed vehicle manufactured after January 1, 2010 shall make application to the Secretary of State for a certificate of title."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 103-891, eff. 8-9-24.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 103-891, eff. 8-9-24.)",
+  "publicActs": [
+    {
+      "publicAct": "103-891",
+      "effectiveDate": "8-9-24"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "ba2871395996e0af2ae75baf067a54ad3f2e4a46ba8abb523ecc3c0b95e3f616",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0001"
+  ]
+}

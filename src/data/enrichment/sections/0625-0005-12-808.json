@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-12-808",
+  "citation": "625 ILCS 5/12-808",
+  "docName": "062500050K12-808",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K12-808",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:19:20.874Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/12-808",
+  "headingText": "Sec. 12-808. Fire extinguisher.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/12-808) (from Ch. 95 1/2, par. 12-808)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 12-808. Fire extinguisher."
+    },
+    {
+      "type": "paragraph",
+      "text": "Each school bus shall be equipped with at least one dry chemical gauge type fire extinguisher mounted in the extinguisher manufacturer's automobile type bracket in a position readily accessible to the driver."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 78-1244.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 78-1244.)",
+  "publicActs": [
+    {
+      "publicAct": "78-1244",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "6407c7a0e7a5a4e2732af25c75a2e8249d3a4265447ac75996afab7e3b33bf5b",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0423"
+  ]
+}

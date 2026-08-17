@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-4-105",
+  "citation": "625 ILCS 5/4-105",
+  "docName": "062500050K4-105",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K4-105",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:20:58.490Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/4-105",
+  "headingText": "Sec. 4-105. Offenses relating to disposition of titles and registration.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/4-105) (from Ch. 95 1/2, par. 4-105)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 4-105. Offenses relating to disposition of titles and registration."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) It is a violation of this Chapter for:"
+    },
+    {
+      "type": "paragraph",
+      "text": "1. a person to alter, forge, or counterfeit any manufacturer's statement of origin, certificate of title, salvage certificate, junking certificate, display certificate, registration sticker or digital registration sticker, registration card, or temporary registration permit; 2. a person to alter, forge, or counterfeit an assignment of any manufacturer's statement of origin, certificate of title, salvage certificate or junking certificate; 3. a person to alter, forge, or counterfeit a release of a security interest on any manufacturer's statement of origin, certificate of title, salvage certificate or junking certificate; 4. a person to alter, forge, or counterfeit an application for any certificate of title, salvage certificate, junking certificate, display certificate, registration sticker or digital registration sticker, registration card, temporary registration permit or license plate; 5. a person to use a false or fictitious name or address or altered, forged, counterfeited or stolen manufacturer's identification number, or make a material false statement, or fail to disclose a security interest, or conceal any other material fact on any application for any manufacturer's statement of origin, certificate of title, junking certificate, salvage certificate, registration card, license plate or digital license plate, temporary registration permit, or registration sticker or digital registration sticker, or commit a fraud in connection with any application under this Act; 6. an unauthorized person to have in his possession a blank Illinois certificate of title paper; 7. a person to surrender or cause to be surrendered any certificate of title, salvage or junking certificate in exchange for a certificate of title or other title document from any other state or foreign jurisdiction for the purpose of changing or deleting an \"S.V.\" or \"REBUILT\" notation, odometer reading, or any other information contained on such Illinois certificate. (b) Sentence. A person convicted of a violation of this Section shall be guilty of a Class 2 felony."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 101-395, eff. 8-16-19; 102-558, eff. 8-20-21.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 101-395, eff. 8-16-19; 102-558, eff. 8-20-21.)",
+  "publicActs": [
+    {
+      "publicAct": "101-395",
+      "effectiveDate": "8-16-19"
+    },
+    {
+      "publicAct": "102-558",
+      "effectiveDate": "8-20-21"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "fce64520f946ecf92ac6d48e2fb8d53d2ae8048bb975cc2ca9e98607490506b4",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0076",
+    "offense-0077",
+    "offense-0078",
+    "offense-0079",
+    "offense-0080",
+    "offense-0081",
+    "offense-0082",
+    "offense-0085"
+  ]
+}

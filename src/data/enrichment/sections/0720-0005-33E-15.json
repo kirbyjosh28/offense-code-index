@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-33E-15",
+  "citation": "720 ILCS 5/33E-15",
+  "docName": "072000050K33E-15",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K33E-15",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:29:59.076Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/33E-15",
+  "headingText": "Sec. 33E-15. False entries.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/33E-15)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 33E-15. False entries."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) An officer, agent, or employee of, or anyone who is affiliated in any capacity with any unit of local government or school district commits false entries when he or she makes a false entry in any book, report, or statement of any unit of local government or school district with the intent to defraud the unit of local government or school district."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Sentence. False entries is a Class 3 felony."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 97-1108, eff. 1-1-13.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 97-1108, eff. 1-1-13.)",
+  "publicActs": [
+    {
+      "publicAct": "97-1108",
+      "effectiveDate": "1-1-13"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "d250257b7f487e66203c87a49212aafd40a05df61905b582f36c1f55b8ae389c",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0891"
+  ]
+}

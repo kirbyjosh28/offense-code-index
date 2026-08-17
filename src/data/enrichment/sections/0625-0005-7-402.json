@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-7-402",
+  "citation": "625 ILCS 5/7-402",
+  "docName": "062500050K7-402",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K7-402",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:22:12.069Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/7-402",
+  "headingText": "Sec. 7-402. Surrender of license to drive and registration. Except as otherwise provided in this Code or Article V of the Supreme Court Rules, any person whose license to drive has been suspended shall immediately return to the Secretary of State any driver's license, instruction permit, restricted driving permit or other evidence of driving privileges held by such person. Any driving authorization document issued under Section 6-206.1 or 11-501.1 of this Code shall be returned to the issuing court for proper processing. Any person whose vehicle registration has been suspended shall, upon the request of the Secretary, immediately return to the Secretary any license plates or other evidences of registration held by such person.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/7-402) (from Ch. 95 1/2, par. 7-402)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 7-402. Surrender of license to drive and registration. Except as otherwise provided in this Code or Article V of the Supreme Court Rules, any person whose license to drive has been suspended shall immediately return to the Secretary of State any driver's license, instruction permit, restricted driving permit or other evidence of driving privileges held by such person. Any driving authorization document issued under Section 6-206.1 or 11-501.1 of this Code shall be returned to the issuing court for proper processing. Any person whose vehicle registration has been suspended shall, upon the request of the Secretary, immediately return to the Secretary any license plates or other evidences of registration held by such person."
+    },
+    {
+      "type": "paragraph",
+      "text": "The Secretary is authorized to take possession of any license to drive, registration certificate, registration sticker or digital registration sticker, or license plates or digital license plates upon the suspension thereof under the provisions of this Code or to direct any law enforcement officer to take possession thereof and to return the same to the Secretary."
+    },
+    {
+      "type": "paragraph",
+      "text": "Any person willfully failing to comply with this Section is guilty of a Class A misdemeanor and shall be punished as provided in Section 9-110 of this Code."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 101-395, eff. 8-16-19.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 101-395, eff. 8-16-19.)",
+  "publicActs": [
+    {
+      "publicAct": "101-395",
+      "effectiveDate": "8-16-19"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "fd1f1e2189e6e0609a10e4e702a4d0e0914cd1513c476aa24af31abb1cc7340b",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0174"
+  ]
+}

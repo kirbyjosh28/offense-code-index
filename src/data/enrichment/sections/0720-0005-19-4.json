@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-19-4",
+  "citation": "720 ILCS 5/19-4",
+  "docName": "072000050K19-4",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K19-4",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:27:06.394Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/19-4",
+  "headingText": "Sec. 19-4. Criminal trespass to a residence.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/19-4) (from Ch. 38, par. 19-4)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 19-4. Criminal trespass to a residence."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) (1) A person commits criminal trespass to a residence when, without authority, he or she knowingly enters or remains within any residence, including a house trailer that is the dwelling place of another."
+    },
+    {
+      "type": "subsection",
+      "label": "(2)",
+      "text": "(2) A person commits criminal trespass to a residence when, without authority, he or she knowingly enters the residence of another and knows or has reason to know that one or more persons is present or he or she knowingly enters the residence of another and remains in the residence after he or she knows or has reason to know that one or more persons is present."
+    },
+    {
+      "type": "paragraph",
+      "text": "(a-5) For purposes of this Section, in the case of a multi-unit residential building or complex, \"residence\" shall only include the portion of the building or complex which is the actual dwelling place of any person and shall not include such places as common recreational areas or lobbies."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Sentence."
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) Criminal trespass to a residence under paragraph (1) of subsection (a) is a Class A misdemeanor. (2) Criminal trespass to a residence under paragraph (2) of subsection (a) is a Class 4 felony. (Source: P.A. 97-1108, eff. 1-1-13; 98-756, eff. 7-16-14.)"
+    }
+  ],
+  "sourceLine": null,
+  "publicActs": [],
+  "repealed": false,
+  "bodyHash": "ea7e8d2bc185bc0f16a8fc5e78d43acd0c5de16f12f13d02a5573273202e8101",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0754"
+  ]
+}

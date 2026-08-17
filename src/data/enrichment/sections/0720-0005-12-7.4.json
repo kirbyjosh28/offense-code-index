@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-12-7.4",
+  "citation": "720 ILCS 5/12-7.4",
+  "docName": "072000050K12-7.4",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K12-7.4",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:25:03.268Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/12-7.4",
+  "headingText": "Sec. 12-7.4. Aggravated stalking.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/12-7.4) (from Ch. 38, par. 12-7.4)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 12-7.4. Aggravated stalking."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits aggravated stalking when he or she commits stalking and:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) causes bodily harm to the victim;"
+    },
+    {
+      "type": "subsection",
+      "label": "(2)",
+      "text": "(2) confines or restrains the victim; or"
+    },
+    {
+      "type": "subsection",
+      "label": "(3)",
+      "text": "(3) violates a temporary restraining order, an order of protection, a stalking no contact order, a civil no contact order, or an injunction prohibiting the behavior described in subsection (b)(1) of Section 214 of the Illinois Domestic Violence Act of 1986. (a-1) A person commits aggravated stalking when he or she is required to register under the Sex Offender Registration Act or has been previously required to register under that Act and commits the offense of stalking when the victim of the stalking is also the victim of the offense for which the sex offender is required to register under the Sex Offender Registration Act or a family member of the victim."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Sentence. Aggravated stalking is a Class 3 felony; a second or subsequent conviction is a Class 2 felony."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Exemptions."
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) This Section does not apply to any individual or organization (i) monitoring or attentive to compliance with public or worker safety laws, wage and hour requirements, or other statutory requirements, or (ii) picketing occurring at the workplace that is otherwise lawful and arises out of a bona fide labor dispute including any controversy concerning wages, salaries, hours, working conditions or benefits, including health and welfare, sick leave, insurance, and pension or retirement provisions, the managing or maintenance of collective bargaining agreements, and the terms to be included in those agreements. (2) This Section does not apply to an exercise of the right of free speech or assembly that is otherwise lawful. (3) Telecommunications carriers, commercial mobile service providers, and providers of information services, including, but not limited to, Internet service providers and hosting service providers, are not liable under this Section, except for willful and wanton misconduct, by virtue of the transmission, storage, or caching of electronic communications or messages of others or by virtue of the provision of other related telecommunications, commercial mobile services, or information services used by others in violation of this Section. (d) A defendant who directed the actions of a third party to violate this Section, under the principles of accountability set forth in Article 5 of this Code, is guilty of violating this Section as if the same had been personally done by the defendant, without regard to the mental state of the third party acting at the direction of the defendant."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 96-686, eff. 1-1-10; 96-1551, eff. 7-1-11; 97-311, eff. 8-11-11; 97-468, eff. 1-1-12; 97-1109, eff. 1-1-13.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 96-686, eff. 1-1-10; 96-1551, eff. 7-1-11; 97-311, eff. 8-11-11; 97-468, eff. 1-1-12; 97-1109, eff. 1-1-13.)",
+  "publicActs": [
+    {
+      "publicAct": "96-686",
+      "effectiveDate": "1-1-10"
+    },
+    {
+      "publicAct": "96-1551",
+      "effectiveDate": "7-1-11"
+    },
+    {
+      "publicAct": "97-311",
+      "effectiveDate": "8-11-11"
+    },
+    {
+      "publicAct": "97-468",
+      "effectiveDate": "1-1-12"
+    },
+    {
+      "publicAct": "97-1109",
+      "effectiveDate": "1-1-13"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "05569aedb760171db318026fae5bef72d40006eb9ec4e96b7cfd1dbe02bff296",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0640"
+  ]
+}

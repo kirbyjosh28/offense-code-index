@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-17-52",
+  "citation": "720 ILCS 5/17-52",
+  "docName": "072000050K17-52",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K17-52",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:26:33.363Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/17-52",
+  "headingText": "Sec. 17-52. Aggravated computer tampering.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/17-52) (was 720 ILCS 5/16D-4)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 17-52. Aggravated computer tampering."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits aggravated computer tampering when he or she commits computer tampering as set forth in paragraph (a)(3) of Section 17-51 and he or she knowingly:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) causes disruption of or interference with vital services or operations of State or local government or a public utility; or (2) creates a strong probability of death or great bodily harm to one or more individuals. (b) Sentence."
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) A person who commits aggravated computer tampering as set forth in paragraph (a)(1) of this Section is guilty of a Class 3 felony. (2) A person who commits aggravated computer tampering as set forth in paragraph (a)(2) of this Section is guilty of a Class 2 felony. (Source: P.A. 96-1551, eff. 7-1-11.)"
+    }
+  ],
+  "sourceLine": null,
+  "publicActs": [],
+  "repealed": false,
+  "bodyHash": "4f5004e43b164d712d7bb7586c101fd05b858d8eb46a2eafb2db42c776f09e76",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0738"
+  ]
+}

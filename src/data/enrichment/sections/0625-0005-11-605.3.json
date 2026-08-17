@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-605.3",
+  "citation": "625 ILCS 5/11-605.3",
+  "docName": "062500050K11-605.3",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-605.3",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:17:05.727Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-605.3",
+  "headingText": "Sec. 11-605.3. Special traffic protections while passing parks and recreation facilities and areas.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-605.3)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-605.3. Special traffic protections while passing parks and recreation facilities and areas."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) As used in this Section:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) \"Park district\" means the following entities:"
+    },
+    {
+      "type": "subsection",
+      "label": "(A)",
+      "text": "(A) any park district organized under the Park District Code; (B) any park district organized under the Chicago Park District Act; and (C) any municipality, county, forest district, school district, township, or other unit of local government that operates a public recreation department or public recreation facilities that has recreation facilities that are not on land owned by any park district listed in subparagraphs (A) and (B) of this subdivision (a)(1). (2) \"Park zone\" means the recreation facilities and areas on any land owned or operated by a park district that are used for recreational purposes, including but not limited to: parks; playgrounds; swimming pools; hiking trails; bicycle paths; picnic areas; roads and streets; and parking lots. (3) \"Park zone street\" means that portion of any State or local street or intersection, adjacent to a park zone, where the local unit of government has, by ordinance or resolution, designated and approved the street or intersection as a park zone street. If, before the effective date of this amendatory Act of the 94th General Assembly, a street already had a posted speed limit lower than 20 miles per hour, then the lower limit may be used for that park zone street. (4) \"Safety purposes\" means the costs associated with: park zone safety education; the purchase, installation, and maintenance of signs, roadway painting, and caution lights mounted on park zone signs; and any other expense associated with park zones and park zone streets. (b) On any day when children are present and within 50 feet of motorized traffic, a person may not drive a motor vehicle at a speed in excess of 20 miles per hour or any lower posted speed while traveling on a park zone street that has been designated for the posted reduced speed."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) On any day when children are present and within 50 feet of motorized traffic, any driver traveling on a park zone street who fails to come to a complete stop at a stop sign or red light, including a driver who fails to come to a complete stop at a red light before turning right onto a park zone street, is in violation of this Section."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) This Section does not apply unless appropriate signs are posted upon park zone streets maintained by the Department or by the unit of local government in which the park zone is located. With regard to the special speed limit on park zone streets, the signs must give proper due warning that a park zone is being approached and must indicate the maximum speed limit on the park zone street."
+    },
+    {
+      "type": "subsection",
+      "label": "(e)",
+      "text": "(e) A first violation of this Section is a petty offense with a minimum fine of $250. A second or subsequent violation of this Section is a petty offense with a minimum fine of $500."
+    },
+    {
+      "type": "subsection",
+      "label": "(f)",
+      "text": "(f) (Blank)."
+    },
+    {
+      "type": "subsection",
+      "label": "(g)",
+      "text": "(g) The Department shall, within 6 months of the effective date of this amendatory Act of the 94th General Assembly, design a set of standardized traffic signs for park zones and park zone streets, including but not limited to: \"park zone\", \"park zone speed limit\", and \"warning: approaching a park zone\". The design of these signs shall be made available to all units of local government or manufacturers at no charge, except for reproduction and postage."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 104-401, eff. 1-1-26.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 104-401, eff. 1-1-26.)",
+  "publicActs": [
+    {
+      "publicAct": "104-401",
+      "effectiveDate": "1-1-26"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "c1d79e0f0cbdce807936e83c25ea43ab0f5a25f89d606243e1e904ce4dc26269",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0222"
+  ]
+}

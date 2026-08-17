@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-11-6.5",
+  "citation": "720 ILCS 5/11-6.5",
+  "docName": "072000050K11-6.5",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K11-6.5",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:23:55.689Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/11-6.5",
+  "headingText": "Sec. 11-6.5. Indecent solicitation of an adult.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/11-6.5)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-6.5. Indecent solicitation of an adult."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits indecent solicitation of an adult if the person knowingly:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) Arranges for a person 17 years of age or over to commit an act of sexual penetration as defined in Section 11-0.1 with a person: (i) Under the age of 13 years; or"
+    },
+    {
+      "type": "subsection",
+      "label": "(ii)",
+      "text": "(ii) Thirteen years of age or over but under the age of 17 years; or (2) Arranges for a person 17 years of age or over to commit an act of sexual conduct as defined in Section 11-0.1 with a person: (i) Under the age of 13 years; or"
+    },
+    {
+      "type": "subsection",
+      "label": "(ii)",
+      "text": "(ii) Thirteen years of age or older but under the age of 17 years. (b) Sentence."
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) Violation of paragraph (a)(1)(i) is a Class X felony. (2) Violation of paragraph (a)(1)(ii) is a Class 1 felony. (3) Violation of paragraph (a)(2)(i) is a Class 2 felony. (4) Violation of paragraph (a)(2)(ii) is a Class A misdemeanor. (c) For the purposes of this Section, \"arranges\" includes but is not limited to oral or written communication and communication by telephone, computer, or other electronic means. \"Computer\" has the meaning ascribed to it in Section 17-0.5 of this Code."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 96-1551, eff. 7-1-11; 97-1150, eff. 1-25-13.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 96-1551, eff. 7-1-11; 97-1150, eff. 1-25-13.)",
+  "publicActs": [
+    {
+      "publicAct": "96-1551",
+      "effectiveDate": "7-1-11"
+    },
+    {
+      "publicAct": "97-1150",
+      "effectiveDate": "1-25-13"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "9e6bdb01feed6214cc08170b0813e4160e755976737e8c2f856a5b51ea70dd82",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0578"
+  ]
+}

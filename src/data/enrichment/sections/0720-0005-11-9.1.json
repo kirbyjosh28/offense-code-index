@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-11-9.1",
+  "citation": "720 ILCS 5/11-9.1",
+  "docName": "072000050K11-9.1",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K11-9.1",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:23:58.944Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/11-9.1",
+  "headingText": "Sec. 11-9.1. Sexual exploitation of a child.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/11-9.1) (from Ch. 38, par. 11-9.1)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-9.1. Sexual exploitation of a child."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits sexual exploitation of a child if in the presence or virtual presence, or both, of a child and with knowledge that a child or one whom he or she believes to be a child would view his or her acts, that person:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) engages in a sexual act;"
+    },
+    {
+      "type": "subsection",
+      "label": "(2)",
+      "text": "(2) exposes his or her sex organs, anus or breast for the purpose of sexual arousal or gratification of such person or the child or one whom he or she believes to be a child; or (3) knowingly entices, coerces, or persuades a child to participate in the production of the recording or memorializing a sexual act of persons ages 18 or older. (a-5) A person commits sexual exploitation of a child who knowingly entices, coerces, or persuades a child to remove the child's clothing for the purpose of sexual arousal or gratification of the person or the child, or both."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Definitions. As used in this Section:"
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Sexual act\" means masturbation, sexual conduct or sexual penetration as defined in Section 11-0.1 of this Code."
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Sex offense\" means any violation of Article 11 of this Code."
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Child\" means a person under 17 years of age."
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Virtual presence\" means an environment that is created with software and presented to the user and or receiver via the Internet, in such a way that the user appears in front of the receiver on the computer monitor or screen or hand-held portable electronic device, usually through a web camming program. \"Virtual presence\" includes primarily experiencing through sight or sound, or both, a video image that can be explored interactively at a personal computer or hand-held communication device, or both."
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Webcam\" means a video capturing device connected to a computer or computer network that is designed to take digital photographs or live or recorded video which allows for the live transmission to an end user over the Internet."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Sentence."
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) Sexual exploitation of a child is a Class A misdemeanor. A second or subsequent violation of this Section or a substantially similar law of another state is a Class 4 felony. (2) Sexual exploitation of a child is a Class 4 felony if the person has been previously convicted of a sex offense. (3) Sexual exploitation of a child is a Class 4 felony if the victim was under 13 years of age at the time of the commission of the offense. (4) Sexual exploitation of a child is a Class 4 felony if committed by a person 18 years of age or older who is on or within 500 feet of elementary or secondary school grounds when children are present on the grounds. (5) A violation of paragraph (3) of subsection (a) is a Class 4 felony. (Source: P.A. 104-245, eff. 1-1-26.)"
+    }
+  ],
+  "sourceLine": null,
+  "publicActs": [],
+  "repealed": false,
+  "bodyHash": "585bd77260e0d713fc0f210aaa738bd16695e10030e231e175a55b5611f1b91d",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0580"
+  ]
+}

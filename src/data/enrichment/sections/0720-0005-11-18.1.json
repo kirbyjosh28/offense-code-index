@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-11-18.1",
+  "citation": "720 ILCS 5/11-18.1",
+  "docName": "072000050K11-18.1",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K11-18.1",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:23:34.663Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/11-18.1",
+  "headingText": "Sec. 11-18.1. Patronizing a sexually exploited child.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/11-18.1) (from Ch. 38, par. 11-18.1)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-18.1. Patronizing a sexually exploited child."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) Any person who engages in an act of sexual penetration as defined in Section 11-0.1 of this Code with a person who is under 18 years of age engaged in prostitution or is a person with a severe or profound intellectual disability commits patronizing a sexually exploited child."
+    },
+    {
+      "type": "paragraph",
+      "text": "(a-5) Any person who engages in any touching or fondling, with a person engaged in prostitution who either is a sexually exploited child or is a person with a severe or profound intellectual disability, of the sex organs of one person by the other person, with the intent to achieve sexual arousal or gratification, commits patronizing a sexually exploited child."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) It is an affirmative defense to the charge of patronizing a sexually exploited child that the accused reasonably believed that the person was of the age of 18 years or over or was not a person with a severe or profound intellectual disability at the time of the act giving rise to the charge."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Sentence. A person who commits patronizing a sexually exploited child is guilty of a Class 3 felony, unless committed within 1,000 feet of real property comprising a school, in which case it is a Class 2 felony. A person convicted of a second or subsequent violation of this Section, or of any combination of such number of convictions under this Section and Sections 11-14 (prostitution), 11-14.1 (solicitation of a sexual act), 11-14.3 (promoting prostitution), 11-14.4 (promoting commercial sexual exploitation of a child), 11-15 (soliciting for a person engaged in the sex trade), 11-15.1 (soliciting for a sexually exploited child), 11-16 (pandering), 11-17 (keeping a place of prostitution), 11-17.1 (keeping a place of commercial sexual exploitation of a child), 11-18 (patronizing a person engaged in the sex trade), 11-19 (pimping), 11-19.1 (juvenile pimping or aggravated juvenile pimping), or 11-19.2 (exploitation of a child) of this Code, is guilty of a Class 2 felony. The fact of such conviction is not an element of the offense and may not be disclosed to the jury during trial unless otherwise permitted by issues properly raised during such trial."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 103-1071, eff. 7-1-25.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 103-1071, eff. 7-1-25.)",
+  "publicActs": [
+    {
+      "publicAct": "103-1071",
+      "effectiveDate": "7-1-25"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "aed2368ef7d45d711d4645d2ed1bf5e869949d4b2b4052a5e35e214aca3c8107",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0593"
+  ]
+}

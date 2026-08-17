@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-1431",
+  "citation": "625 ILCS 5/11-1431",
+  "docName": "062500050K11-1431",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-1431",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:16:01.165Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-1431",
+  "headingText": "Sec. 11-1431. Solicitations at crash or disablement scene prohibited.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-1431)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-1431. Solicitations at crash or disablement scene prohibited."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A tower, as defined by Section 1-205.2 of this Code, or an employee or agent of a tower may not: (i) stop at the scene of a motor vehicle crash or at or near a damaged or disabled vehicle for the purpose of soliciting the owner or operator of the damaged or disabled vehicle to enter into a towing service transaction; or (ii) stop at the scene of a crash or at or near a damaged or disabled vehicle unless called to the location by a law enforcement officer, the Illinois Department of Transportation, the Illinois State Toll Highway Authority, a local agency having jurisdiction over the highway, the owner or operator of the damaged or disabled vehicle, or the owner or operator's authorized agent, including his or her insurer or motor club of which the owner or operator is a member. This Section shall not apply to employees of the Department, the Illinois State Toll Highway Authority, or local agencies when engaged in their official duties. Nothing in this Section shall prevent a tower from stopping at the scene of a motor vehicle crash or at or near a damaged or disabled vehicle if the owner or operator signals the tower for assistance from the location of the motor vehicle crash or damaged or disabled vehicle."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) A person or company who violates this Section is guilty of a Class 4 felony. A person convicted of violating this Section shall also have his or her driver's license, permit, or privileges suspended for 3 months. After the expiration of the 3-month suspension, the person's driver's license, permit, or privileges shall not be reinstated until he or she has paid a reinstatement fee of $100. If a person violates this Section while his or her driver's license, permit, or privileges are suspended under this subsection (b), his or her driver's license, permit, or privileges shall be suspended for an additional 6 months, and shall not be reinstated after the expiration of the 6-month suspension until he or she pays a reinstatement fee of $100. A vehicle owner, or his or her authorized agent or automobile insurer, may bring a claim against a company or person who willfully and materially violates this Section. A court may award the prevailing party reasonable attorney's fees, costs, and expenses relating to that action."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 102-982, eff. 7-1-23.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 102-982, eff. 7-1-23.)",
+  "publicActs": [
+    {
+      "publicAct": "102-982",
+      "effectiveDate": "7-1-23"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "6bd8ff676dcebccf3372447334224e656f69809f887794c5c67b0c5fe91e1f06",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0319"
+  ]
+}

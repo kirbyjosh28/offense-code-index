@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-12-701",
+  "citation": "625 ILCS 5/12-701",
+  "docName": "062500050K12-701",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K12-701",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:18:52.339Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/12-701",
+  "headingText": "Sec. 12-701. Tractors, traction engines and motor trucks-Operation on highways-Turning on highways during farming operations-Violations. No tractor, traction engine, motor truck or other similar vehicle shall be operated across, over or along any public highway of this State which has been oil-treated, if any such vehicle has on the periphery of any of the road wheels any block, stud, flange, cleat, ridge, lug, or any projection of metal or wood which projects radially beyond the tread or traffic surface of the tire; except that this prohibition shall not apply to tractors or traction engines equipped with what is known as crawler type tractors, when the same does not contain any projections of any kind likely to injure the surface of the road, nor to tractors, traction engines and similar vehicles which have upon their road wheels V-shaped, diagonal or other cleats arranged in such a manner as to be continuously in contact with the road surface. In no event shall the oil mat surface of any oil-treated public road be used as an area or space for turning any tractor or other farm machinery in carrying on or performing any farming operations upon the adjacent land. Provided, that nothing in this Section contained shall prohibit the operation of tractors, traction engines or motor trucks across any oil-treated road in order to reach adjacent lands or the operation of any such vehicles upon the treated portion of such oil-treated roads if there is no untreated portion thereof over which they may be operated or the operation of any such vehicles on oil-treated roads if in passing along said road they travel over the portion of said road which does not constitute the oil mat surface created by said oil treatment or the use of flexible tire chains on any tractor, traction engine, motor truck or other similar vehicle being operated upon any such oil-treated road.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/12-701) (from Ch. 95 1/2, par. 12-701)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 12-701. Tractors, traction engines and motor trucks-Operation on highways-Turning on highways during farming operations-Violations. No tractor, traction engine, motor truck or other similar vehicle shall be operated across, over or along any public highway of this State which has been oil-treated, if any such vehicle has on the periphery of any of the road wheels any block, stud, flange, cleat, ridge, lug, or any projection of metal or wood which projects radially beyond the tread or traffic surface of the tire; except that this prohibition shall not apply to tractors or traction engines equipped with what is known as crawler type tractors, when the same does not contain any projections of any kind likely to injure the surface of the road, nor to tractors, traction engines and similar vehicles which have upon their road wheels V-shaped, diagonal or other cleats arranged in such a manner as to be continuously in contact with the road surface. In no event shall the oil mat surface of any oil-treated public road be used as an area or space for turning any tractor or other farm machinery in carrying on or performing any farming operations upon the adjacent land. Provided, that nothing in this Section contained shall prohibit the operation of tractors, traction engines or motor trucks across any oil-treated road in order to reach adjacent lands or the operation of any such vehicles upon the treated portion of such oil-treated roads if there is no untreated portion thereof over which they may be operated or the operation of any such vehicles on oil-treated roads if in passing along said road they travel over the portion of said road which does not constitute the oil mat surface created by said oil treatment or the use of flexible tire chains on any tractor, traction engine, motor truck or other similar vehicle being operated upon any such oil-treated road."
+    },
+    {
+      "type": "paragraph",
+      "text": "It is unlawful for any person to operate any tractor, traction engine, motor truck or other similar vehicle over and along any public highway of this State, which has been oil-treated, in violation of the provisions of this Section."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 80-911.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 80-911.)",
+  "publicActs": [
+    {
+      "publicAct": "80-911",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "12b61f94acc5a3d1fada9f4811ca6469958cb7c38619ec9f7980a28bcec016a3",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0403"
+  ]
+}

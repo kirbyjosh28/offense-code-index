@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-1410",
+  "citation": "625 ILCS 5/11-1410",
+  "docName": "062500050K11-1410",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-1410",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:15:31.122Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-1410",
+  "headingText": "Sec. 11-1410. Coasting prohibited.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-1410) (from Ch. 95 1/2, par. 11-1410)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-1410. Coasting prohibited."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) The driver of any motor vehicle when traveling upon a down grade shall not coast with the gears or transmission of such vehicle in neutral."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) The driver of a truck or bus when traveling upon a down grade shall not coast with the clutch disengaged."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 79-1069.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 79-1069.)",
+  "publicActs": [
+    {
+      "publicAct": "79-1069",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "b939784c46cae5f2b9c02381de24886ce988498229390c003823cc02f25d2fb2",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0297"
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-3-112.1",
+  "citation": "625 ILCS 5/3-112.1",
+  "docName": "062500050K3-112.1",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K3-112.1",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:20:07.427Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/3-112.1",
+  "headingText": "Sec. 3-112.1. Odometer.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/3-112.1) (from Ch. 95 1/2, par. 3-112.1)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 3-112.1. Odometer."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) All titles issued by the Secretary of State beginning January, 1990, shall provide for an odometer certification substantially as follows:"
+    },
+    {
+      "type": "paragraph",
+      "text": "\"I certify to the best of my knowledge that the odometer reading is and reflects the actual mileage of the vehicle unless one of the following statements is checked. ................... ( ) 1. The mileage stated is in excess of its mechanical limits."
+    },
+    {
+      "type": "paragraph",
+      "text": "( ) 2. The odometer reading is not the actual mileage. Warning - Odometer Discrepancy.\""
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) When executing any transfer of title which contains the odometer certification as described in paragraph (a) above, each transferor of a motor vehicle must supply on the title form the following information:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) The odometer reading at the time of transfer and an indication if the mileage is in excess of its mechanical limits or if it is not the actual mileage; (2) The date of transfer;"
+    },
+    {
+      "type": "subsection",
+      "label": "(3)",
+      "text": "(3) The transferor's printed name and signature; and"
+    },
+    {
+      "type": "subsection",
+      "label": "(4)",
+      "text": "(4) The transferee's printed name and address."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) The transferee must sign on the title form indicating that he or she is aware of the odometer certification made by the transferor."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) The transferor will not be required to disclose the current odometer reading and the transferee will not have to acknowledge such disclosure under the following circumstances:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) A vehicle having a Gross Vehicle Weight Rating of more than 16,000 pounds; (2) A vehicle that is not self-propelled;"
+    },
+    {
+      "type": "subsection",
+      "label": "(3)",
+      "text": "(3) A vehicle that:"
+    },
+    {
+      "type": "subsection",
+      "label": "(A)",
+      "text": "(A) before January 1, 2031, is model year 2010 or older; or (B) after January 1, 2031, is 20 years old or older; (4) A vehicle sold directly by the manufacturer to any agency of the United States; and (5) A vehicle manufactured without an odometer."
+    },
+    {
+      "type": "subsection",
+      "label": "(e)",
+      "text": "(e) When the transferor signs the title transfer such transferor acknowledges that he or she is aware that Federal regulations and State law require him or her to state the odometer mileage upon transfer of ownership. An inaccurate or untruthful statement with intent to defraud subjects the transferor to liability for damages to the transferee pursuant to the federal Motor Vehicle Information and Cost Act of 1972, P.L. 92-513 as amended by P.L. 94-364. No transferor shall be liable for damages as provided under this Section who transfers title to a motor vehicle which has an odometer reading that has been altered or tampered with by a previous owner, unless that transferor knew or had reason to know of such alteration or tampering and sold such vehicle with an intent to defraud. A cause of action is hereby created by which any person who, with intent to defraud, violates any requirement imposed under this Section shall be liable in an amount equal to the sum of:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) three times the amount of actual damages sustained or $1,500, whichever is the greater; and (2) in the case of any successful action to enforce the foregoing liability, the costs of the action together with reasonable attorney fees as determined by the court. Any recovery based on a cause of action under this Section shall be offset by any recovery made pursuant to the federal Motor Vehicle Information and Cost Savings Act of 1972."
+    },
+    {
+      "type": "subsection",
+      "label": "(f)",
+      "text": "(f) The provisions of this Section shall not apply to any motorcycle, motor driven cycle, moped, antique vehicle, or expanded-use antique vehicle."
+    },
+    {
+      "type": "subsection",
+      "label": "(g)",
+      "text": "(g) The Secretary of State may adopt rules and regulations providing for a transition period for all non-conforming titles."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 102-154, eff. 1-1-22.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 102-154, eff. 1-1-22.)",
+  "publicActs": [
+    {
+      "publicAct": "102-154",
+      "effectiveDate": "1-1-22"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "ef76fc33f832a79874e7284325d938f40acf957593f0da9d3c34c99b4cce8844",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0003"
+  ]
+}

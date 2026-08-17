@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-11-11",
+  "citation": "720 ILCS 5/11-11",
+  "docName": "072000050K11-11",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K11-11",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:23:25.659Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/11-11",
+  "headingText": "Sec. 11-11. Sexual Relations Within Families.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/11-11) (from Ch. 38, par. 11-11)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-11. Sexual Relations Within Families."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits sexual relations within families if he or she:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) Commits an act of sexual penetration as defined in Section 11-0.1 of this Code; and (2) The person knows that he or she is related to the other person as follows: (i) Brother or sister, either of the whole blood or the half blood; or (ii) Father or mother, when the child, regardless of legitimacy and regardless of whether the child was of the whole blood or half-blood or was adopted, was 18 years of age or over when the act was committed; or (iii) Stepfather or stepmother, when the stepchild was 18 years of age or over when the act was committed; or (iv) Aunt or uncle, when the niece or nephew was 18 years of age or over when the act was committed; or (v) Great-aunt or great-uncle, when the grand-niece or grand-nephew was 18 years of age or over when the act was committed; or (vi) Grandparent or step-grandparent, when the grandchild or step-grandchild was 18 years of age or over when the act was committed. (b) Sentence. Sexual relations within families is a Class 3 felony."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 96-233, eff. 1-1-10; 96-1551, eff. 7-1-11.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 96-233, eff. 1-1-10; 96-1551, eff. 7-1-11.)",
+  "publicActs": [
+    {
+      "publicAct": "96-233",
+      "effectiveDate": "1-1-10"
+    },
+    {
+      "publicAct": "96-1551",
+      "effectiveDate": "7-1-11"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "9cc5f068f0ba99eca5cb3ec59105b9ca5ed2f5aeeaeaafb637486e3ccbdce902",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0587"
+  ]
+}

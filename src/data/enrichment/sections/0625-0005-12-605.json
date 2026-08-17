@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-12-605",
+  "citation": "625 ILCS 5/12-605",
+  "docName": "062500050K12-605",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K12-605",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:18:34.330Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/12-605",
+  "headingText": "Sec. 12-605. Taxicabs-Bullet proof shields. In municipalities with 1,000,000 or more population, any taxicab manufactured, owned or operated after September 1, 1970, and regularly operated in such a municipality must have a bullet proof shield completely separating the driver's seat from the back seat.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/12-605) (from Ch. 95 1/2, par. 12-605)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 12-605. Taxicabs-Bullet proof shields. In municipalities with 1,000,000 or more population, any taxicab manufactured, owned or operated after September 1, 1970, and regularly operated in such a municipality must have a bullet proof shield completely separating the driver's seat from the back seat."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 80-911.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 80-911.)",
+  "publicActs": [
+    {
+      "publicAct": "80-911",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "30a3e82b947849b014200605f22c8ca1c2f9d57a18af17fcb59a9c6d1d4f4a4f",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0389"
+  ]
+}

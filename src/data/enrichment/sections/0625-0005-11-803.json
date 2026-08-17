@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-803",
+  "citation": "625 ILCS 5/11-803",
+  "docName": "062500050K11-803",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-803",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:17:31.257Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-803",
+  "headingText": "Sec. 11-803. Starting parked vehicle.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-803) (from Ch. 95 1/2, par. 11-803)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-803. Starting parked vehicle."
+    },
+    {
+      "type": "paragraph",
+      "text": "No person shall start a vehicle which is stopped, standing, or parked unless and until such movement can be made with reasonable safety."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 76-1586.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 76-1586.)",
+  "publicActs": [
+    {
+      "publicAct": "76-1586",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "da0f5b066fc986510fd34d9c862ae67a6fe8faff5f6d69f5123e71b535d03a9a",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0244"
+  ]
+}

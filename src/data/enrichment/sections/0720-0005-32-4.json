@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-32-4",
+  "citation": "720 ILCS 5/32-4",
+  "docName": "072000050K32-4",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K32-4",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:29:35.051Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/32-4",
+  "headingText": "Sec. 32-4. Communicating with jurors and witnesses.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/32-4) (from Ch. 38, par. 32-4)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 32-4. Communicating with jurors and witnesses."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person who, with intent to influence any person whom he believes has been summoned as a juror, regarding any matter which is or may be brought before such juror, communicates, directly or indirectly, with such juror otherwise than as authorized by law commits a Class 4 felony."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) A person who, with intent to deter any party or witness from testifying freely, fully and truthfully to any matter pending in any court, or before a Grand Jury, Administrative agency or any other State or local governmental unit, forcibly detains such party or witness, or communicates, directly or indirectly, to such party or witness any knowingly false information or a threat of injury or damage to the property or person of any individual or offers or delivers or threatens to withhold money or another thing of value to any individual commits a Class 3 felony."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) A person who violates the Juror Protection Act commits a Class 4 felony."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 94-186, eff. 1-1-06.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 94-186, eff. 1-1-06.)",
+  "publicActs": [
+    {
+      "publicAct": "94-186",
+      "effectiveDate": "1-1-06"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "7318c55afd496e32d1fc5849cc0bf61943095a299239da58bad254e34d07fc4c",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0865"
+  ]
+}

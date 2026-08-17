@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-12-215.1",
+  "citation": "625 ILCS 5/12-215.1",
+  "docName": "062500050K12-215.1",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K12-215.1",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:18:08.798Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/12-215.1",
+  "headingText": "Sec. 12-215.1. Possession of oscillating, rotating, or flashing lights in motor vehicles; police equipment, markings, and other indicia of emergency vehicle authority.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/12-215.1)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 12-215.1. Possession of oscillating, rotating, or flashing lights in motor vehicles; police equipment, markings, and other indicia of emergency vehicle authority."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person, except those given exceptions in Section 12-215 or 12-609 of this Code, may not possess or be in actual physical control of oscillating, rotating, or flashing lights or other indicia of emergency vehicle authority within any portion of a motor vehicle, including but not limited to wig-wags, red and blue LEDs, sirens, mounted or affixed devices or other equipment, markings or indicia of emergency vehicle authority."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) A person found guilty of violating this Section is guilty of a Class A misdemeanor."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Oscillating, rotating, or flashing lights and any other equipment, markings, or indicia of emergency vehicle authority shall be seized by the law enforcement officer at the time of a violation of this Section or of Section 12-215 or 12-609 of this Code upon any legal search. The officer may seize the vehicle containing the prohibited device or mechanism, and this device or mechanism shall be removed and held for evidentiary purposes. When the device or mechanism is no longer needed for evidence, the defendant may petition the court for the return of the device or mechanism. The defendant must prove to the court by a preponderance of the evidence that the device or mechanism will be used for a legitimate and lawful purpose."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 98-468, eff. 8-16-13.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 98-468, eff. 8-16-13.)",
+  "publicActs": [
+    {
+      "publicAct": "98-468",
+      "effectiveDate": "8-16-13"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "1590f989d96540356a8cd372c80c62dbd4dd0016328f53652f1e2ab5cbdb3a59",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0356"
+  ]
+}

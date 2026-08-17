@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-49-5",
+  "citation": "720 ILCS 5/49-5",
+  "docName": "072000050K49-5",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K49-5",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:30:33.614Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/49-5",
+  "headingText": "Sec. 49-5. Video movie sales and rentals rating violation.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/49-5)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 49-5. Video movie sales and rentals rating violation."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) Definitions. As used in this Section, unless the context otherwise requires:"
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Person\" means an individual, corporation, partnership, or any other legal or commercial entity. \"Official rating\" means an official rating of the Motion Picture Association of America. \"Video movie\" means a videotape or video disc copy of a motion picture film. (b) A person may not sell at retail or rent, or attempt to sell at retail or rent, a video movie in this State unless the official rating of the motion picture from which it is copied is clearly displayed on the outside of any cassette, case, jacket, or other covering of the video movie."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) This Section does not apply to any video movie of a motion picture which:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) has not been given an official rating; or"
+    },
+    {
+      "type": "subsection",
+      "label": "(2)",
+      "text": "(2) has been altered in any way subsequent to receiving an official rating. (d) Sentence. A violation of this Section is a Class C misdemeanor."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 97-1108, eff. 1-1-13.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 97-1108, eff. 1-1-13.)",
+  "publicActs": [
+    {
+      "publicAct": "97-1108",
+      "effectiveDate": "1-1-13"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "87bd023aeadcfdd7564eaaa71314c22b7d5b0c7ecd85ee2117259855c01a3ceb",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0908"
+  ]
+}

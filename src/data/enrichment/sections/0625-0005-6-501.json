@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-6-501",
+  "citation": "625 ILCS 5/6-501",
+  "docName": "062500050K6-501",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K6-501",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:21:58.571Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/6-501",
+  "headingText": "Sec. 6-501. Commercial drivers - permitted only one driver's license. No person who drives a commercial motor vehicle, on the highways, shall have more than one driver's license.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/6-501) (from Ch. 95 1/2, par. 6-501)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 6-501. Commercial drivers - permitted only one driver's license. No person who drives a commercial motor vehicle, on the highways, shall have more than one driver's license."
+    },
+    {
+      "type": "paragraph",
+      "text": "Any person convicted of violating this Section shall be guilty of a Class A misdemeanor."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 95-382, eff. 8-23-07.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 95-382, eff. 8-23-07.)",
+  "publicActs": [
+    {
+      "publicAct": "95-382",
+      "effectiveDate": "8-23-07"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "2fed1a964469f46851619c0803bf21f7eb2b78fbc4e60a5aa7978574e0c8358c",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0160"
+  ]
+}

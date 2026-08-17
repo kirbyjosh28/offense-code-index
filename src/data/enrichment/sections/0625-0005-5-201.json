@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-5-201",
+  "citation": "625 ILCS 5/5-201",
+  "docName": "062500050K5-201",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K5-201",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:21:13.498Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/5-201",
+  "headingText": "Sec. 5-201. Transporters must apply for in-transit plates.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/5-201) (from Ch. 95 1/2, par. 5-201)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 5-201. Transporters must apply for in-transit plates."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) No person shall engage in this State in the business as a transporter until such person shall apply for and receive from the Secretary of State a generally distinctive set of two \"in-transit license plates\" for any vehicle so transported by him."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) An application for a generally distinctive number under this Article shall be filed with the Secretary of State, duly verified by oath and in such form as the Secretary of State may by rule or regulation prescribe and shall contain the name and business address of such person, the certificate, registration or permit number issued by the Illinois Commerce Commission and such other information concerning the business of the applicant as the Secretary of State may by rule or regulation prescribe. If the applicant does not hold a certificate, registration or permit from the Illinois Commerce Commission to so transport, such application shall be denied."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) An application for a generally distinctive set of two \"in-transit license plates\" shall be accompanied by the prescribed fee. Upon the payment of such license fee, such application shall be filed and recorded in the office of the Secretary of State. Thereupon the Secretary of State shall assign and issue to such person a generally distinctive number and without any further expense to him shall deliver to such person at his business address a certificate of registration in such form as the Secretary of State may prescribe and one set of two \"in-transit license plates\" with a number corresponding to the number of such certificate of registration. Such in-transit plates shall be used by such person only on vehicles transported, but not owned, by him."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) Except as provided in sub-section (3) hereof, all certificates of registration and \"in-transit plates\" granted under this Section shall expire by operation of law on December 31 of the calendar year for which they are granted unless sooner revoked under the provisions of Section 5-501 of this Chapter."
+    },
+    {
+      "type": "subsection",
+      "label": "(e)",
+      "text": "(e) A certificate of registration under this Article may be renewed upon application and payment of the fee required herein as in the case of an original application, provided, however, that in case an application for renewal of an effective registration is made during the month of December, such existing registration shall remain in force until such application for renewal is granted by the Secretary of State."
+    },
+    {
+      "type": "subsection",
+      "label": "(f)",
+      "text": "(f) Any person registered as a transporter under the Article may make application for additional duplicate sets of \"in-transit plates\" on such form as the Secretary of State may by rule or regulation prescribe, from time to time to obtain as many duplicate sets of \"in-transit plates\" as he may desire upon payment of the prescribed fee for each set. Such duplicate plates shall bear the number of that person's original certificate of registration."
+    },
+    {
+      "type": "subsection",
+      "label": "(g)",
+      "text": "(g) In case of loss or destruction of one license plate issued to a transporter under this Section such transporter may obtain a duplicate of the same by filing an affidavit to that effect with the Secretary of State, accompanied by the prescribed fee."
+    },
+    {
+      "type": "subsection",
+      "label": "(h)",
+      "text": "(h) An original \"in-transit plate\" or a duplicate shall be attached to the front and rear of each vehicle so transported in this State; provided, that if one such vehicle is towing another such vehicle, one plate or duplicate plate shall be attached to the front of the towing vehicle and one such plate to the rear of the rearmost towed vehicle."
+    },
+    {
+      "type": "subsection",
+      "label": "(i)",
+      "text": "(i) Anything in this Chapter to the contrary notwithstanding, the provisions of this Section shall not apply to a non-resident engaged in such business and using the public highways of this State if he has an \"in-transit plate\" or license from the State, foreign country or province, territory or federal district of which he is a resident and such State, country, province, territory or district grants a like exemption to residents of this State."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 76-1586.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 76-1586.)",
+  "publicActs": [
+    {
+      "publicAct": "76-1586",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "df8b3eb849b6d3a7a338635c5956a203e372bbe9b49f50b0a24b54cb477e0e33",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0094"
+  ]
+}

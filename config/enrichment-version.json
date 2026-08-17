@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "ilga-statutory-enrichment-v1",
+  "description": "Governance manifest for the statutory enrichment layer: statutory text retrieved from the Illinois General Assembly and joined to the frozen 2024 source corpus. This layer never modifies src/data/offense-codes.json.",
+  "ilga": {
+    "publisher": "Illinois General Assembly",
+    "urlTemplate": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName={docName}",
+    "templateVerifiedOn": "2026-08-17",
+    "templateVerifiedBy": "scripts/ilga-probe.mjs",
+    "notes": "ILGA answers HTTP 200 with an in-band 'not currently available' notice for sections that do not exist, so HTTP status is not a validity signal. Validity is established by the citation echoed in the embedded document title. The legacy fulltext.asp path returned 404 for every probed section on 2026-08-17."
+  },
+  "affiliation": {
+    "status": "none",
+    "statement": "This project is not operated by, endorsed by, or affiliated with the Illinois General Assembly, the Illinois Secretary of State, or the Illinois State Police. Official links are references only."
+  },
+  "corpusRef": {
+    "path": "src/data/offense-codes.json",
+    "sha256": "e036cc4e77e8378f5a80228f15b8e1b3950c9c76a77c9b2cd88ed63ef407d94a",
+    "recordCount": 953
+  },
+  "review": {
+    "status": "machine-retrieved-pending-human-review",
+    "statement": "Statutory text in this layer was retrieved and fingerprinted automatically. Automated retrieval establishes what ILGA published on a given date; it does not constitute legal review, and no record in this layer is certified as current law.",
+    "humanReviewedRecordCount": 0
+  }
+}

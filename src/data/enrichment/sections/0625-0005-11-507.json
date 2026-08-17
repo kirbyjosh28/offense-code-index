@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-507",
+  "citation": "625 ILCS 5/11-507",
+  "docName": "062500050K11-507",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-507",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:16:58.216Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-507",
+  "headingText": "Sec. 11-507. Supervising a minor driver while under the influence of alcohol, other drug or drugs, intoxicating compound or compounds or any combination thereof.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-507)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-507. Supervising a minor driver while under the influence of alcohol, other drug or drugs, intoxicating compound or compounds or any combination thereof."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person shall not accompany or provide instruction, pursuant to subsection (a) of Section 6-107.1 of this Code, to a driver who is a minor and driving a motor vehicle pursuant to an instruction permit under Section 6-107.1 of this Code, while:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) the alcohol concentration in the person's blood, other bodily substance, or breath is 0.08 or more based on the definition of blood and breath units in Section 11-501.2 of this Code; (2) under the influence of alcohol;"
+    },
+    {
+      "type": "subsection",
+      "label": "(3)",
+      "text": "(3) under the influence of any intoxicating compound or combination of intoxicating compounds to a degree that renders the person incapable of properly supervising or providing instruction to the minor driver; (4) under the influence of any other drug or combination of drugs to a degree that renders the person incapable of properly supervising or providing instruction to the minor driver; (5) under the combined influence of alcohol, other drug or drugs, or intoxicating compound or compounds to a degree that renders the person incapable of properly supervising or providing instruction to the minor driver; or (6) there is any amount of a drug, substance, or compound in the person's breath, blood, other bodily substance, or urine resulting from the unlawful use or consumption of cannabis listed in the Cannabis Control Act, a controlled substance listed in the Illinois Controlled Substances Act, an intoxicating compound listed in the Use of Intoxicating Compounds Act, or methamphetamine as listed in the Methamphetamine Control and Community Protection Act. (b) A person found guilty of violating this Section is guilty of an offense against the regulations governing the movement of vehicles."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 99-697, eff. 7-29-16.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 99-697, eff. 7-29-16.)",
+  "publicActs": [
+    {
+      "publicAct": "99-697",
+      "effectiveDate": "7-29-16"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "598fd49e1c15064db7e5dd34eeedd7418a5aa299d07f28f9d02a831a26fe8c3f",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0214"
+  ]
+}

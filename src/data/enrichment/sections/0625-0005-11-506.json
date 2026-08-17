@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-506",
+  "citation": "625 ILCS 5/11-506",
+  "docName": "062500050K11-506",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-506",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:16:56.713Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-506",
+  "headingText": "Sec. 11-506. Street racing; aggravated street racing; street sideshows.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-506)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-506. Street racing; aggravated street racing; street sideshows."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) No person shall engage in street racing on any street or highway of this State."
+    },
+    {
+      "type": "paragraph",
+      "text": "(a-5) No person shall engage in a street sideshow on any street or highway of this State."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) No owner of any vehicle shall acquiesce in or permit his or her vehicle to be used by another for the purpose of street racing or a street sideshow."
+    },
+    {
+      "type": "paragraph",
+      "text": "(b-5) A person may not knowingly interfere with or cause the movement of traffic to slow or stop for the purpose of facilitating street racing or a street sideshow."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) For the purposes of this Section:"
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Acquiesce\" or \"permit\" means actual knowledge that the motor vehicle was to be used for the purpose of street racing or a street sideshow."
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Motor vehicle stunt\" includes, but is not limited to, operating a vehicle in a manner that causes the vehicle to slide or spin, driving within the proximity of a gathering of persons, performing maneuvers to demonstrate the performance capability of the motor vehicle, or maneuvering the vehicle in an attempt to elicit a reaction from a gathering of persons."
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Street racing\" means:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) The operation of 2 or more vehicles from a point side by side at accelerating speeds in a competitive attempt to outdistance each other; or (2) The operation of one or more vehicles over a common selected course, each starting at the same point, for the purpose of comparing the relative speeds or power of acceleration of such vehicle or vehicles within a certain distance or time limit; or (3) The use of one or more vehicles in an attempt to outgain or outdistance another vehicle; or (4) The use of one or more vehicles to prevent another vehicle from passing; or (5) The use of one or more vehicles to arrive at a given destination ahead of another vehicle or vehicles; or (6) The use of one or more vehicles to test the physical stamina or endurance of drivers over long-distance driving routes. \"Street sideshow\" means an event in which one or more vehicles block or impede traffic on a street or highway, for the purpose of performing unauthorized motor vehicle stunts, motor vehicle speed contests, or motor vehicle exhibitions of speed."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) Penalties."
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) Any person who is convicted of a violation of subsection (a), (a-5), or (b-5) shall be guilty of a Class A misdemeanor for the first offense and shall be subject to a minimum fine of $250. Any person convicted of a violation of subsection (a), (a-5), or (b-5) a second or subsequent time shall be guilty of a Class 4 felony and shall be subject to a minimum fine of $500. The driver's license of any person convicted of subsection (a) shall be revoked in the manner provided by Section 6-205 of this Code. (2) Any person who is convicted of a violation of subsection (b) shall be guilty of a Class B misdemeanor. Any person who is convicted of subsection (b) for a second or subsequent time shall be guilty of a Class A misdemeanor. (3) Every person convicted of committing a violation of subsection (a) of this Section shall be guilty of aggravated street racing if the person, in committing a violation of subsection (a) was involved in a motor vehicle crash that resulted in great bodily harm or permanent disability or disfigurement to another, where the violation was a proximate cause of the injury. Aggravated street racing is a Class 4 felony for which the defendant, if sentenced to a term of imprisonment, shall be sentenced to not less than one year nor more than 12 years. (Source: P.A. 102-733, eff. 1-1-23; 102-982, eff. 7-1-23; 103-154, eff. 6-30-23; 103-706, eff. 1-1-25.)"
+    }
+  ],
+  "sourceLine": null,
+  "publicActs": [],
+  "repealed": false,
+  "bodyHash": "8faf8ca99b26d105c998b1236e09dcaf9a45671950a57e321bfba40a90b13790",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0213"
+  ]
+}

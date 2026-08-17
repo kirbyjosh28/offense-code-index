@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-15-106",
+  "citation": "625 ILCS 5/15-106",
+  "docName": "062500050K15-106",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K15-106",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:19:35.897Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/15-106",
+  "headingText": "Sec. 15-106. Protruding members of vehicles.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/15-106) (from Ch. 95 1/2, par. 15-106)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 15-106. Protruding members of vehicles."
+    },
+    {
+      "type": "paragraph",
+      "text": "No vehicle with boom, arm, drill rig or other protruding component shall be operated upon any highway in this State unless such protruding component is fastened so as to prevent shifting, bouncing or moving in any manner."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 92-417, eff. 1-1-02.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 92-417, eff. 1-1-02.)",
+  "publicActs": [
+    {
+      "publicAct": "92-417",
+      "effectiveDate": "1-1-02"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "988a81348af192bd0d98c65e4729ae3155e5ec1cc3fd4c43e77a257cc57ca2ce",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0434"
+  ]
+}

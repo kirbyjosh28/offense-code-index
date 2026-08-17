@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-6-515",
+  "citation": "625 ILCS 5/6-515",
+  "docName": "062500050K6-515",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K6-515",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:22:07.562Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/6-515",
+  "headingText": "Sec. 6-515. Prohibitions against a person driving a commercial motor vehicle while having any alcohol, other drug, or both in such person's system.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/6-515) (from Ch. 95 1/2, par. 6-515)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 6-515. Prohibitions against a person driving a commercial motor vehicle while having any alcohol, other drug, or both in such person's system."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) Notwithstanding any other provisions of this Code, a person shall not drive a commercial motor vehicle while having any alcohol, other drug, or both in such person's system."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) A person who drives a commercial motor vehicle while having any alcohol, other drug, or both, in such person's system or who refuses to submit to or fails to complete an alcohol or other drug test or tests pursuant to Section 6-517, as evidenced by the issuance of a Sworn Report by a police officer, must be placed \"out-of-service\" for at least 24 hours."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) The police officer shall provide the Secretary of State with a copy of all Sworn Reports issued pursuant to this UCDLA."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) The \"out-of-service\" referred to in this Section shall not be entered to the record of any Illinois commercial motor vehicle driver, by the Secretary of State, unless the prohibited action or actions occurred after March 31, 1992."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 88-212.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 88-212.)",
+  "publicActs": [
+    {
+      "publicAct": "88-212",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "e9a8a2541c0514bce8508334d79f3b5afd4e443ba9181d8ca481e4a0a3fa15e8",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0167"
+  ]
+}

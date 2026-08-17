@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-1204",
+  "citation": "625 ILCS 5/11-1204",
+  "docName": "062500050K11-1204",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-1204",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:15:01.080Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-1204",
+  "headingText": "Sec. 11-1204. Stop and yield signs.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-1204) (from Ch. 95 1/2, par. 11-1204)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-1204. Stop and yield signs."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) Preferential right-of-way at an intersection may be indicated by stop signs or yield signs as authorized in Section 11-302 of this Act."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Except when directed to proceed by a police officer or traffic control signal, every driver of a vehicle and every motorman of a streetcar approaching a stop intersection indicated by a stop sign shall stop at a clearly marked stop line, but if none, before entering the crosswalk on the near side of the intersection, or if none, then at the point nearest the intersection roadway where the driver has a view of approaching traffic on the intersecting roadway before entering the intersection."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) The driver of a vehicle approaching a yield sign if required for safety to stop shall stop at a clearly marked stop line, but if none, before entering the crosswalk on the near side of the intersection, or if none, then at the point nearest the intersecting roadway where the driver has a view of approaching traffic on the intersecting roadway."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 103-706, eff. 1-1-25; 104-577, eff. 7-16-26.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 103-706, eff. 1-1-25; 104-577, eff. 7-16-26.)",
+  "publicActs": [
+    {
+      "publicAct": "103-706",
+      "effectiveDate": "1-1-25"
+    },
+    {
+      "publicAct": "104-577",
+      "effectiveDate": "7-16-26"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "d645d9dcaafe9ca43f1536cda714e78930381ca1aa8475de127666f56cd27f9e",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0270",
+    "offense-0271"
+  ]
+}

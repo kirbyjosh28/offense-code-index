@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-3-113",
+  "citation": "625 ILCS 5/3-113",
+  "docName": "062500050K3-113",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K3-113",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:20:08.927Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/3-113",
+  "headingText": "Sec. 3-113. Transfer to or from dealer; records.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/3-113) (from Ch. 95 1/2, par. 3-113)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 3-113. Transfer to or from dealer; records."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) After a dealer buys a vehicle and holds it for resale, the dealer must procure the certificate of title from the owner or the lienholder. The dealer may hold the certificate until he or she transfers the vehicle to another person. Upon transferring the vehicle to another person, the dealer shall promptly and within 20 days execute the assignment and warranty of title by a dealer, showing the names and addresses of the transferee and of any lienholder holding a security interest created or reserved at the time of the resale, in the spaces provided therefor on the certificate or as the Secretary of State prescribes, and mail or deliver the certificate to the Secretary of State with the transferee's application for a new certificate, except as provided in Section 3-117.2. A dealer has complied with this Section if the date of the mailing of the certificate, as indicated by the postmark, is within 20 days of the date on which the vehicle was transferred to another person."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) The Secretary of State may decline to process any application for a transfer of an interest in a vehicle if any fees or taxes due under this Code from the transferor or the transferee have not been paid upon reasonable notice and demand."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Any person who violates this Section shall be guilty of a petty offense."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) Beginning January 1, 2014 and continuing until 90 days after the effective date of this amendatory Act of the 102nd General Assembly, the Secretary of State is authorized to impose a delinquent vehicle dealer transfer fee of $20 if the certificate of title is received by the Secretary from the dealer 30 days but less than 60 days after the date of sale; however, if the certificate of title is received by the Secretary from the dealer 60 days but less than 90 days after the date of sale, the delinquent dealer transfer fee shall be $35. Beginning 90 days after the effective date of this amendatory Act of the 102nd General Assembly, the Secretary of State is authorized to impose a delinquent vehicle dealer transfer fee of $10 if the certificate of title is received by the Secretary from the dealer more than 45 days but less than 60 days after the date of sale; however, if the certificate of title is received by the Secretary from the dealer 60 or more days but less than 90 days after the date of sale, the delinquent dealer transfer fee shall be $20. If the certificate of title is received by the Secretary from the dealer 90 or more days but less than 120 days after the date of sale, the delinquent vehicle dealer transfer fee shall be $65. If the certificate of title is received by the Secretary from the dealer 120 days or more after the date of the sale, the delinquent vehicle dealer transfer fee shall be $100. All monies collected under this subsection shall be deposited into the CDLIS/AAMVAnet/NMVTIS Trust Fund."
+    },
+    {
+      "type": "subsection",
+      "label": "(e)",
+      "text": "(e) Beginning January 1, 2022, the Secretary of State is authorized to issue a certificate of title in the name of the dealership to a licensed dealer under Chapter 5 for $20 if the surrendered certificate of title has no space to assign the certificate of title again."
+    },
+    {
+      "type": "subsection",
+      "label": "(f)",
+      "text": "(f) Any licensee under Chapter 5 who sells, transfers, or wholesales a vehicle out of State shall mail the certificate of title to the physical business address in the requisite jurisdiction in lieu of transferring title at the time of sale."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 102-154, eff. 1-1-22; 102-845, eff. 1-1-23.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 102-154, eff. 1-1-22; 102-845, eff. 1-1-23.)",
+  "publicActs": [
+    {
+      "publicAct": "102-154",
+      "effectiveDate": "1-1-22"
+    },
+    {
+      "publicAct": "102-845",
+      "effectiveDate": "1-1-23"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "9426bc8f2ad2987c5251172cc9d3c718c72c9af64a12406c8c9b0571bdd12766",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0004"
+  ]
+}

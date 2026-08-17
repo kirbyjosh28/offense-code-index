@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-905",
+  "citation": "625 ILCS 5/11-905",
+  "docName": "062500050K11-905",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-905",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:17:40.252Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-905",
+  "headingText": "Sec. 11-905. Merging traffic. Notwithstanding the right-of-way provision in Section 11-901 of this Act, at an intersection where traffic lanes are provided for merging traffic the driver of each vehicle on the converging roadways is required to adjust his vehicular speed and lateral position so as to avoid a collision with another vehicle.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-905) (from Ch. 95 1/2, par. 11-905)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-905. Merging traffic. Notwithstanding the right-of-way provision in Section 11-901 of this Act, at an intersection where traffic lanes are provided for merging traffic the driver of each vehicle on the converging roadways is required to adjust his vehicular speed and lateral position so as to avoid a collision with another vehicle."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 100-201, eff. 8-18-17.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 100-201, eff. 8-18-17.)",
+  "publicActs": [
+    {
+      "publicAct": "100-201",
+      "effectiveDate": "8-18-17"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "79774162fdf6ffa2fd88822efa9f23667b6fe422893bb2f18018d545d98f0845",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0251"
+  ]
+}

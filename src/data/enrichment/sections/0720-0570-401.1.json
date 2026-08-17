@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0570-401.1",
+  "citation": "720 ILCS 570/401.1",
+  "docName": "072005700K401.1",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072005700K401.1",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:31:00.639Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 570/401.1",
+  "headingText": "Sec. 401.1. Controlled Substance Trafficking.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 570/401.1) (from Ch. 56 1/2, par. 1401.1)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 401.1. Controlled Substance Trafficking."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) Except for purposes as authorized by this Act, any person who knowingly brings or causes to be brought into this State for the purpose of manufacture or delivery or with the intent to manufacture or deliver a controlled substance other than methamphetamine or counterfeit substance in this or any other state or country is guilty of controlled substance trafficking."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) A person convicted of controlled substance trafficking shall be sentenced to a term of imprisonment not less than twice the minimum term and fined an amount as authorized by Section 401 of this Act, based upon the amount of controlled or counterfeit substance brought or caused to be brought into this State, and not more than twice the maximum term of imprisonment and fined twice the amount as authorized by Section 401 of this Act, based upon the amount of controlled or counterfeit substance brought or caused to be brought into this State."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) It shall be a Class 2 felony for which a fine not to exceed $100,000 may be imposed for any person to knowingly use a cellular radio telecommunication device in the furtherance of controlled substance trafficking. This penalty shall be in addition to any other penalties imposed by law."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 94-556, eff. 9-11-05.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 94-556, eff. 9-11-05.)",
+  "publicActs": [
+    {
+      "publicAct": "94-556",
+      "effectiveDate": "9-11-05"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "4f67918ee41e57ac6278dbeec3ce3fa27db68e5ce0e3ea1dd03a41e91c3ceb86",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0929"
+  ]
+}

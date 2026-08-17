@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-11-6.6",
+  "citation": "720 ILCS 5/11-6.6",
+  "docName": "072000050K11-6.6",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K11-6.6",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:23:57.196Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/11-6.6",
+  "headingText": "Sec. 11-6.6. Solicitation to meet a child.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/11-6.6)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-6.6. Solicitation to meet a child."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person of the age of 18 or more years commits the offense of solicitation to meet a child if the person while using a computer, cellular telephone, or any other device, with the intent to meet a child or one whom he or she believes to be a child, solicits, entices, induces, or arranges with the child to meet at a location without the knowledge of the child's parent or guardian and the meeting with the child is arranged for a purpose other than a lawful purpose under Illinois law."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Sentence. Solicitation to meet a child is a Class A misdemeanor. Solicitation to meet a child is a Class 4 felony when the solicitor believes he or she is 5 or more years older than the child."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) For purposes of this Section, \"child\" means any person under 17 years of age; and \"computer\" has the meaning ascribed to it in Section 17-0.5 of this Code."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 101-87, eff. 1-1-20.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 101-87, eff. 1-1-20.)",
+  "publicActs": [
+    {
+      "publicAct": "101-87",
+      "effectiveDate": "1-1-20"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "02b0303bf813d611594e0ecf956cfc71166ec936a41d0863f49cf2596c1da2f8",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0579"
+  ]
+}

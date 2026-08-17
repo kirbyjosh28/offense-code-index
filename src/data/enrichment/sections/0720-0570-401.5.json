@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0570-401.5",
+  "citation": "720 ILCS 570/401.5",
+  "docName": "072005700K401.5",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072005700K401.5",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:31:02.138Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 570/401.5",
+  "headingText": "Sec. 401.5. Chemical breakdown of illicit controlled substance.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 570/401.5)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 401.5. Chemical breakdown of illicit controlled substance."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) It is unlawful for any person to manufacture a controlled substance other than methamphetamine prohibited by this Act by chemically deriving the controlled substance from one or more other controlled substances prohibited by this Act."
+    },
+    {
+      "type": "paragraph",
+      "text": "(a-5) It is unlawful for any person to possess any substance with the intent to use the substance to facilitate the manufacture of any controlled substance other than methamphetamine, any counterfeit substance, or any controlled substance analog other than as authorized by this Act."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) A violation of this Section is a Class 4 felony."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) (Blank)."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 94-556, eff. 9-11-05.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 94-556, eff. 9-11-05.)",
+  "publicActs": [
+    {
+      "publicAct": "94-556",
+      "effectiveDate": "9-11-05"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "62186b2ff5ffd8a7942dba27564b4750a269711e8b5837f8ee3ad37f2345f87b",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0930"
+  ]
+}

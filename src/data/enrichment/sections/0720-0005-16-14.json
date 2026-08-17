@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-16-14",
+  "citation": "720 ILCS 5/16-14",
+  "docName": "072000050K16-14",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K16-14",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:25:30.301Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/16-14",
+  "headingText": "Sec. 16-14. Theft of utility services.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/16-14) (from Ch. 38, par. 16-14)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 16-14. Theft of utility services."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits theft of utility services when he or she knowingly, without authority, diverts or interferes with any public water, gas, power supply, or other public services or installs any device with the intent to divert or interfere with any public water, gas, power supply, or other public services without the authority of the owner or entity furnishing or transmitting such product or services."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Sentence."
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) Except as provided in paragraph (3), a violation of this Section is a Class A misdemeanor unless the offense was committed for remuneration, in which case it is a Class 4 felony. (2) Except as provided in paragraph (3), a second or subsequent violation of this Section is a Class 4 felony. (3) If the offense causes disruption of the public utility services or delay in the restoration of the public utility services to 10 or more customers or affects an area of more than one square mile, a violation of this Section is a Class 2 felony. (c) This Section does not apply to the theft of telecommunication services."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 97-597, eff. 1-1-12.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 97-597, eff. 1-1-12.)",
+  "publicActs": [
+    {
+      "publicAct": "97-597",
+      "effectiveDate": "1-1-12"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "4f50b2bc7b17a3ae2a7dccadc1c462477f821822d34b973471d974c8a060cfed",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0673"
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-908",
+  "citation": "625 ILCS 5/11-908",
+  "docName": "062500050K11-908",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-908",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:17:46.264Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-908",
+  "headingText": "Sec. 11-908. Vehicle approaching or entering a highway construction or maintenance area or zone.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-908) (from Ch. 95 1/2, par. 11-908)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-908. Vehicle approaching or entering a highway construction or maintenance area or zone."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) The driver of a vehicle shall yield the right-of-way to any authorized vehicle or pedestrian actually engaged in work upon a highway within any highway construction or maintenance area indicated by official traffic-control devices."
+    },
+    {
+      "type": "paragraph",
+      "text": "(a-1) Upon entering a construction or maintenance zone when workers are present, a person who drives a vehicle shall:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) proceeding with due caution, yield the right-of-way by making a lane change into a lane not adjacent to that of the workers present, if possible with due regard to safety and traffic conditions, if on a highway having at least 4 lanes with not less than 2 lanes proceeding in the same direction as the approaching vehicle, and reduce the speed of the vehicle to a speed that is reasonable and proper with regard to traffic conditions and the use of the highway to avoid a collision and leaving a safe distance until safely past the construction or maintenance zone; or (2) proceeding with due caution, reduce the speed of the vehicle to a speed that is reasonable and proper with regard to traffic conditions and the use of the highway to avoid a collision until safely past the construction or maintenance zone, maintaining a safe speed for road conditions, if changing lanes would be impossible or unsafe. (a-2) A person who violates subsection (a-1) of this Section commits a business offense punishable by a fine of not less than $100 and not more than $25,000. It is a factor in aggravation if the person committed the offense while in violation of Section 11-501 of this Code."
+    },
+    {
+      "type": "paragraph",
+      "text": "(a-3) If a violation of subsection (a-1) of this Section results in damage to the property of another person, in addition to any other penalty imposed, the person's driving privileges shall be suspended for a fixed period of not less than 90 days and not more than one year."
+    },
+    {
+      "type": "paragraph",
+      "text": "(a-4) If a violation of subsection (a-1) of this Section results in injury to another person, in addition to any other penalty imposed, the person's driving privileges shall be suspended for a fixed period of not less than 180 days and not more than 2 years."
+    },
+    {
+      "type": "paragraph",
+      "text": "(a-5) If a violation of subsection (a-1) of this Section results in the death of another person, in addition to any other penalty imposed, the person's driving privileges shall be suspended for 2 years."
+    },
+    {
+      "type": "paragraph",
+      "text": "(a-6) The Secretary of State shall, upon receiving a record of a judgment entered against a person under subsection (a-1) of this Section:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) suspend the person's driving privileges for the mandatory period; or (2) extend the period of an existing suspension by the appropriate mandatory period. (b) The driver of a vehicle shall yield the right-of-way to any authorized vehicle obviously and actually engaged in work upon a highway whenever the vehicle engaged in construction or maintenance work displays flashing lights as provided in Section 12-215 of this Act."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) The driver of a vehicle shall stop if signaled to do so by a flagger or a traffic control signal and remain in such position until signaled to proceed. If a driver of a vehicle fails to stop when signaled to do so by a flagger, the flagger is authorized to report such offense to the State's Attorney or authorized prosecutor. The penalties imposed for a violation of this subsection (c) shall be in addition to any penalties imposed for a violation of subsection (a-1)."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 103-711, eff. 1-1-25.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 103-711, eff. 1-1-25.)",
+  "publicActs": [
+    {
+      "publicAct": "103-711",
+      "effectiveDate": "1-1-25"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "4d57c22e50797fa093423d3296980a0e6e19e08ae4ec91803acaa1337baf1f06",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0256",
+    "offense-0257"
+  ]
+}

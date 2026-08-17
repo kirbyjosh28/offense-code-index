@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-29B-1",
+  "citation": "720 ILCS 5/29B-1",
+  "docName": "072000050K29B-1",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K29B-1",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:28:51.504Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/29B-1",
+  "headingText": "Sec. 29B-1. Money laundering.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/29B-1) (from Ch. 38, par. 29B-1)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 29B-1. Money laundering."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits the offense of money laundering:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) when, knowing that the property involved in a financial transaction represents the proceeds of some form of unlawful activity, he or she conducts or attempts to conduct the financial transaction which in fact involves criminally derived property: (A) with the intent to promote the carrying on of the unlawful activity from which the criminally derived property was obtained; or (B) where he or she knows or reasonably should know that the financial transaction is designed in whole or in part: (i) to conceal or disguise the nature, the location, the source, the ownership or the control of the criminally derived property; or (ii) to avoid a transaction reporting requirement under State law; or (1.5) when he or she transports, transmits, or transfers, or attempts to transport, transmit, or transfer a monetary instrument: (A) with the intent to promote the carrying on of the unlawful activity from which the criminally derived property was obtained; or (B) knowing, or having reason to know, that the financial transaction is designed in whole or in part: (i) to conceal or disguise the nature, the location, the source, the ownership or the control of the criminally derived property; or (ii) to avoid a transaction reporting requirement under State law; or (2) when, with the intent to:"
+    },
+    {
+      "type": "subsection",
+      "label": "(A)",
+      "text": "(A) promote the carrying on of a specified criminal activity as defined in this Article; or (B) conceal or disguise the nature, location, source, ownership, or control of property believed to be the proceeds of a specified criminal activity as defined in this Article; or (C) avoid a transaction reporting requirement under State law, he or she conducts or attempts to conduct a financial transaction involving property he or she believes to be the proceeds of specified criminal activity or property used to conduct or facilitate specified criminal activity as defined in this Article. (b) (Blank)."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Sentence."
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) Laundering of criminally derived property of a value not exceeding $10,000 is a Class 3 felony; (2) Laundering of criminally derived property of a value exceeding $10,000 but not exceeding $100,000 is a Class 2 felony; (3) Laundering of criminally derived property of a value exceeding $100,000 but not exceeding $500,000 is a Class 1 felony; (4) Money laundering in violation of subsection (a)(2) of this Section is a Class X felony; (5) Laundering of criminally derived property of a value exceeding $500,000 is a Class 1 non-probationable felony; (6) In a prosecution under clause (a)(1.5)(B)(ii) of this Section, the sentences are as follows: (A) Laundering of property of a value not exceeding $10,000 is a Class 3 felony; (B) Laundering of property of a value exceeding $10,000 but not exceeding $100,000 is a Class 2 felony; (C) Laundering of property of a value exceeding $100,000 but not exceeding $500,000 is a Class 1 felony; (D) Laundering of property of a value exceeding $500,000 is a Class 1 non-probationable felony.(Source: P.A. 99-480, eff. 9-9-15; 100-512, eff. 7-1-18; 100-699, eff. 8-3-18; 100-759, eff. 1-1-19; 100-1163, eff. 12-20-18.)"
+    }
+  ],
+  "sourceLine": null,
+  "publicActs": [],
+  "repealed": false,
+  "bodyHash": "e245d8420721e05b159ba506946cd64a64a5be5953093fe7490cbddf9c887db4",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0835"
+  ]
+}

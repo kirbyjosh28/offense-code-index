@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-6-526",
+  "citation": "625 ILCS 5/6-526",
+  "docName": "062500050K6-526",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K6-526",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:22:09.092Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/6-526",
+  "headingText": "Sec. 6-526. Prohibition against texting.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/6-526)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 6-526. Prohibition against texting."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A driver may not engage in texting while driving a commercial motor vehicle."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) A motor carrier may not allow or require its drivers to engage in texting while driving a commercial motor vehicle."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) For the purpose of this Section, when a person is operating a commercial motor vehicle, driving means operating a commercial motor vehicle on a highway, including while temporarily stationary because of traffic, a traffic control device, or other momentary delays. Driving does not include operating a commercial motor vehicle when the driver has moved the vehicle to the side of, or off, a highway and has halted in a location where the vehicle can safely remain stationary."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) Texting while driving is permissible by a driver of a commercial motor vehicle when necessary to communicate with law enforcement officials or other emergency services."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 97-829, eff. 1-1-13.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 97-829, eff. 1-1-13.)",
+  "publicActs": [
+    {
+      "publicAct": "97-829",
+      "effectiveDate": "1-1-13"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "47889a002dbf8e3fe88deed24de344caceb6df3d0cbf5c7c9b24cb698e4a1d6e",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0168"
+  ]
+}

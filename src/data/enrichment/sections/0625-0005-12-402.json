@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-12-402",
+  "citation": "625 ILCS 5/12-402",
+  "docName": "062500050K12-402",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K12-402",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:18:13.316Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/12-402",
+  "headingText": "Sec. 12-402. Sale or lease of siped or regrooved pneumatic tire. No person or organization shall sell or lease or offer for sale or lease, for use on a highway, any pneumatic tire, either original tread or retread, on which the tread is siped or regrooved to a depth equal to or deeper than the molded groove depth, unless the tire was constructed or retreaded with sufficient tread material and type of labels to permit such siping or regrooving. Such labels and siping or regrooving shall be in compliance with Part 569 of Title 49 of the Code of Federal Regulations, and after siping or regrooving the tire shall conform to that Part.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/12-402) (from Ch. 95 1/2, par. 12-402)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 12-402. Sale or lease of siped or regrooved pneumatic tire. No person or organization shall sell or lease or offer for sale or lease, for use on a highway, any pneumatic tire, either original tread or retread, on which the tread is siped or regrooved to a depth equal to or deeper than the molded groove depth, unless the tire was constructed or retreaded with sufficient tread material and type of labels to permit such siping or regrooving. Such labels and siping or regrooving shall be in compliance with Part 569 of Title 49 of the Code of Federal Regulations, and after siping or regrooving the tire shall conform to that Part."
+    },
+    {
+      "type": "paragraph",
+      "text": "For the purpose of this Article, siped shall mean cut without removing material, and regrooved shall mean the tread groove pattern is renewed, or a new pattern generated, or both, without additional tread material being added."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 83-213.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 83-213.)",
+  "publicActs": [
+    {
+      "publicAct": "83-213",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "eca916bc38351446ceef15a215ab97be1e5e9a88cc127e96a3584704017b3f96",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0359"
+  ]
+}

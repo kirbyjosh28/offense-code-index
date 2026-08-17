@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-31-1a",
+  "citation": "720 ILCS 5/31-1a",
+  "docName": "072000050K31-1a",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K31-1a",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:29:09.516Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/31-1a",
+  "headingText": "Sec. 31-1a. Disarming a peace officer or correctional institution employee.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/31-1a) (from Ch. 38, par. 31-1a)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 31-1a. Disarming a peace officer or correctional institution employee."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person who, without the consent of a peace officer or correctional institution employee as defined in subsection (b) of Section 31-1, takes a weapon from a person known to him or her to be a peace officer or correctional institution employee, while the peace officer or correctional institution employee is engaged in the performance of his or her official duties or from an area within the peace officer's or correctional institution employee's immediate presence is guilty of a Class 1 felony."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) A person who, without the consent of a peace officer or correctional institution employee as defined in subsection (b) of Section 31-1, attempts to take a weapon from a person known to him or her to be a peace officer or correctional institution employee, while the peace officer or correctional institution employee is engaged in the performance of his or her official duties or from an area within the peace officer's or correctional institution employee's immediate presence is guilty of a Class 2 felony."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 96-348, eff. 8-12-09.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 96-348, eff. 8-12-09.)",
+  "publicActs": [
+    {
+      "publicAct": "96-348",
+      "effectiveDate": "8-12-09"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "c64c2da92dab1c5f0ddfd126e766d30b2e41c65c16e1c1945cfaebefc4492085",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0847"
+  ]
+}

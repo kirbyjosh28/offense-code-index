@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-30-3",
+  "citation": "720 ILCS 5/30-3",
+  "docName": "072000050K30-3",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K30-3",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:29:06.521Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/30-3",
+  "headingText": "Sec. 30-3. Advocating overthrow of Government.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/30-3) (from Ch. 38, par. 30-3)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 30-3. Advocating overthrow of Government."
+    },
+    {
+      "type": "paragraph",
+      "text": "A person who advocates, or with knowledge of its contents knowingly publishes, sells or distributes any document which advocates or with knowledge of its purpose, knowingly becomes a member of any organization which advocates the overthrow or reformation of the existing form of government of this State by violence or unlawful means commits a Class 3 felony."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 77-2638.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 77-2638.)",
+  "publicActs": [
+    {
+      "publicAct": "77-2638",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "97a8dd4fb3223d86592134601dcd011109ac25bfdb3cfa1acbc90455056ffe56",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0845"
+  ]
+}

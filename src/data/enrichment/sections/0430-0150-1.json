@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0430-0150-1",
+  "citation": "430 ILCS 150/1",
+  "docName": "043001500K1",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=043001500K1",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:14:22.044Z",
+  "transport": "cache",
+  "canonicalCitation": "430 ILCS 150/1",
+  "headingText": "Sec. 1. Whoever abandons or discards in any place accessible to children any refrigerator, icebox or ice chest, of a capacity of one and one-half cubic feet or more, which has an attached lid or door which may be opened or fastened shut by means of an attached latch, or who, being the owner, lessee, or manager of such place, knowingly permits such abandoned or discarded refrigerator, icebox or ice chest to remain there in such condition, shall be guilty of a Class C misdemeanor.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(430 ILCS 150/1) (was 720 ILCS 505/1)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 1. Whoever abandons or discards in any place accessible to children any refrigerator, icebox or ice chest, of a capacity of one and one-half cubic feet or more, which has an attached lid or door which may be opened or fastened shut by means of an attached latch, or who, being the owner, lessee, or manager of such place, knowingly permits such abandoned or discarded refrigerator, icebox or ice chest to remain there in such condition, shall be guilty of a Class C misdemeanor."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 77-2347.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 77-2347.)",
+  "publicActs": [
+    {
+      "publicAct": "77-2347",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "b055a0481ae9cf4183d7c7c52c2008ec593f91c1885476e94adff3a86fc9775d",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0536"
+  ]
+}

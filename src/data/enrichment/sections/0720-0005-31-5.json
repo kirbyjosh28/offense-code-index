@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-31-5",
+  "citation": "720 ILCS 5/31-5",
+  "docName": "072000050K31-5",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K31-5",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:29:15.527Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/31-5",
+  "headingText": "Sec. 31-5. Concealing or aiding a fugitive.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/31-5) (from Ch. 38, par. 31-5)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 31-5. Concealing or aiding a fugitive."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) Every person not standing in the relation of husband, wife, parent, child, brother or sister to the offender, who, with intent to prevent the apprehension of the offender, conceals his knowledge that an offense has been committed or harbors, aids or conceals the offender, commits a Class 4 felony."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Every person, 18 years of age or older, who, with intent to prevent the apprehension of the offender, aids or assists the offender, by some volitional act, in fleeing the municipality, county, State, country, or other defined jurisdiction in which the offender is to be arrested, charged, or prosecuted, commits a Class 4 felony."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 97-741, eff. 1-1-13.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 97-741, eff. 1-1-13.)",
+  "publicActs": [
+    {
+      "publicAct": "97-741",
+      "effectiveDate": "1-1-13"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "6f585c6c7a72dbd82e0d3ed873c3cd07c8bc5c95f23b26eff38ad6ab40fedc16",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0852"
+  ]
+}

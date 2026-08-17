@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0570-407.1",
+  "citation": "720 ILCS 570/407.1",
+  "docName": "072005700K407.1",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072005700K407.1",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:31:12.656Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 570/407.1",
+  "headingText": "Sec. 407.1. Any person 18 years of age or over who violates any subsection of Section 401, Section 404 or Section 405 by using, engaging or employing a person under 18 years of age to deliver a controlled, counterfeit or look-alike substance may be sentenced to imprisonment for a term up to three times the maximum amount authorized by the pertinent subsection of Section 401, Section 404 or Section 405.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 570/407.1) (from Ch. 56 1/2, par. 1407.1)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 407.1. Any person 18 years of age or over who violates any subsection of Section 401, Section 404 or Section 405 by using, engaging or employing a person under 18 years of age to deliver a controlled, counterfeit or look-alike substance may be sentenced to imprisonment for a term up to three times the maximum amount authorized by the pertinent subsection of Section 401, Section 404 or Section 405."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 91-297, eff. 1-1-00.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 91-297, eff. 1-1-00.)",
+  "publicActs": [
+    {
+      "publicAct": "91-297",
+      "effectiveDate": "1-1-00"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "1c748fa2a4632fb95cfff71fcb7102bafde201b20819cc14f44e73d860916d9e",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0937"
+  ]
+}

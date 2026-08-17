@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-708",
+  "citation": "625 ILCS 5/11-708",
+  "docName": "062500050K11-708",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-708",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:17:20.737Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-708",
+  "headingText": "Sec. 11-708. One-way roadways and rotary traffic islands. (a) The Department and local authorities, with respect to highways under their respective jurisdictions, may designate any highway, roadway, part of a roadway or specific lanes upon which vehicular traffic shall proceed in one direction at all or such times as shall be indicated by official traffic control devices.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-708) (from Ch. 95 1/2, par. 11-708)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-708. One-way roadways and rotary traffic islands. (a) The Department and local authorities, with respect to highways under their respective jurisdictions, may designate any highway, roadway, part of a roadway or specific lanes upon which vehicular traffic shall proceed in one direction at all or such times as shall be indicated by official traffic control devices."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Upon a roadway so designated for one-way traffic, a vehicle shall be driven only in the direction designated at all or such times as shall be indicated by official traffic control devices."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) A vehicle passing around a rotary traffic island must be driven only to the right of such island."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) Whenever any highway has been divided into 2 or more roadways by leaving an intervening space or by a physical barrier or a clearly indicated dividing section so constructed as to impede vehicular traffic, every vehicle must be driven only upon the right-hand roadway unless directed or permitted to use another roadway by official traffic-control devices or police officers. No vehicle may be driven over, across, or within any such dividing space, barrier, or section, except through an opening in the physical barrier, or dividing section, or space, or at a cross-over or intersection as established by public authority."
+    },
+    {
+      "type": "subsection",
+      "label": "(e)",
+      "text": "(e) The driver of a vehicle may turn left across a paved noncurbed dividing space unless prohibited by an official traffic-control device."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 84-873.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 84-873.)",
+  "publicActs": [
+    {
+      "publicAct": "84-873",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "ed44e5a5b7ca739b6130d428df4c25d7a58d949881382fd87e14605c79e146b2",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0237"
+  ]
+}

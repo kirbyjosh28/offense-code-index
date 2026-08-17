@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-12-714",
+  "citation": "625 ILCS 5/12-714",
+  "docName": "062500050K12-714",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K12-714",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:19:10.368Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/12-714",
+  "headingText": "Sec. 12-714. Possession and use of radar detection devices prohibited.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/12-714)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 12-714. Possession and use of radar detection devices prohibited."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) No person shall operate or be in actual physical control of a commercial motor vehicle as defined in Section 6-500(6) of this Code while the motor vehicle is equipped with any instrument designed to detect the presence of police radar for the purpose of monitoring vehicular speed."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Notwithstanding subsection (a) of this Section, a person operating a commercial motor vehicle as defined in Section 6-500(6) of this Code, who possesses within the vehicle a radar detecting device that is contained in a locked opaque box or similar container, or that is not in the passenger compartment of the vehicle, and that is not in operation, shall not be in violation of subsection (a) of this Section."
+    },
+    {
+      "type": "paragraph",
+      "text": "Any person found guilty of violating this Section shall be guilty of a petty offense. A minimum fine of $50 shall be imposed for a first offense and a minimum fine of $100 for a second or subsequent offense."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) The radar detection device or mechanism shall be seized by the law enforcement officer at the time of the violation if the offender has previously been convicted of violating this Section. This Section shall not be construed to authorize the permanent forfeiture to the State of any radar detection device or mechanism. Any such device or mechanism shall be taken and held for the period when needed as evidence. When no longer needed for evidence, the defendant may petition the court for the return of the device or mechanism; provided the defendant shall prove to the court by a preponderance of the evidence that the device or mechanism will be used only for a legitimate and lawful purpose."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) No commercial motor vehicle, or driver of such vehicle, shall be stopped or searched by any law enforcement officer solely on the basis of a violation or suspected violation of this Section."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 90-89, eff. 1-1-98.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 90-89, eff. 1-1-98.)",
+  "publicActs": [
+    {
+      "publicAct": "90-89",
+      "effectiveDate": "1-1-98"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "8e6a1e5ebdb277b006d7a430a65381b77a6a784627e93058910c594b53950e41",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0416"
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-907.5",
+  "citation": "625 ILCS 5/11-907.5",
+  "docName": "062500050K11-907.5",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-907.5",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:17:44.763Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-907.5",
+  "headingText": "Sec. 11-907.5. Approaching disabled vehicles.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-907.5)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-907.5. Approaching disabled vehicles."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) Upon approaching a disabled vehicle with lighted hazard lights on a highway having at least 4 lanes, of which at least 2 are proceeding in the same direction, a driver of a vehicle shall:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) proceeding with due caution, yield the right-of-way by making a lane change into a lane not adjacent to that of the disabled vehicle, if possible with due regard to safety and traffic conditions; or (2) if changing lanes would be impossible or unsafe proceeding with due caution, reduce the speed of the vehicle, maintaining a safe speed for road conditions and leaving a safe distance until safely past the stationary vehicles. (b) A person who violates subsection (a) of this Section commits a petty offense."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 101-173, eff. 1-1-20.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 101-173, eff. 1-1-20.)",
+  "publicActs": [
+    {
+      "publicAct": "101-173",
+      "effectiveDate": "1-1-20"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "25e1e3f50018a74b12d52d0cb9fd8c973189599e6c43207a3d71f7dcfec8279c",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0255"
+  ]
+}

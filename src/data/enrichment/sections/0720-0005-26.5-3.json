@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-26.5-3",
+  "citation": "720 ILCS 5/26.5-3",
+  "docName": "072000050K26.5-3",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K26.5-3",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:28:36.488Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/26.5-3",
+  "headingText": "Sec. 26.5-3. Harassment through electronic communications.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/26.5-3)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 26.5-3. Harassment through electronic communications."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits harassment through electronic communications when he or she uses electronic communication for any of the following purposes:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) Making any comment, request, suggestion or proposal which is obscene with an intent to offend; (2) Interrupting, with the intent to harass, the telephone service or the electronic communication service of any person; (3) Transmitting to any person, with the intent to harass and regardless of whether the communication is read in its entirety or at all, any file, document, or other communication which prevents that person from using his or her telephone service or electronic communications device; (4) Transmitting an electronic communication or knowingly inducing a person to transmit an electronic communication for the purpose of harassing another person who is under 13 years of age, regardless of whether the person under 13 years of age consents to the harassment, if the defendant is at least 16 years of age at the time of the commission of the offense; (5) Threatening injury to the person or to the property of the person to whom an electronic communication is directed or to any of his or her family or household members; or (6) Knowingly permitting any electronic communications device to be used for any of the purposes mentioned in this subsection (a). (b) Telecommunications carriers, commercial mobile service providers, and providers of information services, including, but not limited to, Internet service providers and hosting service providers, are not liable under this Section, except for willful and wanton misconduct, by virtue of the transmission, storage, or caching of electronic communications or messages of others or by virtue of the provision of other related telecommunications, commercial mobile services, or information services used by others in violation of this Section."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 97-1108, eff. 1-1-13.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 97-1108, eff. 1-1-13.)",
+  "publicActs": [
+    {
+      "publicAct": "97-1108",
+      "effectiveDate": "1-1-13"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "3397e3f8144ac9b1b9cb8ea401f27ee29734b454d854eaad4e0faf516748df88",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0825"
+  ]
+}

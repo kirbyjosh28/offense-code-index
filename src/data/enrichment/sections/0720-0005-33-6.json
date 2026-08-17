@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-33-6",
+  "citation": "720 ILCS 5/33-6",
+  "docName": "072000050K33-6",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K33-6",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:29:53.068Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/33-6",
+  "headingText": "Sec. 33-6. Bribery to obtain driving privileges.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/33-6)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 33-6. Bribery to obtain driving privileges."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits the offense of bribery to obtain driving privileges when:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) with intent to influence any act related to the issuance of any driver's license or permit by an employee of the Illinois Secretary of State's Office, or the owner or employee of any commercial driver training school licensed by the Illinois Secretary of State, or any other individual authorized by the laws of this State to give driving instructions or administer all or part of a driver's license examination, he or she promises or tenders to that person any property or personal advantage which that person is not authorized by law to accept; or (2) with intent to cause any person to influence any act related to the issuance of any driver's license or permit by an employee of the Illinois Secretary of State's Office, or the owner or employee of any commercial driver training school licensed by the Illinois Secretary of State, or any other individual authorized by the laws of this State to give driving instructions or administer all or part of a driver's license examination, he or she promises or tenders to that person any property or personal advantage which that person is not authorized by law to accept; or (3) as an employee of the Illinois Secretary of State's Office, or the owner or employee of any commercial driver training school licensed by the Illinois Secretary of State, or any other individual authorized by the laws of this State to give driving instructions or administer all or part of a driver's license examination, solicits, receives, retains, or agrees to accept any property or personal advantage that he or she is not authorized by law to accept knowing that such property or personal advantage was promised or tendered with intent to influence the performance of any act related to the issuance of any driver's license or permit; or (4) as an employee of the Illinois Secretary of State's Office, or the owner or employee of any commercial driver training school licensed by the Illinois Secretary of State, or any other individual authorized by the laws of this State to give driving instructions or administer all or part of a driver's license examination, solicits, receives, retains, or agrees to accept any property or personal advantage pursuant to an understanding that he or she shall improperly influence or attempt to influence the performance of any act related to the issuance of any driver's license or permit. (b) Sentence. Bribery to obtain driving privileges is a Class 2 felony."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 96-740, eff. 1-1-10; 96-962, eff. 7-2-10.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 96-740, eff. 1-1-10; 96-962, eff. 7-2-10.)",
+  "publicActs": [
+    {
+      "publicAct": "96-740",
+      "effectiveDate": "1-1-10"
+    },
+    {
+      "publicAct": "96-962",
+      "effectiveDate": "7-2-10"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "a7b9d252640ba53bd8bbc0766b1a928ab046e1ad3a6f07f8b8c0fce2fe95f673",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0881"
+  ]
+}

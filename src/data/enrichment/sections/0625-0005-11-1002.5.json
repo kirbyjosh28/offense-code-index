@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-1002.5",
+  "citation": "625 ILCS 5/11-1002.5",
+  "docName": "062500050K11-1002.5",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-1002.5",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:14:44.567Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-1002.5",
+  "headingText": "Sec. 11-1002.5. Pedestrians' right-of-way at crosswalks; school zones.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-1002.5)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-1002.5. Pedestrians' right-of-way at crosswalks; school zones."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) For the purpose of this Section, \"school\" has the meaning ascribed to that term in Section 11-605."
+    },
+    {
+      "type": "paragraph",
+      "text": "On a school day when school children are present and so close thereto that a potential hazard exists because of the close proximity of the motorized traffic and when traffic control signals are not in place or not in operation, the driver of a vehicle shall stop and yield the right-of-way to a pedestrian crossing the roadway within a crosswalk when the pedestrian is upon the half of the roadway upon which the vehicle is traveling, or when the pedestrian is approaching so closely from the opposite half of the roadway as to be in danger."
+    },
+    {
+      "type": "paragraph",
+      "text": "For the purpose of this Section, a school day shall begin at seven ante meridian and shall conclude at four post meridian."
+    },
+    {
+      "type": "paragraph",
+      "text": "This Section shall not be applicable unless appropriate signs are posted in accordance with Section 11-605."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) A first violation of this Section is a petty offense with a minimum fine of $150. A second or subsequent violation of this Section is a petty offense with a minimum fine of $300."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) (Blank)."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 100-987, eff. 7-1-19.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 100-987, eff. 7-1-19.)",
+  "publicActs": [
+    {
+      "publicAct": "100-987",
+      "effectiveDate": "7-1-19"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "26d1d1631d53d61a88e5663d51e772017d1b45d706e8087ab8f16a5dd90334cf",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0259"
+  ]
+}

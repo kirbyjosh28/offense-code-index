@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-12-604.1",
+  "citation": "625 ILCS 5/12-604.1",
+  "docName": "062500050K12-604.1",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K12-604.1",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:18:32.835Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/12-604.1",
+  "headingText": "Sec. 12-604.1. Video devices.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/12-604.1)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 12-604.1. Video devices."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person may not operate a motor vehicle if a television receiver, a video monitor, a television or video screen, or any other similar means of visually displaying a television broadcast or video signal that produces entertainment or business applications is operating and is located in the motor vehicle at any point forward of the back of the driver's seat, or is operating and visible to the driver while driving the motor vehicle."
+    },
+    {
+      "type": "paragraph",
+      "text": "(a-5) A person commits aggravated use of a video device when he or she violates subsection (a) and in committing the violation he or she was involved in a motor vehicle crash that results in great bodily harm, permanent disability, disfigurement, or death to another and the violation was a proximate cause of the injury or death."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) This Section does not apply to the following equipment, whether or not permanently installed in a vehicle:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) a vehicle information display;"
+    },
+    {
+      "type": "subsection",
+      "label": "(2)",
+      "text": "(2) a global positioning display;"
+    },
+    {
+      "type": "subsection",
+      "label": "(3)",
+      "text": "(3) a mapping or navigation display;"
+    },
+    {
+      "type": "subsection",
+      "label": "(4)",
+      "text": "(4) a visual display used to enhance or supplement the driver's view forward, behind, or to the sides of a motor vehicle for the purpose of maneuvering the vehicle; (5) television-type receiving equipment used exclusively for safety or traffic engineering studies; or (6) a television receiver, video monitor, television or video screen, or any other similar means of visually displaying a television broadcast or video signal, if that equipment has an interlock device that, when the motor vehicle is driven, disables the equipment for all uses except as a visual display as described in paragraphs (1) through (5) of this subsection (b). (c) This Section does not apply to a mobile, digital terminal installed in an authorized emergency vehicle, a motor vehicle providing emergency road service or roadside assistance, or to motor vehicles utilized for public transportation."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) This Section does not apply to a television receiver, video monitor, television or video screen, or any other similar means of visually displaying a television broadcast or video signal if: (i) the equipment is permanently installed in the motor vehicle; and (ii) the moving entertainment images that the equipment displays are not visible to the driver while the motor vehicle is in motion."
+    },
+    {
+      "type": "paragraph",
+      "text": "(d-5) This Section does not apply to a video event recorder, as defined in Section 1-218.10 of this Code, installed in a contract carrier vehicle."
+    },
+    {
+      "type": "subsection",
+      "label": "(e)",
+      "text": "(e) Except as provided in subsection (f) of this Section, a person convicted of violating this Section is guilty of a petty offense and shall be fined not more than $100 for a first offense, not more than $200 for a second offense within one year of a previous conviction, and not more than $250 for a third or subsequent offense within one year of 2 previous convictions."
+    },
+    {
+      "type": "subsection",
+      "label": "(f)",
+      "text": "(f) A person convicted of violating subsection (a-5) commits a Class A misdemeanor if the violation resulted in great bodily harm, permanent disability, or disfigurement to another. A person convicted of violating subsection (a-5) commits a Class 4 felony if the violation resulted in the death of another person."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 102-982, eff. 7-1-23.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 102-982, eff. 7-1-23.)",
+  "publicActs": [
+    {
+      "publicAct": "102-982",
+      "effectiveDate": "7-1-23"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "6763b71f5d6859efccbe7accd2a38bccf3e88b9df719ef151cea9ac9cf84cf8f",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0388"
+  ]
+}

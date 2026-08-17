@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-601.5",
+  "citation": "625 ILCS 5/11-601.5",
+  "docName": "062500050K11-601.5",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-601.5",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:17:01.236Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-601.5",
+  "headingText": "Sec. 11-601.5. Driving 26 miles per hour or more in excess of applicable limit.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-601.5)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-601.5. Driving 26 miles per hour or more in excess of applicable limit."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person who drives a vehicle upon any highway of this State at a speed that is 26 miles per hour or more but less than 35 miles per hour in excess of the applicable maximum speed limit established under this Chapter or a local ordinance commits a Class B misdemeanor."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) A person who drives a vehicle upon any highway of this State at a speed that is 35 miles per hour or more in excess of the applicable maximum speed limit established under this Chapter or a local ordinance commits a Class A misdemeanor."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 98-511, eff. 1-1-14.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 98-511, eff. 1-1-14.)",
+  "publicActs": [
+    {
+      "publicAct": "98-511",
+      "effectiveDate": "1-1-14"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "5e56ab6f1d2e6bf5f91678160df1572ad29b9971025f19eb2831e6c4a53acaa1",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0218",
+    "offense-0219"
+  ]
+}

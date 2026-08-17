@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-12-704",
+  "citation": "625 ILCS 5/12-704",
+  "docName": "062500050K12-704",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K12-704",
+  "status": "repealed",
+  "retrievedAt": "2026-08-17T12:18:57.105Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/12-704",
+  "headingText": "Sec. 12-704. (Repealed).",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/12-704) (from Ch. 95 1/2, par. 12-704)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 12-704. (Repealed)."
+    },
+    {
+      "type": "source",
+      "text": "(Source: Repealed by P.A. 88-415.)"
+    }
+  ],
+  "sourceLine": "(Source: Repealed by P.A. 88-415.)",
+  "publicActs": [],
+  "repealed": true,
+  "bodyHash": "8db4838931db70b80a24b1935b60321ef0eec1f9392c1aa78b445fe3de000f73",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0407"
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0600-3.5",
+  "citation": "720 ILCS 600/3.5",
+  "docName": "072006000K3.5",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072006000K3.5",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:31:17.162Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 600/3.5",
+  "headingText": "Sec. 3.5. Possession of drug paraphernalia.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 600/3.5)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 3.5. Possession of drug paraphernalia."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person who knowingly possesses an item of drug paraphernalia with the intent to use it in ingesting, inhaling, or otherwise introducing a controlled substance into the human body, or in preparing a controlled substance for that use, is guilty of a Class A misdemeanor for which the court shall impose a minimum fine of $750 in addition to any other penalty prescribed for a Class A misdemeanor. This subsection (a) does not apply to a person who is legally authorized to possess hypodermic syringes or needles under the Hypodermic Syringes and Needles Act."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) In determining intent under subsection (a), the trier of fact may take into consideration the proximity of the controlled substances to drug paraphernalia or the presence of a controlled substance on the drug paraphernalia."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 101-593, eff. 12-4-19.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 101-593, eff. 12-4-19.)",
+  "publicActs": [
+    {
+      "publicAct": "101-593",
+      "effectiveDate": "12-4-19"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "81eb2be383d43dd5faba5be36236ab62eb031831f8d9445a0f1b1c3ae53a0c52",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0940"
+  ]
+}

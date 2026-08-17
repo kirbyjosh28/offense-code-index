@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-9-2",
+  "citation": "720 ILCS 5/9-2",
+  "docName": "072000050K9-2",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K9-2",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:30:39.615Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/9-2",
+  "headingText": "Sec. 9-2. Second degree murder.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/9-2) (from Ch. 38, par. 9-2)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 9-2. Second degree murder."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits the offense of second degree murder when he or she commits the offense of first degree murder as defined in paragraph (1) or (2) of subsection (a) of Section 9-1 of this Code and either of the following mitigating factors are present:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) at the time of the killing he or she is acting under a sudden and intense passion resulting from serious provocation by the individual killed or another whom the offender endeavors to kill, but he or she negligently or accidentally causes the death of the individual killed; or (2) at the time of the killing he or she believes the circumstances to be such that, if they existed, would justify or exonerate the killing under the principles stated in Article 7 of this Code, but his or her belief is unreasonable. (b) Serious provocation is conduct sufficient to excite an intense passion in a reasonable person provided, however, that an action that does not otherwise constitute serious provocation cannot qualify as serious provocation because of the discovery, knowledge, or disclosure of the victim's sexual orientation as defined in Section 1-103 of the Illinois Human Rights Act."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) When evidence of either of the mitigating factors defined in subsection (a) of this Section has been presented, the burden of proof is on the defendant to prove either mitigating factor by a preponderance of the evidence before the defendant can be found guilty of second degree murder. The burden of proof, however, remains on the State to prove beyond a reasonable doubt each of the elements of first degree murder and, when appropriately raised, the absence of circumstances at the time of the killing that would justify or exonerate the killing under the principles stated in Article 7 of this Code."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) Sentence. Second degree murder is a Class 1 felony."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 100-460, eff. 1-1-18.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 100-460, eff. 1-1-18.)",
+  "publicActs": [
+    {
+      "publicAct": "100-460",
+      "effectiveDate": "1-1-18"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "183d579044ad94a3989b1e08091de26b43dcf5ffec9568df5e7c7c5b63716b20",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0552"
+  ]
+}

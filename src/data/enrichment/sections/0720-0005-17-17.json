@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-17-17",
+  "citation": "720 ILCS 5/17-17",
+  "docName": "072000050K17-17",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K17-17",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:26:01.833Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/17-17",
+  "headingText": "Sec. 17-17. Fraud in stock transactions.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/17-17)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 17-17. Fraud in stock transactions."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) No officer, director, or agent of a bank, railroad, or other corporation, nor any other person, shall knowingly, and with intent to defraud, issue, sell, transfer, assign, or pledge, or cause or procure to be issued, sold, transferred, assigned, or pledged, any false, fraudulent, or simulated certificate or other evidence of ownership of a share or shares of the capital stock of a bank, railroad, or other corporation."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) No officer, director, or agent of a bank, railroad, or other corporation shall knowingly sign, with intent to issue, sell, pledge, or cause to be issued, sold, or pledged, any false, fraudulent, or simulated certificate or other evidence of the ownership or transfer of a share or shares of the capital stock of that corporation, or an instrument purporting to be a certificate or other evidence of the ownership or transfer, the signing, issuing, selling, or pledging of which by the officer, director, or agent is not authorized by law."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Sentence. A violation of this Section is a Class 3 felony."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 96-1551, eff. 7-1-11.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 96-1551, eff. 7-1-11.)",
+  "publicActs": [
+    {
+      "publicAct": "96-1551",
+      "effectiveDate": "7-1-11"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "f93b2b7a93e6c3f6b8f651511571e2620ed73976ea6fc43ebdeee4f5206ec752",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0720"
+  ]
+}

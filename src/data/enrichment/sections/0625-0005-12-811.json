@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-12-811",
+  "citation": "625 ILCS 5/12-811",
+  "docName": "062500050K12-811",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K12-811",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:19:25.391Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/12-811",
+  "headingText": "Sec. 12-811. Amber 3 bar clearance light. Each type I school bus shall be equipped with an amber 3 bar clearance light on the front of the bus. The light shall be illuminated at all times when the bus is being operated between sunset and sunrise and in conditions of reduced visibility.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/12-811) (from Ch. 95 1/2, par. 12-811)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 12-811. Amber 3 bar clearance light. Each type I school bus shall be equipped with an amber 3 bar clearance light on the front of the bus. The light shall be illuminated at all times when the bus is being operated between sunset and sunrise and in conditions of reduced visibility."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 79-63.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 79-63.)",
+  "publicActs": [
+    {
+      "publicAct": "79-63",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "49a3faa76333122d8928e8c0545f59dfe8c3d8fdc376da51095255facb2b4fcb",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0426"
+  ]
+}

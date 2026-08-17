@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-12C-30",
+  "citation": "720 ILCS 5/12C-30",
+  "docName": "072000050K12C-30",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K12C-30",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:25:13.777Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/12C-30",
+  "headingText": "Sec. 12C-30. Contributing to the delinquency or criminal delinquency of a minor.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/12C-30) (was 720 ILCS 5/33D-1)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 12C-30. Contributing to the delinquency or criminal delinquency of a minor."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) Contributing to the delinquency of a minor. A person commits contributing to the delinquency of a minor when he or she knowingly: (1) causes, aids, or encourages a minor to be or to become a delinquent minor; or (2) does acts which directly tend to render any minor so delinquent."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Contributing to the criminal delinquency of a minor. A person of the age of 21 years and upwards commits contributing to the criminal delinquency of a minor when he or she, with the intent to promote or facilitate the commission of an offense solicits, compels or directs a minor in the commission of the offense that is either: (i) a felony when the minor is under the age of 17 years; or (ii) a misdemeanor when the minor is under the age of 18 years."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) \"Delinquent minor\" means any minor who prior to his or her 17th birthday has violated or attempted to violate, regardless of where the act occurred, any federal or State law or county or municipal ordinance, and any minor who prior to his or her 18th birthday has violated or attempted to violate, regardless of where the act occurred, any federal or State law or county or municipal ordinance classified as a misdemeanor offense."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) Sentence."
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) A violation of subsection (a) is a Class A misdemeanor. (2) A violation of subsection (b) is:"
+    },
+    {
+      "type": "subsection",
+      "label": "(i)",
+      "text": "(i) a Class C misdemeanor if the offense committed is a petty offense or a business offense; (ii) a Class B misdemeanor if the offense committed is a Class C misdemeanor; (iii) a Class A misdemeanor if the offense committed is a Class B misdemeanor; (iv) a Class 4 felony if the offense committed is a Class A misdemeanor; (v) a Class 3 felony if the offense committed is a Class 4 felony; (vi) a Class 2 felony if the offense committed is a Class 3 felony; (vii) a Class 1 felony if the offense committed is a Class 2 felony; and (viii) a Class X felony if the offense committed is a Class 1 felony or a Class X felony. (3) A violation of subsection (b) incurs the same penalty as first degree murder if the committed offense is first degree murder. (e) The husband or wife of the defendant shall be a competent witness to testify in any case under this Section and to all matters relevant thereto."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 97-1109, eff. 1-1-13.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 97-1109, eff. 1-1-13.)",
+  "publicActs": [
+    {
+      "publicAct": "97-1109",
+      "effectiveDate": "1-1-13"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "1e83ee86b7c1cde089eedcea8c2d33d1f3ed898895013587539f2dbbe8f478fd",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0658"
+  ]
+}

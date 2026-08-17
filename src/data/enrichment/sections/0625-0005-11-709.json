@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-709",
+  "citation": "625 ILCS 5/11-709",
+  "docName": "062500050K11-709",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-709",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:17:22.251Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-709",
+  "headingText": "Sec. 11-709. Driving on roadways laned for traffic. Whenever any roadway has been divided into 2 or more clearly marked lanes for traffic the following rules in addition to all others consistent herewith shall apply.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-709) (from Ch. 95 1/2, par. 11-709)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-709. Driving on roadways laned for traffic. Whenever any roadway has been divided into 2 or more clearly marked lanes for traffic the following rules in addition to all others consistent herewith shall apply."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A vehicle shall be driven as nearly as practicable entirely within a single lane and shall not be moved from such lane until the driver has first ascertained that such movement can be made with safety."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Upon a roadway which is divided into 3 lanes and provides for two-way movement of traffic, a vehicle shall not be driven in the center lane except when overtaking and passing another vehicle traveling in the same direction when such center lane is clear of traffic within a safe distance, or in preparation for making a left turn or where such center lane is at the time allocated exclusively to traffic moving in the same direction that the vehicle is proceeding and such allocation is designated by official traffic control devices."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Official traffic control devices may be erected directing specific traffic to use a designated lane or designating those lanes to be used by traffic moving in a particular direction regardless of the center of the roadway and drivers of vehicles shall obey the directions of every such device. On multi-lane controlled access highways with 3 or more lanes in one direction or on any multi-laned highway with 2 or more lanes in one direction, the Department may designate lanes of traffic to be used by different types of motor vehicles. Drivers must obey lane designation signing except when it is necessary to use a different lane to make a turning maneuver."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) Official traffic control devices may be installed prohibiting the changing of lanes on sections of roadway and drivers of vehicles shall obey the directions of every such device."
+    },
+    {
+      "type": "subsection",
+      "label": "(e)",
+      "text": "(e) A person is not in violation of this Section if he or she is complying with Section 11-907, 11-907.5, or 11-908."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 101-173, eff. 1-1-20.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 101-173, eff. 1-1-20.)",
+  "publicActs": [
+    {
+      "publicAct": "101-173",
+      "effectiveDate": "1-1-20"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "c13f4b34195caa55bd0f197e71b2b0a2f5d5885f1ea4952e45d5cacff064345c",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0238"
+  ]
+}

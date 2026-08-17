@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-16-17",
+  "citation": "720 ILCS 5/16-17",
+  "docName": "072000050K16-17",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K16-17",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:25:31.805Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/16-17",
+  "headingText": "Sec. 16-17. Theft of advertising services.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/16-17)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 16-17. Theft of advertising services."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits theft of advertising services when he or she knowingly attaches or inserts an unauthorized advertisement in a newspaper or periodical, and redistributes it to the public or has the intent to redistribute it to the public."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) This Section applies to any newspaper or periodical that is offered for retail sale or is distributed without charge."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) This Section does not apply if the publisher or authorized distributor of the newspaper or periodical consents to the attachment or insertion of the advertisement."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) In this Section, \"unauthorized advertisement\" means any form of representation or communication, including any handbill, newsletter, pamphlet, or notice that contains any letters, words, or pictorial representation that is attached to or inserted in a newspaper or periodical without a contractual agreement between the publisher and an advertiser."
+    },
+    {
+      "type": "subsection",
+      "label": "(e)",
+      "text": "(e) Sentence. Theft of advertising services is a Class A misdemeanor."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 97-597, eff. 1-1-12.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 97-597, eff. 1-1-12.)",
+  "publicActs": [
+    {
+      "publicAct": "97-597",
+      "effectiveDate": "1-1-12"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "3d5411afc48a34c6644a1bdc809b96092eea4f44e15e80056e66b4ebc6781bb1",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0674"
+  ]
+}

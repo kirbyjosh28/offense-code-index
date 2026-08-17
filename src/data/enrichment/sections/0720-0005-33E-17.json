@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-33E-17",
+  "citation": "720 ILCS 5/33E-17",
+  "docName": "072000050K33E-17",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K33E-17",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:30:02.089Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/33E-17",
+  "headingText": "Sec. 33E-17. Unlawful participation. Whoever, being an officer, director, agent, or employee of, or affiliated in any capacity with any unit of local government or school district participates, shares in, or receiving directly or indirectly any money, profit, property, or benefit through any contract with the unit of local government or school district, with the intent to defraud the unit of local government or school district is guilty of a Class 3 felony.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/33E-17)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 33E-17. Unlawful participation. Whoever, being an officer, director, agent, or employee of, or affiliated in any capacity with any unit of local government or school district participates, shares in, or receiving directly or indirectly any money, profit, property, or benefit through any contract with the unit of local government or school district, with the intent to defraud the unit of local government or school district is guilty of a Class 3 felony."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 90-800, eff. 1-1-99.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 90-800, eff. 1-1-99.)",
+  "publicActs": [
+    {
+      "publicAct": "90-800",
+      "effectiveDate": "1-1-99"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "b30eb6af1b5005b74f39fa49fd90553e21f751d93f3f96240809cfdb27179739",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0893"
+  ]
+}

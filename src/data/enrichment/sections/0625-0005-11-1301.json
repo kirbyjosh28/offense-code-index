@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-1301",
+  "citation": "625 ILCS 5/11-1301",
+  "docName": "062500050K11-1301",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-1301",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:15:04.091Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-1301",
+  "headingText": "Sec. 11-1301. Stopping, standing or parking outside of business or residence district.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-1301) (from Ch. 95 1/2, par. 11-1301)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-1301. Stopping, standing or parking outside of business or residence district."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) Outside a business or residence district, no person shall stop, park or leave standing any vehicle, whether attended or unattended, upon the roadway when it is practicable to stop, park or so leave such vehicle off the roadway, but in every event an unobstructed width of the highway opposite a standing vehicle shall be left for the free passage of other vehicles and a clear view of such stopped vehicle shall be available from a distance of 200 feet in each direction upon such highway."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) The Department with respect to highways under its jurisdiction or for the maintenance of which it is responsible may place signs prohibiting or restricting the stopping, standing or parking of vehicles on any highway where in its opinion such stopping, standing or parking is dangerous to those using the highway or where the stopping, standing or parking of vehicles would unduly interfere with the free movement of traffic thereon. Any such regulations adopted by the Department regarding the stopping, standing or parking of vehicles upon any specific street, streets or highways become effective at the time of the erection of appropriate signs indicating such regulations. Any such signs may be erected either by the Department or by a local authority with the approval of the Department."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) This Section, Section 11-1303 and Section 11-1304 shall not apply to the driver of any vehicle which is disabled in such manner and to such extent that it is impossible to avoid stopping and temporarily leaving the vehicle in such position."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) Any second division vehicle used exclusively for the collection of garbage, refuse, or recyclable material may stop or stand on the road in a business, rural, or residential district for the sole purpose of collecting garbage, refuse, or recyclable material. The vehicle, in addition to having its hazard lights lighted at all times that it is engaged in stopping or standing, shall also use its amber oscillating, rotating, or flashing light or lights as authorized under paragraph 12 of subsection (b) of Section 12-215, if so equipped."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 91-869, eff. 1-1-01.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 91-869, eff. 1-1-01.)",
+  "publicActs": [
+    {
+      "publicAct": "91-869",
+      "effectiveDate": "1-1-01"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "dd2d4150c1ddd59d24d0402ca4635989b40f94c7602e2f8b7f47c90e925d320c",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0273"
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-6-117.1",
+  "citation": "625 ILCS 5/6-117.1",
+  "docName": "062500050K6-117.1",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K6-117.1",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:21:39.020Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/6-117.1",
+  "headingText": "Sec. 6-117.1. Prohibited use of driver's license information.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/6-117.1)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 6-117.1. Prohibited use of driver's license information."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) When information is obtained from a driver's license to identify or prove the age of the holder of the license, or in the course of a commercial transaction, that information may be used only for purposes of identification of the individual or for completing the commercial transaction in which the information was obtained, including all subsequent payment, processing, collection, and other related actions. Information obtained from a driver's license may not be used for purposes unrelated to the transaction in which it was obtained, including, but not limited to, commercial solicitations. Information obtained from a driver's license to identify the holder of the license, or in the course of a commercial transaction, may not be sold, leased, or otherwise provided to any third party."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Any individual whose driver's license information has been used in violation of this Section has a cause of action against the person who violated this Section. Upon a finding that a violation did occur, the individual whose information was used in violation of this Section is entitled to recover actual damages, but not less than liquidated damages in the amount of $250 for each violation, plus attorney's fees and the costs of bringing the action."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Use of information contained on a driver's license is not a violation of this Section if (i) the individual whose information has been used gave express permission for that use or (ii) the information relating to the individual was obtained from a source other than the individual's driver's license."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) This Section does not apply to any agency of the United States, the State of Illinois, or any other state or political subdivision thereof."
+    },
+    {
+      "type": "subsection",
+      "label": "(e)",
+      "text": "(e) This Section does not apply to the transfer of information to a third party if (i) a federal or State law, rule, or regulation requires that the information be transferred to a third party after being recorded in specified transactions or (ii) the information is transferred to a third party for purposes of the detection or possible prosecution of criminal offenses or fraud. If information is transferred to a third party under this subsection (e), it may be used only for the purposes authorized by this subsection (e)."
+    },
+    {
+      "type": "subsection",
+      "label": "(f)",
+      "text": "(f) This Section does not apply to the use of information obtained from a driver's license which has been provided by the holder of the license in the course of a potential or completed employment, commercial, business or professional transaction for the purpose of completing written documents including, but not limited to, contracts, agreements, purchase orders, retail installment contracts, buyer's orders, purchase contracts, repair orders, applications, disclosure forms or waiver forms."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 94-892, eff. 1-1-07.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 94-892, eff. 1-1-07.)",
+  "publicActs": [
+    {
+      "publicAct": "94-892",
+      "effectiveDate": "1-1-07"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "d571b7c2c29d32250c90418d5e03afa81232c767b16f2e73bd384d75a082612c",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0128"
+  ]
+}

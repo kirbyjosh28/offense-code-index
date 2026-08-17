@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0550-5.1",
+  "citation": "720 ILCS 550/5.1",
+  "docName": "072005500K5.1",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072005500K5.1",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:30:53.129Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 550/5.1",
+  "headingText": "Sec. 5.1. Cannabis trafficking.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 550/5.1) (from Ch. 56 1/2, par. 705.1)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 5.1. Cannabis trafficking."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) Except for purposes authorized by this Act, the Industrial Hemp Act, the Illinois Hemp Act, or the Cannabis Regulation and Tax Act, any person who knowingly brings or causes to be brought into this State for the purpose of manufacture or delivery or with the intent to manufacture or deliver 2,500 grams or more of cannabis in this State or any other state or country is guilty of cannabis trafficking."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) A person convicted of cannabis trafficking shall be sentenced to a term of imprisonment not less than twice the minimum term and fined an amount as authorized by subsection (f) or (g) of Section 5 of this Act, based upon the amount of cannabis brought or caused to be brought into this State, and not more than twice the maximum term of imprisonment and fined twice the amount as authorized by subsection (f) or (g) of Section 5 of this Act, based upon the amount of cannabis brought or caused to be brought into this State."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 104-463, eff. 6-12-26.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 104-463, eff. 6-12-26.)",
+  "publicActs": [
+    {
+      "publicAct": "104-463",
+      "effectiveDate": "6-12-26"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "cfd2fa06b8ca0a31a1c69ded68016404cc22951662e0997be531cbb4afb51273",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0924"
+  ]
+}

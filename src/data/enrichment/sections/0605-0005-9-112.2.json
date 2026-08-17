@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0605-0005-9-112.2",
+  "citation": "605 ILCS 5/9-112.2",
+  "docName": "060500050K9-112.2",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=060500050K9-112.2",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:14:32.551Z",
+  "transport": "cache",
+  "canonicalCitation": "605 ILCS 5/9-112.2",
+  "headingText": "Sec. 9-112.2. No person shall place, or cause to be placed upon or in view of any public highway any sign or billboard or any advertising of any kind or description which in wording, color or shape is similar to official traffic control signs or other official traffic control devices erected by the proper authority having jurisdiction over such highway in compliance with the Manual of Uniform Traffic Control Devices for Streets and Highways, as now or hereafter adopted by the Department.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(605 ILCS 5/9-112.2) (from Ch. 121, par. 9-112.2)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 9-112.2. No person shall place, or cause to be placed upon or in view of any public highway any sign or billboard or any advertising of any kind or description which in wording, color or shape is similar to official traffic control signs or other official traffic control devices erected by the proper authority having jurisdiction over such highway in compliance with the Manual of Uniform Traffic Control Devices for Streets and Highways, as now or hereafter adopted by the Department."
+    },
+    {
+      "type": "paragraph",
+      "text": "No person shall place, or cause to be placed upon any building or other structure, within 200 feet of any public highway, oscillating, rotating or flashing lights which are of such intensity, when illuminated, to be visible at any time from such highway. This prohibition does not apply to a pole-supported business or brand identification sign with constant illumination and color and in which the only movement is a slow rotation of the entire body of the sign so as to be visible from all directions. This prohibition does not apply to airport lights."
+    },
+    {
+      "type": "paragraph",
+      "text": "Any person who violates any of the provisions of this Section shall be guilty of a petty offense and fined not less than $10 nor more than $100 for each offense."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 78-255.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 78-255.)",
+  "publicActs": [
+    {
+      "publicAct": "78-255",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "bcc5a3c9a3d4d31ab03160edc41207b6fa99c521d527aad25ff0646f7cd00acd",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0543"
+  ]
+}

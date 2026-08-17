@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-47-20",
+  "citation": "720 ILCS 5/47-20",
+  "docName": "072000050K47-20",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K47-20",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:30:18.590Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/47-20",
+  "headingText": "Sec. 47-20. Unplugged well. It is a Class A misdemeanor for a person to permit a water well, located on property owned by him or her, to be in an unplugged condition at any time after the abandonment of the well for obtaining water. No well is in an unplugged condition, however, that is plugged in conformity with the rules and regulations of the Department of Natural Resources issued under Section 6 and Section 19 of the Illinois Oil and Gas Act. This Section does not apply to a well drilled or used for observation or any other purpose in connection with the development or operation of a gas storage project.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/47-20)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 47-20. Unplugged well. It is a Class A misdemeanor for a person to permit a water well, located on property owned by him or her, to be in an unplugged condition at any time after the abandonment of the well for obtaining water. No well is in an unplugged condition, however, that is plugged in conformity with the rules and regulations of the Department of Natural Resources issued under Section 6 and Section 19 of the Illinois Oil and Gas Act. This Section does not apply to a well drilled or used for observation or any other purpose in connection with the development or operation of a gas storage project."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 89-234, eff. 1-1-96; 89-445, eff. 2-7-96.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 89-234, eff. 1-1-96; 89-445, eff. 2-7-96.)",
+  "publicActs": [
+    {
+      "publicAct": "89-234",
+      "effectiveDate": "1-1-96"
+    },
+    {
+      "publicAct": "89-445",
+      "effectiveDate": "2-7-96"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "197bb1387941dc303df636fa6a5a3ca968719e8ddf9d9d0f6addadcf3c790c07",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0899"
+  ]
+}

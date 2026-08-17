@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0550-4",
+  "citation": "720 ILCS 550/4",
+  "docName": "072005500K4",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072005500K4",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:30:50.160Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 550/4",
+  "headingText": "Sec. 4. Except as otherwise provided in the Cannabis Regulation and Tax Act, the Industrial Hemp Act, and the Illinois Hemp Act, it is unlawful for any person knowingly to possess cannabis.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 550/4) (from Ch. 56 1/2, par. 704)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 4. Except as otherwise provided in the Cannabis Regulation and Tax Act, the Industrial Hemp Act, and the Illinois Hemp Act, it is unlawful for any person knowingly to possess cannabis."
+    },
+    {
+      "type": "paragraph",
+      "text": "Any person who violates this Section with respect to:"
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) not more than 10 grams of any substance containing cannabis is guilty of a civil law violation punishable by a minimum fine of $100 and a maximum fine of $200. The proceeds of the fine shall be payable to the clerk of the circuit court. Within 30 days after the deposit of the fine, the clerk shall distribute the proceeds of the fine as follows: (1) $10 of the fine to the circuit clerk and $10 of the fine to the law enforcement agency that issued the citation; the proceeds of each $10 fine distributed to the circuit clerk and each $10 fine distributed to the law enforcement agency that issued the citation for the violation shall be used to defer the cost of automatic expungements under paragraph (2.5) of subsection (a) of Section 5.2 of the Criminal Identification Act; (2) $15 to the county to fund drug addiction services; (3) $10 to the Office of the State's Attorneys Appellate Prosecutor for use in training programs; (4) $10 to the State's Attorney; and"
+    },
+    {
+      "type": "subsection",
+      "label": "(5)",
+      "text": "(5) any remainder of the fine to the law enforcement agency that issued the citation for the violation. With respect to funds designated for the Illinois State Police, the moneys shall be remitted by the circuit court clerk to the Illinois State Police within one month after receipt for deposit into the State Police Operations Assistance Fund. With respect to funds designated for the Department of Natural Resources, the Department of Natural Resources shall deposit the moneys into the Conservation Police Operations Assistance Fund; (b) more than 10 grams but not more than 60 grams of any substance containing cannabis is guilty of a Class B misdemeanor; (c) more than 60 grams but not more than 100 grams of any substance containing cannabis is guilty of a Class A misdemeanor; provided, that if any offense under this subsection (c) is a subsequent offense, the offender shall be guilty of a Class 4 felony; (d) more than 100 grams but not more than 500 grams of any substance containing cannabis is guilty of a Class 4 felony; provided that if any offense under this subsection (d) is a subsequent offense, the offender shall be guilty of a Class 3 felony; (e) more than 500 grams but not more than 2,000 grams of any substance containing cannabis is guilty of a Class 3 felony; (f) more than 2,000 grams but not more than 5,000 grams of any substance containing cannabis is guilty of a Class 2 felony; (g) more than 5,000 grams of any substance containing cannabis is guilty of a Class 1 felony. Fines and assessments, such as fees or administrative costs, authorized under this Section shall not be ordered or imposed against a minor subject to Article III, IV, or V of the Juvenile Court Act of 1987, or a minor under the age of 18 transferred to adult court or excluded from juvenile court jurisdiction under Article V of the Juvenile Court Act of 1987, or the minor's parent, guardian, or legal custodian."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 103-379, eff. 7-28-23; 104-463, eff. 6-12-26.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 103-379, eff. 7-28-23; 104-463, eff. 6-12-26.)",
+  "publicActs": [
+    {
+      "publicAct": "103-379",
+      "effectiveDate": "7-28-23"
+    },
+    {
+      "publicAct": "104-463",
+      "effectiveDate": "6-12-26"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "d6d61efce321825c556c4e47aa35bc34d953040e0333d6b9ed210c969dcdbcb4",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0910",
+    "offense-0911",
+    "offense-0912",
+    "offense-0913",
+    "offense-0914",
+    "offense-0915",
+    "offense-0916",
+    "offense-0922",
+    "offense-0923"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-33E-8",
+  "citation": "720 ILCS 5/33E-8",
+  "docName": "072000050K33E-8",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K33E-8",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:30:12.582Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/33E-8",
+  "headingText": "Sec. 33E-8. Bribery of inspector employed by contractor. (a) A person commits bribery of an inspector when he offers to any person employed by a contractor or subcontractor on any public project contracted for by any unit of State or local government any property or other thing of value with the intent that such offer is for the purpose of obtaining wrongful certification or approval of the quality or completion of any goods or services supplied or performed in the course of work on such project. Violation of this subsection is a Class 4 felony.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/33E-8) (from Ch. 38, par. 33E-8)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 33E-8. Bribery of inspector employed by contractor. (a) A person commits bribery of an inspector when he offers to any person employed by a contractor or subcontractor on any public project contracted for by any unit of State or local government any property or other thing of value with the intent that such offer is for the purpose of obtaining wrongful certification or approval of the quality or completion of any goods or services supplied or performed in the course of work on such project. Violation of this subsection is a Class 4 felony."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Any person employed by a contractor or subcontractor on any public project contracted for by any unit of State or local government who accepts any property or other thing of value knowing that such was intentionally offered for the purpose of influencing the certification or approval of the quality or completion of any goods or services supplied or performed under subcontract to that contractor, and either before or afterwards issues such wrongful certification, commits a Class 3 felony. Failure to report such offer to law enforcement officials, including but not limited to the Attorney General or the State's Attorney for the county in which the contract is performed, constitutes a Class 4 felony."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 85-1295.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 85-1295.)",
+  "publicActs": [
+    {
+      "publicAct": "85-1295",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "f3693d2be5fbefe63eb8cfe7e413c584b2c4bf396687f1a8aac8f2870fe44dac",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0889"
+  ]
+}

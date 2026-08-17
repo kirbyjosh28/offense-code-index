@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-12-21.6-5",
+  "citation": "720 ILCS 5/12-21.6-5",
+  "docName": "072000050K12-21.6-5",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K12-21.6-5",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:24:18.228Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/12-21.6-5",
+  "headingText": "Sec. 12-21.6-5. Parent or guardian leaving custody or control of child with child sex offender.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/12-21.6-5)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 12-21.6-5. Parent or guardian leaving custody or control of child with child sex offender."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) For the purposes of this Section, \"minor\" means a person under 18 years of age; and \"child sex offender\" means a sex offender who is required to register under the Sex Offender Registration Act and is a child sex offender as defined in Sections 11-9.3 and 11-9.4 of this Code."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) It is unlawful for a parent or guardian of a minor to knowingly leave that minor in the custody or control of a child sex offender, or allow the child sex offender unsupervised access to the minor."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) This Section does not apply to leaving the minor in the custody or control of, or allowing unsupervised access to the minor by:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) a child sex offender who is the parent of the minor; (2) a person convicted of a violation of subsection (c) of Section 12-15 of this Code; or (3) a child sex offender who is married to and living in the same household with the parent or guardian of the minor. This subsection (c) shall not be construed to allow a child sex offender to knowingly reside within 500 feet of the minor victim of the sex offense if prohibited by subsection (b-6) of Section 11-9.4 of this Code."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) Sentence. A person who violates this Section is guilty of a Class A misdemeanor."
+    },
+    {
+      "type": "subsection",
+      "label": "(e)",
+      "text": "(e) Nothing in this Section shall prohibit the filing of a petition or the instituting of any proceeding under Article II of the Juvenile Court Act of 1987 relating to abused minors."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 96-1094, eff. 1-1-11.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 96-1094, eff. 1-1-11.)",
+  "publicActs": [
+    {
+      "publicAct": "96-1094",
+      "effectiveDate": "1-1-11"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "522fd33c2059680518ed17c5a3b64e5f17e8e3de3d3ba95ac54892530fe2fe94",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0648"
+  ]
+}

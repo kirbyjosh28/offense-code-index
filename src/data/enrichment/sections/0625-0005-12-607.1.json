@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-12-607.1",
+  "citation": "625 ILCS 5/12-607.1",
+  "docName": "062500050K12-607.1",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K12-607.1",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:18:40.332Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/12-607.1",
+  "headingText": "Sec. 12-607.1. Frame and floor height. (a) No person shall operate upon a highway a first division vehicle which has a clearance between the frame and ground in excess of 22 inches. The lowest portion of the body floor shall not be more than 4 inches above the top of the frame. No such vehicle shall be modified to cause the vehicle body or chassis to come in contact with the ground, expose the fuel tank to damage from collision or cause the wheels to come in contact with the body under normal operation.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/12-607.1) (from Ch. 95 1/2, par. 12-607.1)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 12-607.1. Frame and floor height. (a) No person shall operate upon a highway a first division vehicle which has a clearance between the frame and ground in excess of 22 inches. The lowest portion of the body floor shall not be more than 4 inches above the top of the frame. No such vehicle shall be modified to cause the vehicle body or chassis to come in contact with the ground, expose the fuel tank to damage from collision or cause the wheels to come in contact with the body under normal operation."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) No person shall operate upon a highway a second division vehicle which has a clearance between the frame and ground which is in excess of the limits specified within this subsection for its gross vehicle weight rating (GVWR) category. For the purpose of this section, GVWR means the manufacturer's gross vehicle weight rating whether or not the vehicle is modified by the use of parts not originally installed by the manufacturer. The stacking or attaching of vehicle frames (one frame on top of or beneath another frame) is prohibited. No portion of the body floor shall be raised above the frame."
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) The frame height of second division vehicles, whose GVWR is under 4,500 pounds, shall be no more than 24 inches."
+    },
+    {
+      "type": "subsection",
+      "label": "(2)",
+      "text": "(2) The frame height of second division vehicles, whose GVWR is more than 4,500 pounds and less than 7,500 pounds, shall be no more than 26 inches."
+    },
+    {
+      "type": "subsection",
+      "label": "(3)",
+      "text": "(3) The frame height of second division vehicles, whose GVWR is more than 7,500 pounds and less than 10,000 pounds, shall be no more than 28 inches."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Under subsections (a) or (b) of this Section, measurements shall be made when a vehicle is unladen on a level surface at the lowest point from the bottom of the original vehicle manufacturer's longitudinal frame rail between the front axle and second axle on the vehicle."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) This Section does not apply to specially designed or modified motor vehicles when operated off the highways. Such motor vehicles may be transported upon the highway only by use of a trailer or semitrailer. The specially designed or modified motor vehicle may also be transported upon another vehicle, providing that the entire weight of the specifically designed or modified vehicle is resting upon the transporting vehicle."
+    },
+    {
+      "type": "subsection",
+      "label": "(e)",
+      "text": "(e) Any violation of this Section is a Class C misdemeanor. A second conviction under this Section shall be punished with a fine of not less than $500. An officer making an arrest under this Section shall order the vehicle driver to remove the vehicle from the highway. A person convicted under this Section shall be ordered to bring his vehicle into compliance with this Section."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 90-89, eff. 1-1-98.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 90-89, eff. 1-1-98.)",
+  "publicActs": [
+    {
+      "publicAct": "90-89",
+      "effectiveDate": "1-1-98"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "d1b2426fa2fcebe3c1a732c8d2344f7c04511bfd783af77572dfa2807856afec",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0393"
+  ]
+}

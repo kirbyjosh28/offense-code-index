@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0570-405.2",
+  "citation": "720 ILCS 570/405.2",
+  "docName": "072005700K405.2",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072005700K405.2",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:31:08.148Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 570/405.2",
+  "headingText": "Sec. 405.2. Streetgang criminal drug conspiracy.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 570/405.2)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 405.2. Streetgang criminal drug conspiracy."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) Any person who engages in a streetgang criminal drug conspiracy, as defined in this Section, is guilty of a Class X felony for which the offender shall be sentenced to a term of imprisonment as follows:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) not less than 15 years and not more than 60 years for a violation of subsection (a) of Section 401; (2) not less than 10 years and not more than 30 years for a violation of subsection (c) of Section 401. For the purposes of this Section, a person engages in a streetgang criminal drug conspiracy when:"
+    },
+    {
+      "type": "subsection",
+      "label": "(i)",
+      "text": "(i) he or she violates any of the provisions of subsection (a) or (c) of Section 401 of this Act or any provision of the Methamphetamine Control and Community Protection Act; and (ii) such violation is part of a conspiracy undertaken or carried out with 2 or more other persons; and (iii) such conspiracy is in furtherance of the activities of an organized gang as defined in the Illinois Streetgang Terrorism Omnibus Prevention Act; and (iv) he or she occupies a position of organizer, a supervising person, or any other position of management with those persons identified in clause (ii) of this subsection (a). The fine for a violation of this Section shall not be more than $500,000, and the offender shall be subject to the forfeitures prescribed in subsection (b)."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Subject to the provisions of Section 8 of the Drug Asset Forfeiture Procedure Act, any person who is convicted under this Section of engaging in a streetgang criminal drug conspiracy shall forfeit to the State of Illinois:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) the receipts obtained by him or her in such conspiracy; and (2) any of his or her interests in, claims against, receipts from, or property or rights of any kind affording a source of influence over, such conspiracy. (c) The circuit court may enter such injunctions, restraining orders, directions or prohibitions, or may take such other actions, including the acceptance of satisfactory performance bonds, in connection with any property, claim, receipt, right or other interest subject to forfeiture under this Section, as it deems proper."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 94-556, eff. 9-11-05.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 94-556, eff. 9-11-05.)",
+  "publicActs": [
+    {
+      "publicAct": "94-556",
+      "effectiveDate": "9-11-05"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "6f7c57c6a35d7b17d6584c9b44d34c68b30d428ccae60cab97ccedb4d321cf7a",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0934"
+  ]
+}

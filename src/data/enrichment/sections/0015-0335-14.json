@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0015-0335-14",
+  "citation": "15 ILCS 335/14",
+  "docName": "001503350K14",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=001503350K14",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:13:45.688Z",
+  "transport": "cache",
+  "canonicalCitation": "15 ILCS 335/14",
+  "headingText": "Sec. 14. Unlawful use of identification card.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(15 ILCS 335/14) (from Ch. 124, par. 34)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 14. Unlawful use of identification card."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) It is a violation of this Section for any person:"
+    },
+    {
+      "type": "paragraph",
+      "text": "1. To possess, display, or cause to be displayed any cancelled or revoked identification card; 2. To display or represent as the person's own any identification card issued to another; 3. To allow any unlawful use of an identification card issued to the person; 4. To lend an identification card to another or knowingly allow the use thereof by another; 5. To fail or refuse to surrender to the Secretary of State, the Secretary's agent or any peace officer upon lawful demand, any identification card which has been revoked or cancelled; 6. To possess, use, or allow to be used any materials, hardware, or software specifically designed for or primarily used in the manufacture, assembly, issuance, or authentication of an official Illinois Identification Card or Illinois Person with a Disability Identification Card issued by the Secretary of State; or 7. To knowingly possess, use, or allow to be used a stolen identification card making implement. (a-1) It is a violation of this Section for any person to possess, use, or allow to be used any materials, hardware, or software specifically designed for or primarily used in the reading of encrypted language from the bar code or magnetic strip of an official Illinois Identification Card or Illinois Person with a Disability Identification Card issued by the Secretary of State. This subsection (a-1) does not apply if a federal or State law, rule, or regulation requires that the card holder's address be recorded in specified transactions or if the encrypted information is obtained for the detection or possible prosecution of criminal offenses or fraud. If the address information is obtained under this subsection (a-1), it may be used only for the purposes authorized by this subsection (a-1)."
+    },
+    {
+      "type": "paragraph",
+      "text": "(a-5) As used in this Section \"identification card\" means any document made or issued by or under the authority of the United States Government, the State of Illinois or any other State or political subdivision thereof, or any governmental or quasi-governmental organization that, when completed with information concerning the individual, is of a type intended or commonly accepted for the purpose of identifying the individual."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Sentence."
+    },
+    {
+      "type": "paragraph",
+      "text": "1. Any person convicted of a violation of this Section shall be guilty of a Class A misdemeanor and shall be sentenced to a minimum fine of $500 or 50 hours of community service, preferably at an alcohol abuse prevention program, if available. 2. A person convicted of a second or subsequent violation of this Section shall be guilty of a Class 4 felony. (c) This Section does not prohibit any lawfully authorized investigative, protective, law enforcement or other activity of any agency of the United States, State of Illinois or any other state or political subdivision thereof."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 97-1064, eff. 1-1-13.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 97-1064, eff. 1-1-13.)",
+  "publicActs": [
+    {
+      "publicAct": "97-1064",
+      "effectiveDate": "1-1-13"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "a61453de502a55c7c514c6767cb8888cb0a0410dc7239ea1d0ba8be388ec8985",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0170"
+  ]
+}

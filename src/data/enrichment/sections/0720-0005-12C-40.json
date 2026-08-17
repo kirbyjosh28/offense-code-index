@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-12C-40",
+  "citation": "720 ILCS 5/12C-40",
+  "docName": "072000050K12C-40",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K12C-40",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:25:16.783Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/12C-40",
+  "headingText": "Sec. 12C-40. Piercing the body of a minor.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/12C-40) (was 720 ILCS 5/12-10.1)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 12C-40. Piercing the body of a minor."
+    },
+    {
+      "type": "paragraph",
+      "text": "(a)(1) A person commits piercing the body of a minor when he or she knowingly or recklessly pierces the body of a person under 18 years of age without written consent of a parent or legal guardian of that person. Before the oral cavity of a person under 18 years of age may be pierced, the written consent form signed by the parent or legal guardian must contain a provision in substantially the following form:"
+    },
+    {
+      "type": "paragraph",
+      "text": "\"I understand that the oral piercing of the tongue, lips, cheeks, or any other area of the oral cavity carries serious risk of infection or damage to the mouth and teeth, or both infection and damage to those areas, that could result but is not limited to nerve damage, numbness, and life threatening blood clots.\"."
+    },
+    {
+      "type": "paragraph",
+      "text": "A person who pierces the oral cavity of a person under 18 years of age without obtaining a signed written consent form from a parent or legal guardian of the person that includes the provision describing the health risks of body piercing, violates this Section."
+    },
+    {
+      "type": "subsection",
+      "label": "(2)",
+      "text": "(2) A person who is an owner or employed by a business that performs body piercing may not permit a person under 18 years of age to enter or remain on the premises where body piercing is being performed unless the person under 18 years of age is accompanied by his or her parent or legal guardian."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) \"Pierce\" means to make a hole in the body in order to insert or allow the insertion of any ring, hoop, stud, or other object for the purpose of ornamentation of the body. \"Piercing\" does not include tongue splitting as defined in Section 12-10.2. The term \"body\" includes the oral cavity."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Exceptions. This Section may not be construed in any way to prohibit any injection, incision, acupuncture, or similar medical or dental procedure performed by a licensed health care professional or other person authorized to perform that procedure or the presence on the premises where that procedure is being performed by a health care professional or other person authorized to perform that procedure of a person under 18 years of age who is not accompanied by a parent or legal guardian. This Section does not prohibit ear piercing. This Section does not apply to a minor emancipated under the Juvenile Court Act of 1987 or the Emancipation of Minors Act or by marriage. This Section does not apply to a person under 18 years of age who pierces the body or oral cavity of another person under 18 years of age away from the premises of any business at which body piercing or oral cavity piercing is performed."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) Sentence. A violation of this Section is a Class A misdemeanor."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 97-1109, eff. 1-1-13.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 97-1109, eff. 1-1-13.)",
+  "publicActs": [
+    {
+      "publicAct": "97-1109",
+      "effectiveDate": "1-1-13"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "27af5c9412823c98b5a943d7b62596b0e3b3eacb950e767ba18d8dfe56de0ddd",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0660"
+  ]
+}

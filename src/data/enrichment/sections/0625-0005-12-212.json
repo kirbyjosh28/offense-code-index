@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-12-212",
+  "citation": "625 ILCS 5/12-212",
+  "docName": "062500050K12-212",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K12-212",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:18:04.294Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/12-212",
+  "headingText": "Sec. 12-212. Special restrictions on lamps.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/12-212) (from Ch. 95 1/2, par. 12-212)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 12-212. Special restrictions on lamps."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) No person shall drive or move any vehicle or equipment upon any highway with any lamp or device on the vehicle or equipment displaying a red light visible from directly in front of the vehicle or equipment except as otherwise provided in this Act."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Subject to the restrictions of this Act, flashing lights are prohibited on motor vehicles except as expressly authorized in this Chapter or as a means for indicating a right or left turn, lane change, or a maneuver of a vehicle from a direct course of travel as provided in Section 12-208 or the presence of a vehicular traffic hazard requiring unusual care as expressly provided in Sections 11-804 or 12-215."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Unless otherwise expressly authorized by this Code, all other lighting or combination of lighting on any vehicle shall be prohibited."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) No person shall drive or move any motor vehicle or equipment upon any highway with any lighting or combination of lighting with a smoked or tinted lens or cover."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 101-189, eff. 1-1-20; 102-508, eff. 8-20-21.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 101-189, eff. 1-1-20; 102-508, eff. 8-20-21.)",
+  "publicActs": [
+    {
+      "publicAct": "101-189",
+      "effectiveDate": "1-1-20"
+    },
+    {
+      "publicAct": "102-508",
+      "effectiveDate": "8-20-21"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "d67a1c1ca98c1f8a6025efe0672b80d5a42580f7ceba2087b552928a156e86ac",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0349"
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-5-403",
+  "citation": "625 ILCS 5/5-403",
+  "docName": "062500050K5-403",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K5-403",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:21:24.014Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/5-403",
+  "headingText": "Sec. 5-403. (1) Authorized representatives of the Secretary of State including officers of the Secretary of State's Department of Police, other peace officers, and such other individuals as the Secretary may designate from time to time shall make inspections of individuals and facilities licensed or required to be licensed under Chapter 5 of the Illinois Vehicle Code for the purpose of reviewing records required to be maintained under Chapter 5 for accuracy and completeness and reviewing and examining the premises of the licensee's established or additional place of business for the purpose of determining the accuracy of the required records. Premises that may be inspected in order to determine the accuracy of the books and records required to be kept includes all premises used by the licensee to store vehicles and parts that are reflected by the required books and records.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/5-403) (from Ch. 95 1/2, par. 5-403)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 5-403. (1) Authorized representatives of the Secretary of State including officers of the Secretary of State's Department of Police, other peace officers, and such other individuals as the Secretary may designate from time to time shall make inspections of individuals and facilities licensed or required to be licensed under Chapter 5 of the Illinois Vehicle Code for the purpose of reviewing records required to be maintained under Chapter 5 for accuracy and completeness and reviewing and examining the premises of the licensee's established or additional place of business for the purpose of determining the accuracy of the required records. Premises that may be inspected in order to determine the accuracy of the books and records required to be kept includes all premises used by the licensee to store vehicles and parts that are reflected by the required books and records."
+    },
+    {
+      "type": "subsection",
+      "label": "(2)",
+      "text": "(2) Persons having knowledge of or conducting inspections pursuant to this Chapter shall not in advance of such inspections knowingly notify a licensee or representative of a licensee of the contemplated inspection unless the Secretary or an individual designated by him for this purpose authorizes such notification. Any individual who, without authorization, knowingly violates this subparagraph shall be guilty of a Class A misdemeanor."
+    },
+    {
+      "type": "subsection",
+      "label": "(3)",
+      "text": "(3) The licensee or a representative of the licensee shall be entitled to be present during an inspection conducted pursuant to Chapter 5, however, the presence of the licensee or an authorized representative of the licensee is not a condition precedent to such an inspection."
+    },
+    {
+      "type": "subsection",
+      "label": "(4)",
+      "text": "(4) Inspection conducted pursuant to Chapter 5 may be initiated at any time that business is being conducted or work is being performed, whether or not open to the public or when the licensee or a representative of the licensee, other than a mere custodian or watchman, is present. The fact that a licensee or representative of the licensee leaves the licensed premises after an inspection has been initiated shall not require the termination of the inspection."
+    },
+    {
+      "type": "subsection",
+      "label": "(5)",
+      "text": "(5) Any inspection conducted pursuant to Chapter 5 shall not continue for more than 24 hours after initiation."
+    },
+    {
+      "type": "subsection",
+      "label": "(6)",
+      "text": "(6) In the event information comes to the attention of the individuals conducting an inspection that may give rise to the necessity of obtaining a search warrant, and in the event steps are initiated for the procurement of a search warrant, the individuals conducting such inspection may take all necessary steps to secure the premises under inspection until the warrant application is acted upon by a judicial officer."
+    },
+    {
+      "type": "subsection",
+      "label": "(7)",
+      "text": "(7) No more than 6 inspections of a premises may be conducted pursuant to Chapter 5 within any 6 month period except pursuant to a search warrant. Notwithstanding this limitation, nothing in this subparagraph (7) shall be construed to limit the authority of law enforcement agents to respond to public complaints of violations of the Code. For the purpose of this subparagraph (7), a public complaint is one in which the complainant identifies himself or herself and sets forth, in writing, the specific basis for their complaint against the licensee. For the purpose of this subparagraph (7), the inspection of records pertaining only to recyclable metals, as provided in subdivision (a)(5) of Section 5-401.3 of this Code, shall not be counted as an inspection of a premises."
+    },
+    {
+      "type": "subsection",
+      "label": "(8)",
+      "text": "(8) Nothing in this Section shall be construed to limit the authority of individuals by the Secretary pursuant to this Section to conduct searches of licensees pursuant to a duly issued and authorized search warrant."
+    },
+    {
+      "type": "subsection",
+      "label": "(9)",
+      "text": "(9) Any licensee who, having been informed by a person authorized to make inspections and examine records under this Section that he desires to inspect records and the licensee's premises as authorized by this Section, refuses either to produce for that person records required to be kept by this Chapter or to permit such authorized person to make an inspection of the premises in accordance with this Section shall subject the license to immediate suspension by the Secretary of State."
+    },
+    {
+      "type": "subsection",
+      "label": "(10)",
+      "text": "(10) Beginning July 1, 1988, any person referenced under Section 5-302 shall produce for inspection upon demand those records pertaining to the acquisition of salvage vehicles in this State."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 95-253, eff. 1-1-08; 95-783, eff. 1-1-09; 95-979, eff. 1-2-09; 96-328, eff. 8-11-09.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 95-253, eff. 1-1-08; 95-783, eff. 1-1-09; 95-979, eff. 1-2-09; 96-328, eff. 8-11-09.)",
+  "publicActs": [
+    {
+      "publicAct": "95-253",
+      "effectiveDate": "1-1-08"
+    },
+    {
+      "publicAct": "95-783",
+      "effectiveDate": "1-1-09"
+    },
+    {
+      "publicAct": "95-979",
+      "effectiveDate": "1-2-09"
+    },
+    {
+      "publicAct": "96-328",
+      "effectiveDate": "8-11-09"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "489838fd34fbdc080b8bb9a2dffb9944269f4ece2de3515223826b80112c6078",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0112"
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-6-305.1",
+  "citation": "625 ILCS 5/6-305.1",
+  "docName": "062500050K6-305.1",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K6-305.1",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:21:55.570Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/6-305.1",
+  "headingText": "Sec. 6-305.1. Unlawful subleasing of a motor vehicle. (a) It is unlawful for any person who is not a party to a lease contract, conditional sale contract, or security agreement which transfers any right or interest in a motor vehicle to:",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/6-305.1) (from Ch. 95 1/2, par. 6-305.1)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 6-305.1. Unlawful subleasing of a motor vehicle. (a) It is unlawful for any person who is not a party to a lease contract, conditional sale contract, or security agreement which transfers any right or interest in a motor vehicle to:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) obtain or exercise control over a motor vehicle and then sell, transfer, assign, or lease the motor vehicle to another person without first obtaining written authorization from the secured creditor, lessor, or lienholder for the sale, transfer, assignment, or lease if he receives compensation or other consideration for the sale, transfer, assignment, or lease of the motor vehicle; or"
+    },
+    {
+      "type": "subsection",
+      "label": "(2)",
+      "text": "(2) assist, cause, or arrange the actual or purported sale, transfer, assignment, or lease of a motor vehicle to another person without first obtaining written authorization from the secured creditor, lessor, or lienholder for the sale, transfer, assignment, or lease if he receives compensation or other consideration for assisting, causing, or arranging the sale, transfer, assignment, or lease of the motor vehicle."
+    },
+    {
+      "type": "subsection",
+      "label": "(3)",
+      "text": "(3) this subsection shall not apply to any employee acting upon request of his employer."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Any person who violates the provisions of this Section is guilty of a Class A misdemeanor."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Notwithstanding any other remedy or relief to which a person is entitled, anyone suffering damage as a result of a violation of this Section may bring an action to recover or obtain actual damages, equitable relief, including, but not limited to, an injunction or restitution of money and property, reasonable attorney's fees and costs, and any other relief the court deems proper."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 86-748.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 86-748.)",
+  "publicActs": [
+    {
+      "publicAct": "86-748",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "7156235ae34ef5c39427758517bfa8327a42eb7972db7a82a8209345aa07fa94",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0158"
+  ]
+}

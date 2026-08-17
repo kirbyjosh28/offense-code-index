@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-6-116",
+  "citation": "625 ILCS 5/6-116",
+  "docName": "062500050K6-116",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K6-116",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:21:37.524Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/6-116",
+  "headingText": "Sec. 6-116. Notice of Change of Residence Address or Legal Name.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/6-116) (from Ch. 95 1/2, par. 6-116)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 6-116. Notice of Change of Residence Address or Legal Name."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) Whenever any person after applying for or receiving a drivers license or permit moves from the residence address named in such application or on the license or permit issued to him such person shall within 10 days thereafter notify the Drivers Services Department of the Secretary of State's Office in writing of his old and new residence addresses and of the number of any license or permit then held by him. Such person may obtain a corrected license or permit as provided in Section 6-114."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Any person whose legal name has changed from the name on the license or permit that he or she has been previously issued must apply for a corrected card within 30 days after the change."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 93-895, eff. 1-1-05.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 93-895, eff. 1-1-05.)",
+  "publicActs": [
+    {
+      "publicAct": "93-895",
+      "effectiveDate": "1-1-05"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "3fbfb5d2c94c7b90696eb9dd2f21cb59dadc2d0b5315c34d945aac49a97210fd",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0127"
+  ]
+}

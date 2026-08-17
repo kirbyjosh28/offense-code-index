@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-5-106",
+  "citation": "625 ILCS 5/5-106",
+  "docName": "062500050K5-106",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K5-106",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:21:11.997Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/5-106",
+  "headingText": "Sec. 5-106. No person may keep open, operate, or assist in keeping open or operating any established or additional place of business for the purpose of buying, selling, bartering, exchanging, or leasing for a period of 1 year or more, or offering for sale, barter, exchange, or lease for a period of 1 year or more, any motor vehicle, whether new or used, on the first day of the week, commonly called Sunday; provided, that this Section does not apply to the opening of an established or additional place of business on Sunday for the following purposes:",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/5-106) (from Ch. 95 1/2, par. 5-106)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 5-106. No person may keep open, operate, or assist in keeping open or operating any established or additional place of business for the purpose of buying, selling, bartering, exchanging, or leasing for a period of 1 year or more, or offering for sale, barter, exchange, or lease for a period of 1 year or more, any motor vehicle, whether new or used, on the first day of the week, commonly called Sunday; provided, that this Section does not apply to the opening of an established or additional place of business on Sunday for the following purposes:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) to sell petroleum products, tires or repair parts and accessories; (2) to operate and conduct a motor vehicle repair shop; (3) to supply services for the washing, towing or wrecking of motor vehicles; (4) to participate in a trade show exhibition or display exhibition by a dealer who has been granted a permit by the Secretary of State pursuant to Section 5-102.1 of this Article; (5) to sell motorcycles, motor driven cycles, motorized pedalcycles when offered for sale by a dealer licensed under Sections 5-101 and 5-102 to sell only such motor vehicles; (6) to offer for sale manufactured housing;"
+    },
+    {
+      "type": "subsection",
+      "label": "(7)",
+      "text": "(7) to sell self-contained motor homes, mini motor homes, van campers and recreational trailers when offered for sale by a dealer at an established or additional place of business where only such vehicles are displayed or offered for sale. This exemption includes dealers with off site sales or trade show exhibition permits issued pursuant to subsection (d) of Section 5-102.1 of this Article. (Source: P.A. 89-551, eff. 1-1-97.)"
+    }
+  ],
+  "sourceLine": null,
+  "publicActs": [],
+  "repealed": false,
+  "bodyHash": "1410329bd8f84e4ec1de481296512766c431453117ae1f8bdf95042b0a10aa75",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0093"
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-16-40",
+  "citation": "720 ILCS 5/16-40",
+  "docName": "072000050K16-40",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K16-40",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:25:45.317Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/16-40",
+  "headingText": "Sec. 16-40. Internet offenses.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/16-40)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 16-40. Internet offenses."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) Online sale of stolen property. A person commits online sale of stolen property when he or she uses or accesses the Internet with the intent of selling property gained through unlawful means."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Online theft by deception. A person commits online theft by deception when he or she uses the Internet to purchase or attempt to purchase property from a seller with a mode of payment that he or she knows is fictitious, stolen, or lacking the consent of the valid account holder."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Electronic fencing. A person commits electronic fencing when he or she sells stolen property using the Internet, knowing that the property was stolen. A person who unknowingly purchases stolen property over the Internet does not violate this Section."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) Sentence. A violation of this Section is a Class 4 felony if the full retail value of the stolen property or property obtained by deception does not exceed $300. A violation of this Section is a Class 2 felony if the full retail value of the stolen property or property obtained by deception exceeds $300."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 97-597, eff. 1-1-12.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 97-597, eff. 1-1-12.)",
+  "publicActs": [
+    {
+      "publicAct": "97-597",
+      "effectiveDate": "1-1-12"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "a44b16df73b4ff7468e8299208f2bf2ad1ea8779c5341fa87f1854a1c4bf73e5",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0681",
+    "offense-0682",
+    "offense-0683",
+    "offense-0684"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0040-2-4",
+  "citation": "625 ILCS 40/2-4",
+  "docName": "062500400K2-4",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500400K2-4",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:22:25.568Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 40/2-4",
+  "headingText": "Sec. 2-4. Resistance to Officers.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 40/2-4) (from Ch. 95 1/2, par. 602-4)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 2-4. Resistance to Officers."
+    },
+    {
+      "type": "paragraph",
+      "text": "It is unlawful for any person to resist or obstruct any officer or employee of the Department in the discharge of his duties under this Act."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 77-1312.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 77-1312.)",
+  "publicActs": [
+    {
+      "publicAct": "77-1312",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "362f72af795503e0113a0faa6a4f00f12e4f91eb4bbc63784c5d1f376d608308",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0483"
+  ]
+}

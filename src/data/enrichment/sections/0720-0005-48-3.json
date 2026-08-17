@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-48-3",
+  "citation": "720 ILCS 5/48-3",
+  "docName": "072000050K48-3",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K48-3",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:30:26.104Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/48-3",
+  "headingText": "Sec. 48-3. Hunter or fisherman interference.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/48-3)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 48-3. Hunter or fisherman interference."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) Definitions. As used in this Section:"
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Aquatic life\" means all fish, reptiles, amphibians, crayfish, and mussels the taking of which is authorized by the Fish and Aquatic Life Code. \"Interfere with\" means to take any action that physically impedes, hinders, or obstructs the lawful taking of wildlife or aquatic life. \"Taking\" means the capture or killing of wildlife or aquatic life and includes travel, camping, and other acts preparatory to taking which occur on lands or waters upon which the affected person has the right or privilege to take such wildlife or aquatic life. \"Wildlife\" means any wildlife the taking of which is authorized by the Wildlife Code and includes those species that are lawfully released by properly licensed permittees of the Department of Natural Resources. (b) A person commits hunter or fisherman interference when he or she intentionally or knowingly:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) obstructs or interferes with the lawful taking of wildlife or aquatic life by another person with the specific intent to prevent that lawful taking; (2) drives or disturbs wildlife or aquatic life for the purpose of disrupting a lawful taking of wildlife or aquatic life; (3) blocks, impedes, or physically harasses another person who is engaged in the process of lawfully taking wildlife or aquatic life; (4) uses natural or artificial visual, aural, olfactory, gustatory, or physical stimuli to affect wildlife or aquatic life behavior in order to hinder or prevent the lawful taking of wildlife or aquatic life; (5) erects barriers with the intent to deny ingress or egress to or from areas where the lawful taking of wildlife or aquatic life may occur; (6) intentionally interjects himself or herself into the line of fire or fishing lines of a person lawfully taking wildlife or aquatic life; (7) affects the physical condition or placement of personal or public property intended for use in the lawful taking of wildlife or aquatic life in order to impair the usefulness of the property or prevent the use of the property; (8) enters or remains upon or over private lands without the permission of the owner or the owner's agent, with the intent to violate this subsection; (9) fails to obey the order of a peace officer to desist from conduct in violation of this subsection (b) if the officer observes the conduct, or has reasonable grounds to believe that the person has engaged in the conduct that day or that the person plans or intends to engage in the conduct that day on a specific premises; or (10) uses a drone in a way that interferes with another person's lawful taking of wildlife or aquatic life. For the purposes of this paragraph (10), \"drone\" means any aerial vehicle that does not carry a human operator. (c) Exemptions; defenses."
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) This Section does not apply to actions performed by authorized employees of the Department of Natural Resources, duly accredited officers of the U.S. Fish and Wildlife Service, sheriffs, deputy sheriffs, or other peace officers if the actions are authorized by law and are necessary for the performance of their official duties. (2) This Section does not apply to landowners, tenants, or lease holders exercising their legal rights to the enjoyment of land, including, but not limited to, farming and restricting trespass. (3) It is an affirmative defense to a prosecution for a violation of this Section that the defendant's conduct is protected by his or her right to freedom of speech under the constitution of this State or the United States. (4) Any interested parties may engage in protests or other free speech activities adjacent to or on the perimeter of the location where the lawful taking of wildlife or aquatic life is taking place, provided that none of the provisions of this Section are being violated. (d) Sentence. A first violation of paragraphs (1) through (8) of subsection (b) is a Class B misdemeanor. A second or subsequent violation of paragraphs (1) through (8) of subsection (b) is a Class A misdemeanor for which imprisonment for not less than 7 days shall be imposed. A person guilty of a second or subsequent violation of paragraphs (1) through (8) of subsection (b) is not eligible for court supervision. A violation of paragraph (9) or (10) of subsection (b) is a Class A misdemeanor. A court shall revoke, for a period of one year to 5 years, any Illinois hunting, fishing, or trapping privilege, license or permit of any person convicted of violating any provision of this Section. For purposes of this subsection, a \"second or subsequent violation\" means a conviction under paragraphs (1) through (8) of subsection (b) of this Section within 2 years of a prior violation arising from a separate set of circumstances."
+    },
+    {
+      "type": "subsection",
+      "label": "(e)",
+      "text": "(e) Injunctions; damages."
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) Any court may enjoin conduct which would be in violation of paragraphs (1) through (8) or (10) of subsection (b) upon petition by a person affected or who reasonably may be affected by the conduct, upon a showing that the conduct is threatened or that it has occurred on a particular premises in the past and that it is not unreasonable to expect that under similar circumstances it will be repeated. (2) A court shall award all resulting costs and damages to any person adversely affected by a violation of paragraphs (1) through (8) or (10) of subsection (b), which may include an award for punitive damages. In addition to other items of special damage, the measure of damages may include expenditures of the affected person for license and permit fees, travel, guides, special equipment and supplies, to the extent that these expenditures were rendered futile by prevention of the taking of wildlife or aquatic life. (Source: P.A. 97-1108, eff. 1-1-13; 98-402, eff. 8-16-13.)"
+    }
+  ],
+  "sourceLine": null,
+  "publicActs": [],
+  "repealed": false,
+  "bodyHash": "5506c87f7464453dbd26378f7c40adf5799317ca5ad22846c56ec23687dd371d",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0902"
+  ]
+}

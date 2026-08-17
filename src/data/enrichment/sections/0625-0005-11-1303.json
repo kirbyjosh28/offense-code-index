@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-1303",
+  "citation": "625 ILCS 5/11-1303",
+  "docName": "062500050K11-1303",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-1303",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:15:11.596Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-1303",
+  "headingText": "Sec. 11-1303. Stopping, standing or parking prohibited in specified places.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-1303) (from Ch. 95 1/2, par. 11-1303)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-1303. Stopping, standing or parking prohibited in specified places."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) Except when necessary to avoid conflict with other traffic, or in compliance with law or the directions of a police officer or official traffic-control device, no person shall:"
+    },
+    {
+      "type": "paragraph",
+      "text": "1. Stop, stand or park a vehicle:"
+    },
+    {
+      "type": "paragraph",
+      "text": "a. On the roadway side of any vehicle stopped or parked at the edge or curb of a street; b. On a sidewalk;"
+    },
+    {
+      "type": "paragraph",
+      "text": "c. Within an intersection;"
+    },
+    {
+      "type": "paragraph",
+      "text": "d. On a crosswalk;"
+    },
+    {
+      "type": "paragraph",
+      "text": "e. Between a safety zone and the adjacent curb or within 30 feet of points on the curb immediately opposite the ends of a safety zone, unless a different length is indicated by signs or markings; f. Alongside or opposite any street excavation or obstruction when stopping, standing or parking would obstruct traffic; g. Upon any bridge or other elevated structure upon a highway or within a highway tunnel; h. On any railroad tracks. A violation of any part of this subparagraph h. shall result in a mandatory fine of $500 or 50 hours of community service. i. At any place where official signs prohibit stopping; j. On any controlled-access highway;"
+    },
+    {
+      "type": "paragraph",
+      "text": "k. In the area between roadways of a divided highway, including crossovers; l. In a public parking area if the vehicle does not display a current annual registration sticker or digital registration sticker or current temporary permit pending registration. 2. Stand or park a vehicle, whether occupied or not, except momentarily to pick up or discharge passengers: a. In front of a public or private driveway;"
+    },
+    {
+      "type": "paragraph",
+      "text": "b. Within 15 feet of a fire hydrant;"
+    },
+    {
+      "type": "paragraph",
+      "text": "c. Within 20 feet of a crosswalk at an intersection; d. Within 30 feet upon the approach to any flashing signal, stop sign, yield sign, or traffic control signal located at the side of a roadway; e. Within 20 feet of the driveway entrance to any fire station and on the side of a street opposite the entrance to any fire station within 75 feet of such entrance (when properly sign-posted); f. At any place where official signs prohibit standing. 3. Park a vehicle, whether occupied or not, except temporarily for the purpose of and while actually engaged in loading or unloading property or passengers: a. Within 50 feet of the nearest rail of a railroad crossing; b. At any place where official signs prohibit parking. (b) No person shall move a vehicle not lawfully under his control into any such prohibited area or away from a curb such distance as is unlawful."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 101-395, eff. 8-16-19.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 101-395, eff. 8-16-19.)",
+  "publicActs": [
+    {
+      "publicAct": "101-395",
+      "effectiveDate": "8-16-19"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "1653bea5ca4edb316c28be31c76e01d6a7eaee6f12f8c1c7bcc075ecf7d54f7b",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0281"
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-605",
+  "citation": "625 ILCS 5/11-605",
+  "docName": "062500050K11-605",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-605",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:17:02.754Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-605",
+  "headingText": "Sec. 11-605. Special speed limit while passing schools.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-605) (from Ch. 95 1/2, par. 11-605)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-605. Special speed limit while passing schools."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) For the purpose of this Section, \"school\" means the following entities:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) A public or private primary or secondary school."
+    },
+    {
+      "type": "subsection",
+      "label": "(2)",
+      "text": "(2) A primary or secondary school operated by a religious institution. (3) A public, private, or religious nursery school."
+    },
+    {
+      "type": "paragraph",
+      "text": "On a school day when school children are present and so close thereto that a potential hazard exists because of the close proximity of the motorized traffic, no person shall drive a motor vehicle at a speed in excess of 20 miles per hour while passing a school zone or while traveling on a local, county, or State roadway on public school property or upon any public thoroughfare where children pass going to and from school."
+    },
+    {
+      "type": "paragraph",
+      "text": "For the purpose of this Section, a school day begins at 6:30 a.m. and concludes at 4 p.m."
+    },
+    {
+      "type": "paragraph",
+      "text": "This Section shall not be applicable unless appropriate signs are posted upon streets and highways under their respective jurisdiction and maintained by the Department, township, county, park district, city, village or incorporated town wherein the school zone is located. With regard to the special speed limit while passing schools, such signs shall give proper due warning that a school zone is being approached and shall indicate the school zone and the maximum speed limit in effect during school days when school children are present."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) (Blank)."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Nothing in this Chapter shall prohibit the use of electronic speed-detecting devices within 500 feet of signs within a special school speed zone indicating such zone, as defined in this Section, nor shall evidence obtained thereby be inadmissible in any prosecution for speeding provided the use of such device shall apply only to the enforcement of the speed limit in such special school speed zone."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) (Blank)."
+    },
+    {
+      "type": "subsection",
+      "label": "(e)",
+      "text": "(e) Except as provided in subsection (e-5), a person who violates this Section is guilty of a petty offense. Violations of this Section are punishable with a minimum fine of $150 for the first violation, a minimum fine of $300 for the second or subsequent violation, and community service in an amount determined by the court."
+    },
+    {
+      "type": "paragraph",
+      "text": "(e-5) A person committing a violation of this Section is guilty of aggravated special speed limit while passing schools when he or she drives a motor vehicle at a speed that is:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) 26 miles per hour or more but less than 35 miles per hour in excess of the applicable special speed limit established under this Section or a similar provision of a local ordinance and is guilty of a Class B misdemeanor; or (2) 35 miles per hour or more in excess of the applicable special speed limit established under this Section or a similar provision of a local ordinance and is guilty of a Class A misdemeanor. (f) (Blank)."
+    },
+    {
+      "type": "subsection",
+      "label": "(g)",
+      "text": "(g) (Blank)."
+    },
+    {
+      "type": "subsection",
+      "label": "(h)",
+      "text": "(h) (Blank)."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 102-58, eff. 7-9-21; 102-859, eff. 1-1-23; 102-978, eff. 1-1-23; 103-154, eff. 6-30-23.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 102-58, eff. 7-9-21; 102-859, eff. 1-1-23; 102-978, eff. 1-1-23; 103-154, eff. 6-30-23.)",
+  "publicActs": [
+    {
+      "publicAct": "102-58",
+      "effectiveDate": "7-9-21"
+    },
+    {
+      "publicAct": "102-859",
+      "effectiveDate": "1-1-23"
+    },
+    {
+      "publicAct": "102-978",
+      "effectiveDate": "1-1-23"
+    },
+    {
+      "publicAct": "103-154",
+      "effectiveDate": "6-30-23"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "f4f3db4685a864bdc634411a4ee287c535062654245bd1b777307b1ce1deeba0",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0220"
+  ]
+}

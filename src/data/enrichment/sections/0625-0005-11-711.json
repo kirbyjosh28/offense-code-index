@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-711",
+  "citation": "625 ILCS 5/11-711",
+  "docName": "062500050K11-711",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-711",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:17:26.747Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-711",
+  "headingText": "Sec. 11-711. Restrictions on use of controlled access highway.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-711) (from Ch. 95 1/2, par. 11-711)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-711. Restrictions on use of controlled access highway."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) No person may drive a vehicle onto or from any controlled access highway except at entrances and exits established by public authority."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) The Department with respect to any controlled access highway under its jurisdiction may prohibit the use of any such highways by pedestrians (except in authorized areas or facilities), bicycles, farm tractors, implements of husbandry, funeral processions, and any vehicle unable to maintain the minimum speed for which the highway is posted, or other non-motorized traffic or by any person operating a motor driven cycle. The Department may also prohibit the use of such highway to school buses picking up and discharging children and mail delivery vehicles picking up or delivering mail. The Department shall erect and maintain official signs on the controlled access highway on which such prohibitions are applicable and when so erected no person may disobey the restrictions stated on such sign."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 76-1586.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 76-1586.)",
+  "publicActs": [
+    {
+      "publicAct": "76-1586",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "aa18e047a73f910b898bab0c29058eb2065f62ffbb55a50771b18560d6bd2b48",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0241"
+  ]
+}

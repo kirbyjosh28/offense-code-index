@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-30-2",
+  "citation": "720 ILCS 5/30-2",
+  "docName": "072000050K30-2",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K30-2",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:29:05.020Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/30-2",
+  "headingText": "Sec. 30-2. Misprision of treason.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/30-2) (from Ch. 38, par. 30-2)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 30-2. Misprision of treason."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person owing allegiance to this State commits misprision of treason when he or she knowingly conceals or withholds his or her knowledge that another has committed treason against this State."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Sentence."
+    },
+    {
+      "type": "paragraph",
+      "text": "Misprision of treason is a Class 4 felony."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 97-1108, eff. 1-1-13.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 97-1108, eff. 1-1-13.)",
+  "publicActs": [
+    {
+      "publicAct": "97-1108",
+      "effectiveDate": "1-1-13"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "39d0a7e660b279d98df75db7ce611c2a7ff94dea2c4cbc76368b39209cb5a749",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0844"
+  ]
+}

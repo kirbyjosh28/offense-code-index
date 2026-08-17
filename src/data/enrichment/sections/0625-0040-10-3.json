@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0040-10-3",
+  "citation": "625 ILCS 40/10-3",
+  "docName": "062500400K10-3",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500400K10-3",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:22:22.571Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 40/10-3",
+  "headingText": "Sec. 10-3. Unlawful operation of a snowmobile. A person may not operate a snowmobile during any period when his or her privilege to operate a snowmobile is suspended or revoked in this State, by another state, by a federal agency, or by a province of Canada. A person who operates a snowmobile during the period when he or she is denied the privilege to operate a snowmobile is guilty of a Class A misdemeanor.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 40/10-3)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 10-3. Unlawful operation of a snowmobile. A person may not operate a snowmobile during any period when his or her privilege to operate a snowmobile is suspended or revoked in this State, by another state, by a federal agency, or by a province of Canada. A person who operates a snowmobile during the period when he or she is denied the privilege to operate a snowmobile is guilty of a Class A misdemeanor."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 94-214, eff. 1-1-06.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 94-214, eff. 1-1-06.)",
+  "publicActs": [
+    {
+      "publicAct": "94-214",
+      "effectiveDate": "1-1-06"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "faa8d360c19aec8bad7f387a43467ee7032291bb4f6bebe2da3608415c2a95cb",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0506"
+  ]
+}

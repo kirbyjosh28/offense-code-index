@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-401",
+  "citation": "625 ILCS 5/11-401",
+  "docName": "062500050K11-401",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-401",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:16:40.202Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-401",
+  "headingText": "Sec. 11-401. Motor vehicle crashes involving death or personal injuries.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-401) (from Ch. 95 1/2, par. 11-401)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-401. Motor vehicle crashes involving death or personal injuries."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) The driver of any vehicle involved in a motor vehicle crashes resulting in personal injury to or death of any person shall immediately stop such vehicle at the scene of such crash, or as close thereto as possible and shall then forthwith return to, and in every event shall remain at the scene of the crash until the requirements of Section 11-403 have been fulfilled. Every such stop shall be made without obstructing traffic more than is necessary."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Any person who has failed to stop or to comply with the requirements of paragraph (a) shall, as soon as possible but in no case later than one-half hour after such motor vehicle crash, or, if hospitalized and incapacitated from reporting at any time during such period, as soon as possible but in no case later than one-half hour after being discharged from the hospital, report the place of the crash, the date, the approximate time, the driver's name and address, the registration number of the vehicle driven, and the names of all other occupants of such vehicle, at a police station or sheriff's office near the place where such crash occurred. No report made as required under this paragraph shall be used, directly or indirectly, as a basis for the prosecution of any violation of paragraph (a)."
+    },
+    {
+      "type": "paragraph",
+      "text": "(b-1) Any person arrested for violating this Section is subject to chemical testing of his or her blood, breath, other bodily substance, or urine for the presence of alcohol, other drug or drugs, intoxicating compound or compounds, or any combination thereof, as provided in Section 11-501.1, if the testing occurs within 12 hours of the time of the occurrence of the crash that led to his or her arrest. The person's driving privileges are subject to statutory summary suspension under Section 11-501.1 if he or she fails testing or statutory summary revocation under Section 11-501.1 if he or she refuses to undergo the testing."
+    },
+    {
+      "type": "paragraph",
+      "text": "For purposes of this Section, personal injury shall mean any injury requiring immediate professional treatment in a medical facility or doctor's office."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Any person failing to comply with paragraph (a) shall be guilty of a Class 4 felony."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) Any person failing to comply with paragraph (b) is guilty of a Class 2 felony if the motor vehicle crash does not result in the death of any person. Any person failing to comply with paragraph (b) when the crash results in the death of any person is guilty of a Class 1 felony."
+    },
+    {
+      "type": "subsection",
+      "label": "(e)",
+      "text": "(e) The Secretary of State shall revoke the driving privilege of any person convicted of a violation of this Section."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 102-982, eff. 7-1-23.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 102-982, eff. 7-1-23.)",
+  "publicActs": [
+    {
+      "publicAct": "102-982",
+      "effectiveDate": "7-1-23"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "d09bdd57723bef2c5a2281aef3a3a40459727b34a9c2edbc22c4c721a805294a",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0191",
+    "offense-0192"
+  ]
+}

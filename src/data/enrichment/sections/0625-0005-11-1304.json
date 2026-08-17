@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-1304",
+  "citation": "625 ILCS 5/11-1304",
+  "docName": "062500050K11-1304",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-1304",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:15:13.104Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-1304",
+  "headingText": "Sec. 11-1304. Additional parking regulations. (a) Except as otherwise provided in this section, every vehicle stopped or parked upon a two-way roadway shall be so stopped or parked with the right-hand wheels parallel to and within 12 inches of the right-hand curb or as close as practicable to the right edge of the right-hand shoulder.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-1304) (from Ch. 95 1/2, par. 11-1304)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-1304. Additional parking regulations. (a) Except as otherwise provided in this section, every vehicle stopped or parked upon a two-way roadway shall be so stopped or parked with the right-hand wheels parallel to and within 12 inches of the right-hand curb or as close as practicable to the right edge of the right-hand shoulder."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Except when otherwise provided by local ordinance, every vehicle stopped or parked upon a one-way roadway shall be so stopped or parked parallel to the curb or edge of the roadway, in the direction of authorized traffic movement, with its right-hand wheels within 12 inches of the right-hand curb or as close as practicable to the right edge of the right-hand shoulder, or with its left-hand wheels within 12 inches of the left-hand curb or as close as practicable to the left edge of the left-hand shoulder."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Local authorities may permit angle parking on any roadway, except that angle parking shall not be permitted on any federal-aid or State highway unless the Department has determined that the roadway is of sufficient width to permit angle parking without interfering with the free movement of traffic."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) The Department with respect to highways under its jurisdiction may place signs prohibiting, limiting, or restricting the stopping, standing or parking of vehicles on any highway where in its opinion such stopping, standing or parking is dangerous to those using the highway or where the stopping, standing or parking of vehicles would unduly interfere with the free movement of traffic thereon. No person shall stop, stand or park any vehicle in violation of the restrictions indicated by such devices."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 79-801; 79-1069; 79-1454.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 79-801; 79-1069; 79-1454.)",
+  "publicActs": [
+    {
+      "publicAct": "79-801",
+      "effectiveDate": null
+    },
+    {
+      "publicAct": "79-1069",
+      "effectiveDate": null
+    },
+    {
+      "publicAct": "79-1454",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "feb17565152a11941c196e062adda756511f5122edcc122b5f4ecd6264f030ba",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0282"
+  ]
+}

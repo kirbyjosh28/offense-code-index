@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-6-512",
+  "citation": "625 ILCS 5/6-512",
+  "docName": "062500050K6-512",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K6-512",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:22:06.049Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/6-512",
+  "headingText": "Sec. 6-512. Unlawful operation of a commercial motor vehicle pursuant to a non-Illinois issued CLP or CDL. No person, after becoming a domiciliary of this State for 30 days or more, shall drive a commercial motor vehicle on the highways of this State pursuant to the authority of a CLP or CDL issued by any other State or foreign jurisdiction.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/6-512) (from Ch. 95 1/2, par. 6-512)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 6-512. Unlawful operation of a commercial motor vehicle pursuant to a non-Illinois issued CLP or CDL. No person, after becoming a domiciliary of this State for 30 days or more, shall drive a commercial motor vehicle on the highways of this State pursuant to the authority of a CLP or CDL issued by any other State or foreign jurisdiction."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 98-176 (see Section 10 of P.A. 98-722 and Section 10 of P.A. 99-414 for the effective date of changes made by P.A. 98-176).)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 98-176 (see Section 10 of P.A. 98-722 and Section 10 of P.A. 99-414 for the effective date of changes made by P.A. 98-176).)",
+  "publicActs": [
+    {
+      "publicAct": "98-176",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "64db58e8296fad9935ff33b03a99464b3d9c90c49fc2dff9397c200f5087bd1f",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0166"
+  ]
+}

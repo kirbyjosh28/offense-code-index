@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-11-9.1A",
+  "citation": "720 ILCS 5/11-9.1A",
+  "docName": "072000050K11-9.1A",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K11-9.1A",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:24:00.193Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/11-9.1A",
+  "headingText": "Sec. 11-9.1A. Permitting sexual abuse of a child.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/11-9.1A)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-9.1A. Permitting sexual abuse of a child."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person responsible for a child's welfare commits permitting sexual abuse of a child if the person has actual knowledge of and permits an act of sexual abuse upon the child, or permits the child to engage in prostitution as defined in Section 11-14 of this Code."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) In this Section:"
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Actual knowledge\" includes credible allegations made by the child."
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Child\" means a minor under the age of 17 years."
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Person responsible for the child's welfare\" means the child's parent, step-parent, legal guardian, or other person having custody of a child, who is responsible for the child's care at the time of the alleged sexual abuse."
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Prostitution\" means prostitution as defined in Section 11-14 of this Code."
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Sexual abuse\" includes criminal sexual abuse or criminal sexual assault as defined in Section 11-1.20, 11-1.30, 11-1.40, 11-1.50, or 11-1.60 of this Code."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) This Section does not apply to a person responsible for the child's welfare who, having reason to believe that sexual abuse has occurred, makes timely and reasonable efforts to stop the sexual abuse by reporting the sexual abuse in conformance with the Abused and Neglected Child Reporting Act or by reporting the sexual abuse, or causing a report to be made, to medical or law enforcement authorities or anyone who is a mandated reporter under Section 4 of the Abused and Neglected Child Reporting Act."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) Whenever a law enforcement officer has reason to believe that the child or the person responsible for the child's welfare has been abused by a family or household member as defined by the Illinois Domestic Violence Act of 1986, the officer shall immediately use all reasonable means to prevent further abuse under Section 112A-30 of the Code of Criminal Procedure of 1963."
+    },
+    {
+      "type": "subsection",
+      "label": "(e)",
+      "text": "(e) An order of protection under Section 111-8 of the Code of Criminal Procedure of 1963 shall be sought in all cases where there is reason to believe that a child has been sexually abused by a family or household member. In considering appropriate available remedies, it shall be presumed that awarding physical care or custody to the abuser is not in the child's best interest."
+    },
+    {
+      "type": "subsection",
+      "label": "(f)",
+      "text": "(f) A person may not be charged with the offense of permitting sexual abuse of a child under this Section until the person who committed the offense is charged with criminal sexual assault, aggravated criminal sexual assault, predatory criminal sexual assault of a child, criminal sexual abuse, aggravated criminal sexual abuse, or prostitution."
+    },
+    {
+      "type": "subsection",
+      "label": "(g)",
+      "text": "(g) A person convicted of permitting the sexual abuse of a child is guilty of a Class 1 felony. As a condition of any sentence of supervision, probation, conditional discharge, or mandatory supervised release, any person convicted under this Section shall be ordered to undergo child sexual abuse, domestic violence, or other appropriate counseling for a specified duration with a qualified social or mental health worker."
+    },
+    {
+      "type": "subsection",
+      "label": "(h)",
+      "text": "(h) It is an affirmative defense to a charge of permitting sexual abuse of a child under this Section that the person responsible for the child's welfare had a reasonable apprehension that timely action to stop the abuse or prostitution would result in the imminent infliction of death, great bodily harm, permanent disfigurement, or permanent disability to that person or another in retaliation for reporting."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 96-1551, eff. 7-1-11; 97-1150, eff. 1-25-13.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 96-1551, eff. 7-1-11; 97-1150, eff. 1-25-13.)",
+  "publicActs": [
+    {
+      "publicAct": "96-1551",
+      "effectiveDate": "7-1-11"
+    },
+    {
+      "publicAct": "97-1150",
+      "effectiveDate": "1-25-13"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "8d5bed57f19da0c10fc0aebe6b3173e357f8c0016069289d1fa1254ed3b8d988",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0581"
+  ]
+}

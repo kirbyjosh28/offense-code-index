@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-12-7",
+  "citation": "720 ILCS 5/12-7",
+  "docName": "072000050K12-7",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K12-7",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:24:57.270Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/12-7",
+  "headingText": "Sec. 12-7. Compelling confession or information by force or threat.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/12-7) (from Ch. 38, par. 12-7)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 12-7. Compelling confession or information by force or threat."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person who, with intent to obtain a confession, statement or information regarding any offense, knowingly inflicts or threatens imminent bodily harm upon the person threatened or upon any other person commits compelling a confession or information by force or threat."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Sentence."
+    },
+    {
+      "type": "paragraph",
+      "text": "Compelling a confession or information is a: (1) Class 4 felony if the defendant threatens imminent bodily harm to obtain a confession, statement, or information but does not inflict bodily harm on the victim, (2) Class 3 felony if the defendant inflicts bodily harm on the victim to obtain a confession, statement, or information, and (3) Class 2 felony if the defendant inflicts great bodily harm to obtain a confession, statement, or information."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 96-1551, eff. 7-1-11.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 96-1551, eff. 7-1-11.)",
+  "publicActs": [
+    {
+      "publicAct": "96-1551",
+      "effectiveDate": "7-1-11"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "4062f9e48c34c2ee1aa5abd58252dc4183afc13ef6d601c76c6cc42d7c3bd630",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0636"
+  ]
+}

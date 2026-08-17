@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-19-2",
+  "citation": "720 ILCS 5/19-2",
+  "docName": "072000050K19-2",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K19-2",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:27:01.878Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/19-2",
+  "headingText": "Sec. 19-2. Possession of burglary tools.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/19-2) (from Ch. 38, par. 19-2)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 19-2. Possession of burglary tools."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits possession of burglary tools when he or she possesses any key, tool, instrument, device, or any explosive, suitable for use in breaking into a building, housetrailer, watercraft, aircraft, motor vehicle, railroad car, or any depository designed for the safekeeping of property, or any part thereof, with intent to enter that place and with intent to commit therein a felony or theft. The trier of fact may infer from the possession of a key designed for lock bumping an intent to commit a felony or theft; however, this inference does not apply to any peace officer or other employee of a law enforcement agency, or to any person or agency licensed under the Private Detective, Private Alarm, Private Security, Fingerprint Vendor, and Locksmith Act of 2004. For the purposes of this Section, \"lock bumping\" means a lock picking technique for opening a pin tumbler lock using a specially-crafted bumpkey."
+    },
+    {
+      "type": "paragraph",
+      "text": "(a-5) A person also commits possession of burglary tools when he or she, knowingly and with the intent to enter the motor vehicle and with the intent to commit therein a felony or theft, possesses a device designed to:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) unlock or start a motor vehicle without the use or possession of the key to the motor vehicle; or (2) capture or duplicate a signal from the key fob of a motor vehicle to unlock or start the motor vehicle without the use or possession of the key to the motor vehicle. (b) Sentence. Possession of burglary tools is a Class 4 felony."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 102-903, eff. 1-1-23.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 102-903, eff. 1-1-23.)",
+  "publicActs": [
+    {
+      "publicAct": "102-903",
+      "effectiveDate": "1-1-23"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "af6fb6872dcd33a78abc52fb2e81d02afb0b8d1f69a081d106595b53110e8d85",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0751"
+  ]
+}

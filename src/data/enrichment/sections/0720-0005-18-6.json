@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-18-6",
+  "citation": "720 ILCS 5/18-6",
+  "docName": "072000050K18-6",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K18-6",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:26:58.886Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/18-6",
+  "headingText": "Sec. 18-6. Vehicular invasion.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/18-6) (was 720 ILCS 5/12-11.1)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 18-6. Vehicular invasion."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits vehicular invasion when he or she knowingly, by force and without lawful justification, enters or reaches into the interior of a motor vehicle while the motor vehicle is occupied by another person or persons, with the intent to commit therein a theft or felony."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Sentence. Vehicular invasion is a Class 1 felony."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 97-1108, eff. 1-1-13.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 97-1108, eff. 1-1-13.)",
+  "publicActs": [
+    {
+      "publicAct": "97-1108",
+      "effectiveDate": "1-1-13"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "70a5912553bafbe76b5f54534d3cc5d1604e650a34749e4c2e4537a12fd61aee",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0749"
+  ]
+}

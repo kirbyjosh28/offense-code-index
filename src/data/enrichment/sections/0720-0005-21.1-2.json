@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-21.1-2",
+  "citation": "720 ILCS 5/21.1-2",
+  "docName": "072000050K21.1-2",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K21.1-2",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:27:40.925Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/21.1-2",
+  "headingText": "Sec. 21.1-2. Residential picketing. A person commits residential picketing when he or she pickets before or about the residence or dwelling of any person, except when the residence or dwelling is used as a place of business. This Article does not apply to a person peacefully picketing his own residence or dwelling and does not prohibit the peaceful picketing of the place of holding a meeting or assembly on premises commonly used to discuss subjects of general public interest.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/21.1-2) (from Ch. 38, par. 21.1-2)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 21.1-2. Residential picketing. A person commits residential picketing when he or she pickets before or about the residence or dwelling of any person, except when the residence or dwelling is used as a place of business. This Article does not apply to a person peacefully picketing his own residence or dwelling and does not prohibit the peaceful picketing of the place of holding a meeting or assembly on premises commonly used to discuss subjects of general public interest."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 97-1108, eff. 1-1-13.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 97-1108, eff. 1-1-13.)",
+  "publicActs": [
+    {
+      "publicAct": "97-1108",
+      "effectiveDate": "1-1-13"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "4b0eab7337182a39887bcea7756589292ad22f151381b8f0b67f1933f1f1590b",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0777"
+  ]
+}

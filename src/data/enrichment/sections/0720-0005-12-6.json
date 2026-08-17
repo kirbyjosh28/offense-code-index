@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-12-6",
+  "citation": "720 ILCS 5/12-6",
+  "docName": "072000050K12-6",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K12-6",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:24:51.259Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/12-6",
+  "headingText": "Sec. 12-6. Intimidation.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/12-6) (from Ch. 38, par. 12-6)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 12-6. Intimidation."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits intimidation when, with intent to cause another to perform or to omit the performance of any act, he or she communicates to another, directly or indirectly by any means, a threat to perform without lawful authority any of the following acts:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) Inflict physical harm on the person threatened or any other person or on property; or (2) Subject any person to physical confinement or restraint; or (3) Commit a felony or Class A misdemeanor; or"
+    },
+    {
+      "type": "subsection",
+      "label": "(4)",
+      "text": "(4) Accuse any person of an offense; or"
+    },
+    {
+      "type": "subsection",
+      "label": "(5)",
+      "text": "(5) Expose any person to hatred, contempt or ridicule; or (6) Take action as a public official against anyone or anything, or withhold official action, or cause such action or withholding; or (7) Bring about or continue a strike, boycott or other collective action. (b) Sentence."
+    },
+    {
+      "type": "paragraph",
+      "text": "Intimidation is a Class 3 felony for which an offender may be sentenced to a term of imprisonment of not less than 2 years and not more than 10 years."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 96-1551, eff. 7-1-11.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 96-1551, eff. 7-1-11.)",
+  "publicActs": [
+    {
+      "publicAct": "96-1551",
+      "effectiveDate": "7-1-11"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "6f74ad595e619651103d96c7ae42329d86af3276725a039030afe722fe633336",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0632"
+  ]
+}

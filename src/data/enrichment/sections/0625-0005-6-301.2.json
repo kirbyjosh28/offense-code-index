@@ -1,0 +1,83 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-6-301.2",
+  "citation": "625 ILCS 5/6-301.2",
+  "docName": "062500050K6-301.2",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K6-301.2",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:21:46.539Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/6-301.2",
+  "headingText": "Sec. 6-301.2. Fraudulent driver's license or permit.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/6-301.2) (from Ch. 95 1/2, par. 6-301.2)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 6-301.2. Fraudulent driver's license or permit."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) (Blank)."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) It is a violation of this Section for any person:"
+    },
+    {
+      "type": "paragraph",
+      "text": "1. To knowingly possess any fraudulent driver's license or permit; 2. To knowingly possess, display or cause to be displayed any fraudulent driver's license or permit for the purpose of obtaining any account, credit, credit card or debit card from a bank, financial institution or retail mercantile establishment; 3. To knowingly possess any fraudulent driver's license or permit with the intent to commit a theft, deception or credit or debit card fraud in violation of any law of this State or any law of any other jurisdiction; 4. To knowingly possess any fraudulent driver's license or permit with the intent to commit any other violation of any laws of this State or any law of any other jurisdiction for which a sentence to a term of imprisonment in a penitentiary for one year or more is provided; 5. To knowingly possess any fraudulent driver's license or permit while in unauthorized possession of any document, instrument or device capable of defrauding another; 6. To knowingly possess any fraudulent driver's license or permit with the intent to use the license or permit to acquire any other identification document; 7. To knowingly possess without authority any driver's license-making or permit-making implement; 8. To knowingly possess any stolen driver's license-making or permit-making implement or to possess, use, or allow to be used any materials, hardware, or software specifically designed for or primarily used in the manufacture, assembly, issuance, or authentication of an official driver's license or permit issued by the Secretary of State; 9. To knowingly duplicate, manufacture, sell or transfer any fraudulent driver's license or permit; 10. To advertise or distribute any information or materials that promote the selling, giving, or furnishing of a fraudulent driver's license or permit; 11. To knowingly use any fraudulent driver's license or permit to purchase or attempt to purchase any ticket for a common carrier or to board or attempt to board any common carrier. As used in this Section, \"common carrier\" means any public or private provider of transportation, whether by land, air, or water; 12. To knowingly possess any fraudulent driver's license or permit if the person has at the time a different driver's license issued by the Secretary of State or another official driver's license agency in another jurisdiction that is suspended or revoked. (b-1) It is a violation of this Section for any person to possess, use, or allow to be used any materials, hardware, or software specifically designed for or primarily used in the reading of encrypted language from the bar code or magnetic strip of an official Illinois driver's license issued by the Secretary of State. This subsection (b-1) does not apply if a federal or State law, rule, or regulation requires that the card holder's address be recorded in specified transactions or if the encrypted information is obtained for the detection or possible prosecution of criminal offenses or fraud. If the address information is obtained under this subsection (b-1), it may be used only for the purposes authorized by this subsection (b-1)."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Sentence."
+    },
+    {
+      "type": "paragraph",
+      "text": "1. Any person convicted of a violation of paragraph 1 of subsection (b) of this Section shall be guilty of a Class 4 felony and shall be sentenced to a minimum fine of $500 or 50 hours of community service, preferably at an alcohol abuse prevention program, if available. 2. Any person convicted of a violation of any of paragraphs 2 through 9 or paragraph 11 or 12 of subsection (b) of this Section or a violation of subsection (b-1) of this Section shall be guilty of a Class 4 felony. A person convicted of a second or subsequent violation shall be guilty of a Class 3 felony. 3. Any person convicted of a violation of paragraph 10 of subsection (b) of this Section shall be guilty of a Class B misdemeanor. (d) This Section does not prohibit any lawfully authorized investigative, protective, law enforcement or other activity of any agency of the United States, State of Illinois or any other state or political subdivision thereof."
+    },
+    {
+      "type": "subsection",
+      "label": "(e)",
+      "text": "(e) The Secretary may request the Attorney General to seek a restraining order in the circuit court against any person who violates this Section by advertising fraudulent driver's licenses or permits."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 93-667, eff. 3-19-04; 93-895, eff. 1-1-05; 94-239, eff. 1-1-06; 94-930, eff. 6-26-06.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 93-667, eff. 3-19-04; 93-895, eff. 1-1-05; 94-239, eff. 1-1-06; 94-930, eff. 6-26-06.)",
+  "publicActs": [
+    {
+      "publicAct": "93-667",
+      "effectiveDate": "3-19-04"
+    },
+    {
+      "publicAct": "93-895",
+      "effectiveDate": "1-1-05"
+    },
+    {
+      "publicAct": "94-239",
+      "effectiveDate": "1-1-06"
+    },
+    {
+      "publicAct": "94-930",
+      "effectiveDate": "6-26-06"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "3e82be0d43039a6525b695d7123bbb2b89b7cce331740b5fce1c72367301d9dd",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0141",
+    "offense-0142",
+    "offense-0143",
+    "offense-0144",
+    "offense-0145"
+  ]
+}

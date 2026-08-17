@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-10-2",
+  "citation": "720 ILCS 5/10-2",
+  "docName": "072000050K10-2",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K10-2",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:23:01.633Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/10-2",
+  "headingText": "Sec. 10-2. Aggravated kidnaping.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/10-2) (from Ch. 38, par. 10-2)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 10-2. Aggravated kidnaping."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits the offense of aggravated kidnaping when he or she commits kidnapping and:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) kidnaps with the intent to obtain ransom from the person kidnaped or from any other person; (2) takes as his or her victim a child under the age of 13 years, or a person with a severe or profound intellectual disability; (3) inflicts great bodily harm, other than by the discharge of a firearm, or commits another felony upon his or her victim; (4) wears a hood, robe, or mask or conceals his or her identity; (5) commits the offense of kidnaping while armed with a dangerous weapon, other than a firearm, as defined in Section 33A-1 of this Code; (6) commits the offense of kidnaping while armed with a firearm; (7) during the commission of the offense of kidnaping, personally discharges a firearm; or (8) during the commission of the offense of kidnaping, personally discharges a firearm that proximately causes great bodily harm, permanent disability, permanent disfigurement, or death to another person. As used in this Section, \"ransom\" includes money, benefit, or other valuable thing or concession."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Sentence. Aggravated kidnaping in violation of paragraph (1), (2), (3), (4), or (5) of subsection (a) is a Class X felony. A violation of subsection (a)(6) is a Class X felony for which 15 years shall be added to the term of imprisonment imposed by the court. A violation of subsection (a)(7) is a Class X felony for which 20 years shall be added to the term of imprisonment imposed by the court. A violation of subsection (a)(8) is a Class X felony for which 25 years or up to a term of natural life shall be added to the term of imprisonment imposed by the court. An offender under the age of 18 years at the time of the commission of aggravated kidnaping in violation of paragraphs (1) through (8) of subsection (a) shall be sentenced under Section 5-4.5-105 of the Unified Code of Corrections."
+    },
+    {
+      "type": "paragraph",
+      "text": "A person who has attained the age of 18 years at the time of the commission of the offense and who is convicted of a second or subsequent offense of aggravated kidnaping shall be sentenced to a term of natural life imprisonment; except that a sentence of natural life imprisonment shall not be imposed under this Section unless the second or subsequent offense was committed after conviction on the first offense. An offender under the age of 18 years at the time of the commission of the second or subsequent offense shall be sentenced under Section 5-4.5-105 of the Unified Code of Corrections."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 99-69, eff. 1-1-16; 99-143, eff. 7-27-15; 99-642, eff. 7-28-16.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 99-69, eff. 1-1-16; 99-143, eff. 7-27-15; 99-642, eff. 7-28-16.)",
+  "publicActs": [
+    {
+      "publicAct": "99-69",
+      "effectiveDate": "1-1-16"
+    },
+    {
+      "publicAct": "99-143",
+      "effectiveDate": "7-27-15"
+    },
+    {
+      "publicAct": "99-642",
+      "effectiveDate": "7-28-16"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "a1056aac09e1d58cc23c93660da7660587172327592cc25ebc8e93e5d46e2dc8",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0560"
+  ]
+}

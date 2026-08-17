@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-11-6",
+  "citation": "720 ILCS 5/11-6",
+  "docName": "072000050K11-6",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K11-6",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:23:54.187Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/11-6",
+  "headingText": "Sec. 11-6. Indecent solicitation of a child.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/11-6) (from Ch. 38, par. 11-6)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-6. Indecent solicitation of a child."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person of the age of 17 years and upwards commits indecent solicitation of a child if the person, with the intent that the offense of aggravated criminal sexual assault, criminal sexual assault, predatory criminal sexual assault of a child, or aggravated criminal sexual abuse be committed, knowingly solicits a child or one whom he or she believes to be a child to perform an act of sexual penetration or sexual conduct as defined in Section 11-0.1 of this Code."
+    },
+    {
+      "type": "paragraph",
+      "text": "(a-5) A person of the age of 17 years and upwards commits indecent solicitation of a child if the person knowingly discusses an act of sexual conduct or sexual penetration with a child or with one whom he or she believes to be a child by means of the Internet with the intent that the offense of aggravated criminal sexual assault, predatory criminal sexual assault of a child, or aggravated criminal sexual abuse be committed."
+    },
+    {
+      "type": "paragraph",
+      "text": "(a-6) It is not a defense to subsection (a-5) that the person did not solicit the child to perform sexual conduct or sexual penetration with the person."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Definitions. As used in this Section:"
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Solicit\" means to command, authorize, urge, incite, request, or advise another to perform an act by any means including, but not limited to, in person, over the phone, in writing, by computer, or by advertisement of any kind. \"Child\" means a person under 17 years of age."
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Internet\" has the meaning set forth in Section 16-0.1 of this Code. \"Sexual penetration\" or \"sexual conduct\" are defined in Section 11-0.1 of this Code. (c) Sentence. Indecent solicitation of a child under subsection (a) is:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) a Class 1 felony when the act, if done, would be predatory criminal sexual assault of a child or aggravated criminal sexual assault; (2) a Class 2 felony when the act, if done, would be criminal sexual assault; (3) a Class 3 felony when the act, if done, would be aggravated criminal sexual abuse. Indecent solicitation of a child under subsection (a-5) is a Class 4 felony."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 96-1551, eff. 7-1-11; 97-1150, eff. 1-25-13.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 96-1551, eff. 7-1-11; 97-1150, eff. 1-25-13.)",
+  "publicActs": [
+    {
+      "publicAct": "96-1551",
+      "effectiveDate": "7-1-11"
+    },
+    {
+      "publicAct": "97-1150",
+      "effectiveDate": "1-25-13"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "50563cd5543758bb024b6027329c8103a830ee7414a04b6c67589618c1239c1e",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0577"
+  ]
+}

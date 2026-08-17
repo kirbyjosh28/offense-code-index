@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-12-612",
+  "citation": "625 ILCS 5/12-612",
+  "docName": "062500050K12-612",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K12-612",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:18:50.851Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/12-612",
+  "headingText": "Sec. 12-612. False or secret compartment in a vehicle.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/12-612)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 12-612. False or secret compartment in a vehicle."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) Offenses. It is unlawful for any person:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) to own or operate with criminal intent any vehicle he or she knows to contain a false or secret compartment that is used or has been used to conceal a firearm as prohibited by paragraph (a)(4) of Section 24-1 or paragraph (a)(1) of Section 24-1.6 of the Criminal Code of 2012, or controlled substance as prohibited by the Illinois Controlled Substances Act or the Methamphetamine Control and Community Protection Act; or (2) to install, create, build, or fabricate in any vehicle a false or secret compartment knowing that another person intends to use the compartment to conceal a firearm as prohibited by paragraph (a)(4) of Section 24-1 of the Criminal Code of 2012, or controlled substance as prohibited by the Illinois Controlled Substances Act or the Methamphetamine Control and Community Protection Act. (b) Definitions. For purposes of this Section:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) \"False or secret compartment\" means an enclosure integrated into a vehicle that is a modification of the vehicle as built by the original manufacturer. (2) \"Vehicle\" means any of the following vehicles without regard to whether the vehicles are private or commercial, including, but not limited to, cars, trucks, buses, aircraft, and watercraft. (c) Forfeiture. Any vehicle containing a false or secret compartment used in violation of this Section, as well as any items within that compartment, shall be subject to seizure by the Illinois State Police or by any municipal or other local law enforcement agency within whose jurisdiction that property is found as provided in Sections 36-1 and 36-2 of the Criminal Code of 2012. The removal of the false or secret compartment from the vehicle, or the promise to do so, shall not be the basis for a defense to forfeiture of the motor vehicle under Section 36-2 of the Criminal Code of 2012 and shall not be the basis for the court to release the vehicle to the owner."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) Sentence. A violation of this Section is a Class 4 felony. The sentence imposed for violation of this Section shall be served consecutively to any other sentence imposed in connection with the firearm, controlled substance, or other contraband concealed in the false or secret compartment."
+    },
+    {
+      "type": "subsection",
+      "label": "(e)",
+      "text": "(e) For purposes of this Section, a new owner is not responsible for any conduct that occurred or knowledge of conduct that occurred prior to transfer of title."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 102-538, eff. 8-20-21.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 102-538, eff. 8-20-21.)",
+  "publicActs": [
+    {
+      "publicAct": "102-538",
+      "effectiveDate": "8-20-21"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "53d1deeeab41dfd990ae8bf99f4f25d037ad37c18dc48452995b4cef2fca10e0",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0402"
+  ]
+}

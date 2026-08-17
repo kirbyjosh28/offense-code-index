@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-3-411",
+  "citation": "625 ILCS 5/3-411",
+  "docName": "062500050K3-411",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K3-411",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:20:17.931Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/3-411",
+  "headingText": "Sec. 3-411. Registration card to be carried and exhibited on demand.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/3-411) (from Ch. 95 1/2, par. 3-411)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 3-411. Registration card to be carried and exhibited on demand."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) Every registration card for a vehicle of the second division weighing more than 8,000 pounds or any vehicle of the second division weighing 8,000 pounds or less towing a trailer, except pole trailer or semitrailer shall at all times be carried in the vehicle to which it refers or shall be carried by the person driving or in control of such vehicle who shall display the same upon demand of a police officer or any officer or employee of the Secretary of State."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) The provisions of this Section requiring that a registration card be carried in the vehicle to which it refers or by the person driving the same shall not apply when such card is used for the purpose of making application for renewal of registration or upon a transfer of registration of said vehicle."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Every owner or operator of a vehicle of the second division subject to a reciprocity agreement under subsection (b) of Section 3-402 of this Chapter shall at all times carry in the vehicle a copy of the reciprocity permit and shall display the same upon demand of a police officer or any officer or employee of the Secretary of State."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 89-245, eff. 1-1-96; 89-687, eff. 6-1-97.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 89-245, eff. 1-1-96; 89-687, eff. 6-1-97.)",
+  "publicActs": [
+    {
+      "publicAct": "89-245",
+      "effectiveDate": "1-1-96"
+    },
+    {
+      "publicAct": "89-687",
+      "effectiveDate": "6-1-97"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "fc0d8a7d080b9e7ee550d8df48cb97569c77c75f530a3f5f35b11be3abb895f4",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0019"
+  ]
+}

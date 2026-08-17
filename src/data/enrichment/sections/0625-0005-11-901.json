@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-901",
+  "citation": "625 ILCS 5/11-901",
+  "docName": "062500050K11-901",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-901",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:17:34.252Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-901",
+  "headingText": "Sec. 11-901. Vehicles approaching or entering intersection.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-901) (from Ch. 95 1/2, par. 11-901)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-901. Vehicles approaching or entering intersection."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) When 2 vehicles approach or enter an intersection from different roadways at approximately the same time, the driver of the vehicle on the left must yield the right-of-way to the vehicle on the right."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) The right-of-way rule declared in paragraph (a) of this Section is modified at through highways and otherwise as stated in this Chapter."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 76-1739.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 76-1739.)",
+  "publicActs": [
+    {
+      "publicAct": "76-1739",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "4174e3e7e9af4f62f07b23c4bc626dc72e4f08e9bbb6f5709bb9747867afb58e",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0247"
+  ]
+}

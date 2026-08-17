@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-12-712",
+  "citation": "625 ILCS 5/12-712",
+  "docName": "062500050K12-712",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K12-712",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:19:07.362Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/12-712",
+  "headingText": "Sec. 12-712. Construction equipment to display company name.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/12-712) (from Ch. 95 1/2, par. 12-712)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 12-712. Construction equipment to display company name."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) Construction equipment that is capable of being self propelled or any construction equipment capable of being towed shall display on the side of the equipment the name of the company for which it is employed. The name shall be in letters at least 2 inches tall and one-half inch wide. This Section shall not apply to any motor vehicle upon which is affixed the insignia required under Section 18c-4701 of the Illinois Commercial Transportation Law."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Any person convicted of violating this Section shall be guilty of a petty offense and subject to a fine not to exceed $100."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 87-1160; 88-45.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 87-1160; 88-45.)",
+  "publicActs": [
+    {
+      "publicAct": "87-1160",
+      "effectiveDate": null
+    },
+    {
+      "publicAct": "88-45",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "2a64f29c2352c91fe1eb64bbb79f12cb1663ae9ab77c5c1d29c1e06d0d224fae",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0414"
+  ]
+}

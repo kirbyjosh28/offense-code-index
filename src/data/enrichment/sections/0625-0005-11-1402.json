@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-1402",
+  "citation": "625 ILCS 5/11-1402",
+  "docName": "062500050K11-1402",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-1402",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:15:17.615Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-1402",
+  "headingText": "Sec. 11-1402. Limitations on backing. (a) The driver of a vehicle shall not back the same unless such movement can be made with safety and without interfering with other traffic.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-1402) (from Ch. 95 1/2, par. 11-1402)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-1402. Limitations on backing. (a) The driver of a vehicle shall not back the same unless such movement can be made with safety and without interfering with other traffic."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) The driver of a vehicle shall not back the same upon any shoulder or roadway of any controlled-access highway."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 79-1069.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 79-1069.)",
+  "publicActs": [
+    {
+      "publicAct": "79-1069",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "4ea4724b19080dcd8f39ef8f5aa5d241f5818983c28715e8d5a079a982a00947",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0285"
+  ]
+}

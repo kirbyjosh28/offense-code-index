@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-4-105.5",
+  "citation": "625 ILCS 5/4-105.5",
+  "docName": "062500050K4-105.5",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K4-105.5",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:21:01.486Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/4-105.5",
+  "headingText": "Sec. 4-105.5. Attempt. As defined in Section 8-4 of the Criminal Code of 2012.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/4-105.5) (from Ch. 95 1/2, par. 4-105.5)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 4-105.5. Attempt. As defined in Section 8-4 of the Criminal Code of 2012."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 97-1150, eff. 1-25-13.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 97-1150, eff. 1-25-13.)",
+  "publicActs": [
+    {
+      "publicAct": "97-1150",
+      "effectiveDate": "1-25-13"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "7ba10a32d28a81f0a6726c77b93cb2d619e15697b652d7e3a1ca9f81a28ed63e",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0086"
+  ]
+}

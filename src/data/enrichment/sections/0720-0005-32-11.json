@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-32-11",
+  "citation": "720 ILCS 5/32-11",
+  "docName": "072000050K32-11",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K32-11",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:29:27.553Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/32-11",
+  "headingText": "Sec. 32-11. Barratry. If a person wickedly and willfully excites and stirs up actions or quarrels between the people of this State with a view to promote strife and contention, he or she is guilty of the petty offense of common barratry; and if he or she is an attorney at law, he or she shall be suspended from the practice of his or her profession, for any time not exceeding 6 months.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/32-11)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 32-11. Barratry. If a person wickedly and willfully excites and stirs up actions or quarrels between the people of this State with a view to promote strife and contention, he or she is guilty of the petty offense of common barratry; and if he or she is an attorney at law, he or she shall be suspended from the practice of his or her profession, for any time not exceeding 6 months."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 89-234, eff. 1-1-96.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 89-234, eff. 1-1-96.)",
+  "publicActs": [
+    {
+      "publicAct": "89-234",
+      "effectiveDate": "1-1-96"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "1b807c7fa31e4bc3afaf0f45dff4980b78d28c871fbcc5fb144aeb816bc08b4f",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0873"
+  ]
+}

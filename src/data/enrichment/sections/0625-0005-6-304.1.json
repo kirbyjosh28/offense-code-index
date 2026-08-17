@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-6-304.1",
+  "citation": "625 ILCS 5/6-304.1",
+  "docName": "062500050K6-304.1",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K6-304.1",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:21:52.547Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/6-304.1",
+  "headingText": "Sec. 6-304.1. Permitting a driver under the influence to operate a motor vehicle. No person shall knowingly cause, authorize, or permit a motor vehicle owned by, or under the control of, such person to be driven or operated upon a highway by anyone who is under the influence of alcohol, other drugs, or combination thereof. This provision shall not apply to a spouse of the person who owns or has control of, or a co-owner of, a motor vehicle or to a bailee for hire.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/6-304.1) (from Ch. 95 1/2, par. 6-304.1)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 6-304.1. Permitting a driver under the influence to operate a motor vehicle. No person shall knowingly cause, authorize, or permit a motor vehicle owned by, or under the control of, such person to be driven or operated upon a highway by anyone who is under the influence of alcohol, other drugs, or combination thereof. This provision shall not apply to a spouse of the person who owns or has control of, or a co-owner of, a motor vehicle or to a bailee for hire."
+    },
+    {
+      "type": "paragraph",
+      "text": "Any person convicted of violating this Section shall be guilty of a Class A misdemeanor."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 84-1394.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 84-1394.)",
+  "publicActs": [
+    {
+      "publicAct": "84-1394",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "5d3992776554053fd01a761fd462f362ae7b9686aa02217e3b399578ea84971f",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0154"
+  ]
+}

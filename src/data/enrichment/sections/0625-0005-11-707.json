@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-707",
+  "citation": "625 ILCS 5/11-707",
+  "docName": "062500050K11-707",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-707",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:17:19.238Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-707",
+  "headingText": "Sec. 11-707. No-passing zones.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-707) (from Ch. 95 1/2, par. 11-707)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-707. No-passing zones."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) The Department and local authorities are authorized to determine those portions of any highway under their respective jurisdictions where overtaking and passing or driving on the left of the roadway would be especially hazardous and may by appropriate signs or markings on the roadway indicate the beginning and end of such zones. Upon request of a local school board, the Department or local authority which has jurisdiction over the roadway in question, shall determine whether a hazardous situation exists at a particular location and warrants a no-passing zone. If the Department or local authority determines that a no-passing zone is warranted, the school board and the Department or local authority shall share equally the cost of designating the no-passing zone by signs and markings. When such signs or markings are in place and clearly visible to an ordinarily observant person every driver of a vehicle shall obey the directions thereof."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Where signs or markings are in place to define a no-passing zone as set forth in paragraph (a) no driver may at any time drive on the left side of the roadway within the no-passing zone or on the left side of any pavement striping designed to mark such no-passing zone throughout its length."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) This Section does not apply under the conditions described in Section 11-701 (a) 2, subsection (d-5) of Section 11-703, nor to the driver of a vehicle turning left into or from an alley, private road or driveway. The pavement striping designed to mark the no-passing zone may be crossed from the left hand lane for the purpose of completing a pass that was begun prior to the beginning of the zone in the driver's direction of travel."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) Special speed limit areas required under Section 11-605 of this Code in unincorporated areas only shall also be no-passing zones."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 100-359, eff. 1-1-18.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 100-359, eff. 1-1-18.)",
+  "publicActs": [
+    {
+      "publicAct": "100-359",
+      "effectiveDate": "1-1-18"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "d9abaaabf1dba56c8007652f291734c21376ede3e4de27a95120b52b9af5857c",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0236"
+  ]
+}

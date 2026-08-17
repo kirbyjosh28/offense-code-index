@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-12-6.5",
+  "citation": "720 ILCS 5/12-6.5",
+  "docName": "072000050K12-6.5",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K12-6.5",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:24:55.761Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/12-6.5",
+  "headingText": "Sec. 12-6.5. Compelling organization membership of persons. A person who knowingly, expressly or impliedly, threatens to do bodily harm or does bodily harm to an individual or to that individual's family or uses any other criminally unlawful means to solicit or cause any person to join, or deter any person from leaving, any organization or association regardless of the nature of such organization or association, is guilty of a Class 2 felony.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/12-6.5) (was 720 ILCS 5/12-6.1)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 12-6.5. Compelling organization membership of persons. A person who knowingly, expressly or impliedly, threatens to do bodily harm or does bodily harm to an individual or to that individual's family or uses any other criminally unlawful means to solicit or cause any person to join, or deter any person from leaving, any organization or association regardless of the nature of such organization or association, is guilty of a Class 2 felony."
+    },
+    {
+      "type": "paragraph",
+      "text": "Any person of the age of 18 years or older who knowingly, expressly or impliedly, threatens to do bodily harm or does bodily harm to a person under 18 years of age or uses any other criminally unlawful means to solicit or cause any person under 18 years of age to join, or deter any person under 18 years of age from leaving, any organization or association regardless of the nature of such organization or association is guilty of a Class 1 felony."
+    },
+    {
+      "type": "paragraph",
+      "text": "A person convicted of an offense under this Section shall not be eligible to receive a sentence of probation, conditional discharge, or periodic imprisonment."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 96-1551, eff. 7-1-11.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 96-1551, eff. 7-1-11.)",
+  "publicActs": [
+    {
+      "publicAct": "96-1551",
+      "effectiveDate": "7-1-11"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "2cc80d3021f467732220a1cfdbe8d2f99352a17b23f8237eeffac1f251997035",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0635"
+  ]
+}

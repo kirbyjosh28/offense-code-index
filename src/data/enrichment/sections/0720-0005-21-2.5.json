@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-21-2.5",
+  "citation": "720 ILCS 5/21-2.5",
+  "docName": "072000050K21-2.5",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K21-2.5",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:27:28.911Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/21-2.5",
+  "headingText": "Sec. 21-2.5. Electronic tracking devices prohibited.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/21-2.5)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 21-2.5. Electronic tracking devices prohibited."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) As used in this Section:"
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Electronic tracking device\" means any device attached to a vehicle that reveals its location or movement by the transmission of electronic signals. \"State agency\" means all departments, officers, commissions, boards, institutions, and bodies politic and corporate of the State. The term, however, does not mean the judicial branch, including, without limitation, the several courts of the State, the offices of the clerk of the supreme court and the clerks of the appellate court, and the Administrative Office of the Illinois Courts, nor does it mean the legislature or its committees or commissions. \"Telematics\" includes, but is not limited to, automatic airbag deployment and crash notification, remote diagnostics, navigation, stolen vehicle location, remote door unlock, transmitting emergency and vehicle location information to public safety answering points, and any other service integrating vehicle location technology and wireless communications. \"Vehicle\" has the meaning ascribed to it in Section 1-217 of the Illinois Vehicle Code. (b) A person or entity in this State may not use an electronic tracking device to determine the location or movement of a person."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) This Section does not apply:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) when the registered owner, lessor, or lessee of a vehicle has consented to the use of the electronic tracking device with respect to that vehicle; (2) to the lawful use of an electronic tracking device by a law enforcement agency; (3) when the vehicle is owned or leased by a business that is authorized to transact business in this State and the tracking device is used by the business for the purpose of tracking vehicles driven by employees of that business, its affiliates, or contractors of that business or its affiliates; (4) when the vehicle is under the control of a State agency and the electronic tracking device is used by the agency, or the Inspector General appointed under the State Officials and Employees Ethics Act who has jurisdiction over that State agency, for the purpose of tracking vehicles driven by employees or contractors of that State agency; or (5) telematic services that were installed by the manufacturer, or installed by or with the consent of the owner or lessee of the vehicle and to which the owner or lessee has subscribed. Consent by the owner or lessee of the vehicle constitutes consent for any other driver or passenger of that vehicle. (d) Sentence. A violation of this Section is a Class A misdemeanor."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 98-381, eff. 1-1-14.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 98-381, eff. 1-1-14.)",
+  "publicActs": [
+    {
+      "publicAct": "98-381",
+      "effectiveDate": "1-1-14"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "6589c3da98ac535db9e89b0be07fe36dad224df494db1587ded495b23633fee0",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0767"
+  ]
+}

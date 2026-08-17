@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-33-2",
+  "citation": "720 ILCS 5/33-2",
+  "docName": "072000050K33-2",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K33-2",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:29:47.091Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/33-2",
+  "headingText": "Sec. 33-2. Failure to report a bribe. Any public officer, public employee or juror who fails to report forthwith to the local State's Attorney, or in the case of a State employee to the Illinois State Police, any offer made to him in violation of Section 33-1 commits a Class A misdemeanor.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/33-2) (from Ch. 38, par. 33-2)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 33-2. Failure to report a bribe. Any public officer, public employee or juror who fails to report forthwith to the local State's Attorney, or in the case of a State employee to the Illinois State Police, any offer made to him in violation of Section 33-1 commits a Class A misdemeanor."
+    },
+    {
+      "type": "paragraph",
+      "text": "In the case of a State employee, the making of such report to the Illinois State Police shall discharge such employee from any further duty under this Section. Upon receiving any such report, the Illinois State Police shall forthwith transmit a copy thereof to the appropriate State's Attorney."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 102-538, eff. 8-20-21.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 102-538, eff. 8-20-21.)",
+  "publicActs": [
+    {
+      "publicAct": "102-538",
+      "effectiveDate": "8-20-21"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "0505dc4662823ab7275f59f82c5fa8ff1bfbdfdab0ba4f19cd8e131e3e2c4501",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0877"
+  ]
+}

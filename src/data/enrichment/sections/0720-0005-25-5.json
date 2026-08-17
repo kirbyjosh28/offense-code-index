@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-25-5",
+  "citation": "720 ILCS 5/25-5",
+  "docName": "072000050K25-5",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K25-5",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:28:22.985Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/25-5",
+  "headingText": "Sec. 25-5. Unlawful participation in streetgang related activity.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/25-5) (was 720 ILCS 5/25-1.1)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 25-5. Unlawful participation in streetgang related activity."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits unlawful participation in streetgang related activity when he or she knowingly commits any act in furtherance of streetgang related activity as defined in Section 10 of the Illinois Streetgang Terrorism Omnibus Prevention Act after having been:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) sentenced to probation, conditional discharge, or supervision for a criminal offense with a condition of that sentence being to refrain from direct or indirect contact with a streetgang member or members; (2) released on bond for any criminal offense with a condition of that bond being to refrain from direct or indirect contact with a streetgang member or members; (3) ordered by a judge in any non-criminal proceeding to refrain from direct or indirect contact with a streetgang member or members; or (4) released from the Illinois Department of Corrections on a condition of parole or mandatory supervised release that he or she refrain from direct or indirect contact with a streetgang member or members. (b) Unlawful participation in streetgang related activity is a Class A misdemeanor."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) (Blank)."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 100-279, eff. 1-1-18.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 100-279, eff. 1-1-18.)",
+  "publicActs": [
+    {
+      "publicAct": "100-279",
+      "effectiveDate": "1-1-18"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "0ef1b962eb657a8f03c43cd4dd3499d232d218b006caf6fed63277d20a7547d5",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0805"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-26-2",
+  "citation": "720 ILCS 5/26-2",
+  "docName": "072000050K26-2",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K26-2",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:28:25.975Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/26-2",
+  "headingText": "Sec. 26-2. Interference with emergency communication.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/26-2) (from Ch. 38, par. 26-2)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 26-2. Interference with emergency communication."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits interference with emergency communication when he or she knowingly, intentionally and without lawful justification interrupts, disrupts, impedes, or otherwise interferes with the transmission of a communication over a citizens band radio channel, the purpose of which communication is to inform or inquire about an emergency."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) For the purpose of this Section, \"emergency\" means a condition or circumstance in which an individual is or is reasonably believed by the person transmitting the communication to be in imminent danger of serious bodily injury or in which property is or is reasonably believed by the person transmitting the communication to be in imminent danger of damage or destruction."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Sentence."
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) Interference with emergency communication is a Class B misdemeanor, except as otherwise provided in paragraph (2). (2) Interference with emergency communication, where serious bodily injury or property loss in excess of $1,000 results, is a Class A misdemeanor. (Source: P.A. 97-1108, eff. 1-1-13.)"
+    }
+  ],
+  "sourceLine": null,
+  "publicActs": [],
+  "repealed": false,
+  "bodyHash": "97e33c3360bdc879b532af0c2295988860796f48522fb76cc3fac2a514745ef2",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0818"
+  ]
+}

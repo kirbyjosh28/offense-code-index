@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-24.8-2",
+  "citation": "720 ILCS 5/24.8-2",
+  "docName": "072000050K24.8-2",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K24.8-2",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:28:18.468Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/24.8-2",
+  "headingText": "Sec. 24.8-2. Carrying or discharging air rifles on public streets.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/24.8-2)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 24.8-2. Carrying or discharging air rifles on public streets."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person under 13 years of age commits carrying or discharging air rifles on public streets when he or she carries any air rifle on the public streets, roads, highways or public lands within this State, unless the person under 13 years of age carries the air rifle unloaded."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) A person commits carrying or discharging air rifles on public streets when he or she discharges any air rifle from or across any street, sidewalk, road, highway or public land or any public place except on a safely constructed target range."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 97-1108, eff. 1-1-13.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 97-1108, eff. 1-1-13.)",
+  "publicActs": [
+    {
+      "publicAct": "97-1108",
+      "effectiveDate": "1-1-13"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "df04637c16e59dbbd956a7cf626ccb6b794750a5c7e580e3abb2cbc24db80add",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0802"
+  ]
+}

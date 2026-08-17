@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-24-3.8",
+  "citation": "720 ILCS 5/24-3.8",
+  "docName": "072000050K24-3.8",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K24-3.8",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:28:04.959Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/24-3.8",
+  "headingText": "Sec. 24-3.8. Possession of a stolen firearm.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/24-3.8)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 24-3.8. Possession of a stolen firearm."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits possession of a stolen firearm when he or she, not being entitled to the possession of a firearm, possesses the firearm, knowing it to have been stolen or converted. The trier of fact may infer that a person who possesses a firearm with knowledge that its serial number has been removed or altered has knowledge that the firearm is stolen or converted."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Possession of a stolen firearm is a Class 2 felony."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 97-597, eff. 1-1-12; incorporates 97-347, eff. 1-1-12; 97-1109, eff. 1-1-13.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 97-597, eff. 1-1-12; incorporates 97-347, eff. 1-1-12; 97-1109, eff. 1-1-13.)",
+  "publicActs": [
+    {
+      "publicAct": "97-597",
+      "effectiveDate": "1-1-12"
+    },
+    {
+      "publicAct": "97-1109",
+      "effectiveDate": "1-1-13"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "330d00414b16a949841eda61f02bcf98cebeeb24832cd1485de0b6f02e11f132",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0794"
+  ]
+}

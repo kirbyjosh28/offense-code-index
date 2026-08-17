@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-12-601",
+  "citation": "625 ILCS 5/12-601",
+  "docName": "062500050K12-601",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K12-601",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:18:23.829Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/12-601",
+  "headingText": "Sec. 12-601. Horns and warning devices.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/12-601) (from Ch. 95 1/2, par. 12-601)"
+    },
+    {
+      "type": "version-note",
+      "text": "(Text of Section from P.A. 104-81)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 12-601. Horns and warning devices."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) Every motor vehicle when operated upon a highway shall be equipped with a horn in good working order and capable of emitting sound audible under normal conditions from a distance of not less than 200 feet, but no horn or other warning device shall emit an unreasonable loud or harsh sound or a whistle. The driver of a motor vehicle shall when reasonably necessary to insure safe operation give audible warning with his horn but shall not otherwise use such horn when upon a highway."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) No vehicle shall be equipped with nor shall any person use upon a vehicle any siren, whistle, or bell, except as otherwise permitted in this Section. Any authorized emergency vehicle or organ transport vehicle as defined in Chapter 1 of this Code or a vehicle operated by a fire chief, deputy fire chief, assistant fire chief, chief of a Mutual Aid Box Alarm System, or the Director or Coordinator of a municipal or county emergency services and disaster agency may be equipped with a siren, whistle, or bell capable of emitting sound audible under normal conditions from a distance of not less than 500 feet, but such siren, whistle, or bell shall not be used except when such vehicle is operated in response to an emergency call or in the immediate pursuit of an actual or suspected violator of the law in either of which events the driver of such vehicle shall sound such siren, whistle, or bell when necessary to warn pedestrians and other drivers of the approach thereof."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Trackless trolley coaches, as defined by Section 1-206 of this Code, and replica trolleys, as defined by Section 1-171.04 of this Code, may be equipped with a bell or bells in lieu of a horn, and may, in addition to the requirements of subsection (a) of this Section, use a bell or bells for the purpose of indicating arrival or departure at designated stops during the hours of scheduled operation."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 104-81, eff. 1-1-26.)"
+    },
+    {
+      "type": "version-note",
+      "text": "(Text of Section from P.A. 104-213)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 12-601. Horns and warning devices."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) Every motor vehicle when operated upon a highway shall be equipped with a horn in good working order and capable of emitting sound audible under normal conditions from a distance of not less than 200 feet, but no horn or other warning device shall emit an unreasonable loud or harsh sound or a whistle. The driver of a motor vehicle shall when reasonably necessary to insure safe operation give audible warning with his horn but shall not otherwise use such horn when upon a highway."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) No vehicle shall be equipped with nor shall any person use upon a vehicle any siren, whistle, or bell, except as otherwise permitted in this Section. Any authorized emergency vehicle or organ transport vehicle as defined in Chapter 1 of this Code or a vehicle operated by a fire chief, deputy fire chief, assistant fire chief, EMS chief, or the Director or Coordinator of a municipal or county emergency services and disaster agency may be equipped with a siren, whistle, or bell capable of emitting sound audible under normal conditions from a distance of not less than 500 feet, but such siren, whistle, or bell shall not be used except when such vehicle is operated in response to an emergency call or in the immediate pursuit of an actual or suspected violator of the law in either of which events the driver of such vehicle shall sound such siren, whistle, or bell when necessary to warn pedestrians and other drivers of the approach thereof."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Trackless trolley coaches, as defined by Section 1-206 of this Code, and replica trolleys, as defined by Section 1-171.04 of this Code, may be equipped with a bell or bells in lieu of a horn, and may, in addition to the requirements of subsection (a) of this Section, use a bell or bells for the purpose of indicating arrival or departure at designated stops during the hours of scheduled operation."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 104-213, eff. 1-1-26.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 104-81, eff. 1-1-26.)",
+  "publicActs": [
+    {
+      "publicAct": "104-81",
+      "effectiveDate": "1-1-26"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "82fe11cac16226f116d337f46a8071703fe4c2551fa7070d115af7840998a80b",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0379"
+  ]
+}

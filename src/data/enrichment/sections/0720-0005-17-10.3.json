@@ -1,0 +1,72 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-17-10.3",
+  "citation": "720 ILCS 5/17-10.3",
+  "docName": "072000050K17-10.3",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K17-10.3",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:25:53.117Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/17-10.3",
+  "headingText": "Sec. 17-10.3. Deception relating to certification of disadvantaged business enterprises.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/17-10.3)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 17-10.3. Deception relating to certification of disadvantaged business enterprises."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) Fraudulently obtaining or retaining certification. A person who, in the course of business, fraudulently obtains or retains certification as a minority-owned business, women-owned business, service-disabled veteran-owned small business, or veteran-owned small business commits a Class 2 felony."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Willfully making a false statement. A person who, in the course of business, willfully makes a false statement whether by affidavit, report or other representation, to an official or employee of a State agency or the Business Enterprise Council for Minorities, Women, and Persons with Disabilities for the purpose of influencing the certification or denial of certification of any business entity as a minority-owned business, women-owned business, service-disabled veteran-owned small business, or veteran-owned small business commits a Class 2 felony."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Willfully obstructing or impeding an official or employee of any agency in his or her investigation. Any person who, in the course of business, willfully obstructs or impedes an official or employee of any State agency or the Business Enterprise Council for Minorities, Women, and Persons with Disabilities who is investigating the qualifications of a business entity which has requested certification as a minority-owned business, women-owned business, service-disabled veteran-owned small business, or veteran-owned small business commits a Class 2 felony."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) Fraudulently obtaining public moneys reserved for disadvantaged business enterprises. Any person who, in the course of business, fraudulently obtains public moneys reserved for, or allocated or available to, minority-owned businesses, women-owned businesses, service-disabled veteran-owned small businesses, or veteran-owned small businesses commits a Class 2 felony."
+    },
+    {
+      "type": "subsection",
+      "label": "(e)",
+      "text": "(e) Definitions. As used in this Article, \"minority-owned business\", \"women-owned business\", \"State agency\" with respect to minority-owned businesses and women-owned businesses, and \"certification\" with respect to minority-owned businesses and women-owned businesses shall have the meanings ascribed to them in Section 2 of the Business Enterprise for Minorities, Women, and Persons with Disabilities Act. As used in this Article, \"service-disabled veteran-owned small business\", \"veteran-owned small business\", \"State agency\" with respect to service-disabled veteran-owned small businesses and veteran-owned small businesses, and \"certification\" with respect to service-disabled veteran-owned small businesses and veteran-owned small businesses have the same meanings as in Section 45-57 of the Illinois Procurement Code."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 100-391, eff. 8-25-17; 101-170, eff. 1-1-20; 101-601, eff. 1-1-20.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 100-391, eff. 8-25-17; 101-170, eff. 1-1-20; 101-601, eff. 1-1-20.)",
+  "publicActs": [
+    {
+      "publicAct": "100-391",
+      "effectiveDate": "8-25-17"
+    },
+    {
+      "publicAct": "101-170",
+      "effectiveDate": "1-1-20"
+    },
+    {
+      "publicAct": "101-601",
+      "effectiveDate": "1-1-20"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "1b46ec64b4b46068d5e294ced65e65ebbae50cc1d8e82f05a4ac09ace1ddf9d6",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0708"
+  ]
+}

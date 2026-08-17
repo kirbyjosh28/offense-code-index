@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-19-2.5",
+  "citation": "720 ILCS 5/19-2.5",
+  "docName": "072000050K19-2.5",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K19-2.5",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:27:03.389Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/19-2.5",
+  "headingText": "Sec. 19-2.5. Unlawful sale of burglary tools.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/19-2.5)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 19-2.5. Unlawful sale of burglary tools."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) For the purposes of this Section:"
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Lock bumping\" means a lock picking technique for opening a pin tumbler lock using a specially-crafted bumpkey. \"Motor vehicle\" has the meaning ascribed to it in the Illinois Vehicle Code. (b) A person commits the offense of unlawful sale of burglary tools when he or she knowingly sells or transfers any key, including a key designed for lock bumping, or a lock pick specifically manufactured or altered for use in breaking into a building, housetrailer, watercraft, aircraft, motor vehicle, railroad car, or any depository designed for the safekeeping of property, or any part of that property."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) This Section does not apply to the sale or transfer of any item described in subsection (b) to any peace officer or other employee of a law enforcement agency, or to any person or agency licensed as a locksmith under the Private Detective, Private Alarm, Private Security, Fingerprint Vendor, and Locksmith Act of 2004, or to any person engaged in the business of towing vehicles, or to any person engaged in the business of lawful repossession of property who possesses a valid Repossessor-ICC Authorization Card."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) Sentence. Unlawful sale of burglary tools is a Class 4 felony."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 96-1307, eff. 1-1-11.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 96-1307, eff. 1-1-11.)",
+  "publicActs": [
+    {
+      "publicAct": "96-1307",
+      "effectiveDate": "1-1-11"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "12a33ce5cc07659c323cbe9eaaf528a4776d5d83acef98d975ec4a5450601f65",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0752"
+  ]
+}

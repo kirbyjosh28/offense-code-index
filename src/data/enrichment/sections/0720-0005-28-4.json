@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-28-4",
+  "citation": "720 ILCS 5/28-4",
+  "docName": "072000050K28-4",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K28-4",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:28:42.500Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/28-4",
+  "headingText": "Sec. 28-4. Registration of Federal Gambling Stamps.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/28-4) (from Ch. 38, par. 28-4)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 28-4. Registration of Federal Gambling Stamps."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) Every person who has purchased a Federal Wagering Occupational Tax Stamp, as required by the United States under the applicable provisions of the Internal Revenue Code, or a Federal Gaming Device Tax Stamp, as required by the United States under the applicable provisions of the Internal Revenue Code, shall register forthwith such stamp or stamps with the county clerk's office in which he resides and the county clerk's office of each and every county in which he conducts any business. A violation of this Section is a Class B misdemeanor. A subsequent violation is a Class A misdemeanor."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) To register a stamp as required by this Section, each individual stamp purchaser and each member of a firm or association which is a stamp purchaser and, if such purchaser is corporate, the registered agent of the purchasing corporation shall deliver the stamp to the county clerk for inspection and shall under oath or affirmation complete and sign a registration form which shall state the full name and residence and business address of each purchaser and of each member of a purchasing firm or association and of each person employed or engaged in gambling on behalf of such purchaser, shall state the registered agent and registered address of a corporate purchaser, shall state each place where gambling is to be performed by or on behalf of the purchaser, and shall state the duration of validity of the stamp and the federal registration number and tax return number thereof. Any false statement in the registration form is material and is evidence of perjury."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Within 3 days after such registration the county clerk shall by registered mail forward notice of such registration and a duplicate copy of each registration form to the Attorney General of this State, to the Chairman of the Illinois Liquor Control Commission, to the State's Attorney and Sheriff of each county wherein the stamp is registered, and to the principal official of the department of police of each city, village and incorporated town in this State wherein the stamp is registered or wherein the registrant maintains a business address."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 77-2638.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 77-2638.)",
+  "publicActs": [
+    {
+      "publicAct": "77-2638",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "3b1e1fe09b3b23059a534827b8b70d59e82ae3b2eed00e609a0a7e53c24d883e",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0829"
+  ]
+}

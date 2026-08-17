@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-12-3.5",
+  "citation": "720 ILCS 5/12-3.5",
+  "docName": "072000050K12-3.5",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K12-3.5",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:24:28.730Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/12-3.5",
+  "headingText": "Sec. 12-3.5. Interfering with the reporting of domestic violence.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/12-3.5) (was 720 ILCS 5/12-6.3)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 12-3.5. Interfering with the reporting of domestic violence."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits interfering with the reporting of domestic violence when, after having committed an act of domestic violence, he or she knowingly prevents or attempts to prevent the victim of or a witness to the act of domestic violence from calling a 9-1-1 emergency telephone system, obtaining medical assistance, or making a report to any law enforcement official."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) For the purposes of this Section:"
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Domestic violence\" shall have the meaning ascribed to it in Section 112A-3 of the Code of Criminal Procedure of 1963."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Sentence. Interfering with the reporting of domestic violence is a Class A misdemeanor."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 96-1551, eff. 7-1-11.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 96-1551, eff. 7-1-11.)",
+  "publicActs": [
+    {
+      "publicAct": "96-1551",
+      "effectiveDate": "7-1-11"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "1b0badd320916a046f019c6dbaba9375b99505bc88a9666b4fe66010b35dbd52",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0621"
+  ]
+}

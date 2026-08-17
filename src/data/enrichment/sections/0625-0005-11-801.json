@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-801",
+  "citation": "625 ILCS 5/11-801",
+  "docName": "062500050K11-801",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-801",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:17:28.253Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-801",
+  "headingText": "Sec. 11-801. Required position and method of turning. (a) The driver of a vehicle intending to turn at an intersection shall do so as follows:",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-801) (from Ch. 95 1/2, par. 11-801)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-801. Required position and method of turning. (a) The driver of a vehicle intending to turn at an intersection shall do so as follows:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) Both the approach for a right turn and a right turn shall be made as close as practical to the right-hand curb or edge of the roadway."
+    },
+    {
+      "type": "subsection",
+      "label": "(2)",
+      "text": "(2) The driver of a vehicle intending to turn left at any intersection shall approach the intersection in the extreme left-hand lane lawfully available to traffic moving in the direction of travel of such vehicle, and after entering the intersection, the left turn shall be made so as to leave the intersection in a lane lawfully available to traffic moving in such direction upon the roadway being entered. Whenever practicable the left turn shall be made in that portion of the intersection to the left of the center of the intersection."
+    },
+    {
+      "type": "subsection",
+      "label": "(3)",
+      "text": "(3) The Department and local authorities in their respective jurisdictions may cause official traffic control devices to be placed within or adjacent to intersections and thereby require and direct that a different course from that specified in this Section be traveled by vehicles turning at an intersection, and when such devices are so placed no driver of a vehicle shall turn a vehicle at an intersection other than as directed and required by such devices."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Two-way left turn lanes. Where a special lane for making left turns by drivers proceeding in opposite directions has been indicated by official traffic-control devices:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) A left turn shall not be made from any other lane."
+    },
+    {
+      "type": "subsection",
+      "label": "(2)",
+      "text": "(2) A vehicle shall not be driven in the lane except when preparing for or making a left turn from or into the roadway or when preparing for or making a U turn when otherwise permitted by law."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) When a motor vehicle and a mass transit bus are traveling in the same direction on the same multi-laned highway, street or road, the operator of the motor vehicle overtaking such bus, which is stopped at an intersection on the right side of the roadway to receive or discharge passengers, shall pass to the left of the bus at a safe distance and shall not turn to the right in front of the bus at that intersection."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 85-786.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 85-786.)",
+  "publicActs": [
+    {
+      "publicAct": "85-786",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "905901b586ec9a46c23f70a37f6c4025dfbc044366483110193abc0151191475",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0242"
+  ]
+}

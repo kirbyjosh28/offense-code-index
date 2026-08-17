@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0550-5.2",
+  "citation": "720 ILCS 550/5.2",
+  "docName": "072005500K5.2",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072005500K5.2",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:30:54.627Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 550/5.2",
+  "headingText": "Sec. 5.2. Delivery of cannabis on school grounds.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 550/5.2) (from Ch. 56 1/2, par. 705.2)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 5.2. Delivery of cannabis on school grounds."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) Any person who violates subsection (e) of Section 5 in any school, on the real property comprising any school, or any conveyance owned, leased or contracted by a school to transport students to or from school or a school related activity, or on any public way within 500 feet of the real property comprising any school, or in any conveyance owned, leased or contracted by a school to transport students to or from school or a school related activity, and at the time of the violation persons under the age of 18 are present, the offense is committed during school hours, or the offense is committed at times when persons under the age of 18 are reasonably expected to be present in the school, in the conveyance, on the real property, or on the public way, such as when after-school activities are occurring, is guilty of a Class 1 felony, the fine for which shall not exceed $200,000."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Any person who violates subsection (d) of Section 5 in any school, on the real property comprising any school, or any conveyance owned, leased or contracted by a school to transport students to or from school or a school related activity, or on any public way within 500 feet of the real property comprising any school, or in any conveyance owned, leased or contracted by a school to transport students to or from school or a school related activity, and at the time of the violation persons under the age of 18 are present, the offense is committed during school hours, or the offense is committed at times when persons under the age of 18 are reasonably expected to be present in the school, in the conveyance, on the real property, or on the public way, such as when after-school activities are occurring, is guilty of a Class 2 felony, the fine for which shall not exceed $100,000."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Any person who violates subsection (c) of Section 5 in any school, on the real property comprising any school, or any conveyance owned, leased or contracted by a school to transport students to or from school or a school related activity, or on any public way within 500 feet of the real property comprising any school, or in any conveyance owned, leased or contracted by a school to transport students to or from school or a school related activity, and at the time of the violation persons under the age of 18 are present, the offense is committed during school hours, or the offense is committed at times when persons under the age of 18 are reasonably expected to be present in the school, in the conveyance, on the real property, or on the public way, such as when after-school activities are occurring, is guilty of a Class 3 felony, the fine for which shall not exceed $50,000."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) Any person who violates subsection (b) of Section 5 in any school, on the real property comprising any school, or any conveyance owned, leased or contracted by a school to transport students to or from school or a school related activity, or on any public way within 500 feet of the real property comprising any school, or in any conveyance owned, leased or contracted by a school to transport students to or from school or a school related activity, and at the time of the violation persons under the age of 18 are present, the offense is committed during school hours, or the offense is committed at times when persons under the age of 18 are reasonably expected to be present in the school, in the conveyance, on the real property, or on the public way, such as when after-school activities are occurring, is guilty of a Class 4 felony, the fine for which shall not exceed $25,000."
+    },
+    {
+      "type": "subsection",
+      "label": "(e)",
+      "text": "(e) Any person who violates subsection (a) of Section 5 in any school, on the real property comprising any school, or in any conveyance owned, leased or contracted by a school to transport students to or from school or a school related activity, on any public way within 500 feet of the real property comprising any school, or any conveyance owned, leased or contracted by a school to transport students to or from school or a school related activity, and at the time of the violation persons under the age of 18 are present, the offense is committed during school hours, or the offense is committed at times when persons under the age of 18 are reasonably expected to be present in the school, in the conveyance, on the real property, or on the public way, such as when after-school activities are occurring, is guilty of a Class A misdemeanor."
+    },
+    {
+      "type": "subsection",
+      "label": "(f)",
+      "text": "(f) This Section does not apply to a violation that occurs in or on the grounds of a building that is designated as a school but is no longer operational or active as a school, including a building that is temporarily or permanently closed by a unit of local government."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 101-429, eff. 8-20-19; 102-558, eff. 8-20-21.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 101-429, eff. 8-20-19; 102-558, eff. 8-20-21.)",
+  "publicActs": [
+    {
+      "publicAct": "101-429",
+      "effectiveDate": "8-20-19"
+    },
+    {
+      "publicAct": "102-558",
+      "effectiveDate": "8-20-21"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "d2396ce8cd7c74a675bb26c1305a2e39c64450d0e2f433395eb41b499e6078ac",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0925"
+  ]
+}

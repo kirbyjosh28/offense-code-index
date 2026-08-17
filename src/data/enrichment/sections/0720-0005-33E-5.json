@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-33E-5",
+  "citation": "720 ILCS 5/33E-5",
+  "docName": "072000050K33E-5",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K33E-5",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:30:08.081Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/33E-5",
+  "headingText": "Sec. 33E-5. Acquisition or disclosure of bidding information by public official. (a) Any person who is an official of or employed by any unit of State or local government who knowingly opens a sealed bid at a time or place other than as specified in the invitation to bid or as otherwise designated by the State or unit of local government, or outside the presence of witnesses required by the applicable statute or ordinance, commits a Class 4 felony.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/33E-5) (from Ch. 38, par. 33E-5)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 33E-5. Acquisition or disclosure of bidding information by public official. (a) Any person who is an official of or employed by any unit of State or local government who knowingly opens a sealed bid at a time or place other than as specified in the invitation to bid or as otherwise designated by the State or unit of local government, or outside the presence of witnesses required by the applicable statute or ordinance, commits a Class 4 felony."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Any person who is an official of or employed by any unit of State or local government who knowingly discloses to any interested person any information related to the terms of a sealed bid whether that information is acquired through a violation of subsection (a) or by any other means except as provided by law or necessary to the performance of such official's or employee's responsibilities relating to the bid, commits a Class 3 felony."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) It shall not constitute a violation of subsection (b) of this Section for any person who is an official of or employed by any unit of State or local government to make any disclosure to any interested person where such disclosure is also made generally available to the public."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) This Section only applies to contracts let by sealed bid."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 86-150.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 86-150.)",
+  "publicActs": [
+    {
+      "publicAct": "86-150",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "845ee4b4351c9443240a61a4b9aef63803332a8c5708dea349d605e9f8983562",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0886"
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-33E-7",
+  "citation": "720 ILCS 5/33E-7",
+  "docName": "072000050K33E-7",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K33E-7",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:30:11.082Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/33E-7",
+  "headingText": "Sec. 33E-7. Kickbacks. (a) A person violates this Section when he knowingly either:",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/33E-7) (from Ch. 38, par. 33E-7)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 33E-7. Kickbacks. (a) A person violates this Section when he knowingly either:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) provides, attempts to provide or offers to provide any kickback;"
+    },
+    {
+      "type": "subsection",
+      "label": "(2)",
+      "text": "(2) solicits, accepts or attempts to accept any kickback; or"
+    },
+    {
+      "type": "subsection",
+      "label": "(3)",
+      "text": "(3) includes, directly or indirectly, the amount of any kickback prohibited by paragraphs (1) or (2) of this subsection (a) in the contract price charged by a subcontractor to a prime contractor or a higher tier subcontractor or in the contract price charged by a prime contractor to any unit of State or local government for a public contract."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Any person violates this Section when he has received an offer of a kickback, or has been solicited to make a kickback, and fails to report it to law enforcement officials, including but not limited to the Attorney General or the State's Attorney for the county in which the contract is to be performed."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) A violation of subsection (a) is a Class 3 felony. A violation of subsection (b) is a Class 4 felony."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) Any unit of State or local government may, in a civil action, recover a civil penalty from any person who knowingly engages in conduct which violates paragraph (3) of subsection (a) of this Section in twice the amount of each kickback involved in the violation. This subsection (d) shall in no way limit the ability of any unit of State or local government to recover monies or damages regarding public contracts under any other law or ordinance. A civil action shall be barred unless the action is commenced within 6 years after the later of (1) the date on which the conduct establishing the cause of action occurred or (2) the date on which the unit of State or local government knew or should have known that the conduct establishing the cause of action occurred."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 85-1295.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 85-1295.)",
+  "publicActs": [
+    {
+      "publicAct": "85-1295",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "b0e6f2dd2552b076231d7e05b0af6e71abbdd0f5062c8fcb85acb99b40480a61",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0888"
+  ]
+}

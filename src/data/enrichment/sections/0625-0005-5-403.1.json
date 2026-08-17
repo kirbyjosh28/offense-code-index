@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-5-403.1",
+  "citation": "625 ILCS 5/5-403.1",
+  "docName": "062500050K5-403.1",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K5-403.1",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:21:25.505Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/5-403.1",
+  "headingText": "Sec. 5-403.1. Inventory system.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/5-403.1) (from Ch. 95 1/2, par. 5-403.1)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 5-403.1. Inventory system."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) Every person licensed or required to be licensed under the provisions of Sections 5-101, 5-101.1, 5-102, 5-102.8, and 5-301 of this Code shall, under rule and regulation prescribed by the Secretary of State, maintain an inventory system of all vehicles or essential parts in such a manner that a person making an inspection pursuant to the provisions of Section 5-403 of this Code can readily ascertain the identity of such vehicles or essential parts and readily locate such parts on the licensees premises."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Failure to maintain an inventory system as required under this Section is a Class A misdemeanor."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) This Section does not apply to vehicles or essential parts which have been acquired by a scrap processor for processing into a form other than a vehicle or essential part."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 101-505, eff. 1-1-20.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 101-505, eff. 1-1-20.)",
+  "publicActs": [
+    {
+      "publicAct": "101-505",
+      "effectiveDate": "1-1-20"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "a79665916ebf203662b947928cfe16463be262339add56fa52c54a976172d2a8",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0113"
+  ]
+}

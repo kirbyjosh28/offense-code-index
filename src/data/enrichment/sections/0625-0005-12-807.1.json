@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-12-807.1",
+  "citation": "625 ILCS 5/12-807.1",
+  "docName": "062500050K12-807.1",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K12-807.1",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:19:17.899Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/12-807.1",
+  "headingText": "Sec. 12-807.1. Seat back height. No Type I school bus manufactured after June 30, 1987 shall be sold for use as, or purchased for use as, or used as a school bus within this State unless such bus is equipped with passenger seat backs having a seat back height of 28 inches installed by the original bus body manufacturer.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/12-807.1) (from Ch. 95 1/2, par. 12-807.1)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 12-807.1. Seat back height. No Type I school bus manufactured after June 30, 1987 shall be sold for use as, or purchased for use as, or used as a school bus within this State unless such bus is equipped with passenger seat backs having a seat back height of 28 inches installed by the original bus body manufacturer."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 85-1010.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 85-1010.)",
+  "publicActs": [
+    {
+      "publicAct": "85-1010",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "8b45616087c886c576d65076421f417101a55259f461f4909c9756130cfdf173",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0421"
+  ]
+}

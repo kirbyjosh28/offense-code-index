@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-15-105",
+  "citation": "625 ILCS 5/15-105",
+  "docName": "062500050K15-105",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K15-105",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:19:34.399Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/15-105",
+  "headingText": "Sec. 15-105. Projecting loads on passenger vehicles.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/15-105) (from Ch. 95 1/2, par. 15-105)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 15-105. Projecting loads on passenger vehicles."
+    },
+    {
+      "type": "paragraph",
+      "text": "No passenger-type vehicle shall be operated on any highway with any load carried thereon extending beyond the line of the fenders on the left side of such vehicle nor extending more than 6 inches beyond the line of the fenders on the right side thereof."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 76-1586.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 76-1586.)",
+  "publicActs": [
+    {
+      "publicAct": "76-1586",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "c4ad9860f40eaf3a7e5291ac29b9bec366f8b465a5f1212fa15d68f5f25134a8",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0433"
+  ]
+}

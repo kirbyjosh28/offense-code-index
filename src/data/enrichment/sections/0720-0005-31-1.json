@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-31-1",
+  "citation": "720 ILCS 5/31-1",
+  "docName": "072000050K31-1",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K31-1",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:29:08.028Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/31-1",
+  "headingText": "Sec. 31-1. Resisting or obstructing a peace officer, firefighter, or correctional institution employee.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/31-1) (from Ch. 38, par. 31-1)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 31-1. Resisting or obstructing a peace officer, firefighter, or correctional institution employee."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person who knowingly:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) resists arrest, or"
+    },
+    {
+      "type": "subsection",
+      "label": "(2)",
+      "text": "(2) obstructs the performance by one known to the person to be a peace officer, firefighter, or correctional institution employee of any authorized act within his or her official capacity commits a Class A misdemeanor. (a-5) In addition to any other sentence that may be imposed, a court shall order any person convicted of resisting or obstructing a peace officer, firefighter, or correctional institution employee to be sentenced to a minimum of 48 consecutive hours of imprisonment or ordered to perform community service for not less than 100 hours as may be determined by the court. The person shall not be eligible for probation in order to reduce the sentence of imprisonment or community service."
+    },
+    {
+      "type": "paragraph",
+      "text": "(a-7) A person convicted for a violation of this Section whose violation was the proximate cause of an injury to a peace officer, firefighter, or correctional institution employee is guilty of a Class 4 felony."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) For purposes of this Section, \"correctional institution employee\" means any person employed to supervise and control inmates incarcerated in a penitentiary, State farm, reformatory, prison, jail, house of correction, police detention area, half-way house, or other institution or place for the incarceration or custody of persons under sentence for offenses or awaiting trial or sentence for offenses, under arrest for an offense, a violation of probation, a violation of parole, a violation of aftercare release, a violation of mandatory supervised release, or awaiting a hearing or preliminary hearing on setting the conditions of pretrial release, or who are sexually dangerous persons or who are sexually violent persons; and \"firefighter\" means any individual, either as an employee or volunteer, of a regularly constituted fire department of a municipality or fire protection district who performs fire fighting duties, including, but not limited to, the fire chief, assistant fire chief, captain, engineer, driver, ladder person, hose person, pipe person, and any other member of a regularly constituted fire department. \"Firefighter\" also means a person employed by the Office of the State Fire Marshal to conduct arson investigations."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) It is an affirmative defense to a violation of this Section if a person resists or obstructs the performance of one known by the person to be a firefighter by returning to or remaining in a dwelling, residence, building, or other structure to rescue or to attempt to rescue any person."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) A person shall not be subject to arrest for resisting arrest under this Section unless there is an underlying offense for which the person was initially subject to arrest."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 101-652, eff. 1-1-23; 102-28, eff. 6-25-21.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 101-652, eff. 1-1-23; 102-28, eff. 6-25-21.)",
+  "publicActs": [
+    {
+      "publicAct": "101-652",
+      "effectiveDate": "1-1-23"
+    },
+    {
+      "publicAct": "102-28",
+      "effectiveDate": "6-25-21"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "f3e05aea434e235dcc7587dd47a78e44c803cf894d7ded21fc00d5867f54404a",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0846"
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-11-1419.02",
+  "citation": "625 ILCS 5/11-1419.02",
+  "docName": "062500050K11-1419.02",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K11-1419.02",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:15:46.144Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/11-1419.02",
+  "headingText": "Sec. 11-1419.02. Failure to display a valid motor fuel use tax license.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/11-1419.02) (from Ch. 95 1/2, par. 11-1419.02)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 11-1419.02. Failure to display a valid motor fuel use tax license."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) If required by Section 13a.4 of the Motor Fuel Tax Law, every valid motor fuel use tax license, or an authorized reproduction, shall at all times be carried in the cab of the vehicle. The operator shall display the license or reproduction upon demand of a police officer or agent of the Department of Revenue. An operator who fails to display a valid motor fuel use tax license is guilty of a petty offense as provided in Section 13a.6 of the Motor Fuel Tax Law."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) As used in this Section:"
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Display\" means the manual surrender of the motor fuel use tax license into the hands of the demanding officer or agent for inspection."
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Motor fuel use tax license\" means a motor fuel use tax license issued by the Department of Revenue or by any member jurisdiction under the International Fuel Tax Agreement, or a valid 30 day International Fuel Tax Agreement temporary permit."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 94-1074, eff. 12-26-06.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 94-1074, eff. 12-26-06.)",
+  "publicActs": [
+    {
+      "publicAct": "94-1074",
+      "effectiveDate": "12-26-06"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "117407735d7775c7d90bdb4d778283dbe8bcd2451aa8480694d312cab9666201",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0308"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-19-6",
+  "citation": "720 ILCS 5/19-6",
+  "docName": "072000050K19-6",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K19-6",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:27:09.400Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/19-6",
+  "headingText": "Sec. 19-6. Home Invasion.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/19-6) (was 720 ILCS 5/12-11)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 19-6. Home Invasion."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person who is not a peace officer acting in the line of duty commits home invasion when without authority he or she knowingly enters the dwelling place of another when he or she knows or has reason to know that one or more persons is present or he or she knowingly enters the dwelling place of another and remains in the dwelling place until he or she knows or has reason to know that one or more persons is present or who falsely represents himself or herself, including but not limited to, falsely representing himself or herself to be a representative of any unit of government or a construction, telecommunications, or utility company, for the purpose of gaining entry to the dwelling place of another when he or she knows or has reason to know that one or more persons are present and"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) While armed with a dangerous weapon, other than a firearm, uses force or threatens the imminent use of force upon any person or persons within the dwelling place whether or not injury occurs, or (2) Intentionally causes any injury, except as provided in subsection (a)(5), to any person or persons within the dwelling place, or (3) While armed with a firearm uses force or threatens the imminent use of force upon any person or persons within the dwelling place whether or not injury occurs, or (4) Uses force or threatens the imminent use of force upon any person or persons within the dwelling place whether or not injury occurs and during the commission of the offense personally discharges a firearm, or (5) Personally discharges a firearm that proximately causes great bodily harm, permanent disability, permanent disfigurement, or death to another person within the dwelling place, or (6) Commits, against any person or persons within that dwelling place, a violation of Section 11-1.20, 11-1.30, 11-1.40, 11-1.50, or 11-1.60 of this Code. (b) It is an affirmative defense to a charge of home invasion that the accused who knowingly enters the dwelling place of another and remains in the dwelling place until he or she knows or has reason to know that one or more persons is present either immediately leaves the premises or surrenders to the person or persons lawfully present therein without either attempting to cause or causing serious bodily injury to any person present therein."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Sentence. Home invasion in violation of subsection (a)(1), (a)(2) or (a)(6) is a Class X felony. A violation of subsection (a)(3) is a Class X felony for which 15 years shall be added to the term of imprisonment imposed by the court. A violation of subsection (a)(4) is a Class X felony for which 20 years shall be added to the term of imprisonment imposed by the court. A violation of subsection (a)(5) is a Class X felony for which 25 years or up to a term of natural life shall be added to the term of imprisonment imposed by the court."
+    },
+    {
+      "type": "subsection",
+      "label": "(d)",
+      "text": "(d) For purposes of this Section, \"dwelling place of another\" includes a dwelling place where the defendant maintains a tenancy interest but from which the defendant has been barred by a divorce decree, judgment of dissolution of marriage, order of protection, or other court order."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 96-1113, eff. 1-1-11; 96-1551, eff. 7-1-11; 97-1108, eff. 1-1-13; 97-1150, eff. 1-25-13.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 96-1113, eff. 1-1-11; 96-1551, eff. 7-1-11; 97-1108, eff. 1-1-13; 97-1150, eff. 1-25-13.)",
+  "publicActs": [
+    {
+      "publicAct": "96-1113",
+      "effectiveDate": "1-1-11"
+    },
+    {
+      "publicAct": "96-1551",
+      "effectiveDate": "7-1-11"
+    },
+    {
+      "publicAct": "97-1108",
+      "effectiveDate": "1-1-13"
+    },
+    {
+      "publicAct": "97-1150",
+      "effectiveDate": "1-25-13"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "3a8ff685e2b53f91cad124d582767681842ba16ace58c96fa69e5dab32c8fd94",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0756"
+  ]
+}

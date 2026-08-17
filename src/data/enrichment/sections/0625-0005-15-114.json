@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-15-114",
+  "citation": "625 ILCS 5/15-114",
+  "docName": "062500050K15-114",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K15-114",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:19:47.902Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/15-114",
+  "headingText": "Sec. 15-114. Pushing of disabled vehicles.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/15-114) (from Ch. 95 1/2, par. 15-114)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 15-114. Pushing of disabled vehicles."
+    },
+    {
+      "type": "paragraph",
+      "text": "It is unlawful under any circumstances for any vehicle to push any other vehicle on or along any highway outside an urban area in this State, except in an extreme emergency and then the vehicle shall not be pushed farther than is reasonably necessary to remove it from the roadway or from the immediate hazard that exists."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 78-486.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 78-486.)",
+  "publicActs": [
+    {
+      "publicAct": "78-486",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "fe3521c3d91a22e12951c0c3b6f19f3e523a62e55ded2b3a5ebc382398225dd5",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0450"
+  ]
+}

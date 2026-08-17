@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-17-8.3",
+  "citation": "720 ILCS 5/17-8.3",
+  "docName": "072000050K17-8.3",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K17-8.3",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:26:48.374Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/17-8.3",
+  "headingText": "Sec. 17-8.3. False information on an application for employment with certain public or private agencies; use of false academic degree.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/17-8.3) (was 720 ILCS 5/17-22)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 17-8.3. False information on an application for employment with certain public or private agencies; use of false academic degree."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) It is unlawful for an applicant for employment with a public or private agency that provides State funded services to persons with mental illness or developmental disabilities to knowingly furnish false information regarding professional certification, licensing, criminal background, or employment history for the 5 years immediately preceding the date of application on an application for employment with the agency if the position of employment requires or provides opportunity for contact with persons with mental illness or developmental disabilities."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) It is unlawful for a person to knowingly use a false academic degree for the purpose of obtaining employment or admission to an institution of higher learning or admission to an advanced degree program at an institution of higher learning or for the purpose of obtaining a promotion or higher compensation in employment."
+    },
+    {
+      "type": "subsection",
+      "label": "(c)",
+      "text": "(c) Sentence. A violation of this Section is a Class A misdemeanor."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 96-1551, eff. 7-1-11.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 96-1551, eff. 7-1-11.)",
+  "publicActs": [
+    {
+      "publicAct": "96-1551",
+      "effectiveDate": "7-1-11"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "278b3a82e06c8c8083aa9b9780dd5b1a53b55a2b9a00dea169cd63e7c2271ac1",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0705"
+  ]
+}

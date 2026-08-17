@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-21-5.5",
+  "citation": "720 ILCS 5/21-5.5",
+  "docName": "072000050K21-5.5",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K21-5.5",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:27:33.422Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/21-5.5",
+  "headingText": "Sec. 21-5.5. Criminal trespass to a safe school zone.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/21-5.5)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 21-5.5. Criminal trespass to a safe school zone."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) As used in this Section:"
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Employee\" means a person employed by a school whose relationship with that agency constitutes an employer-employee relationship under the usual common law rules, and who is not an independent contractor. \"Employee\" includes, but is not limited to, a teacher, student teacher, aide, secretary, custodial engineer, coach, or his or her designee."
+    },
+    {
+      "type": "paragraph",
+      "text": "\"School administrator\" means the school's principal, or his or her designee."
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Safe school zone\" means an area that encompasses any of the following places during regular school hours or within 60 minutes before or after the school day or 60 minutes before or after a school-sponsored activity. This shall include any school property, ground, or street, sidewalk, or public way immediately adjacent thereto and any public right-of-way situated immediately adjacent to school property. The safe school zone shall not include any portion of the highway not actually on school property."
+    },
+    {
+      "type": "paragraph",
+      "text": "\"School activity\" means and includes any school session, any extracurricular activity or event sponsored by or participated in by the school, and the 60-minute periods immediately preceding and following any session, activity, or event."
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Student\" means any person enrolled or previously enrolled in a school."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) A person commits the offense of criminal trespass to a safe school zone when he or she knowingly:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) enters or remains in a safe school zone without lawful business, when as a student or employee, who has been suspended, expelled, or dismissed for disrupting the orderly operation of the school, and as a condition of the suspension or dismissal, has been denied access to the safe school zone for the period of the suspension or in the case of dismissal for a period not to exceed the term of expulsion, and has been served in person or by registered or certified mail, at the last address given by that person, with a written notice of the suspension or dismissal and condition; or (2) enters or remains in a safe school zone without lawful business, once being served either in person or by registered or certified mail that his or her presence has been withdrawn by the school administrator, or his or her designee, and whose presence or acts interfere with, or whenever there is reasonable suspicion to believe, such person will disrupt the orderly operation, or the safety, or peaceful conduct of the school or school activities. This clause (b)(2) has no application to conduct protected by the Illinois Educational Labor Relations Act or any other law applicable to labor relations. This clause (b)(2) has no application to conduct protected by the First Amendment to the Constitution of the United States or Article I of the Illinois Constitution, including the exercise of free speech, free expression, and the free exercise of religion or expression of religiously based views. (c) Sentence. Criminal trespass to a safe school zone is a Class A misdemeanor."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 97-547, eff. 1-1-12.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 97-547, eff. 1-1-12.)",
+  "publicActs": [
+    {
+      "publicAct": "97-547",
+      "effectiveDate": "1-1-12"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "cc901c3cb9cfd17457fff08e26f236517ac5fc15a38b2b50f3beed5c5325ed8d",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0770"
+  ]
+}

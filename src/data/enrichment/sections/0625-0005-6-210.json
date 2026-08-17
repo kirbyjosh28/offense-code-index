@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-6-210",
+  "citation": "625 ILCS 5/6-210",
+  "docName": "062500050K6-210",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K6-210",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:21:42.025Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/6-210",
+  "headingText": "Sec. 6-210. No operation under foreign license during suspension or revocation in this State. Any resident or nonresident whose drivers license or permit or privilege to operate a motor vehicle in this State has been suspended or revoked as provided in this Act shall not operate a motor vehicle in this State:",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/6-210) (from Ch. 95 1/2, par. 6-210)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 6-210. No operation under foreign license during suspension or revocation in this State. Any resident or nonresident whose drivers license or permit or privilege to operate a motor vehicle in this State has been suspended or revoked as provided in this Act shall not operate a motor vehicle in this State:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) during the period of such suspension, except as permitted by a restricted driving permit issued under the provisions of Section 6-206 of this Act; or (2) after such revocation until a license is obtained when and as permitted under this Act, except as permitted by a restricted driving permit issued under the provisions of Section 6-205 of this Act. (Source: P.A. 92-16, eff. 6-28-01.)"
+    }
+  ],
+  "sourceLine": null,
+  "publicActs": [],
+  "repealed": false,
+  "bodyHash": "a4bd9843fbdf560f0a405728bf460c7dfe961946381f1eb9611bc75ccb3333e3",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0137"
+  ]
+}

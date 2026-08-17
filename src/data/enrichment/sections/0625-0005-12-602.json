@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-12-602",
+  "citation": "625 ILCS 5/12-602",
+  "docName": "062500050K12-602",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K12-602",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:18:26.817Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/12-602",
+  "headingText": "Sec. 12-602. Mufflers, prevention of noise.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/12-602) (from Ch. 95 1/2, par. 12-602)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 12-602. Mufflers, prevention of noise."
+    },
+    {
+      "type": "paragraph",
+      "text": "Every motor vehicle driven or operated upon the highways of this State shall at all times be equipped with an adequate muffler or exhaust system in constant operation and properly maintained to prevent any excessive or unusual noise. No such muffler or exhaust system shall be equipped with a cutout, bypass or similar device. No person shall modify the exhaust system of a motor vehicle in a manner which will amplify or increase the noise of such vehicle above that emitted by the muffler originally installed on the vehicle, and such original muffler shall comply with all the requirements of this Section."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 77-37.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 77-37.)",
+  "publicActs": [
+    {
+      "publicAct": "77-37",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "bc9971ad940e9b334994a96d6ebf6007ed38ddf45eca663aca8671193beaf750",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0378",
+    "offense-0382"
+  ]
+}

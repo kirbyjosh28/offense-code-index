@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0720-0005-26.5-2",
+  "citation": "720 ILCS 5/26.5-2",
+  "docName": "072000050K26.5-2",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=072000050K26.5-2",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:28:35.002Z",
+  "transport": "cache",
+  "canonicalCitation": "720 ILCS 5/26.5-2",
+  "headingText": "Sec. 26.5-2. Harassment by telephone.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(720 ILCS 5/26.5-2)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 26.5-2. Harassment by telephone."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) A person commits harassment by telephone when he or she uses telephone communication for any of the following purposes:"
+    },
+    {
+      "type": "subsection",
+      "label": "(1)",
+      "text": "(1) Making any comment, request, suggestion or proposal which is obscene, lewd, lascivious, filthy or indecent with an intent to offend; (2) Making a telephone call, whether or not conversation ensues, with intent to abuse, threaten or harass any person at the called number; (3) Making or causing the telephone of another repeatedly to ring, with intent to harass any person at the called number; (4) Making repeated telephone calls, during which conversation ensues, solely to harass any person at the called number; (5) Making a telephone call or knowingly inducing a person to make a telephone call for the purpose of harassing another person who is under 13 years of age, regardless of whether the person under 13 years of age consents to the harassment, if the defendant is at least 16 years of age at the time of the commission of the offense; or (6) Knowingly permitting any telephone under one's control to be used for any of the purposes mentioned herein. (b) Every telephone directory published for distribution to members of the general public shall contain a notice setting forth a summary of the provisions of this Section. The notice shall be printed in type which is no smaller than any other type on the same page and shall be preceded by the word \"WARNING\". All telephone companies in this State shall cooperate with law enforcement agencies in using their facilities and personnel to detect and prevent violations of this Article."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 97-1108, eff. 1-1-13.)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 97-1108, eff. 1-1-13.)",
+  "publicActs": [
+    {
+      "publicAct": "97-1108",
+      "effectiveDate": "1-1-13"
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "cfe206d22f35bc3c4c4a1226e6427e9219868a1da7864fd3ee2e826833d402b4",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0824"
+  ]
+}

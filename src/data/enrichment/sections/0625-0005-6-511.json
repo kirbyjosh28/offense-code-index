@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "sectionKey": "0625-0005-6-511",
+  "citation": "625 ILCS 5/6-511",
+  "docName": "062500050K6-511",
+  "ilgaUrl": "https://www.ilga.gov/legislation/ilcs/fulltext?DocName=062500050K6-511",
+  "status": "retrieved",
+  "retrievedAt": "2026-08-17T12:22:04.551Z",
+  "transport": "cache",
+  "canonicalCitation": "625 ILCS 5/6-511",
+  "headingText": "Sec. 6-511. Change of legal name or domiciliary address.",
+  "blocks": [
+    {
+      "type": "citation",
+      "text": "(625 ILCS 5/6-511) (from Ch. 95 1/2, par. 6-511)"
+    },
+    {
+      "type": "heading",
+      "text": "Sec. 6-511. Change of legal name or domiciliary address."
+    },
+    {
+      "type": "subsection",
+      "label": "(a)",
+      "text": "(a) All persons to whom a CLP or CDL has been issued, shall notify the Driver Services Department of the Secretary of State's Office within 10 days of any change in domiciliary address. In addition, the person shall make application for a corrected CLP or CDL within 30 days after the change."
+    },
+    {
+      "type": "subsection",
+      "label": "(b)",
+      "text": "(b) Any person to whom a CLP or CDL has been issued whose legal name has changed from the name on the previously-issued CLP or CDL shall apply for a corrected card within 30 days after the change."
+    },
+    {
+      "type": "source",
+      "text": "(Source: P.A. 98-176 (see Section 10 of P.A. 98-722 and Section 10 of P.A. 99-414 for the effective date of changes made by P.A. 98-176).)"
+    }
+  ],
+  "sourceLine": "(Source: P.A. 98-176 (see Section 10 of P.A. 98-722 and Section 10 of P.A. 99-414 for the effective date of changes made by P.A. 98-176).)",
+  "publicActs": [
+    {
+      "publicAct": "98-176",
+      "effectiveDate": null
+    }
+  ],
+  "repealed": false,
+  "bodyHash": "e3dceebb4c2dc75e0dcde0e1759e811c6b6af76aac238208b365249bfe6dec08",
+  "changedSincePreviousSweep": false,
+  "offenseIds": [
+    "offense-0165"
+  ]
+}
