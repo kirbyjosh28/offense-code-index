@@ -1,0 +1,1095 @@
+{
+  "version": 1,
+  "description": "Synthetic, deidentified officer-style search queries for deterministic local ranking evaluation.",
+  "threshold": {
+    "top3Percent": 95
+  },
+  "intents": [
+    {
+      "id": "exact-code-lookups",
+      "defaultTags": [
+        "exact-code"
+      ],
+      "queries": [
+        {
+          "text": "11-501(a)(1)",
+          "expectedCodes": [
+            "11-501(a)(1)"
+          ],
+          "critical": {
+            "name": "exact DUI subsection",
+            "top1Code": "11-501(a)(1)",
+            "reason": "Exact ILCS code"
+          }
+        },
+        {
+          "text": "625 ILCS 5/11-501(a)(1)",
+          "expectedCodes": [
+            "11-501(a)(1)"
+          ],
+          "critical": {
+            "name": "canonical DUI citation",
+            "top1Code": "11-501(a)(1)",
+            "reason": "Exact ILCS code"
+          }
+        },
+        {
+          "text": "3-707",
+          "expectedCodes": [
+            "3-707"
+          ],
+          "critical": {
+            "name": "exact uninsured code",
+            "top1Code": "3-707",
+            "reason": "Exact ILCS code"
+          }
+        },
+        {
+          "text": "625 ILCS 5/3-707",
+          "expectedCodes": [
+            "3-707"
+          ]
+        },
+        {
+          "text": "12-211",
+          "expectedCodes": [
+            "12-211"
+          ],
+          "critical": {
+            "name": "exact one-headlamp code",
+            "top1Code": "12-211",
+            "reason": "Exact ILCS code"
+          }
+        },
+        {
+          "text": "625 ILCS 5/12-503(a)",
+          "expectedCodes": [
+            "12-503(a)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "partial-code-lookups",
+      "defaultTags": [
+        "partial-code"
+      ],
+      "queries": [
+        {
+          "text": "11-501(a)",
+          "expectedCodes": [
+            "11-501(a)(1)",
+            "11-501(a)(2)",
+            "11-501(a)(3)"
+          ],
+          "critical": {
+            "name": "partial DUI subsection",
+            "top1Code": "11-501(a)(1)",
+            "reason": "Partial ILCS code"
+          }
+        },
+        {
+          "text": "12211",
+          "expectedCodes": [
+            "12-211"
+          ],
+          "critical": {
+            "name": "compact partial headlamp code",
+            "top1Code": "12-211",
+            "reason": "Partial ILCS code"
+          }
+        },
+        {
+          "text": "3707",
+          "expectedCodes": [
+            "3-707"
+          ]
+        },
+        {
+          "text": "116015a",
+          "expectedCodes": [
+            "11-601.5(a)"
+          ]
+        },
+        {
+          "text": "11204b",
+          "expectedCodes": [
+            "11-1204(b)"
+          ]
+        },
+        {
+          "text": "12503a",
+          "expectedCodes": [
+            "12-503(a)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "reporting-code-lookups",
+      "defaultTags": [
+        "reporting-code"
+      ],
+      "queries": [
+        {
+          "text": "2410",
+          "expectedCodes": [
+            "11-501(a)(1)"
+          ],
+          "critical": {
+            "name": "DUI SOS reporting code",
+            "top1Code": "11-501(a)(1)",
+            "reason": "Exact SOS reporting code"
+          }
+        },
+        {
+          "text": "2461",
+          "expectedCodes": [
+            "3-707"
+          ],
+          "critical": {
+            "name": "uninsured SOS reporting code",
+            "top1Code": "3-707",
+            "reason": "Exact SOS reporting code"
+          }
+        },
+        {
+          "text": "6633",
+          "expectedCodes": [
+            "12-211"
+          ]
+        },
+        {
+          "text": "8363",
+          "expectedCodes": [
+            "12-201(c)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "impaired-driving",
+      "expectedCodes": [
+        "11-501(a)(1)",
+        "11-501(a)(2)",
+        "11-501(a)(3)"
+      ],
+      "queries": [
+        {
+          "text": "driving drunk",
+          "critical": {
+            "name": "plain-language impaired driving",
+            "top1Code": "11-501(a)(1)",
+            "reason": "Matched impaired-driving wording"
+          }
+        },
+        {
+          "text": "drunk driving"
+        },
+        {
+          "text": "driving while intoxicated"
+        },
+        {
+          "text": "driving while impaired"
+        },
+        {
+          "text": "DUI drunk driving"
+        }
+      ]
+    },
+    {
+      "id": "bac-limit",
+      "expectedCodes": [
+        "11-501(a)(1)"
+      ],
+      "queries": [
+        {
+          "text": "over the legal limit",
+          "critical": {
+            "name": "BAC over legal limit",
+            "top1Code": "11-501(a)(1)"
+          }
+        },
+        {
+          "text": "blood alcohol content"
+        },
+        {
+          "text": "blood alcohol level"
+        },
+        {
+          "text": "BAC over 0.08"
+        }
+      ]
+    },
+    {
+      "id": "uninsured-vehicle",
+      "expectedCodes": [
+        "3-707"
+      ],
+      "queries": [
+        {
+          "text": "no insurance",
+          "critical": {
+            "name": "plain-language uninsured vehicle",
+            "top1Code": "3-707",
+            "reason": "Matched uninsured-vehicle wording"
+          }
+        },
+        {
+          "text": "driving without insurance"
+        },
+        {
+          "text": "no proof of insurance"
+        },
+        {
+          "text": "uninsurd motor vehicle",
+          "tags": [
+            "typo"
+          ]
+        },
+        {
+          "text": "car has no insurance"
+        }
+      ]
+    },
+    {
+      "id": "leaving-scene",
+      "expectedCodes": [
+        "11-401(a)",
+        "11-401(b)",
+        "11-402"
+      ],
+      "queries": [
+        {
+          "text": "hit and run",
+          "critical": {
+            "name": "hit and run",
+            "top1Code": "11-401(a)"
+          }
+        },
+        {
+          "text": "left the scene"
+        },
+        {
+          "text": "fled the scene"
+        },
+        {
+          "text": "leaving after a car accident"
+        },
+        {
+          "text": "ran away after a crash"
+        }
+      ]
+    },
+    {
+      "id": "phone-driving",
+      "expectedCodes": [
+        "12-610.2"
+      ],
+      "queries": [
+        {
+          "text": "texting while driving",
+          "critical": {
+            "name": "texting while driving",
+            "top1Code": "12-610.2"
+          }
+        },
+        {
+          "text": "using a phone while driving"
+        },
+        {
+          "text": "cell phone driving"
+        },
+        {
+          "text": "electronic communication device while driving"
+        }
+      ]
+    },
+    {
+      "id": "expired-registration",
+      "conflictSet": "plate-status",
+      "expectedCodes": [
+        "3-413(f)",
+        "11-1304.5"
+      ],
+      "queries": [
+        {
+          "text": "expired registration",
+          "critical": {
+            "name": "expired registration",
+            "top1Code": "3-413(f)"
+          }
+        },
+        {
+          "text": "expired plates"
+        },
+        {
+          "text": "expired tags"
+        },
+        {
+          "text": "expired license plates"
+        },
+        {
+          "text": "expird registration",
+          "tags": [
+            "typo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wrong-plates",
+      "conflictSet": "plate-status",
+      "expectedCodes": [
+        "3-703"
+      ],
+      "queries": [
+        {
+          "text": "wrong plates",
+          "critical": {
+            "name": "wrong plates",
+            "top1Code": "3-703",
+            "reason": "Matched wrong-plate wording"
+          }
+        },
+        {
+          "text": "plate from another vehicle"
+        },
+        {
+          "text": "license plates do not belong"
+        },
+        {
+          "text": "improper use registration title"
+        }
+      ]
+    },
+    {
+      "id": "no-valid-license",
+      "conflictSet": "license-status",
+      "expectedCodes": [
+        "6-101"
+      ],
+      "queries": [
+        {
+          "text": "no valid license",
+          "critical": {
+            "name": "no valid driver license",
+            "top1Code": "6-101",
+            "reason": "Matched invalid-license wording"
+          }
+        },
+        {
+          "text": "without a valid license"
+        },
+        {
+          "text": "unlicensed driver"
+        },
+        {
+          "text": "expired driver license"
+        }
+      ]
+    },
+    {
+      "id": "suspended-license",
+      "conflictSet": "license-status",
+      "expectedCodes": [
+        "6-303"
+      ],
+      "queries": [
+        {
+          "text": "suspended license",
+          "critical": {
+            "name": "suspended license",
+            "top1Code": "6-303",
+            "reason": "Matched suspended-license wording"
+          }
+        },
+        {
+          "text": "license suspended"
+        },
+        {
+          "text": "driving while suspended"
+        },
+        {
+          "text": "suspened license",
+          "tags": [
+            "typo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "revoked-license",
+      "conflictSet": "license-status",
+      "expectedCodes": [
+        "6-303",
+        "6-210"
+      ],
+      "queries": [
+        {
+          "text": "revoked license",
+          "critical": {
+            "name": "revoked license",
+            "top1Code": "6-303",
+            "reason": "Matched revoked-license wording"
+          }
+        },
+        {
+          "text": "license revoked"
+        },
+        {
+          "text": "driving while revoked"
+        },
+        {
+          "text": "revokd license",
+          "tags": [
+            "typo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "headlight",
+      "conflictSet": "front-rear-lighting",
+      "expectedCodes": [
+        "12-211"
+      ],
+      "queries": [
+        {
+          "text": "headlight out",
+          "critical": {
+            "name": "one headlight out",
+            "top1Code": "12-211"
+          }
+        },
+        {
+          "text": "one headlight is out"
+        },
+        {
+          "text": "headlights not working"
+        },
+        {
+          "text": "broken headlight"
+        },
+        {
+          "text": "headligh out",
+          "tags": [
+            "typo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "taillight",
+      "conflictSet": "front-rear-lighting",
+      "expectedCodes": [
+        "12-201(b)"
+      ],
+      "queries": [
+        {
+          "text": "taillight out",
+          "critical": {
+            "name": "taillight out",
+            "top1Code": "12-201(b)"
+          }
+        },
+        {
+          "text": "tail light is out"
+        },
+        {
+          "text": "taillights not working"
+        },
+        {
+          "text": "broken taillight"
+        },
+        {
+          "text": "tailligt out",
+          "tags": [
+            "typo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "brake-light",
+      "expectedCodes": [
+        "12-208"
+      ],
+      "queries": [
+        {
+          "text": "brake lights",
+          "critical": {
+            "name": "brake lights",
+            "top1Code": "12-208"
+          }
+        },
+        {
+          "text": "brake lights out"
+        },
+        {
+          "text": "broken brake light"
+        },
+        {
+          "text": "brake light not working"
+        }
+      ]
+    },
+    {
+      "id": "rear-plate-light",
+      "conflictSet": "plate-location",
+      "expectedCodes": [
+        "12-201(c)"
+      ],
+      "queries": [
+        {
+          "text": "no rear registration light",
+          "critical": {
+            "name": "rear registration plate light",
+            "top1Code": "12-201(c)"
+          }
+        },
+        {
+          "text": "rear registration plate light"
+        },
+        {
+          "text": "rear plate light out"
+        },
+        {
+          "text": "license plate light out",
+          "tags": [
+            "challenge"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "windshield-damage",
+      "conflictSet": "windshield-condition",
+      "expectedCodes": [
+        "12-503(e)"
+      ],
+      "queries": [
+        {
+          "text": "cracked windshield",
+          "critical": {
+            "name": "cracked windshield",
+            "top1Code": "12-503(e)"
+          }
+        },
+        {
+          "text": "broken windshield"
+        },
+        {
+          "text": "defective windshield"
+        },
+        {
+          "text": "windshild cracked",
+          "tags": [
+            "typo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "windshield-wipers",
+      "conflictSet": "windshield-condition",
+      "expectedCodes": [
+        "12-503(d)"
+      ],
+      "queries": [
+        {
+          "text": "broken windshield wipers",
+          "critical": {
+            "name": "broken windshield wipers",
+            "top1Code": "12-503(d)"
+          }
+        },
+        {
+          "text": "windshield wipers not working"
+        },
+        {
+          "text": "no windshield clearing device"
+        },
+        {
+          "text": "wipers brokn",
+          "tags": [
+            "typo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "loud-exhaust",
+      "expectedCodes": [
+        "12-602"
+      ],
+      "queries": [
+        {
+          "text": "loud exhaust",
+          "critical": {
+            "name": "loud exhaust",
+            "top1Code": "12-602"
+          }
+        },
+        {
+          "text": "loud exhaust system"
+        },
+        {
+          "text": "no muffler"
+        },
+        {
+          "text": "exhaut loud",
+          "tags": [
+            "typo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "unsafe-tires",
+      "expectedCodes": [
+        "12-405(c)",
+        "12-405(e)(1)"
+      ],
+      "queries": [
+        {
+          "text": "bald tires",
+          "critical": {
+            "name": "bald tires",
+            "top1Code": "12-405(c)"
+          }
+        },
+        {
+          "text": "worn tires"
+        },
+        {
+          "text": "unsafe tire"
+        },
+        {
+          "text": "bald tieres",
+          "tags": [
+            "typo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "speeding-petty",
+      "conflictSet": "speeding-threshold",
+      "defaultTags": [
+        "numeric-speed"
+      ],
+      "expectedCodes": [
+        "11-601(b)"
+      ],
+      "queries": [
+        {
+          "text": "speeding 5 over"
+        },
+        {
+          "text": "10 mph over speeding"
+        },
+        {
+          "text": "speeding 15 over limit",
+          "critical": {
+            "name": "speeding 15 mph over",
+            "top1Code": "11-601(b)",
+            "reason": "Matched 15 mph over range"
+          }
+        },
+        {
+          "text": "speeding 24 mph over"
+        },
+        {
+          "text": "25 over speeding",
+          "critical": {
+            "name": "speeding 25 mph boundary",
+            "top1Code": "11-601(b)",
+            "reason": "Matched 25 mph over range"
+          }
+        }
+      ]
+    },
+    {
+      "id": "speeding-midrange",
+      "conflictSet": "speeding-threshold",
+      "defaultTags": [
+        "numeric-speed"
+      ],
+      "expectedCodes": [
+        "11-601.5(a)"
+      ],
+      "queries": [
+        {
+          "text": "speeding 26 over",
+          "critical": {
+            "name": "speeding 26 mph boundary",
+            "top1Code": "11-601.5(a)",
+            "reason": "Matched 26 mph over range"
+          }
+        },
+        {
+          "text": "27 mph over speeding"
+        },
+        {
+          "text": "speeding 30 over limit"
+        },
+        {
+          "text": "speeding 33 mph over"
+        },
+        {
+          "text": "34 over speeding",
+          "critical": {
+            "name": "speeding 34 mph boundary",
+            "top1Code": "11-601.5(a)",
+            "reason": "Matched 34 mph over range"
+          }
+        }
+      ]
+    },
+    {
+      "id": "speeding-highrange",
+      "conflictSet": "speeding-threshold",
+      "defaultTags": [
+        "numeric-speed"
+      ],
+      "expectedCodes": [
+        "11-601.5(b)"
+      ],
+      "queries": [
+        {
+          "text": "speeding 35 over",
+          "critical": {
+            "name": "speeding 35 mph boundary",
+            "top1Code": "11-601.5(b)",
+            "reason": "Matched 35 mph over range"
+          }
+        },
+        {
+          "text": "36 mph over speeding"
+        },
+        {
+          "text": "speeding 40 over limit"
+        },
+        {
+          "text": "speeding 50 mph over"
+        },
+        {
+          "text": "55 over speeding"
+        }
+      ]
+    },
+    {
+      "id": "red-light",
+      "conflictSet": "traffic-control",
+      "expectedCodes": [
+        "11-306"
+      ],
+      "queries": [
+        {
+          "text": "ran a red light",
+          "critical": {
+            "name": "ran red light",
+            "top1Code": "11-306"
+          }
+        },
+        {
+          "text": "went through red light"
+        },
+        {
+          "text": "ran through a red light"
+        },
+        {
+          "text": "disobeying traffic control signal"
+        }
+      ]
+    },
+    {
+      "id": "stop-sign",
+      "conflictSet": "traffic-control",
+      "expectedCodes": [
+        "11-1204(b)"
+      ],
+      "queries": [
+        {
+          "text": "rolled through stop sign",
+          "critical": {
+            "name": "rolled stop sign",
+            "top1Code": "11-1204(b)"
+          }
+        },
+        {
+          "text": "did not stop at stop sign"
+        },
+        {
+          "text": "ran stop sign"
+        },
+        {
+          "text": "disobeying stop sign"
+        }
+      ]
+    },
+    {
+      "id": "school-bus",
+      "expectedCodes": [
+        "11-1414(a)"
+      ],
+      "queries": [
+        {
+          "text": "passed a stopped school bus",
+          "critical": {
+            "name": "passed stopped school bus",
+            "top1Code": "11-1414(a)"
+          }
+        },
+        {
+          "text": "school bus stop arm"
+        },
+        {
+          "text": "stopped school bus flashing lights"
+        },
+        {
+          "text": "passed school bus loading unloading"
+        }
+      ]
+    },
+    {
+      "id": "seatbelt",
+      "conflictSet": "occupant-restraint",
+      "expectedCodes": [
+        "12-603"
+      ],
+      "queries": [
+        {
+          "text": "no seat belt",
+          "critical": {
+            "name": "no vehicle seat belt",
+            "top1Code": "12-603"
+          }
+        },
+        {
+          "text": "no seatbelt"
+        },
+        {
+          "text": "not wearing a seatbelt"
+        },
+        {
+          "text": "vehicle has no seat belts"
+        }
+      ]
+    },
+    {
+      "id": "child-restraint",
+      "conflictSet": "occupant-restraint",
+      "expectedCodes": [
+        "625 ILCS 25/4",
+        "625 ILCS 25/4a"
+      ],
+      "queries": [
+        {
+          "text": "no car seat for child",
+          "critical": {
+            "name": "child without car seat",
+            "top1Code": "625 ILCS 25/4"
+          }
+        },
+        {
+          "text": "child not in car seat"
+        },
+        {
+          "text": "child passenger restraint"
+        },
+        {
+          "text": "kid has no booster seat"
+        }
+      ]
+    },
+    {
+      "id": "accessible-parking",
+      "expectedCodes": [
+        "11-1301.3",
+        "11-1301.5"
+      ],
+      "queries": [
+        {
+          "text": "handicap parking",
+          "critical": {
+            "name": "unauthorized disability parking",
+            "top1Code": "11-1301.3"
+          }
+        },
+        {
+          "text": "disabled parking"
+        },
+        {
+          "text": "parking reserved for persons with disabilities"
+        },
+        {
+          "text": "illegal disability placard",
+          "tags": [
+            "challenge"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "window-tint",
+      "expectedCodes": [
+        "12-503(a)"
+      ],
+      "queries": [
+        {
+          "text": "illegal tint",
+          "critical": {
+            "name": "illegal window tint",
+            "top1Code": "12-503(a)",
+            "reason": "Matched window-tint wording"
+          }
+        },
+        {
+          "text": "window tint"
+        },
+        {
+          "text": "dark window tint"
+        },
+        {
+          "text": "tinted windows"
+        }
+      ]
+    },
+    {
+      "id": "open-container",
+      "expectedCodes": [
+        "11-502(a)",
+        "11-502(b)"
+      ],
+      "queries": [
+        {
+          "text": "open container",
+          "critical": {
+            "name": "open container",
+            "top1Code": "11-502(a)",
+            "reason": "Matched open-container wording"
+          }
+        },
+        {
+          "text": "open beer"
+        },
+        {
+          "text": "alcohol in the car"
+        },
+        {
+          "text": "open alcohol container"
+        }
+      ]
+    },
+    {
+      "id": "front-plate",
+      "conflictSet": "plate-location",
+      "expectedCodes": [
+        "3-413(a)"
+      ],
+      "queries": [
+        {
+          "text": "no front plate",
+          "critical": {
+            "name": "missing front plate",
+            "top1Code": "3-413(a)"
+          }
+        },
+        {
+          "text": "no front registration plate"
+        },
+        {
+          "text": "front registration plate"
+        },
+        {
+          "text": "only rear plate displayed",
+          "tags": [
+            "challenge"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "following-too-close",
+      "expectedCodes": [
+        "11-710"
+      ],
+      "queries": [
+        {
+          "text": "following too close",
+          "critical": {
+            "name": "following too close",
+            "top1Code": "11-710"
+          }
+        },
+        {
+          "text": "following too closely"
+        },
+        {
+          "text": "ticket for following too close"
+        },
+        {
+          "text": "vehicle was following another car too closely",
+          "tags": [
+            "challenge"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "improper-lane",
+      "expectedCodes": [
+        "11-708",
+        "11-709"
+      ],
+      "queries": [
+        {
+          "text": "improper lane usage",
+          "critical": {
+            "name": "improper lane usage",
+            "top1Code": "11-708"
+          }
+        },
+        {
+          "text": "wrong way on one way street"
+        },
+        {
+          "text": "driving on wrong side of road"
+        },
+        {
+          "text": "violated median lane"
+        }
+      ]
+    },
+    {
+      "id": "fleeing-police",
+      "expectedCodes": [
+        "11-204(a)",
+        "11-204.1"
+      ],
+      "queries": [
+        {
+          "text": "fleeing police",
+          "critical": {
+            "name": "fleeing police",
+            "top1Code": "11-204(a)"
+          }
+        },
+        {
+          "text": "attempting to elude police officer"
+        },
+        {
+          "text": "ran from police in car",
+          "tags": [
+            "challenge"
+          ]
+        },
+        {
+          "text": "aggravated fleeing police"
+        }
+      ]
+    }
+  ]
+}

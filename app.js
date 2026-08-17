@@ -1,30 +1,36 @@
 import {
   buildOffensePrimarySearchDocument,
   buildOffenseSearchDocument,
+  createSearchIndex,
   normalizeText,
-  scoreOffenseMatch,
+  querySearchIndex,
 } from "./src/search.js";
+import {
+  createFreshnessMonitor,
+  fetchBuildVersion,
+  isBuildId,
+} from "./src/freshness.js";
+import {
+  parseShareFragment,
+  readLegacyShareState,
+  serializeShareState,
+} from "./src/share-state.js";
+import { FAMILIES, familyFor } from "./src/family.js";
 
 document.documentElement.classList.add("js");
 
-const DATA_URL = "./src/data/offense-codes.json";
+const DATA_URL = "./src/data/lookup-index.json";
+const SECTION_URL_PREFIX = "./src/data/enrichment/sections/";
+const SOURCE_VERSION_URL = "./config/source-version.json";
+const CONTENT_STATUS_URL = "./config/content-status.json";
 const SOURCE_PDF = "https://www.ilsos.gov/content/dam/departments/police/offense_code24.pdf";
 const MAX_QUERY_LENGTH = 120;
 const MAX_HASH_LENGTH = 220;
 const THEME_STORAGE_KEY = "offense-index-theme";
-const TYPEWRITER_SUGGESTIONS = [
-  "Try “driving drunk”",
-  "Try “no insurance”",
-  "Try “625 ILCS 5/11-501”",
-  "Try “license was taken away”",
-];
-const TYPEWRITER_TIMING = {
-  type: 54,
-  erase: 28,
-  hold: 1800,
-  next: 420,
-  resume: 600,
-};
+const SHORTCUT_STORAGE_KEY = "offense-index-slash-shortcut";
+const UPDATE_SUPPRESSION_KEY = "offense-index-dismissed-build";
+const RECENT_SELECTIONS_KEY = "offense-index-recent-selections";
+const MAX_RECENT_SELECTIONS = 5;
 
 const guides = [
   {
@@ -92,20 +98,23 @@ const guides = [
   },
 ];
 
-const families = [
-  "Vehicle Code",
-  "Criminal Code",
-  "Drugs & public health",
-  "Recreation vehicles",
-  "Other Illinois statutes",
-];
-
 const state = {
   data: null,
+  sourceVersion: null,
+  contentStatus: null,
+  searchIndex: null,
+  searchResult: null,
   query: "",
   family: "all",
   chapter: "all",
   mandatoryOnly: false,
+  slashShortcutEnabled: true,
+  resultCount: 0,
+  activeCandidateIndex: -1,
+  recentOffenseIds: [],
+  filtersOpen: false,
+  searchOpen: false,
+  sharedLookupActive: false,
 };
 
 const elements = {
@@ -113,26 +122,55 @@ const elements = {
   searchExperience: document.querySelector("#search-experience"),
   search: document.querySelector("#search"),
   searchShell: document.querySelector(".search-shell"),
+  searchDock: document.querySelector(".search-dock"),
   searchTools: document.querySelector("#search-tools"),
-  typewriterText: document.querySelector("#typewriter-text"),
+  searchStartView: document.querySelector("#search-start-view"),
+  searchResultsView: document.querySelector("#search-results-view"),
+  searchAssist: document.querySelector("#search-assist"),
+  searchMatchCount: document.querySelector("#search-match-count"),
+  sourceReviewStatus: document.querySelector("#source-review-status"),
+  commandResults: document.querySelector("#command-results"),
+  commandResultTotal: document.querySelector("#command-result-total"),
+  commandEmpty: document.querySelector("#command-empty"),
+  hiddenFilterNote: document.querySelector("#hidden-filter-note"),
+  recentSearches: document.querySelector("#recent-searches"),
+  recentResults: document.querySelector("#recent-results"),
+  clearRecents: document.querySelector("#clear-recents"),
   clearSearch: document.querySelector("#clear-search"),
   results: document.querySelector("#results"),
   resultSummary: document.querySelector("#result-summary"),
+  offensesSection: document.querySelector("#offenses"),
   emptyState: document.querySelector("#empty-state"),
   emptyReset: document.querySelector("#empty-reset"),
+  recordKey: document.querySelector(".record-key"),
+  contentStatusPanel: document.querySelector("#content-status-panel"),
+  contentStatusHeading: document.querySelector("#content-status-heading"),
+  contentStatusMessage: document.querySelector("#content-status-message"),
   familyFilter: document.querySelector("#family-filter"),
   chapterFilter: document.querySelector("#chapter-filter"),
   mandatoryFilter: document.querySelector("#mandatory-filter"),
   quickFamilyFilters: document.querySelectorAll("[data-family-filter]"),
   quickMandatory: document.querySelector("#quick-mandatory"),
+  shortcutToggle: document.querySelector("#shortcut-toggle"),
   moreFilters: document.querySelector("#more-filters"),
-  filterBar: document.querySelector(".filter-bar"),
+  browseFilterToggle: document.querySelector("#browse-filter-toggle"),
+  activeFilterCount: document.querySelector("#active-filter-count"),
+  filterBar: document.querySelector("#filter-bar"),
   resetFilters: document.querySelector("#reset-filters"),
   guideList: document.querySelector("#guide-list"),
   searchPrompts: document.querySelectorAll("[data-search-query]"),
   copyLink: document.querySelector("#copy-link"),
+  clearLocalData: document.querySelector("#clear-local-data"),
   themeToggle: document.querySelector("#theme-toggle"),
   toast: document.querySelector("#toast"),
+  updatePrompt: document.querySelector("#update-prompt"),
+  updateAnnouncement: document.querySelector("#update-announcement"),
+  updateLater: document.querySelector("#update-later"),
+  updateRefresh: document.querySelector("#update-refresh"),
+  statuteSheet: document.querySelector("#statute-sheet"),
+  statuteSheetTitle: document.querySelector("#statute-sheet-title"),
+  statuteSheetBody: document.querySelector("#statute-sheet-body"),
+  statuteSheetClose: document.querySelector("#statute-sheet-close"),
 };
 
 const decodeHash = (value) => {
@@ -145,15 +183,17 @@ const decodeHash = (value) => {
   }
 };
 
-const familyFor = (offense) => {
-  if (/^720 ILCS 5\//i.test(offense.code)) return "Criminal Code";
-  if (/^720 ILCS (?:550|570|600|635|648|670|675|685|690)\//i.test(offense.code)) {
-    return "Drugs & public health";
-  }
-  if (/SNOWMOBILE|BOAT REGISTRATION/i.test(offense.chapter)) return "Recreation vehicles";
-  if (!/ILCS|Section/i.test(offense.code) || offense.page <= 34) return "Vehicle Code";
-  return "Other Illinois statutes";
-};
+/**
+ * "#offense/<id>" scrolls to a record and opens its statutory detail.
+ *
+ * This is a third fragment shape alongside "#lookup?..." and a bare "#<id>". The bare
+ * form keeps its original behaviour of scrolling only, so links shared before this
+ * existed still resolve exactly as they did.
+ */
+const OFFENSE_HASH_PREFIX = "#offense/";
+
+const readOffenseHash = (hash) =>
+  hash.startsWith(OFFENSE_HASH_PREFIX) ? decodeHash(hash.slice(OFFENSE_HASH_PREFIX.length)) : null;
 
 const escapeRegExp = (value) => value.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
 
@@ -212,12 +252,83 @@ const writeThemePreference = (theme) => {
   }
 };
 
+const readShortcutPreference = () => {
+  try {
+    return localStorage.getItem(SHORTCUT_STORAGE_KEY) !== "off";
+  } catch {
+    return true;
+  }
+};
+
+const writeShortcutPreference = (enabled) => {
+  try {
+    localStorage.setItem(SHORTCUT_STORAGE_KEY, enabled ? "on" : "off");
+  } catch {
+    // Intentionally ignore storage failures in restricted/private contexts.
+  }
+};
+
+const readSuppressedBuild = () => {
+  try {
+    return sessionStorage.getItem(UPDATE_SUPPRESSION_KEY);
+  } catch {
+    return null;
+  }
+};
+
+const writeSuppressedBuild = (build) => {
+  try {
+    sessionStorage.setItem(UPDATE_SUPPRESSION_KEY, build);
+  } catch {
+    // Intentionally ignore storage failures in restricted/private contexts.
+  }
+};
+
+const readRecentSelections = () => {
+  try {
+    const value = JSON.parse(sessionStorage.getItem(RECENT_SELECTIONS_KEY) ?? "[]");
+    if (!Array.isArray(value)) return [];
+    return value.filter((id) => typeof id === "string").slice(0, MAX_RECENT_SELECTIONS);
+  } catch {
+    return [];
+  }
+};
+
+const writeRecentSelections = () => {
+  try {
+    sessionStorage.setItem(RECENT_SELECTIONS_KEY, JSON.stringify(state.recentOffenseIds));
+  } catch {
+    // Search remains fully available when session storage is unavailable.
+  }
+};
+
+const rememberOffense = (offenseId) => {
+  state.recentOffenseIds = [
+    offenseId,
+    ...state.recentOffenseIds.filter((id) => id !== offenseId),
+  ].slice(0, MAX_RECENT_SELECTIONS);
+  writeRecentSelections();
+};
+
+const applyShortcutPreference = (enabled, persist = false) => {
+  state.slashShortcutEnabled = enabled;
+  elements.shortcutToggle.setAttribute("aria-pressed", String(enabled));
+  elements.shortcutToggle.textContent = enabled ? "Shortcut on" : "Shortcut off";
+  elements.searchAssist.textContent = enabled
+    ? "Results update as you type. Press slash from anywhere to focus search."
+    : "Results update as you type. The slash shortcut is off.";
+  if (enabled) elements.search.setAttribute("aria-keyshortcuts", "/");
+  else elements.search.removeAttribute("aria-keyshortcuts");
+  if (persist) writeShortcutPreference(enabled);
+};
+
 const createOffenseRow = (offense) => {
   const displayCode = offense.code ?? "No direct citation";
   const row = document.createElement("article");
   row.className = "offense-row";
   row.id = offense.id;
   row.setAttribute("role", "listitem");
+  row.tabIndex = -1;
 
   const codeColumn = document.createElement("div");
   codeColumn.className = "code-column";
@@ -227,8 +338,19 @@ const createOffenseRow = (offense) => {
   codeLabel.textContent = "ILCS section";
   const primaryCode = document.createElement("h3");
   primaryCode.className = "primary-code";
+  primaryCode.id = `${offense.id}-code`;
   primaryCode.append(highlight(displayCode, state.query));
   codeColumn.append(codeLabel, primaryCode);
+
+  if (offense.statutoryFlagged) {
+    const flag = document.createElement("span");
+    flag.className = "statutory-flag";
+    // No aria-label here: on a non-interactive element it would replace the visible
+    // wording for screen readers. The full explanation is stated in the panel itself.
+    flag.textContent =
+      offense.statutoryStatus === "subsection-not-found" ? "Subsection not found" : "Check current statute";
+    codeColumn.append(flag);
+  }
 
   if (offense.reportingCodes.length) {
     const reportingCodes = document.createElement("div");
@@ -268,21 +390,40 @@ const createOffenseRow = (offense) => {
   sourceLink.rel = "noopener noreferrer";
   sourceLink.setAttribute(
     "aria-label",
-    `Open the official 2024 Illinois Secretary of State offense index to PDF page ${offense.page} for ILCS section ${displayCode} in a new tab`
+    `Open the February 2024 Illinois Secretary of State Police source publication to PDF page ${offense.page} for ILCS section ${displayCode} in a new tab`
   );
 
   const sourceLabel = document.createElement("span");
   sourceLabel.className = "source-proof-label";
-  sourceLabel.textContent = "Official source";
+  sourceLabel.textContent = "Source publication";
   const sourceDetail = document.createElement("span");
   sourceDetail.className = "source-proof-detail";
-  sourceDetail.textContent = `2024 Illinois SOS index · PDF page ${offense.page}`;
+  sourceDetail.textContent = `February 2024 · PDF page ${offense.page}`;
   const sourceAction = document.createElement("span");
   sourceAction.className = "source-proof-action";
-  sourceAction.textContent = "Open exact page ↗";
+  sourceAction.textContent = "Open ↗";
   sourceLink.append(sourceLabel, sourceDetail, sourceAction);
 
-  descriptionColumn.append(description, context, sourceLink);
+  const advisory = document.createElement("p");
+  advisory.className = "record-advisory";
+  const sourceReview = state.sourceVersion?.review;
+  const corpusStatus = state.contentStatus?.corpus?.status;
+  const reviewStatus = corpusStatus === "superseded"
+    ? "corpus superseded"
+    : sourceReview?.status === "active" && corpusStatus === "active"
+      ? "review active"
+      : "review due";
+  const reviewDates = sourceReview?.lastReviewedDate && sourceReview?.nextReviewDate
+    ? `reviewed ${sourceReview.lastReviewedDate}; next review ${sourceReview.nextReviewDate}`
+    : "review dates pending approval";
+  advisory.textContent = `Possible source match · Independent reference · ${reviewStatus}; ${reviewDates} · Verify current ILCS and agency policy.`;
+  const correctionLink = document.createElement("a");
+  correctionLink.href = "/trust/corrections.html";
+  correctionLink.textContent = "Report a correction";
+  correctionLink.setAttribute("aria-label", `Report a correction for ILCS section ${displayCode}`);
+  advisory.append(document.createTextNode(" "), correctionLink);
+
+  descriptionColumn.append(description, context, sourceLink, advisory);
 
   const actions = document.createElement("div");
   actions.className = "offense-actions";
@@ -298,7 +439,7 @@ const createOffenseRow = (offense) => {
           .join(", ")})`
       : "";
     writeClipboard(
-      `${offense.mandatoryAppearance ? "*" : ""}${displayCode}${reporting} — ${offense.description}`,
+      `${offense.mandatoryAppearance ? "*" : ""}${displayCode}${reporting} — ${offense.description}\nPossible match from the February 2024 source publication. Verify current ILCS and agency policy.`,
       `${displayCode} copied`
     );
   });
@@ -310,10 +451,29 @@ const createOffenseRow = (offense) => {
   linkButton.setAttribute("aria-label", `Copy direct link to ILCS section ${displayCode}`);
   linkButton.addEventListener("click", () => {
     const url = new URL(window.location.href);
+    url.search = "";
     url.hash = encodeURIComponent(offense.id);
     writeClipboard(url.toString(), `Link to ${displayCode} copied`);
   });
   actions.append(copyButton, linkButton);
+
+  // Records with no resolved statutory section get no detail affordance rather than an
+  // affordance that opens an empty panel.
+  // Records with no resolved statutory section get no affordance rather than one that
+  // opens an empty sheet.
+  if (offense.sectionKey) {
+    const statuteButton = document.createElement("button");
+    statuteButton.className = "row-action";
+    statuteButton.type = "button";
+    statuteButton.id = `${offense.id}-statute`;
+    statuteButton.textContent = "Statute";
+    statuteButton.setAttribute("aria-haspopup", "dialog");
+    statuteButton.setAttribute("aria-label", `Show current statutory text for ${offense.citation}`);
+    statuteButton.addEventListener("click", () => {
+      openStatuteSheet(offense, { returnFocusTo: statuteButton });
+    });
+    actions.append(statuteButton);
+  }
 
   row.append(codeColumn, descriptionColumn, actions);
   return row;
@@ -344,39 +504,184 @@ const createGuideRow = (guide, index) => {
   link.target = "_blank";
   link.rel = "noopener noreferrer";
   link.textContent = "Open PDF";
-  link.setAttribute("aria-label", `Open ${guide.title} in the source PDF`);
+  link.setAttribute(
+    "aria-label",
+    `Open ${guide.title} on PDF page ${guide.pdfPage} in the official source in a new tab`
+  );
 
   row.append(number, content, link);
   return row;
 };
 
-const getFilteredOffenses = () => {
-  const hasQuery = Boolean(normalizeText(state.query));
-  return state.data.offenses
-    .map((offense, index) => ({
-      offense,
-      index,
-      score: hasQuery ? scoreOffenseMatch(offense, state.query) : 0,
-    }))
-    .filter(({ offense, score }) => {
-      if (!Number.isFinite(score)) return false;
-      if (state.family !== "all" && offense.family !== state.family) return false;
-      if (state.chapter !== "all" && offense.chapter !== state.chapter) return false;
-      if (state.mandatoryOnly && !offense.mandatoryAppearance) return false;
-      return true;
-    })
-    .sort((left, right) => left.score - right.score || left.index - right.index)
-    .map(({ offense }) => offense);
+const activeFilters = () => ({
+  family: state.family,
+  chapter: state.chapter,
+  mandatoryOnly: state.mandatoryOnly,
+});
+
+const activeFilterCount = () =>
+  Number(state.family !== "all") + Number(state.chapter !== "all") + Number(state.mandatoryOnly);
+
+const offenseById = (offenseId) =>
+  state.data?.offenses.find((offense) => offense.id === offenseId) ?? null;
+
+const createCandidateOption = (candidate, index) => {
+  const { offense } = candidate;
+  const option = document.createElement("div");
+  option.className = "command-option";
+  option.id = `command-option-${index}`;
+  option.dataset.offenseId = offense.id;
+  option.setAttribute("role", "option");
+  option.tabIndex = -1;
+  option.setAttribute("aria-selected", String(index === state.activeCandidateIndex));
+
+  const code = document.createElement("span");
+  code.className = "command-code";
+  code.append(highlight(offense.code ?? "No direct citation", state.query));
+
+  const description = document.createElement("span");
+  description.className = "command-description";
+  description.append(highlight(offense.description, state.query));
+
+  const detail = document.createElement("span");
+  detail.className = "command-detail";
+  detail.textContent = `Possible match · ${candidate.reason} · ${offense.family} · PDF ${offense.page}`;
+
+  if (offense.mandatoryAppearance) {
+    const court = document.createElement("span");
+    court.className = "command-court";
+    court.textContent = "Court required";
+    court.setAttribute("aria-label", "Court appearance required");
+    option.append(code, description, detail, court);
+  } else {
+    option.append(code, description, detail);
+  }
+
+  option.addEventListener("pointermove", () => setActiveCandidate(index, false));
+  option.addEventListener("click", () => selectCandidate(offense.id));
+  return option;
 };
 
-const syncUrl = () => {
+const setActiveCandidate = (index, scroll = true) => {
+  const options = [...elements.commandResults.querySelectorAll("[role='option']")];
+  if (!options.length) {
+    state.activeCandidateIndex = -1;
+    elements.search.removeAttribute("aria-activedescendant");
+    return;
+  }
+
+  const nextIndex = Math.max(0, Math.min(index, options.length - 1));
+  state.activeCandidateIndex = nextIndex;
+  options.forEach((option, optionIndex) => {
+    option.setAttribute("aria-selected", String(optionIndex === nextIndex));
+  });
+  elements.search.setAttribute("aria-activedescendant", options[nextIndex].id);
+  if (scroll) options[nextIndex].scrollIntoView({ block: "nearest" });
+};
+
+const renderRecentSelections = () => {
+  const offenses = state.recentOffenseIds.map(offenseById).filter(Boolean);
+  state.recentOffenseIds = offenses.map(({ id }) => id);
+  elements.recentSearches.hidden = offenses.length === 0;
+  if (!offenses.length) {
+    elements.recentResults.replaceChildren();
+    return;
+  }
+
+  const fragment = document.createDocumentFragment();
+  offenses.forEach((offense) => {
+    const item = document.createElement("div");
+    item.setAttribute("role", "listitem");
+    const button = document.createElement("button");
+    button.className = "recent-option";
+    button.type = "button";
+    const code = document.createElement("span");
+    code.textContent = offense.code ?? "No direct citation";
+    const description = document.createElement("span");
+    description.textContent = offense.description;
+    button.append(code, description);
+    button.addEventListener("click", () => selectCandidate(offense.id, { fromRecent: true }));
+    item.append(button);
+    fragment.append(item);
+  });
+  elements.recentResults.replaceChildren(fragment);
+};
+
+const renderCommandResults = () => {
+  const hasQuery = Boolean(normalizeText(state.query));
+  elements.search.setAttribute("aria-expanded", String(state.searchOpen && hasQuery));
+  elements.searchStartView.hidden = hasQuery;
+  elements.searchResultsView.hidden = !hasQuery;
+
+  if (!hasQuery) {
+    elements.commandResults.replaceChildren();
+    elements.search.removeAttribute("aria-activedescendant");
+    renderRecentSelections();
+    return;
+  }
+
+  const { candidates, total, hiddenByFilters } = state.searchResult;
+  elements.commandResultTotal.textContent = `${total.toLocaleString()} ${
+    total === 1 ? "match" : "matches"
+  }`;
+  elements.hiddenFilterNote.hidden = hiddenByFilters === 0;
+  elements.hiddenFilterNote.textContent = hiddenByFilters
+    ? `${hiddenByFilters.toLocaleString()} ${
+        hiddenByFilters === 1 ? "match is" : "matches are"
+      } hidden by filters · Clear filters`
+    : "";
+  elements.commandEmpty.hidden = candidates.length > 0;
+
+  const fragment = document.createDocumentFragment();
+  candidates.forEach((candidate, index) => fragment.append(createCandidateOption(candidate, index)));
+  elements.commandResults.replaceChildren(fragment);
+  setActiveCandidate(state.activeCandidateIndex);
+};
+
+const updateSearchResult = (resetActive = true) => {
+  state.searchResult = querySearchIndex(state.searchIndex, {
+    text: state.query,
+    filters: activeFilters(),
+    limit: 8,
+  });
+  state.resultCount = state.searchResult.total;
+  if (resetActive) {
+    state.activeCandidateIndex = state.searchResult.candidates.length ? 0 : -1;
+  }
+  renderCommandResults();
+};
+
+const candidateChaptersFromLocation = () => {
+  const values = [];
+  try {
+    const hashQuery = window.location.hash.startsWith("#lookup?")
+      ? window.location.hash.slice("#lookup?".length)
+      : "";
+    const hashChapter = new URLSearchParams(hashQuery).get("chapter");
+    const legacyChapter = new URLSearchParams(window.location.search).get("chapter");
+    [hashChapter, legacyChapter].forEach((chapter) => {
+      if (typeof chapter === "string" && chapter.length <= 180) values.push(chapter);
+    });
+  } catch {
+    // Strict parsing in share-state rejects malformed values.
+  }
+  return values;
+};
+
+const shareValidationOptions = () => ({
+  allowedFamilies: FAMILIES,
+  allowedChapters: state.data
+    ? [...new Set(state.data.offenses.map((offense) => offense.chapter))]
+    : candidateChaptersFromLocation(),
+});
+
+const clearSharedLookupUrl = () => {
+  if (!window.location.hash.startsWith("#lookup")) return;
   const url = new URL(window.location.href);
   url.search = "";
-  if (state.query) url.searchParams.set("q", state.query);
-  if (state.family !== "all") url.searchParams.set("family", state.family);
-  if (state.chapter !== "all") url.searchParams.set("chapter", state.chapter);
-  if (state.mandatoryOnly) url.searchParams.set("appearance", "mandatory");
+  url.hash = "";
   history.replaceState(null, "", url);
+  state.sharedLookupActive = false;
 };
 
 const renderSummary = (count) => {
@@ -387,43 +692,71 @@ const renderSummary = (count) => {
   elements.resultSummary.replaceChildren(strong, document.createTextNode(`${noun}${suffix}`));
 };
 
-const hasActiveBrowseFilters = () =>
-  state.family !== "all" || state.chapter !== "all" || state.mandatoryOnly;
-
 const setSearchExperienceOpen = (open) => {
+  state.searchOpen = open;
   elements.searchExperience.classList.toggle("is-open", open);
   elements.searchTools.inert = !open;
   elements.searchTools.setAttribute("aria-hidden", String(!open));
+  elements.search.setAttribute(
+    "aria-expanded",
+    String(open && Boolean(normalizeText(state.query)))
+  );
+  if (!open) {
+    elements.search.removeAttribute("aria-activedescendant");
+  } else if (normalizeText(state.query) && state.searchResult?.candidates.length) {
+    setActiveCandidate(state.activeCandidateIndex, false);
+  }
 };
 
 const syncSearchControls = () => {
-  const hasQuery = Boolean(state.query);
-  const hasContext = hasQuery || hasActiveBrowseFilters();
+  const normalizedQuery = normalizeText(state.query);
+  const hasQuery = Boolean(normalizedQuery);
   const ownsFocus = elements.searchExperience.contains(document.activeElement);
 
   elements.searchShell.classList.toggle("has-value", hasQuery);
-  elements.searchExperience.classList.toggle("has-context", hasContext);
+  elements.searchMatchCount.hidden = !hasQuery;
+  elements.searchMatchCount.textContent = `${state.resultCount.toLocaleString()} ${
+    state.resultCount === 1 ? "match" : "matches"
+  }`;
+  elements.searchPrompts.forEach((prompt) => {
+    const isCurrent = normalizeText(prompt.dataset.searchQuery) === normalizedQuery;
+    if (isCurrent) prompt.setAttribute("aria-current", "true");
+    else prompt.removeAttribute("aria-current");
+  });
   elements.quickFamilyFilters.forEach((filter) => {
     filter.setAttribute("aria-pressed", String(state.family === filter.dataset.familyFilter));
   });
   elements.quickMandatory.setAttribute("aria-pressed", String(state.mandatoryOnly));
-  setSearchExperienceOpen(hasContext || ownsFocus);
+  const filterCount = activeFilterCount();
+  elements.activeFilterCount.hidden = filterCount === 0;
+  elements.activeFilterCount.textContent = filterCount ? String(filterCount) : "";
+  elements.browseFilterToggle.classList.toggle("has-active-filters", filterCount > 0);
+  if (!ownsFocus) setSearchExperienceOpen(false);
 };
 
-const renderOffenses = () => {
-  if (!state.data) return;
-  const offenses = getFilteredOffenses();
-  const fragment = document.createDocumentFragment();
-  offenses.forEach((offense) => fragment.append(createOffenseRow(offense)));
-  elements.results.replaceChildren(fragment);
-  elements.results.setAttribute("aria-busy", "false");
-  elements.results.hidden = offenses.length === 0;
-  elements.emptyState.hidden = offenses.length > 0;
+const syncSearchMetadata = () => {
   syncSearchControls();
   elements.resetFilters.disabled =
     !state.query && state.family === "all" && state.chapter === "all" && !state.mandatoryOnly;
-  renderSummary(offenses.length);
-  syncUrl();
+  renderSummary(state.resultCount);
+};
+
+const renderCatalog = () => {
+  const offenses = state.searchResult.matches.map(({ offense }) => offense);
+  const fragment = document.createDocumentFragment();
+  offenses.forEach((offense) => fragment.append(createOffenseRow(offense)));
+  elements.results.replaceChildren(fragment);
+  elements.results.setAttribute("role", "list");
+  elements.results.setAttribute("aria-busy", "false");
+  elements.results.hidden = offenses.length === 0;
+  elements.emptyState.hidden = offenses.length > 0;
+};
+
+const renderOffenses = () => {
+  if (!state.data || !state.searchIndex) return;
+  updateSearchResult();
+  renderCatalog();
+  syncSearchMetadata();
 };
 
 const clearBrowseFilters = () => {
@@ -435,18 +768,294 @@ const clearBrowseFilters = () => {
   elements.mandatoryFilter.checked = false;
 };
 
+/**
+ * Statutory detail.
+ *
+ * One shared sheet serves every record rather than a hidden panel per row: 953 panels
+ * would nest tinted surfaces four deep inside an offense row, which the design system
+ * explicitly avoids, and long sections need more room than a row can give.
+ *
+ * The sheet is a native <dialog> opened with showModal(), which supplies focus trapping,
+ * Escape, and background inerting without hand-rolling any of it.
+ *
+ * Statutory text is several megabytes across ~695 sections, so it is never part of the
+ * initial payload: each section is fetched the first time it is opened and kept in memory
+ * afterwards. The sheet is built with createElement/textContent only, which the Trusted
+ * Types policy in the deployed CSP requires.
+ */
+const SECTION_KEY_PATTERN = /^\d{4}-\d{4}-(?!.*\.\.)[A-Za-z0-9][A-Za-z0-9.\-]*$/;
+
+const STATUS_NOTICES = {
+  unavailable:
+    "The Illinois General Assembly no longer serves this section. It may have been renumbered or repealed since the February 2024 source publication.",
+  repealed: "The current statutory text for this section is marked repealed.",
+  "citation-mismatch":
+    "The Illinois General Assembly returned a different section than the one cited here. Treat this citation as unconfirmed.",
+  "subsection-not-found":
+    "The section was retrieved, but the subsection cited by the February 2024 source publication does not appear in the current text.",
+  unparseable: "The statutory text could not be read automatically. Open the official source below.",
+  "fetch-failed": "The statutory text could not be retrieved. Open the official source below.",
+};
+
+const sectionRequests = new Map();
+let sheetReturnFocus = null;
+// Monotonic: identifies which open request owns the sheet's contents.
+let sheetRequestToken = 0;
+
+/**
+ * Build the official ILGA URL for a record from its section key.
+ *
+ * The key already encodes chapter, act, and section ("0625-0005-11-709"), and ILGA's
+ * document token is chapter + act + "0K" + section, so the URL is derived rather than
+ * stored once per record in the initial payload.
+ *
+ * The template is data, and this link is the one place the interface sends an officer to
+ * an external site, so it is checked against the official host before use.
+ */
+const ilgaUrlFor = (offense) => {
+  const template = state.data?.ilgaUrlTemplate;
+  if (!template || !offense.sectionKey) return null;
+  if (!/^https:\/\/www\.ilga\.gov\//.test(template) || !template.includes("{docName}")) return null;
+  if (!SECTION_KEY_PATTERN.test(offense.sectionKey)) return null;
+
+  const docName = `${offense.sectionKey.slice(0, 4)}${offense.sectionKey.slice(5, 9)}0K${offense.sectionKey.slice(10)}`;
+  return template.replace("{docName}", encodeURIComponent(docName));
+};
+
+const loadStatutorySection = (sectionKey) => {
+  if (!SECTION_KEY_PATTERN.test(sectionKey)) return Promise.resolve(null);
+  if (!sectionRequests.has(sectionKey)) {
+    const request = fetch(`${SECTION_URL_PREFIX}${encodeURIComponent(sectionKey)}.json`)
+      .then((response) => (response.ok ? response.json() : Promise.reject(new Error(String(response.status)))))
+      .catch(() => {
+        // Only successes are memoised. Caching the failure would mean a statute opened
+        // in a dead spot stays broken for the life of the page even once signal returns,
+        // which is the one place this is used and the one time it matters.
+        sectionRequests.delete(sectionKey);
+        return null;
+      });
+    sectionRequests.set(sectionKey, request);
+  }
+  return sectionRequests.get(sectionKey);
+};
+
+const createStatuteBlocks = (blocks) => {
+  const container = document.createElement("div");
+  container.className = "statute-blocks";
+  // Skipped because the sheet already shows each of these in its own place: the citation
+  // and historical reference in the header, the heading above the statute, and the
+  // Public Act line as provenance beneath it.
+  const shownElsewhere = new Set(["citation", "historical-reference", "heading", "source"]);
+  blocks.forEach((block) => {
+    if (shownElsewhere.has(block.type)) return;
+    const paragraph = document.createElement("p");
+    paragraph.className = `statute-block statute-${block.type}`;
+    paragraph.textContent = block.text;
+    container.append(paragraph);
+  });
+  return container;
+};
+
+const createSheetContent = (offense, section) => {
+  const fragment = document.createDocumentFragment();
+
+  const notice = STATUS_NOTICES[offense.statutoryStatus];
+  if (notice) {
+    const warning = document.createElement("p");
+    warning.className = "detail-notice";
+    warning.textContent = notice;
+    fragment.append(warning);
+  }
+
+  if (section?.headingText) {
+    const heading = document.createElement("p");
+    heading.className = "detail-heading";
+    heading.textContent = section.headingText;
+    fragment.append(heading);
+  }
+
+  const ilgaUrl = ilgaUrlFor(offense);
+  if (ilgaUrl) {
+    const link = document.createElement("a");
+    link.className = "detail-ilga";
+    link.href = ilgaUrl;
+    link.target = "_blank";
+    link.rel = "noopener noreferrer";
+    link.setAttribute(
+      "aria-label",
+      `View the official Illinois General Assembly text of ${offense.citation} in a new tab`
+    );
+    link.append(
+      document.createTextNode(`View official ILGA statute · ${offense.citation}`),
+      document.createTextNode(" ↗")
+    );
+    fragment.append(link);
+  }
+
+  if (section?.blocks?.length) {
+    // The sheet exists to give statutory language room, so it renders expanded rather
+    // than behind a disclosure control.
+    fragment.append(createStatuteBlocks(section.blocks));
+
+    if (section.sourceLine) {
+      const source = document.createElement("p");
+      source.className = "detail-source-line";
+      source.textContent = section.sourceLine;
+      fragment.append(source);
+    }
+  }
+
+  // Provenance is unconditional visible text, never a tooltip: an officer reading this
+  // needs to know when it was retrieved and that no person has reviewed it.
+  const provenance = document.createElement("p");
+  provenance.className = "detail-provenance";
+  provenance.textContent = section?.retrievedAt
+    ? `Statutory text retrieved from ilga.gov on ${section.retrievedAt.slice(0, 10)}. Retrieved automatically and not reviewed by a person. Verify against the official source before relying on it.`
+    : "Statutory text is not available offline for this record. Open the official source above.";
+  fragment.append(provenance);
+
+  const copyLink = document.createElement("button");
+  copyLink.className = "detail-copy-link";
+  copyLink.type = "button";
+  copyLink.textContent = "Copy link to this statute";
+  copyLink.setAttribute("aria-label", `Copy a direct link to the statutory text for ${offense.citation}`);
+  copyLink.addEventListener("click", () => {
+    const url = new URL(window.location.href);
+    url.search = "";
+    url.hash = `offense/${encodeURIComponent(offense.id)}`;
+    writeClipboard(url.toString(), `Link to ${offense.citation} copied`);
+  });
+  fragment.append(copyLink);
+
+  return fragment;
+};
+
+const createSheetSkeleton = () => {
+  const skeleton = document.createElement("div");
+  skeleton.className = "statute-skeleton";
+  skeleton.setAttribute("role", "status");
+  // The ruled placeholder carries the wait visually; the announcement carries it for
+  // anyone who cannot see it.
+  const announcement = document.createElement("span");
+  announcement.className = "sr-only";
+  announcement.textContent = "Loading statutory text…";
+  skeleton.append(announcement);
+  return skeleton;
+};
+
+/**
+ * Tear-down shared by every way the sheet can close.
+ *
+ * showModal() handles Escape itself and is supposed to fire a "close" event, but not
+ * every engine does, so nothing that matters for accessibility is left to that event
+ * alone. This is idempotent and safe to call from all of them.
+ */
+const finishStatuteSheetClose = () => {
+  // Invalidate any in-flight load so it cannot render into a sheet the user has closed.
+  sheetRequestToken += 1;
+  if (elements.statuteSheetBody.childElementCount) elements.statuteSheetBody.replaceChildren();
+  if (sheetReturnFocus?.isConnected) sheetReturnFocus.focus({ preventScroll: true });
+  sheetReturnFocus = null;
+};
+
+const closeStatuteSheet = () => {
+  if (elements.statuteSheet?.open) elements.statuteSheet.close();
+  finishStatuteSheetClose();
+};
+
+const openStatuteSheet = async (offense, { returnFocusTo = null } = {}) => {
+  const sheet = elements.statuteSheet;
+  if (!sheet || !offense?.sectionKey) return;
+
+  // Only capture on the way in. Opening one record over another would otherwise capture
+  // a node inside the dialog, which the render below destroys — leaving nothing
+  // connected to hand focus back to when the sheet finally closes.
+  if (!sheet.open) sheetReturnFocus = returnFocusTo ?? document.activeElement;
+
+  const token = (sheetRequestToken += 1);
+  elements.statuteSheetTitle.textContent = offense.fullCitation ?? offense.code ?? "";
+  elements.statuteSheetBody.replaceChildren(createSheetSkeleton());
+  if (!sheet.open) sheet.showModal();
+
+  const section = await loadStatutorySection(offense.sectionKey);
+  // Identity, not rendered text: ~953 records share 695 sections, so two records can
+  // carry the same citation, and a late response must not paint into a closed sheet.
+  if (token !== sheetRequestToken) return;
+  elements.statuteSheetBody.replaceChildren(createSheetContent(offense, section));
+  elements.statuteSheetBody.scrollTop = 0;
+};
+
+const openStatuteSheetById = (offenseId) => {
+  const offense = offenseById(offenseId);
+  if (!offense?.sectionKey) return Promise.resolve();
+  return openStatuteSheet(offense, { returnFocusTo: document.getElementById(`${offenseId}-statute`) });
+};
+
+const setFilterBarOpen = (open, focus = false) => {
+  state.filtersOpen = open;
+  elements.filterBar.hidden = !open;
+  elements.browseFilterToggle.setAttribute("aria-expanded", String(open));
+  elements.browseFilterToggle.lastElementChild.textContent = open ? "−" : "+";
+  if (open && focus) {
+    window.requestAnimationFrame(() => elements.familyFilter.focus({ preventScroll: true }));
+  }
+};
+
 const resetFilters = () => {
+  clearSharedLookupUrl();
   state.query = "";
   elements.search.value = "";
   clearBrowseFilters();
   renderOffenses();
 };
 
+const selectCandidate = (offenseId, { fromRecent = false } = {}) => {
+  const offense = offenseById(offenseId);
+  if (!offense) return;
+  rememberOffense(offense.id);
+
+  if (elements.searchTools.contains(document.activeElement)) {
+    elements.search.focus({ preventScroll: true });
+  }
+
+  if (fromRecent) {
+    clearSharedLookupUrl();
+    state.query = offense.code ?? offense.description;
+    elements.search.value = state.query;
+    renderOffenses();
+  }
+
+  const row = document.getElementById(offense.id);
+  if (row) row.focus({ preventScroll: true });
+  setSearchExperienceOpen(false);
+  window.requestAnimationFrame(() => {
+    if (!row) return;
+    row.scrollIntoView({ block: "center" });
+  });
+};
+
+const activateSuggestedSearch = (query) => {
+  if (elements.searchTools.contains(document.activeElement)) {
+    elements.search.focus({ preventScroll: true });
+  }
+  clearSharedLookupUrl();
+  state.query = query.slice(0, MAX_QUERY_LENGTH);
+  elements.search.value = state.query;
+  clearBrowseFilters();
+  renderOffenses();
+
+  window.requestAnimationFrame(() => {
+    elements.offensesSection.scrollIntoView({ block: "start" });
+    elements.resultSummary.focus({ preventScroll: true });
+    setSearchExperienceOpen(false);
+  });
+};
+
 const buildFilters = () => {
-  const counts = new Map(families.map((family) => [family, 0]));
+  const counts = new Map(FAMILIES.map((family) => [family, 0]));
   state.data.offenses.forEach((offense) => counts.set(offense.family, counts.get(offense.family) + 1));
 
-  families.forEach((family) => {
+  FAMILIES.forEach((family) => {
     const option = document.createElement("option");
     option.value = family;
     option.textContent = `${family} (${counts.get(family).toLocaleString()})`;
@@ -469,11 +1078,38 @@ const buildFilters = () => {
 };
 
 const hydrateStateFromUrl = () => {
-  const params = new URLSearchParams(window.location.search);
-  state.query = (params.get("q") ?? "").slice(0, MAX_QUERY_LENGTH);
-  state.family = families.includes(params.get("family")) ? params.get("family") : "all";
-  state.chapter = params.get("chapter") ?? "all";
-  state.mandatoryOnly = params.get("appearance") === "mandatory";
+  const options = shareValidationOptions();
+  const fragmentState = parseShareFragment(window.location.hash, options);
+  const legacy = fragmentState
+    ? null
+    : readLegacyShareState(window.location.search, options);
+  const nextState = fragmentState ?? legacy?.state ?? null;
+
+  if (nextState) {
+    state.query = nextState.query;
+    state.family = nextState.family;
+    state.chapter = nextState.chapter;
+    state.mandatoryOnly = nextState.mandatoryOnly;
+    state.sharedLookupActive = true;
+  } else if (window.location.hash.startsWith("#lookup")) {
+    state.query = "";
+    state.family = "all";
+    state.chapter = "all";
+    state.mandatoryOnly = false;
+    state.sharedLookupActive = false;
+  }
+
+  if (legacy || window.location.search) {
+    const url = new URL(window.location.href);
+    url.search = "";
+    url.hash =
+      legacy?.fragment ??
+      (fragmentState || !window.location.hash.startsWith("#lookup") ? window.location.hash : "");
+    history.replaceState(null, "", url);
+  } else if (window.location.hash.startsWith("#lookup") && !fragmentState) {
+    history.replaceState(null, "", window.location.pathname);
+  }
+
   elements.search.value = state.query;
   elements.mandatoryFilter.checked = state.mandatoryOnly;
 };
@@ -484,61 +1120,44 @@ const renderStaticSections = () => {
   elements.guideList.replaceChildren(guideFragment);
 };
 
-const prefersReducedMotion = () => matchMedia("(prefers-reduced-motion: reduce)").matches;
-
-const setupTypewriter = () => {
-  let suggestionIndex = 0;
-  let characterIndex = 0;
-  let deleting = false;
-  let timer;
-
-  const schedule = (callback, delay) => {
-    window.clearTimeout(timer);
-    timer = window.setTimeout(callback, delay);
-  };
-
-  const step = () => {
-    const suggestion = TYPEWRITER_SUGGESTIONS[suggestionIndex];
-
-    if (!deleting && characterIndex < suggestion.length) {
-      characterIndex += 1;
-      elements.typewriterText.textContent = suggestion.slice(0, characterIndex);
-      schedule(step, TYPEWRITER_TIMING.type);
-      return;
-    }
-
-    if (!deleting) {
-      deleting = true;
-      schedule(step, TYPEWRITER_TIMING.hold);
-      return;
-    }
-
-    if (characterIndex > 0) {
-      characterIndex -= 1;
-      elements.typewriterText.textContent = suggestion.slice(0, characterIndex);
-      schedule(step, TYPEWRITER_TIMING.erase);
-      return;
-    }
-
-    deleting = false;
-    suggestionIndex = (suggestionIndex + 1) % TYPEWRITER_SUGGESTIONS.length;
-    schedule(step, TYPEWRITER_TIMING.next);
-  };
-
-  const sync = () => {
-    window.clearTimeout(timer);
-    if (prefersReducedMotion()) {
-      elements.typewriterText.textContent = "Search all 953 offenses…";
-      return;
-    }
-    if (document.hidden || elements.search.value) return;
-    schedule(step, TYPEWRITER_TIMING.resume);
-  };
-
-  elements.search.addEventListener("input", sync);
-  document.addEventListener("visibilitychange", sync);
-  sync();
+const showUnavailableLookup = (heading, message) => {
+  elements.search.disabled = true;
+  elements.searchDock.hidden = true;
+  elements.searchShell.setAttribute("aria-busy", "false");
+  elements.browseFilterToggle.hidden = true;
+  elements.filterBar.hidden = true;
+  elements.recordKey.hidden = true;
+  elements.copyLink.hidden = true;
+  elements.emptyState.hidden = true;
+  elements.results.setAttribute("aria-busy", "false");
+  elements.results.hidden = true;
+  elements.resultSummary.textContent = heading;
+  elements.contentStatusHeading.textContent = heading;
+  elements.contentStatusMessage.textContent = message;
+  elements.contentStatusPanel.hidden = false;
 };
+
+const syncSourceReviewStatus = () => {
+  const review = state.sourceVersion?.review;
+  if (!review) return;
+  const corpusStatus = state.contentStatus?.corpus?.status;
+  const effectiveStatus = corpusStatus === "superseded" ? "superseded" : review.status;
+  elements.sourceReviewStatus.dataset.status = effectiveStatus;
+  if (
+    effectiveStatus === "active" &&
+    corpusStatus === "active" &&
+    review.lastReviewedDate &&
+    review.nextReviewDate
+  ) {
+    elements.sourceReviewStatus.textContent =
+      `Content review active · Reviewed ${review.lastReviewedDate} · Next review ${review.nextReviewDate}.`;
+    return;
+  }
+  const label = effectiveStatus === "superseded" ? "Source superseded" : "Content review due";
+  elements.sourceReviewStatus.textContent = `${label} · Approval dates pending.`;
+};
+
+const prefersReducedMotion = () => matchMedia("(prefers-reduced-motion: reduce)").matches;
 
 const applyTheme = (theme, persist = false) => {
   document.documentElement.dataset.theme = theme;
@@ -555,6 +1174,74 @@ const setupTheme = () => {
   const systemDark = matchMedia("(prefers-color-scheme: dark)").matches;
   const theme = storedTheme ?? (systemDark ? "dark" : "light");
   applyTheme(theme);
+};
+
+const setupShortcut = () => {
+  applyShortcutPreference(readShortcutPreference());
+};
+
+const setupFreshness = () => {
+  const currentBuild = document.querySelector('meta[name="app-build"]')?.content;
+  if (!isBuildId(currentBuild)) return;
+
+  let hideTimer;
+
+  const hideUpdatePrompt = (publishedBuild, persist = false) => {
+    if (persist && isBuildId(publishedBuild)) writeSuppressedBuild(publishedBuild);
+    if (elements.updatePrompt.contains(document.activeElement)) {
+      elements.search.focus({ preventScroll: true });
+      setSearchExperienceOpen(false);
+    }
+    elements.updatePrompt.classList.remove("is-visible");
+    document.documentElement.classList.remove("update-ready");
+    window.clearTimeout(hideTimer);
+    hideTimer = window.setTimeout(() => {
+      elements.updatePrompt.hidden = true;
+    }, prefersReducedMotion() ? 0 : 200);
+  };
+
+  const showUpdatePrompt = (publishedBuild) => {
+    window.clearTimeout(hideTimer);
+    elements.updatePrompt.dataset.build = publishedBuild;
+    elements.updatePrompt.hidden = false;
+    document.documentElement.classList.add("update-ready");
+    window.requestAnimationFrame(() => {
+      elements.updatePrompt.classList.add("is-visible");
+      elements.updateAnnouncement.textContent =
+        "A newer version of the offense index is ready. Refresh when convenient.";
+    });
+  };
+
+  const monitor = createFreshnessMonitor({
+    currentBuild,
+    fetchBuild: () =>
+      fetchBuildVersion({
+        url: new URL("./version.json", document.baseURI).toString(),
+      }),
+    onUpdate: showUpdatePrompt,
+    isSuppressed: (publishedBuild) => readSuppressedBuild() === publishedBuild,
+  });
+
+  const checkForUpdate = () => {
+    void monitor.check();
+  };
+  const checkWhenVisible = () => {
+    if (document.visibilityState === "visible") checkForUpdate();
+  };
+
+  elements.updateRefresh.addEventListener("click", () => window.location.reload());
+  elements.updateLater.addEventListener("click", () => {
+    hideUpdatePrompt(elements.updatePrompt.dataset.build, true);
+  });
+  elements.updatePrompt.addEventListener("keydown", (event) => {
+    if (event.key !== "Escape") return;
+    event.preventDefault();
+    hideUpdatePrompt(elements.updatePrompt.dataset.build, true);
+  });
+  window.addEventListener("pageshow", checkForUpdate);
+  window.addEventListener("focus", checkForUpdate);
+  document.addEventListener("visibilitychange", checkWhenVisible);
+  void monitor.check({ force: true });
 };
 
 const setupHeaderScrollState = () => {
@@ -619,7 +1306,10 @@ const bindEvents = () => {
   elements.searchShell.addEventListener("click", (event) => {
     if (event.target.closest("button")) return;
     elements.search.focus();
+    setSearchExperienceOpen(true);
   });
+
+  elements.search.addEventListener("click", () => setSearchExperienceOpen(true));
 
   elements.searchShell.addEventListener("focusout", () => {
     window.requestAnimationFrame(() => {
@@ -633,19 +1323,47 @@ const bindEvents = () => {
   });
 
   elements.searchExperience.addEventListener("focusout", () => {
-    window.requestAnimationFrame(syncSearchControls);
+    window.requestAnimationFrame(() => {
+      if (elements.searchExperience.contains(document.activeElement)) return;
+      setSearchExperienceOpen(false);
+    });
   });
 
   elements.search.addEventListener("input", () => {
     window.clearTimeout(searchTimer);
-    searchTimer = window.setTimeout(() => {
-      state.query = elements.search.value.slice(0, MAX_QUERY_LENGTH);
-      if (state.query) clearBrowseFilters();
-      renderOffenses();
-    }, 100);
+    clearSharedLookupUrl();
+    state.query = elements.search.value.slice(0, MAX_QUERY_LENGTH);
+    updateSearchResult();
+    syncSearchMetadata();
+    searchTimer = window.setTimeout(renderCatalog, 48);
+  });
+
+  elements.search.addEventListener("keydown", (event) => {
+    const candidateCount = state.searchResult?.candidates.length ?? 0;
+    if (!candidateCount) return;
+
+    if (["ArrowDown", "ArrowUp"].includes(event.key)) {
+      event.preventDefault();
+      if (!state.searchOpen) setSearchExperienceOpen(true);
+      if (event.key === "ArrowDown") {
+        setActiveCandidate((state.activeCandidateIndex + 1) % candidateCount);
+      } else {
+        setActiveCandidate(
+          state.activeCandidateIndex <= 0 ? candidateCount - 1 : state.activeCandidateIndex - 1
+        );
+      }
+      return;
+    }
+
+    if (event.key === "Enter" && state.searchOpen && state.activeCandidateIndex >= 0) {
+      event.preventDefault();
+      const candidate = state.searchResult.candidates[state.activeCandidateIndex];
+      if (candidate) selectCandidate(candidate.offenseId);
+    }
   });
 
   elements.clearSearch.addEventListener("click", () => {
+    clearSharedLookupUrl();
     state.query = "";
     elements.search.value = "";
     elements.search.focus();
@@ -653,22 +1371,26 @@ const bindEvents = () => {
   });
 
   elements.familyFilter.addEventListener("change", () => {
+    clearSharedLookupUrl();
     state.family = elements.familyFilter.value;
     renderOffenses();
   });
 
   elements.chapterFilter.addEventListener("change", () => {
+    clearSharedLookupUrl();
     state.chapter = elements.chapterFilter.value;
     renderOffenses();
   });
 
   elements.mandatoryFilter.addEventListener("change", () => {
+    clearSharedLookupUrl();
     state.mandatoryOnly = elements.mandatoryFilter.checked;
     renderOffenses();
   });
 
   elements.quickFamilyFilters.forEach((filter) => {
     filter.addEventListener("click", () => {
+      clearSharedLookupUrl();
       const family = filter.dataset.familyFilter;
       state.family = state.family === family ? "all" : family;
       state.chapter = "all";
@@ -679,34 +1401,88 @@ const bindEvents = () => {
   });
 
   elements.quickMandatory.addEventListener("click", () => {
+    clearSharedLookupUrl();
     state.mandatoryOnly = !state.mandatoryOnly;
     elements.mandatoryFilter.checked = state.mandatoryOnly;
     renderOffenses();
   });
 
+  elements.hiddenFilterNote.addEventListener("click", () => {
+    elements.search.focus({ preventScroll: true });
+    clearSharedLookupUrl();
+    clearBrowseFilters();
+    renderOffenses();
+    setSearchExperienceOpen(true);
+  });
+
+  elements.clearRecents.addEventListener("click", () => {
+    elements.search.focus({ preventScroll: true });
+    state.recentOffenseIds = [];
+    writeRecentSelections();
+    renderRecentSelections();
+    setToast("Recent selections cleared");
+  });
+
+  elements.shortcutToggle.addEventListener("click", () => {
+    const enabled = !state.slashShortcutEnabled;
+    applyShortcutPreference(enabled, true);
+    setToast(enabled ? "Slash shortcut enabled" : "Slash shortcut disabled");
+  });
+
   elements.moreFilters.addEventListener("click", () => {
+    setFilterBarOpen(true);
     elements.filterBar.scrollIntoView({ block: "center" });
     window.requestAnimationFrame(() => elements.familyFilter.focus({ preventScroll: true }));
   });
 
+  elements.browseFilterToggle.addEventListener("click", () => {
+    setFilterBarOpen(!state.filtersOpen, !state.filtersOpen);
+  });
+
   elements.resetFilters.addEventListener("click", resetFilters);
-  elements.emptyReset.addEventListener("click", resetFilters);
+  elements.emptyReset.addEventListener("click", () => {
+    resetFilters();
+    elements.search.focus();
+  });
 
   elements.searchPrompts.forEach((prompt) => {
     prompt.addEventListener("click", () => {
-      state.query = prompt.dataset.searchQuery.slice(0, MAX_QUERY_LENGTH);
-      elements.search.value = state.query;
-      clearBrowseFilters();
-      renderOffenses();
-      elements.search.focus();
-      document.getElementById("offenses").scrollIntoView({ block: "start" });
+      activateSuggestedSearch(prompt.dataset.searchQuery);
     });
   });
 
   elements.copyLink.addEventListener("click", () => {
     const url = new URL(window.location.href);
-    url.hash = "";
-    writeClipboard(url.toString(), "Search link copied");
+    const fragment = serializeShareState(
+      {
+        query: state.query,
+        family: state.family,
+        chapter: state.chapter,
+        mandatoryOnly: state.mandatoryOnly,
+      },
+      shareValidationOptions()
+    );
+    url.search = "";
+    url.hash = fragment;
+    history.replaceState(null, "", url);
+    state.sharedLookupActive = true;
+    writeClipboard(url.toString(), "Results link copied");
+  });
+
+  elements.clearLocalData.addEventListener("click", () => {
+    try {
+      localStorage.removeItem(THEME_STORAGE_KEY);
+      localStorage.removeItem(SHORTCUT_STORAGE_KEY);
+      sessionStorage.removeItem(UPDATE_SUPPRESSION_KEY);
+      sessionStorage.removeItem(RECENT_SELECTIONS_KEY);
+    } catch {
+      // The visible state is still cleared when browser storage is unavailable.
+    }
+    state.recentOffenseIds = [];
+    renderRecentSelections();
+    applyShortcutPreference(true);
+    applyTheme(matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
+    setToast("Local site data cleared");
   });
 
   elements.themeToggle.addEventListener("click", () => {
@@ -720,60 +1496,156 @@ const bindEvents = () => {
   });
 
   document.addEventListener("keydown", (event) => {
-    if (event.key === "/" && document.activeElement !== elements.search) {
+    const target = event.target;
+    const isEditableTarget =
+      target instanceof HTMLElement &&
+      (target.matches("input, textarea, select") || target.isContentEditable);
+
+    if (
+      event.key === "/" &&
+      state.slashShortcutEnabled &&
+      !event.altKey &&
+      !event.ctrlKey &&
+      !event.metaKey &&
+      !isEditableTarget
+    ) {
       event.preventDefault();
       elements.search.focus();
+      elements.search.select();
+      setSearchExperienceOpen(true);
     }
-    if (event.key === "Escape" && document.activeElement === elements.search) {
+
+    if (event.key === "Escape" && elements.searchExperience.contains(document.activeElement)) {
+      event.preventDefault();
+      if (state.searchOpen) {
+        elements.search.focus({ preventScroll: true });
+        setSearchExperienceOpen(false);
+        return;
+      }
       if (elements.search.value) {
+        clearSharedLookupUrl();
         state.query = "";
         elements.search.value = "";
         renderOffenses();
-      } else {
-        elements.search.blur();
       }
     }
   });
+
+  window.addEventListener("hashchange", () => {
+    if (window.location.hash.startsWith("#lookup")) {
+      hydrateStateFromUrl();
+      if (state.data) {
+        elements.familyFilter.value = state.family;
+        elements.chapterFilter.value = state.chapter;
+        renderOffenses();
+      }
+      return;
+    }
+
+    const offenseId = readOffenseHash(window.location.hash);
+    if (offenseId) {
+      const row = document.getElementById(offenseId);
+      if (!row) return;
+      // Scroll the row into place behind the sheet, so closing it leaves the reader
+      // looking at the record they followed the link to.
+      row.scrollIntoView({ block: "start" });
+      openStatuteSheetById(offenseId);
+      return;
+    }
+
+    const targetId = decodeHash(window.location.hash.replace(/^#/, ""));
+    const target = targetId ? document.getElementById(targetId) : null;
+    if (target) target.scrollIntoView({ block: "center" });
+  });
+
+  elements.statuteSheetClose.addEventListener("click", closeStatuteSheet);
+
+  // Clicking the backdrop closes: the dialog element itself fills only the sheet, so a
+  // click landing on the dialog node is a click outside the sheet's content.
+  elements.statuteSheet.addEventListener("click", (event) => {
+    if (event.target === elements.statuteSheet) closeStatuteSheet();
+  });
+
+  // Handle Escape rather than leaving it to the dialog's own dismissal, so the tear-down
+  // is deterministic on engines that never dispatch the "close" event.
+  elements.statuteSheet.addEventListener("keydown", (event) => {
+    if (event.key !== "Escape") return;
+    event.preventDefault();
+    closeStatuteSheet();
+  });
+
+  elements.statuteSheet.addEventListener("close", finishStatuteSheetClose);
 
   syncSearchControls();
 };
 
 const init = async () => {
   setupTheme();
+  setupShortcut();
   setupHeaderScrollState();
   hydrateStateFromUrl();
   bindEvents();
-  setupTypewriter();
+  setupFreshness();
 
   try {
-    const response = await fetch(DATA_URL);
-    if (!response.ok) throw new Error(`Data request failed: ${response.status}`);
-    state.data = await response.json();
+    const [dataResponse, sourceResponse, contentResponse] = await Promise.all([
+      fetch(DATA_URL),
+      fetch(SOURCE_VERSION_URL),
+      fetch(CONTENT_STATUS_URL),
+    ]);
+    if (!dataResponse.ok) throw new Error(`Data request failed: ${dataResponse.status}`);
+    if (!sourceResponse.ok) throw new Error(`Source status failed: ${sourceResponse.status}`);
+    if (!contentResponse.ok) throw new Error(`Content status failed: ${contentResponse.status}`);
+    [state.data, state.sourceVersion, state.contentStatus] = await Promise.all([
+      dataResponse.json(),
+      sourceResponse.json(),
+      contentResponse.json(),
+    ]);
+    syncSourceReviewStatus();
+
+    renderStaticSections();
+    if (
+      state.contentStatus.corpus.status === "disabled" ||
+      state.contentStatus.corpus.enabled !== true
+    ) {
+      showUnavailableLookup(
+        "Lookup temporarily unavailable",
+        state.contentStatus.emergencyControl.publicMessage
+      );
+      return;
+    }
+
     state.data.offenses.forEach((offense) => {
       offense.family = familyFor(offense);
       offense.primarySearchDocument = buildOffensePrimarySearchDocument(offense);
       offense.searchDocument = buildOffenseSearchDocument(offense);
     });
+    state.searchIndex = createSearchIndex(state.data.offenses);
+    elements.search.disabled = false;
+    elements.searchShell.setAttribute("aria-busy", "false");
+    state.recentOffenseIds = readRecentSelections().filter((id) => offenseById(id));
+    if (window.location.hash.startsWith("#lookup")) hydrateStateFromUrl();
     buildFilters();
-    renderStaticSections();
+    setFilterBarOpen(activeFilterCount() > 0);
     renderOffenses();
     setupRevealMotion();
 
-    const targetId = decodeHash(window.location.hash.replace(/^#/, ""));
+    const offenseId = readOffenseHash(window.location.hash);
+    const targetId = offenseId ?? decodeHash(window.location.hash.replace(/^#/, ""));
     const target = targetId ? document.getElementById(targetId) : null;
 
     if (window.location.hash && target) {
       window.requestAnimationFrame(() => {
         target.scrollIntoView({ block: "start" });
+        if (offenseId) openStatuteSheetById(offenseId);
       });
     }
   } catch (error) {
-    elements.results.setAttribute("aria-busy", "false");
-    elements.resultSummary.textContent = "Index unavailable";
-    const message = document.createElement("p");
-    message.className = "error-message";
-    message.textContent = "The code index could not be loaded. Please refresh and try again.";
-    elements.results.replaceChildren(message);
+    renderStaticSections();
+    showUnavailableLookup(
+      "Index unavailable",
+      "The code index could not be loaded. Refresh the page or open the source publication."
+    );
     console.error(error);
   }
 };

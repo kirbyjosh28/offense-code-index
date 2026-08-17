@@ -4,9 +4,18 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "build": "node scripts/build-sites.mjs",
-    "dev": "node scripts/server.mjs",
-    "test": "npm run build && node --test",
-    "validate:data": "node scripts/validate-data.mjs"
+    "build": "npm run build:production",
+    "build:draft": "npm run validate:release && node scripts/build-sites.mjs",
+    "build:production": "npm run validate:release:production && node scripts/build-sites.mjs",
+    "dev": "node scripts/build-lookup-index.mjs && node scripts/server.mjs",
+    "test": "npm run build:draft && node --test",
+    "enrichment:citations": "node scripts/build-citation-model.mjs",
+    "enrichment:probe": "node scripts/ilga-probe.mjs",
+    "enrichment:verify": "node scripts/verify-ilga.mjs",
+    "enrichment:validate": "node scripts/validate-enrichment.mjs",
+    "enrichment:audit": "node scripts/report-audit.mjs",
+    "validate:data": "node scripts/validate-data.mjs",
+    "validate:release": "node scripts/validate-release.mjs --mode=draft",
+    "validate:release:production": "node scripts/validate-release.mjs --mode=production"
   }
 }

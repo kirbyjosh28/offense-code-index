@@ -5,35 +5,36 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta
       name="description"
-      content="A fast, searchable reference for the 2024 Illinois Secretary of State Police Offense Code Index."
+      content="An independent, privacy-first reference for locating possible matches in the February 2024 Illinois Secretary of State Police Offense Code Index."
     />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Illinois Offense Code Index" />
+    <meta property="og:title" content="Independent Illinois Offense Code Reference" />
     <meta
       property="og:description"
-      content="Search all 953 Illinois offenses by code, common wording, or a plain-language question."
+      content="Search 953 source records locally. Verify every possible match against current law and agency policy."
     />
     <meta
       property="og:image"
-      content="https://illinois-offense-code-index-nnnmfconx.vercel.app/og-v5.png"
+      content="https://illinois-offense-code-index.vercel.app/og-v5.png"
     />
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="Illinois Offense Code Index" />
+    <meta name="twitter:title" content="Independent Illinois Offense Code Reference" />
     <meta
       name="twitter:description"
-      content="Search all 953 Illinois offenses by code, common wording, or a plain-language question."
+      content="Search 953 source records locally. Verify every possible match against current law and agency policy."
     />
     <meta
       name="twitter:image"
-      content="https://illinois-offense-code-index-nnnmfconx.vercel.app/og-v5.png"
+      content="https://illinois-offense-code-index.vercel.app/og-v5.png"
     />
     <meta name="theme-color" content="#f3f2ed" />
-    <title>Illinois Offense Code Index</title>
+    <meta name="app-build" content="dev" />
+    <title>Independent Illinois Offense Code Reference</title>
     <link rel="stylesheet" href="./styles.css" />
     <script type="module" src="./app.js"></script>
   </head>
   <body>
-    <a class="skip-link" href="#offenses">Skip to offenses</a>
+    <a class="skip-link" href="#main-content">Skip to offense index</a>
 
     <header class="site-header">
       <nav class="pill-nav" aria-label="Primary navigation">
@@ -49,95 +50,166 @@
 
       <div class="search-dock">
         <div class="search-experience" id="search-experience">
-          <div class="search-shell" role="search">
+          <div class="search-shell" role="search" aria-busy="true">
             <span class="search-icon" aria-hidden="true"></span>
             <div class="search-input-wrap">
               <label class="sr-only" for="search">Search offenses by code or plain language</label>
               <input
                 id="search"
                 type="search"
+                role="combobox"
                 inputmode="search"
                 autocomplete="off"
                 spellcheck="false"
                 maxlength="120"
-                aria-describedby="search-assist"
-                placeholder="Search all 953 offenses…"
+                disabled
+                aria-describedby="search-assist search-safety-instructions"
+                aria-autocomplete="list"
+                aria-controls="command-results"
+                aria-expanded="false"
+                aria-haspopup="listbox"
+                aria-keyshortcuts="/"
+                placeholder="Search offense or code."
               />
-              <span class="typewriter-placeholder" aria-hidden="true">
-                <span id="typewriter-text">Search all 953 offenses…</span><i></i>
-              </span>
             </div>
             <kbd aria-hidden="true">/</kbd>
+            <span class="search-match-count" id="search-match-count" aria-hidden="true" hidden></span>
             <button class="clear-search" id="clear-search" type="button" aria-label="Clear search">
               Clear
             </button>
           </div>
 
-          <div class="search-tools" id="search-tools" role="group" aria-label="Quick filters">
-            <span class="search-tools-label">Quick filters</span>
-            <button class="quick-filter" type="button" data-family-filter="Vehicle Code" aria-pressed="false">
-              Traffic
-            </button>
-            <button class="quick-filter" type="button" data-family-filter="Criminal Code" aria-pressed="false">
-              Criminal
-            </button>
-            <button class="quick-filter" id="quick-mandatory" type="button" aria-pressed="false">
-              Court required
-            </button>
-            <button class="more-filters" id="more-filters" type="button">
-              More filters <span aria-hidden="true">↓</span>
-            </button>
+          <div class="search-tools" id="search-tools" role="region" aria-label="Search suggestions and filters">
+            <div class="search-boundary" role="note">
+              <strong>Private, local lookup</strong>
+              <span>Do not enter names, plates, license numbers, case details, narratives, personal information, or CJI.</span>
+            </div>
+            <div class="search-start-view" id="search-start-view">
+              <section class="search-tool-group recent-searches" id="recent-searches" aria-labelledby="recent-searches-label" hidden>
+                <div class="search-group-heading">
+                  <span class="search-tools-label" id="recent-searches-label">Recent selections</span>
+                  <button class="clear-recents" id="clear-recents" type="button">Clear</button>
+                </div>
+                <div class="recent-results" id="recent-results" role="list"></div>
+              </section>
+
+              <section class="search-tool-group" aria-labelledby="common-stops-label">
+              <span class="search-tools-label" id="common-stops-label">Common stops</span>
+              <div class="search-prompts" role="group" aria-labelledby="common-stops-label">
+                <button type="button" data-search-query="no rear registration light">Rear plate light</button>
+                <button type="button" data-search-query="expired registration">Expired registration</button>
+                <button type="button" data-search-query="speeding over limit">Speeding</button>
+                <button type="button" data-search-query="headlights">Headlights</button>
+                <button type="button" data-search-query="taillights">Taillights</button>
+                <button type="button" data-search-query="no insurance">No insurance</button>
+              </div>
+              </section>
+            </div>
+
+            <section class="search-results-view" id="search-results-view" aria-labelledby="command-results-label" hidden>
+              <div class="command-heading">
+                <span class="search-tools-label" id="command-results-label">Possible source matches</span>
+                <span class="command-result-total" id="command-result-total"></span>
+              </div>
+              <button class="hidden-filter-note" id="hidden-filter-note" type="button" hidden></button>
+              <div class="command-results" id="command-results" role="listbox" aria-labelledby="command-results-label"></div>
+              <div class="command-empty" id="command-empty" role="status" hidden>
+                <strong>No matching offense</strong>
+                <span>Try fewer words or clear active filters.</span>
+              </div>
+            </section>
+
+            <section class="search-tool-group">
+              <span class="search-tools-label" id="quick-filters-label">Quick filters</span>
+              <div class="quick-filter-row" role="group" aria-labelledby="quick-filters-label">
+                <button class="quick-filter" type="button" data-family-filter="Vehicle Code" aria-pressed="false">
+                  Traffic
+                </button>
+                <button class="quick-filter" type="button" data-family-filter="Criminal Code" aria-pressed="false">
+                  Criminal
+                </button>
+                <button class="quick-filter" id="quick-mandatory" type="button" aria-pressed="false">
+                  Court required
+                </button>
+                <button class="more-filters" id="more-filters" type="button">
+                  More filters <span aria-hidden="true">↓</span>
+                </button>
+              </div>
+            </section>
+
+            <div class="search-tools-footer">
+              <span>Press <kbd>/</kbd> to focus search</span>
+              <button class="shortcut-toggle" id="shortcut-toggle" type="button" aria-pressed="true">
+                Shortcut on
+              </button>
+            </div>
           </div>
         </div>
         <p class="sr-only" id="search-assist">Results update as you type. Press slash from anywhere to focus search.</p>
+        <p class="sr-only" id="search-safety-instructions">Private local lookup. Do not enter names, plates, license numbers, case details, narratives, personal information, or criminal justice information.</p>
       </div>
     </header>
 
-    <main>
+    <main id="main-content" tabindex="-1">
       <section class="intro" aria-labelledby="page-title">
         <div class="intro-heading">
           <div>
-            <p class="eyebrow">Illinois Secretary of State Police · February 2024</p>
-            <h1 id="page-title">Offense Code Index</h1>
+            <p class="eyebrow">Independent reference · February 2024 source</p>
+            <h1 id="page-title">Illinois offense code reference</h1>
           </div>
           <p class="intro-summary">
-            Find the record, open its official source page, then confirm the current ILCS before
-            writing a citation.
+            Locate a possible source match, open its exact page, then confirm current ILCS and agency policy.
           </p>
         </div>
 
-        <div class="search-prompts" aria-label="Common traffic stop searches">
-          <span>Common stops</span>
-          <button type="button" data-search-query="no rear registration light">No rear registration light</button>
-          <button type="button" data-search-query="expired registration">Expired registration</button>
-          <button type="button" data-search-query="speeding">Speeding</button>
-          <button type="button" data-search-query="headlight out">Headlight out</button>
-          <button type="button" data-search-query="taillight out">Taillight out</button>
-        </div>
-
-        <div class="notice" role="note">
-          <strong>Source-first results.</strong>
-          <span>
-            Every offense opens to its exact page in the official 2024 index. The index is a
-            reference—not current law—and reporting codes may differ by agency.
-          </span>
-        </div>
+        <aside class="source-status" role="note" aria-labelledby="source-status-title">
+          <span class="source-status-mark" aria-hidden="true"></span>
+          <div class="source-status-content">
+            <div class="source-status-heading">
+              <strong id="source-status-title">Source: official SOS Police publication</strong>
+              <a
+                class="source-status-action"
+                href="https://www.ilsos.gov/content/dam/departments/police/offense_code24.pdf"
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="Open the official 2024 source PDF in a new tab"
+              >
+                <span class="source-action-long">Open source PDF</span>
+                <span class="source-action-short">Open PDF</span>
+                <span aria-hidden="true">↗</span>
+              </a>
+            </div>
+            <span>This independent website is not affiliated with or endorsed by Illinois or any government agency.</span>
+            <small>Historical reporting reference only—not current law or legal advice. Confirm current ILCS, the source publication, and agency policy before use.</small>
+            <small class="source-review-status" id="source-review-status">Content review due · Approval dates pending.</small>
+          </div>
+        </aside>
       </section>
 
       <section class="content-section offenses-section" id="offenses" aria-labelledby="offenses-heading">
         <header class="section-heading">
           <div>
             <p class="section-number">01 / OFFENSES</p>
-            <h2 id="offenses-heading">Complete offense index</h2>
+            <h2 id="offenses-heading">Complete source index</h2>
             <p>All 953 records are available below—nothing is hidden behind pagination.</p>
           </div>
           <div class="results-meta">
-            <p id="result-summary" aria-live="polite" aria-atomic="true">Loading offenses…</p>
-            <button class="text-button" id="copy-link" type="button">Copy search link</button>
+            <p id="result-summary" tabindex="-1" aria-live="polite" aria-atomic="true">Loading offenses…</p>
+            <button class="text-button" id="copy-link" type="button" aria-describedby="share-results-note" aria-label="Copy a link containing the current search and filters">
+              Share results
+            </button>
+            <span class="sr-only" id="share-results-note">The shared link contains the current search wording and filters.</span>
           </div>
         </header>
 
-        <div class="filter-bar" aria-label="Filter offenses">
+        <button class="browse-filter-toggle" id="browse-filter-toggle" type="button" aria-expanded="false" aria-controls="filter-bar">
+          <span>Browse filters</span>
+          <span class="active-filter-count" id="active-filter-count" hidden></span>
+          <span aria-hidden="true">+</span>
+        </button>
+
+        <fieldset class="filter-bar" id="filter-bar" hidden>
+          <legend class="sr-only">Filter offenses</legend>
           <label>
             <span>Code family</span>
             <select id="family-filter" aria-label="Code family">
@@ -155,7 +227,7 @@
             <span>Court appearance required</span>
           </label>
           <button class="reset-filters" id="reset-filters" type="button">Clear all</button>
-        </div>
+        </fieldset>
 
         <div class="record-key" aria-label="How to read an offense record">
           <span><strong>ILCS</strong> statute section</span>
@@ -163,12 +235,27 @@
           <span><i aria-hidden="true"></i> court appearance required</span>
         </div>
 
+        <div class="content-status-panel" id="content-status-panel" role="status" aria-labelledby="content-status-heading" hidden>
+          <p class="section-number">SOURCE STATUS</p>
+          <h3 id="content-status-heading">Lookup temporarily unavailable</h3>
+          <p id="content-status-message">The source or corpus is being reviewed.</p>
+          <div class="content-status-actions">
+            <a href="/trust/sources.html">Review source status</a>
+            <a href="https://www.ilsos.gov/content/dam/departments/police/offense_code24.pdf" target="_blank" rel="noopener noreferrer">Open source publication ↗</a>
+          </div>
+        </div>
+
         <div class="results" id="results" role="list" aria-busy="true"></div>
 
         <div class="empty-state" id="empty-state" hidden>
           <p class="section-number">NO MATCHES</p>
           <h3>Try fewer or simpler words.</h3>
-          <p>For example: “drunk driving,” “expired plates,” “no insurance,” or a partial code.</p>
+          <p>Try a proven search or clear everything to return to the full index.</p>
+          <div class="empty-suggestions" role="group" aria-label="Suggested searches">
+            <button type="button" data-search-query="headlights">Headlights</button>
+            <button type="button" data-search-query="expired registration">Expired registration</button>
+            <button type="button" data-search-query="no insurance">No insurance</button>
+          </div>
           <button class="primary-button" id="empty-reset" type="button">Clear search and filters</button>
         </div>
       </section>
@@ -188,16 +275,43 @@
 
     <footer>
       <div>
-        <strong>Illinois Offense Code Index</strong>
-        <p>Independent digital reference built from the February 2024 public index.</p>
+        <strong>Independent Illinois Offense Code Reference</strong>
+        <p>Possible source matches from a February 2024 publication—not legal advice or current law.</p>
       </div>
-      <a
-        href="https://www.ilsos.gov/departments/police.html"
-        target="_blank"
-        rel="noopener noreferrer"
-      >Illinois Secretary of State Police</a>
+      <nav class="trust-links" aria-label="Trust and policy information">
+        <a href="/trust/privacy.html">Privacy</a>
+        <a href="/trust/terms.html">Terms</a>
+        <a href="/trust/accessibility.html">Accessibility</a>
+        <a href="/trust/security.html">Security</a>
+        <a href="/trust/sources.html">Sources</a>
+        <a href="/trust/corrections.html">Corrections</a>
+        <button id="clear-local-data" type="button">Clear local data</button>
+      </nav>
     </footer>
 
+    <dialog class="statute-sheet" id="statute-sheet" aria-labelledby="statute-sheet-title">
+      <div class="statute-sheet-header">
+        <div class="statute-sheet-identity">
+          <p class="micro-label">Current statutory text</p>
+          <h2 class="statute-sheet-title" id="statute-sheet-title"></h2>
+        </div>
+        <button class="statute-sheet-close" id="statute-sheet-close" type="button">Close</button>
+      </div>
+      <div class="statute-sheet-body" id="statute-sheet-body"></div>
+    </dialog>
+
     <div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+    <aside class="update-prompt" id="update-prompt" aria-labelledby="update-title" hidden>
+      <div class="update-prompt-copy">
+        <strong id="update-title">New version ready</strong>
+        <span>Refresh to use the latest site.</span>
+      </div>
+      <div class="update-prompt-actions">
+        <button class="update-later" id="update-later" type="button">Later</button>
+        <button class="update-refresh" id="update-refresh" type="button">Refresh</button>
+      </div>
+    </aside>
+    <p class="sr-only" id="update-announcement" role="status" aria-live="polite" aria-atomic="true"></p>
   </body>
 </html>

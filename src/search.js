@@ -19,6 +19,7 @@ const phraseAliases = [
   ["taillight is out", "no red taillight"],
   ["tail light out", "no red taillight"],
   ["taillight out", "no red taillight"],
+  ["license plate light out", "no rear registration plate light"],
   ["brake lights not working", "no stop light signal lamp"],
   ["brake light not working", "no stop light signal lamp"],
   ["brake lights out", "no stop light signal lamp"],
@@ -78,8 +79,23 @@ const phraseAliases = [
   ["expired license plates", "expired registration"],
   ["expired plates", "expired registration"],
   ["expired tags", "expired registration"],
+  ["plate from another vehicle", "improper use registration title"],
+  ["plates from another vehicle", "improper use registration title"],
+  ["wrong license plate", "improper use registration title"],
+  ["wrong license plates", "improper use registration title"],
+  ["wrong plate", "improper use registration title"],
+  ["wrong plates", "improper use registration title"],
+  ["illegal window tint", "tinted windshield front side windows"],
+  ["dark window tint", "tinted windshield front side windows"],
+  ["window tint", "tinted windshield front side windows"],
+  ["illegal tint", "tinted windshield front side windows"],
+  ["open alcohol container", "illegal transportation possession alcoholic liquor driver"],
+  ["open container of alcohol", "illegal transportation possession alcoholic liquor driver"],
+  ["open container", "illegal transportation possession alcoholic liquor driver"],
+  ["open beer", "illegal transportation possession alcoholic liquor driver"],
+  ["open alcohol", "illegal transportation possession alcoholic liquor driver"],
   ["no license plates", "registration plate"],
-  ["no valid license", "driver license invalid"],
+  ["no valid license", "no valid driver license expired"],
   ["license was taken away", "driving while license suspended"],
   ["license taken away", "driving while license suspended"],
   ["suspended license", "driving license suspended"],
@@ -92,6 +108,7 @@ const phraseAliases = [
   ["no car seat", "child passenger restraint"],
   ["handicap parking", "disabilities parking"],
   ["disabled parking", "disabilities parking"],
+  ["illegal disability placard", "unlawful use persons disabilities placard"],
   ["fake identification", "false identification"],
   ["fake id", "false identification"],
   ["stolen car", "stolen motor vehicle"],
@@ -102,6 +119,9 @@ const phraseAliases = [
   ["taillights", "taillight"],
   ["brake lights", "stop light"],
   ["wipers", "clearing device"],
+  ["only rear plate displayed", "no front registration plate"],
+  ["vehicle was following another car too closely", "following too closely"],
+  ["ran from police in car", "fleeing police officer"],
 ].sort((left, right) => right[0].length - left[0].length);
 
 const synonyms = new Map([
@@ -131,8 +151,8 @@ const synonyms = new Map([
   ["crash", ["accident", "collision", "wreck"]],
   ["accident", ["crash", "collision", "wreck"]],
   ["wreck", ["crash", "accident", "collision"]],
-  ["suspended", ["suspension", "revoked"]],
-  ["revoked", ["revocation", "suspended"]],
+  ["suspended", ["suspension"]],
+  ["revoked", ["revocation"]],
   ["license", ["licence", "driver"]],
   ["child", ["minor", "juvenile", "kid"]],
   ["kid", ["child", "minor", "juvenile"]],
@@ -153,6 +173,9 @@ const synonyms = new Map([
   ["tires", ["tire", "tread"]],
   ["tire", ["tires", "tread"]],
   ["red", ["traffic", "signal"]],
+  ["tint", ["tinted", "window", "windshield"]],
+  ["container", ["transportation", "possession"]],
+  ["beer", ["alcohol", "alcoholic", "liquor"]],
 ]);
 
 const stopWords = new Set([
@@ -211,7 +234,7 @@ export const normalizeText = (value) =>
     .trim()
     .replace(/\s+/g, " ");
 
-const applyPhraseAliases = (value) => {
+export const applyPhraseAliases = (value) => {
   let expanded = ` ${normalizeText(value)} `;
   phraseAliases.forEach(([phrase, replacement]) => {
     expanded = expanded.replaceAll(` ${phrase} `, ` ${replacement} `);
@@ -251,10 +274,83 @@ const withinOneEdit = (left, right) => {
   return edits + Number(leftIndex < left.length || rightIndex < right.length) <= 1;
 };
 
+/**
+ * The fully qualified ILCS citation for a record.
+ *
+ * Prefers the explicit citation model built by scripts/build-citation-model.mjs, which
+ * resolves each record's chapter and act from its citation and chapter heading. Falls
+ * back to the original page-position heuristic for records the model has not reached,
+ * so behaviour is unchanged wherever the model is absent.
+ *
+ * The heuristic reads "printed on a page of the Vehicle Code portion of the source
+ * publication" as "is Vehicle Code". That is true for the great majority of bare codes
+ * but not all of them: the Illinois Identification Card Act and the Child Passenger
+ * Protection Act are both printed inside that page range and are neither 625 ILCS 5.
+ */
 const canonicalCodeFor = (offense) =>
-  offense.code && offense.page <= 34 && !/ILCS|Section/i.test(offense.code)
+  offense.fullCitation ??
+  (offense.code && offense.page <= 34 && !/ILCS|Section/i.test(offense.code)
     ? `625 ILCS 5/${offense.code}`
-    : offense.code ?? "";
+    : offense.code ?? "");
+
+const intentRules = [
+  {
+    id: "wrong-plates",
+    phrases: [
+      "wrong plates",
+      "wrong plate",
+      "wrong license plates",
+      "wrong license plate",
+      "plates from another vehicle",
+      "plate from another vehicle",
+      "plates do not belong",
+    ],
+    codes: ["3-703"],
+    reason: "Matched wrong-plate wording",
+  },
+  {
+    id: "window-tint",
+    phrases: ["illegal tint", "window tint", "dark tint", "tinted windows", "illegal window tint"],
+    codes: ["12-503(a)"],
+    reason: "Matched window-tint wording",
+  },
+  {
+    id: "open-container",
+    phrases: [
+      "open alcohol",
+      "open beer",
+      "open container",
+      "alcohol in the car",
+      "liquor in the car",
+    ],
+    codes: ["11-502(a)", "11-502(b)"],
+    reason: "Matched open-container wording",
+  },
+  {
+    id: "no-valid-license",
+    phrases: [
+      "no valid license",
+      "without a valid license",
+      "does not have a license",
+      "unlicensed driver",
+      "expired driver license",
+    ],
+    codes: ["6-101"],
+    reason: "Matched invalid-license wording",
+  },
+  {
+    id: "revoked-license",
+    phrases: ["revoked license", "license revoked", "driving while revoked"],
+    codes: ["6-303"],
+    reason: "Matched revoked-license wording",
+  },
+  {
+    id: "suspended-license",
+    phrases: ["suspended license", "license suspended", "driving while suspended"],
+    codes: ["6-303"],
+    reason: "Matched suspended-license wording",
+  },
+];
 
 export const buildOffensePrimarySearchDocument = (offense) => {
   const description = normalizeText(offense.description);
@@ -337,11 +433,32 @@ export const buildOffensePrimarySearchDocument = (offense) => {
   );
 };
 
+/**
+ * Rebuild a record's broad search text from the fields it is derived from.
+ *
+ * The source corpus ships a precomputed `searchText` for every record, which is pure
+ * duplication of fields already present. The build strips it and the client rebuilds it
+ * here, which is why the reconstruction has to be exact rather than merely equivalent:
+ * `test/search.test.mjs` asserts it reproduces all 953 stored values byte for byte.
+ */
+export const buildOffenseSearchText = (offense) => {
+  const reportingCodes = (offense.reportingCodes ?? []).flatMap(({ value, role }) =>
+    role ? [value, role] : [value]
+  );
+
+  return [offense.code, ...reportingCodes, offense.description, offense.chapter, offense.section]
+    .filter(Boolean)
+    .join(" ")
+    .toLowerCase()
+    .replace(/\s+/g, " ")
+    .trim();
+};
+
 export const buildOffenseSearchDocument = (offense) =>
   normalizeText(
     [
       offense.primarySearchDocument ?? buildOffensePrimarySearchDocument(offense),
-      offense.searchText,
+      offense.searchText ?? buildOffenseSearchText(offense),
     ].join(" ")
   );
 
@@ -373,53 +490,255 @@ const matchToken = (queryToken, documentTokens) => {
 
 const scoreTokens = (queryTokens, documentTokens, baseScore) => {
   let score = baseScore;
+  let usedTypoFallback = false;
   for (const queryToken of queryTokens) {
     const tokenScore = matchToken(queryToken, documentTokens);
-    if (!Number.isFinite(tokenScore)) return Number.POSITIVE_INFINITY;
+    if (!Number.isFinite(tokenScore)) {
+      return { score: Number.POSITIVE_INFINITY, usedTypoFallback: false };
+    }
+    if (tokenScore === 2) usedTypoFallback = true;
     score += tokenScore;
   }
-  return score;
+  return { score, usedTypoFallback };
+};
+
+const compactCode = (value) => normalizeText(value).replaceAll(" ", "");
+
+const intentRulesFor = (normalizedQuery) =>
+  intentRules.filter(({ phrases }) =>
+    phrases.some((phrase) => normalizedQuery.includes(normalizeText(phrase)))
+  );
+
+const speedingCodeFor = (normalizedQuery) => {
+  if (!/\b(?:speed|speeding|fast)\b/.test(normalizedQuery)) return null;
+  const match = normalizedQuery.match(
+    /\b(\d{1,3})\s*(?:mph\s*)?(?:over|above)\b|\b(?:over|above)\s*(\d{1,3})\b/
+  );
+  const amount = Number(match?.[1] ?? match?.[2]);
+  if (!Number.isFinite(amount) || amount < 1) return null;
+  if (amount <= 25) return { amount, code: "11-601(b)" };
+  if (amount < 35) return { amount, code: "11-601.5(a)" };
+  return { amount, code: "11-601.5(b)" };
+};
+
+const parseSearchQuery = (query) => {
+  const normalized = normalizeText(query);
+  const expanded = applyPhraseAliases(normalized);
+  const codeLetters = normalized
+    .replace(/\b(?:ilcs|section)\b/g, "")
+    .replace(/[0-9\s]/g, "");
+  return {
+    normalized,
+    expanded,
+    tokens: tokensFor(expanded),
+    compactCode: compactCode(normalized),
+    looksLikeCode:
+      /\d/.test(normalized) && codeLetters.length <= 4 && !/[a-z]{2,}/.test(codeLetters),
+    intents: intentRulesFor(normalized),
+    speeding: speedingCodeFor(normalized),
+  };
+};
+
+const prepareOffense = (offense, index) => {
+  const primaryDocument =
+    offense.primarySearchDocument ?? buildOffensePrimarySearchDocument(offense);
+  const searchDocument = offense.searchDocument ?? buildOffenseSearchDocument(offense);
+  return {
+    offense,
+    index,
+    code: normalizeText(offense.code),
+    canonicalCode: normalizeText(canonicalCodeFor(offense)),
+    compactCodes: [offense.code, canonicalCodeFor(offense)].filter(Boolean).map(compactCode),
+    reportingCodes: offense.reportingCodes.map(({ value }) => normalizeText(value)),
+    compactReportingCodes: offense.reportingCodes.map(({ value }) => compactCode(value)),
+    description: normalizeText(offense.description),
+    primaryDocument,
+    primaryTokens: primaryDocument.split(" "),
+    searchDocument,
+    searchTokens: searchDocument.split(" "),
+  };
+};
+
+const conflictPenaltyFor = (entry, parsed) => {
+  const query = parsed.normalized;
+  const description = entry.description;
+  let penalty = 0;
+
+  if (query.includes("revoked") && description.includes("suspended") && !description.includes("revoked")) {
+    penalty += 60;
+  }
+  if (query.includes("suspended") && description.includes("revoked") && !description.includes("suspended")) {
+    penalty += 60;
+  }
+  if (query.includes("front") && description.includes("rear") && !description.includes("front")) {
+    penalty += 30;
+  }
+  if (query.includes("rear") && description.includes("front") && !description.includes("rear")) {
+    penalty += 30;
+  }
+  if (/\bhead(?:light|lamp)/.test(query) && /\b(?:tail|rear)\s*(?:light|lamp)/.test(description)) {
+    penalty += 30;
+  }
+  if (/\btail\s*light|\btaillight/.test(query) && /\bheadlamp|\bheadlight/.test(description)) {
+    penalty += 30;
+  }
+  if (query.includes("wrong") && query.includes("plate") && description.includes("expired")) {
+    penalty += 60;
+  }
+  if (query.includes("expired") && description.includes("improper use")) penalty += 60;
+
+  return penalty;
+};
+
+const matchedRangesFor = (entry, parsed) => {
+  if (!parsed.normalized) return [];
+  const ranges = [];
+  const sourceFields = [
+    ["code", String(entry.offense.code ?? "")],
+    ["description", String(entry.offense.description ?? "")],
+  ];
+  const terms = [...new Set(parsed.normalized.split(" ").filter((term) => term.length >= 3))];
+
+  sourceFields.forEach(([field, value]) => {
+    const lowered = value.toLowerCase();
+    terms.forEach((term) => {
+      const start = lowered.indexOf(term);
+      if (start >= 0) ranges.push({ field, start, end: start + term.length });
+    });
+  });
+  return ranges;
+};
+
+const rankPreparedOffense = (entry, parsed) => {
+  if (!parsed.normalized) {
+    return { score: 0, reason: "Complete index", matchedFields: [] };
+  }
+
+  let best = {
+    score: Number.POSITIVE_INFINITY,
+    reason: "",
+    matchedFields: [],
+  };
+  const consider = (score, reason, matchedFields) => {
+    if (score < best.score) best = { score, reason, matchedFields };
+  };
+
+  if (parsed.normalized === entry.code || parsed.normalized === entry.canonicalCode) {
+    consider(0, "Exact ILCS code", ["code"]);
+  }
+  if (entry.reportingCodes.includes(parsed.normalized)) {
+    consider(0, "Exact SOS reporting code", ["reportingCode"]);
+  }
+  if (parsed.looksLikeCode && parsed.compactCode.length >= 3) {
+    const codeMatch = entry.compactCodes.find((code) => code.includes(parsed.compactCode));
+    const reportingMatch = entry.compactReportingCodes.find((code) =>
+      code.startsWith(parsed.compactCode)
+    );
+    if (codeMatch) {
+      consider(0.2 + Math.max(0, codeMatch.length - parsed.compactCode.length) / 100, "Partial ILCS code", ["code"]);
+    }
+    if (reportingMatch) {
+      consider(0.3, "Partial SOS reporting code", ["reportingCode"]);
+    }
+  }
+
+  if (parsed.speeding?.code === entry.offense.code) {
+    consider(
+      0.4,
+      `Matched ${parsed.speeding.amount} mph over range`,
+      ["numericQualifier", "description"]
+    );
+  }
+
+  parsed.intents.forEach((intent) => {
+    const targetIndex = intent.codes.indexOf(entry.offense.code);
+    if (targetIndex >= 0) {
+      consider(0.5 + targetIndex / 20, intent.reason, ["concept", "description"]);
+    }
+  });
+
+  if (parsed.expanded.includes("driving under influence") && /^11-501/i.test(entry.offense.code ?? "")) {
+    consider(0.6, "Matched impaired-driving wording", ["concept", "description"]);
+  }
+  if (parsed.expanded.includes("uninsured motor vehicle") && entry.offense.code === "3-707") {
+    consider(0.6, "Matched uninsured-vehicle wording", ["concept", "description"]);
+  }
+  if (entry.description.includes(parsed.expanded)) {
+    consider(0.75, "Exact description phrase", ["description"]);
+  }
+  if (entry.primaryDocument.includes(parsed.expanded)) {
+    consider(1, "Matched common officer wording", ["description", "concept"]);
+  }
+
+  if (parsed.tokens.length) {
+    const primary = scoreTokens(parsed.tokens, entry.primaryTokens, 2);
+    if (Number.isFinite(primary.score)) {
+      consider(
+        primary.score,
+        primary.usedTypoFallback ? "Matched with a minor spelling difference" : "Matched all key terms",
+        ["description", "concept"]
+      );
+    }
+    if (entry.searchDocument.includes(parsed.expanded)) {
+      consider(20, "Matched index wording", ["description", "context"]);
+    }
+    const broad = scoreTokens(parsed.tokens, entry.searchTokens, 21);
+    if (Number.isFinite(broad.score)) {
+      consider(
+        broad.score,
+        broad.usedTypoFallback ? "Related wording with a spelling difference" : "Matched related index terms",
+        ["context"]
+      );
+    }
+  }
+
+  if (!Number.isFinite(best.score)) return best;
+  if (best.score > 0) best.score += conflictPenaltyFor(entry, parsed);
+  return best;
+};
+
+export const createSearchIndex = (offenses) => ({
+  entries: offenses.map((offense, index) => prepareOffense(offense, index)),
+});
+
+export const querySearchIndex = (
+  searchIndex,
+  { text = "", filters = {}, limit = 8 } = {}
+) => {
+  const parsed = parseSearchQuery(text);
+  const ranked = searchIndex.entries
+    .map((entry) => ({ entry, match: rankPreparedOffense(entry, parsed) }))
+    .filter(({ match }) => Number.isFinite(match.score))
+    .sort(
+      (left, right) => left.match.score - right.match.score || left.entry.index - right.entry.index
+    );
+
+  const filtered = ranked.filter(({ entry }) => {
+    const offense = entry.offense;
+    if (filters.family && filters.family !== "all" && offense.family !== filters.family) return false;
+    if (filters.chapter && filters.chapter !== "all" && offense.chapter !== filters.chapter) return false;
+    if (filters.mandatoryOnly && !offense.mandatoryAppearance) return false;
+    return true;
+  });
+  const toCandidate = ({ entry, match }) => ({
+    offense: entry.offense,
+    offenseId: entry.offense.id,
+    score: match.score,
+    reason: match.reason,
+    matchedFields: match.matchedFields,
+    matchedRanges: matchedRangesFor(entry, parsed),
+  });
+  const matches = filtered.map(toCandidate);
+
+  return {
+    total: matches.length,
+    hiddenByFilters: Math.max(0, ranked.length - filtered.length),
+    candidates: parsed.normalized ? matches.slice(0, Math.max(0, limit)) : [],
+    matches,
+  };
 };
 
 export const scoreOffenseMatch = (offense, query) => {
-  const normalizedQuery = normalizeText(query);
-  if (!normalizedQuery) return 0;
-
-  const code = normalizeText(offense.code);
-  const canonicalCode = normalizeText(canonicalCodeFor(offense));
-  const reportingCodes = offense.reportingCodes.map(({ value }) => normalizeText(value));
-
-  if (
-    normalizedQuery === code ||
-    normalizedQuery === canonicalCode ||
-    reportingCodes.includes(normalizedQuery)
-  ) {
-    return 0;
-  }
-
-  const expandedQuery = applyPhraseAliases(normalizedQuery);
-  if (expandedQuery.includes("driving under influence") && /^11-501/i.test(offense.code ?? "")) {
-    return 0.5;
-  }
-  if (expandedQuery.includes("uninsured motor vehicle") && offense.code === "3-707") {
-    return 0.5;
-  }
-
-  const description = normalizeText(offense.description);
-  if (description.includes(expandedQuery)) return 0.75;
-
-  const searchDocument = offense.searchDocument ?? buildOffenseSearchDocument(offense);
-  const queryTokens = tokensFor(expandedQuery);
-  if (!queryTokens.length) return Number.POSITIVE_INFINITY;
-
-  const primaryDocument =
-    offense.primarySearchDocument ?? buildOffensePrimarySearchDocument(offense);
-  if (primaryDocument.includes(expandedQuery)) return 1;
-
-  const primaryScore = scoreTokens(queryTokens, primaryDocument.split(" "), 2);
-  if (Number.isFinite(primaryScore)) return primaryScore;
-
-  if (searchDocument.includes(expandedQuery)) return 20;
-
-  return scoreTokens(queryTokens, searchDocument.split(" "), 21);
+  const parsed = parseSearchQuery(query);
+  return rankPreparedOffense(prepareOffense(offense, 0), parsed).score;
 };

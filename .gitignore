@@ -1,5 +1,11 @@
+.claude/
 .code-review-graph/
+.design/
+cache/
+content/review-queue/
 dist/
+src/data/lookup-index.json
 node_modules/
 *.tgz
 .vercel
+compliance/private/

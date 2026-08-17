@@ -7,6 +7,7 @@ import { fileURLToPath } from "node:url";
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const port = Number(process.env.PORT || 4173);
 const host = process.env.HOST || "127.0.0.1";
+const publicRoot = path.join(root, "public");
 
 const contentTypes = new Map([
   [".css", "text/css; charset=utf-8"],
@@ -29,6 +30,20 @@ const contentTypes = new Map([
   [".otf", "font/otf"],
 ]);
 
+const resolvePublicPath = (pathname) => {
+  if (pathname === "/" || pathname === "/index.html") return path.join(root, "index.html");
+  if (pathname === "/app.js" || pathname === "/styles.css") {
+    return path.join(root, pathname.slice(1));
+  }
+  if (["/src/", "/trust/", "/config/"].some((prefix) => pathname.startsWith(prefix))) {
+    return path.resolve(root, `.${pathname}`);
+  }
+  if (pathname.startsWith("/.well-known/") || /^\/og(?:-v\d+)?\.png$/.test(pathname)) {
+    return path.resolve(publicRoot, `.${pathname}`);
+  }
+  return null;
+};
+
 const server = http.createServer((request, response) => {
   const requestUrl = new URL(request.url, `http://${request.headers.host}`);
   let pathname = requestUrl.pathname;
@@ -45,11 +60,10 @@ const server = http.createServer((request, response) => {
     return;
   }
 
-  const requestedPath = pathname === "/" ? "/index.html" : pathname;
-  const filePath = path.resolve(root, `.${requestedPath}`);
+  const filePath = resolvePublicPath(pathname);
 
-  if (!filePath.startsWith(`${root}${path.sep}`)) {
-    response.writeHead(403).end("Forbidden");
+  if (!filePath || !filePath.startsWith(`${root}${path.sep}`)) {
+    response.writeHead(404).end("Not found");
     return;
   }
 
@@ -62,12 +76,12 @@ const server = http.createServer((request, response) => {
       "Cache-Control": "no-cache",
       "Content-Type": contentTypes.get(path.extname(filePath)) ?? "application/octet-stream",
       "X-Content-Type-Options": "nosniff",
-      "Referrer-Policy": "strict-origin-when-cross-origin",
+      "Referrer-Policy": "no-referrer",
     });
     response.end(data);
   });
 });
 
 server.listen(port, host, () => {
-  console.log(`Illinois Offense Code Index: http://${host}:${port}`);
+  console.log(`Independent Illinois Offense Code Reference: http://${host}:${port}`);
 });
