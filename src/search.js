@@ -334,9 +334,68 @@ const intentRules = [
       "does not have a license",
       "unlicensed driver",
       "expired driver license",
+      "no dl",
+      "no d l",
+      "no drivers license",
+      "no driver license",
+      "no license",
     ],
     codes: ["6-101"],
     reason: "Matched invalid-license wording",
+  },
+  {
+    // Scott's Law. Named for Lieutenant Scott Gillen, killed in 2000 while working a
+    // crash on the Dan Ryan. Officers ask for it by name far more often than by section,
+    // and by name it previously returned nothing at all.
+    id: "scotts-law",
+    phrases: [
+      "scotts law",
+      "scott law",
+      "scott s law",
+      "move over",
+      "move over law",
+      "failure to move over",
+      "emergency vehicle lane",
+      "approaching emergency vehicle",
+      "slow down move over",
+    ],
+    codes: ["11-907(c)", "11-907(a)(1)", "11-907.5"],
+    reason: "Matched Scott's Law wording",
+  },
+  {
+    id: "center-line",
+    phrases: [
+      "crossed center line",
+      "crossed the center line",
+      "center line",
+      "centerline",
+      "over the center line",
+      "wrong side of the road",
+      "wrong side of road",
+      "drove into oncoming traffic",
+      "oncoming lane",
+    ],
+    codes: ["11-708", "11-701"],
+    reason: "Matched wrong-side-of-road wording",
+  },
+  {
+    // "dui" alone previously ranked 6-304.1 (permitting another person to drive under
+    // the influence) above the offence itself.
+    id: "dui",
+    // Only the bare abbreviations. Fuller phrasings ("impaired driving", "drunk
+    // driving") already expand to "driving under influence" and are handled downstream
+    // by the established 11-501 rule, whose wording the benchmark pins.
+    phrases: ["dui", "d u i", "dwi"],
+    codes: ["11-501(a)(1)", "11-501(a)(2)", "11-501(a)(4)"],
+    reason: "Matched driving-under-the-influence wording",
+  },
+  {
+    // The general offence outranks the commercial-vehicle-specific one, which only won
+    // because its description contains the literal word "texting".
+    id: "texting",
+    phrases: ["texting", "texting while driving", "text while driving", "on the phone", "cell phone", "cellphone"],
+    codes: ["12-610.2"],
+    reason: "Matched electronic-device wording",
   },
   {
     id: "revoked-license",

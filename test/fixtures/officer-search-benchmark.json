@@ -1090,6 +1090,151 @@
           "text": "aggravated fleeing police"
         }
       ]
+    },
+    {
+      "id": "scotts-law",
+      "defaultTags": [
+        "alias",
+        "officer-terminology"
+      ],
+      "expectedCodes": [
+        "11-907(c)",
+        "11-907(a)(1)",
+        "11-907.5"
+      ],
+      "queries": [
+        {
+          "text": "scotts law",
+          "critical": {
+            "name": "Scott's Law by name",
+            "top1Code": "11-907(c)",
+            "reason": "Matched Scott's Law wording"
+          }
+        },
+        {
+          "text": "scott's law"
+        },
+        {
+          "text": "scott law"
+        },
+        {
+          "text": "move over"
+        },
+        {
+          "text": "move over law"
+        },
+        {
+          "text": "failure to move over"
+        },
+        {
+          "text": "approaching emergency vehicle"
+        }
+      ]
+    },
+    {
+      "id": "no-drivers-license-abbreviated",
+      "defaultTags": [
+        "alias",
+        "abbreviation"
+      ],
+      "expectedCodes": [
+        "6-101"
+      ],
+      "queries": [
+        {
+          "text": "no dl",
+          "critical": {
+            "name": "no DL abbreviation",
+            "top1Code": "6-101",
+            "reason": "Matched invalid-license wording"
+          }
+        },
+        {
+          "text": "no drivers license"
+        },
+        {
+          "text": "no driver license"
+        }
+      ]
+    },
+    {
+      "id": "center-line",
+      "defaultTags": [
+        "conduct-description"
+      ],
+      "expectedCodes": [
+        "11-708",
+        "11-701"
+      ],
+      "queries": [
+        {
+          "text": "crossed center line",
+          "critical": {
+            "name": "crossed the center line",
+            "top1Code": "11-708",
+            "reason": "Matched wrong-side-of-road wording"
+          }
+        },
+        {
+          "text": "crossed the center line"
+        },
+        {
+          "text": "wrong side of the road"
+        },
+        {
+          "text": "drove into oncoming traffic"
+        }
+      ]
+    },
+    {
+      "id": "dui-abbreviated",
+      "defaultTags": [
+        "alias",
+        "abbreviation"
+      ],
+      "expectedCodes": [
+        "11-501(a)(1)",
+        "11-501(a)(2)",
+        "11-501(a)(4)"
+      ],
+      "queries": [
+        {
+          "text": "dui",
+          "critical": {
+            "name": "bare DUI abbreviation outranks permitting-another offence",
+            "top1Code": "11-501(a)(1)",
+            "reason": "Matched driving-under-the-influence wording"
+          }
+        },
+        {
+          "text": "dwi"
+        }
+      ]
+    },
+    {
+      "id": "electronic-device",
+      "defaultTags": [
+        "alias"
+      ],
+      "expectedCodes": [
+        "12-610.2"
+      ],
+      "queries": [
+        {
+          "text": "texting",
+          "critical": {
+            "name": "texting prefers the general offence over the CMV one",
+            "top1Code": "12-610.2",
+            "reason": "Matched electronic-device wording"
+          }
+        },
+        {
+          "text": "texting while driving"
+        },
+        {
+          "text": "cell phone"
+        }
+      ]
     }
   ]
 }
