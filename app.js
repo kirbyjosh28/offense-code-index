@@ -324,6 +324,9 @@ const applyShortcutPreference = (enabled, persist = false) => {
 
 const createOffenseRow = (offense) => {
   const displayCode = offense.code ?? "No direct citation";
+  // The statute is the authority; the 2024 reporting code is provenance for the record
+  // existing at all. Lead with the resolved ILCS citation where one was established.
+  const headlineCitation = offense.fullCitation ?? displayCode;
   const row = document.createElement("article");
   row.className = "offense-row";
   row.id = offense.id;
@@ -335,11 +338,11 @@ const createOffenseRow = (offense) => {
 
   const codeLabel = document.createElement("span");
   codeLabel.className = "micro-label";
-  codeLabel.textContent = "ILCS section";
+  codeLabel.textContent = offense.fullCitation ? "ILCS section" : "Source code";
   const primaryCode = document.createElement("h3");
   primaryCode.className = "primary-code";
   primaryCode.id = `${offense.id}-code`;
-  primaryCode.append(highlight(displayCode, state.query));
+  primaryCode.append(highlight(headlineCitation, state.query));
   codeColumn.append(codeLabel, primaryCode);
 
   if (offense.statutoryFlagged) {
@@ -383,6 +386,16 @@ const createOffenseRow = (offense) => {
   context.className = "offense-context";
   context.textContent = `${offense.chapter} · ${offense.section}`;
 
+  const officialHeading = offense.statutoryHeading ? document.createElement("p") : null;
+  if (officialHeading) {
+    officialHeading.className = "official-heading";
+    officialHeading.textContent = offense.statutoryHeading;
+    officialHeading.setAttribute(
+      "aria-label",
+      `Official Illinois General Assembly title for ${offense.citation}: ${offense.statutoryHeading}`
+    );
+  }
+
   const sourceLink = document.createElement("a");
   sourceLink.className = "source-proof";
   sourceLink.href = `${SOURCE_PDF}#page=${offense.page}`;
@@ -393,16 +406,13 @@ const createOffenseRow = (offense) => {
     `Open the February 2024 Illinois Secretary of State Police source publication to PDF page ${offense.page} for ILCS section ${displayCode} in a new tab`
   );
 
-  const sourceLabel = document.createElement("span");
-  sourceLabel.className = "source-proof-label";
-  sourceLabel.textContent = "Source publication";
   const sourceDetail = document.createElement("span");
   sourceDetail.className = "source-proof-detail";
-  sourceDetail.textContent = `February 2024 · PDF page ${offense.page}`;
+  sourceDetail.textContent = `2024 index · PDF page ${offense.page}`;
   const sourceAction = document.createElement("span");
   sourceAction.className = "source-proof-action";
-  sourceAction.textContent = "Open ↗";
-  sourceLink.append(sourceLabel, sourceDetail, sourceAction);
+  sourceAction.textContent = "↗";
+  sourceLink.append(sourceDetail, sourceAction);
 
   const advisory = document.createElement("p");
   advisory.className = "record-advisory";
@@ -423,7 +433,9 @@ const createOffenseRow = (offense) => {
   correctionLink.setAttribute("aria-label", `Report a correction for ILCS section ${displayCode}`);
   advisory.append(document.createTextNode(" "), correctionLink);
 
-  descriptionColumn.append(description, context, sourceLink, advisory);
+  descriptionColumn.append(description);
+  if (officialHeading) descriptionColumn.append(officialHeading);
+  descriptionColumn.append(context, sourceLink, advisory);
 
   const actions = document.createElement("div");
   actions.className = "offense-actions";
@@ -439,7 +451,7 @@ const createOffenseRow = (offense) => {
           .join(", ")})`
       : "";
     writeClipboard(
-      `${offense.mandatoryAppearance ? "*" : ""}${displayCode}${reporting} — ${offense.description}\nPossible match from the February 2024 source publication. Verify current ILCS and agency policy.`,
+      `${offense.mandatoryAppearance ? "*" : ""}${headlineCitation}${reporting} — ${offense.description}\nPossible match from the February 2024 source publication. Verify current ILCS and agency policy.`,
       `${displayCode} copied`
     );
   });

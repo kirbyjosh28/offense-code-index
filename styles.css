@@ -1549,6 +1549,15 @@ footer {
   line-height: 1.45;
 }
 
+.official-heading {
+  max-width: 68ch;
+  margin: 4px 0 0;
+  color: var(--text-soft);
+  font-size: 13px;
+  font-weight: 520;
+  line-height: 1.45;
+}
+
 .offense-context {
   max-width: 78ch;
   margin: var(--space-1) 0 0;
@@ -1637,23 +1646,6 @@ footer {
   transition:
     color var(--duration-fast) ease,
     transform 100ms var(--ease-out);
-}
-
-.source-proof-label {
-  display: inline-flex;
-  align-items: center;
-  gap: 6px;
-  color: var(--text);
-  font-weight: 700;
-}
-
-.source-proof-label::before {
-  width: 6px;
-  height: 6px;
-  flex: 0 0 auto;
-  border-radius: 50%;
-  background: var(--accent);
-  content: "";
 }
 
 .source-proof-detail::before {

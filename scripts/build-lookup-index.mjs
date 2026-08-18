@@ -33,6 +33,22 @@ const readJsonOrNull = async (file) => {
  * Statuses that mean "the statute behind this record is not simply current text".
  * These drive the interface's status treatment and a search rank penalty.
  */
+/**
+ * The official section title, trimmed for a list row.
+ *
+ * Full ILGA headings carry a "Sec. 11-501." prefix the row already shows as its citation,
+ * and some run to several lines. Keeping only the title sentence puts the authoritative
+ * name on every row for ~10KB gzip rather than ~35KB, and preserves the part that
+ * actually matters in the field — including "(Repealed)".
+ */
+const trimHeading = (heading) => {
+  if (!heading) return null;
+  let text = heading.replace(/^Sec\.\s*[\w.\-]+\.\s*/, "").trim();
+  const sentenceEnd = text.indexOf(". ");
+  if (sentenceEnd > 0 && sentenceEnd < 160) text = text.slice(0, sentenceEnd + 1);
+  return text.length > 120 ? `${text.slice(0, 119).trimEnd()}…` : text;
+};
+
 const FLAGGED_STATUSES = new Set([
   "unavailable",
   "repealed",
@@ -70,6 +86,7 @@ export const buildLookupIndex = async ({ root = moduleRoot } = {}) => {
         const section = await readJson(path.join(enrichmentDir, "sections", file));
         sectionHeadings.set(section.sectionKey, {
           headingText: section.headingText ?? null,
+          rowHeading: trimHeading(section.headingText),
           ilgaUrl: section.ilgaUrl,
           status: section.status,
           retrievedAt: section.retrievedAt,
@@ -113,6 +130,7 @@ export const buildLookupIndex = async ({ root = moduleRoot } = {}) => {
       sectionKey: citation.sectionKey,
       ...(citation.subsectionPath.length ? { subsectionPath: citation.subsectionPath } : {}),
       ...(section ? { statutoryTextAvailable: true } : {}),
+      ...(section?.rowHeading ? { statutoryHeading: section.rowHeading } : {}),
       ...(flagged ? { statutoryStatus, statutoryFlagged: true } : {}),
     };
   });

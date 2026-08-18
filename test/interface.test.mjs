@@ -12,6 +12,7 @@ const freshness = read("src/freshness.js");
 const build = read("scripts/build-sites.mjs");
 const server = read("scripts/server.mjs");
 const vercel = read("vercel.json");
+const build2 = read("scripts/build-lookup-index.mjs");
 
 test("the one-page document exposes navigation, search, all sections, and source context", () => {
   assert.match(html, /<nav class="pill-nav" aria-label="Primary navigation">/);
@@ -223,9 +224,10 @@ test("every offense record links to its exact source page with verification cont
   assert.match(app, /sourceLink\.target = "_blank"/);
   assert.match(app, /sourceLink\.rel = "noopener noreferrer"/);
   assert.match(app, /sourceLink\.className = "source-proof"/);
-  assert.match(app, /sourceLabel\.textContent = "Source publication"/);
-  assert.match(app, /sourceDetail\.textContent = `February 2024 · PDF page \$\{offense\.page\}`/);
-  assert.match(app, /sourceAction\.textContent = "Open ↗"/);
+  // The 2024 publication is now provenance for the record existing, not the headline.
+  assert.match(app, /sourceDetail\.textContent = `2024 index · PDF page \$\{offense\.page\}`/);
+  assert.doesNotMatch(app, /sourceLabel\.textContent = "Source publication"/);
+  assert.match(app, /sourceAction\.textContent = "↗"/);
   assert.match(app, /PDF page \$\{offense\.page\} for ILCS section \$\{displayCode\}/);
   assert.match(app, /ILCS section \$\{displayCode\} in a new tab/);
   assert.match(app, /Possible source match · Independent reference/);
@@ -491,4 +493,32 @@ test("the tools panel survives a click in browsers that do not focus buttons", (
       focusoutBody.indexOf("setSearchExperienceOpen(false)"),
     "the pointer guard must be checked before the panel is closed"
   );
+});
+
+test("the row leads with the statute and demotes the 2024 publication", () => {
+  // The record list comes from the 2024 index because ILGA publishes statutes, not an
+  // offence list — but the statute is the authority, so it is what the row shows first.
+  assert.match(app, /const headlineCitation = offense\.fullCitation \?\? displayCode/);
+  assert.match(app, /primaryCode\.append\(highlight\(headlineCitation, state\.query\)\)/);
+  assert.match(app, /codeLabel\.textContent = offense\.fullCitation \? "ILCS section" : "Source code"/);
+
+  // The official ILGA section title appears on the row, not only inside the sheet.
+  assert.match(app, /officialHeading\.className = "official-heading"/);
+  assert.match(app, /officialHeading\.textContent = offense\.statutoryHeading/);
+  assert.match(css, /\.official-heading\s*\{/s);
+
+  // Copying a record yields the statute, which is what someone pasting one wants.
+  assert.match(app, /\$\{headlineCitation\}\$\{reporting\} — \$\{offense\.description\}/);
+
+  // Demotion is visual weight only: the link keeps its 44px target.
+  assert.match(css, /\.source-proof\s*\{[^}]*min-height:\s*44px/s);
+  assert.doesNotMatch(css, /\.source-proof-label\s*\{/s);
+});
+
+test("row headings are trimmed to the part that helps in the field", () => {
+  // Full ILGA headings repeat the citation and can run several lines; carrying them
+  // whole cost ~35KB gzip against ~10KB trimmed.
+  assert.match(build2, /const trimHeading = \(heading\) =>/);
+  assert.match(build2, /replace\(\/\^Sec\\\.\\s\*\[\\w\.\\-\]\+\\\.\\s\*\/, ""\)/);
+  assert.match(build2, /statutoryHeading: section\.rowHeading/);
 });
