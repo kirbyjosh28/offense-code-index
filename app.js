@@ -16,6 +16,7 @@ import {
   serializeShareState,
 } from "./src/share-state.js";
 import { FAMILIES, familyFor } from "./src/family.js";
+import { elementsFor } from "./src/elements.js";
 
 document.documentElement.classList.add("js");
 
@@ -24,6 +25,7 @@ const SECTION_URL_PREFIX = "./src/data/enrichment/sections/";
 const SOURCE_VERSION_URL = "./config/source-version.json";
 const CONTENT_STATUS_URL = "./config/content-status.json";
 const SOURCE_PDF = "https://www.ilsos.gov/content/dam/departments/police/offense_code24.pdf";
+const ISSUE_URL = "https://github.com/kirbyjosh28/offense-code-index/issues/new";
 const MAX_QUERY_LENGTH = 120;
 const MAX_HASH_LENGTH = 220;
 const THEME_STORAGE_KEY = "offense-index-theme";
@@ -904,6 +906,48 @@ const createSheetContent = (offense, section) => {
     fragment.append(link);
   }
 
+  const elements = section?.blocks?.length
+    ? elementsFor({ blocks: section.blocks, subsectionPath: offense.subsectionPath ?? [], citation: offense.citation })
+    : null;
+
+  if (elements) {
+    const panel = document.createElement("section");
+    panel.className = "key-language";
+
+    const label = document.createElement("p");
+    label.className = "micro-label";
+    label.textContent = elements.exact && elements.citedSubsection
+      ? `Key statutory language · ${elements.citedSubsection}`
+      : "Key statutory language";
+    panel.append(label);
+
+    const list = document.createElement("ul");
+    list.className = "key-language-list";
+    for (const clause of elements.clauses) {
+      const item = document.createElement("li");
+      item.textContent = clause;
+      list.append(item);
+    }
+    panel.append(list);
+
+    // Say plainly when this is the enclosing subsection rather than the cited item.
+    // ILGA merges some nested provisions into their parent, and presenting a lead-in as
+    // the cited provision would be a quieter error than showing nothing.
+    if (!elements.exact && elements.citedSubsection) {
+      const caveat = document.createElement("p");
+      caveat.className = "key-language-caveat";
+      caveat.textContent = `Showing subsection (${elements.subsection}); the cited provision ${elements.citedSubsection} is not published separately. Read the full text below.`;
+      panel.append(caveat);
+    }
+
+    const notReviewed = document.createElement("p");
+    notReviewed.className = "key-language-caveat";
+    notReviewed.textContent = "Quoted verbatim from the statute and not reviewed by your agency. Elements and their application are for an officer to determine.";
+    panel.append(notReviewed);
+
+    fragment.append(panel);
+  }
+
   if (section?.blocks?.length) {
     // The sheet exists to give statutory language room, so it renders expanded rather
     // than behind a disclosure control.
@@ -925,6 +969,28 @@ const createSheetContent = (offense, section) => {
     ? `Statutory text retrieved from ilga.gov on ${section.retrievedAt.slice(0, 10)}. Retrieved automatically and not reviewed by a person. Verify against the official source before relying on it.`
     : "Statutory text is not available offline for this record. Open the official source above.";
   fragment.append(provenance);
+
+  const report = document.createElement("a");
+  report.className = "detail-copy-link";
+  report.target = "_blank";
+  report.rel = "noopener noreferrer";
+  report.textContent = "Report an issue";
+  report.setAttribute("aria-label", `Report an issue with ${offense.citation} — opens a prefilled report in a new tab`);
+  {
+    const title = `Record issue: ${offense.fullCitation ?? offense.code ?? offense.id}`;
+    const body = [
+      `Record: ${offense.id}`,
+      `Citation: ${offense.fullCitation ?? "(unresolved)"}`,
+      `2024 index label: ${offense.description}`,
+      `Statutory status: ${offense.statutoryStatus ?? "retrieved"}`,
+      "",
+      "What is wrong (wrong statute / outdated / unclear / wrong classification / other):",
+      "",
+      "Do not include names, plates, case details, or any CJI.",
+    ].join("\n");
+    report.href = `${ISSUE_URL}?title=${encodeURIComponent(title)}&body=${encodeURIComponent(body)}`;
+  }
+  fragment.append(report);
 
   const copyLink = document.createElement("button");
   copyLink.className = "detail-copy-link";

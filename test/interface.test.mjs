@@ -522,3 +522,34 @@ test("row headings are trimmed to the part that helps in the field", () => {
   assert.match(build2, /replace\(\/\^Sec\\\.\\s\*\[\\w\.\\-\]\+\\\.\\s\*\/, ""\)/);
   assert.match(build2, /statutoryHeading: section\.rowHeading/);
 });
+
+test("key statutory language is quoted verbatim and never paraphrased", () => {
+  // Officers review this content in the field rather than a lawyer reviewing it first,
+  // so what they read is the statute itself. Every clause is a verbatim substring of
+  // what ILGA served; nothing here is written by the application.
+  const elements = read("src/elements.js");
+  assert.match(elements, /sourceText: clause/);
+  assert.doesNotMatch(elements, /innerHTML/);
+
+  // Splitting must not rewrite: qualifiers like "knowingly" and "unless" survive because
+  // clauses are sliced on punctuation only.
+  assert.match(elements, /split\(\/\(\?<=\[;:\]\)\\s\+\//);
+
+  assert.match(app, /elementsFor\(\{ blocks: section\.blocks/);
+  assert.match(app, /item\.textContent = clause/);
+  assert.match(css, /\.key-language\s*\{/s);
+});
+
+test("the sheet says when it is showing an enclosing subsection, and that nothing is reviewed", () => {
+  // ILGA merges some nested provisions into their parent. Presenting a lead-in as the
+  // cited provision would be a quieter error than showing nothing at all.
+  assert.match(app, /elements\.exact && elements\.citedSubsection/);
+  assert.match(app, /is not published separately/);
+  assert.match(app, /not reviewed by your agency/);
+
+  // Officer review needs somewhere to land; with no backend that is a prefilled report
+  // the officer reads before sending.
+  assert.match(app, /const ISSUE_URL = /);
+  assert.match(app, /Report an issue/);
+  assert.match(app, /Do not include names, plates, case details, or any CJI/);
+});
