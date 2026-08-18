@@ -25,7 +25,9 @@
   --duration-enter: 260ms;
   --font-sans: "Avenir Next", Avenir, "Helvetica Neue", Helvetica, sans-serif;
   --font-mono: "SFMono-Regular", "Roboto Mono", Consolas, monospace;
+  --space-05: 2px;
   --space-1: 4px;
+  --space-15: 6px;
   --space-2: 8px;
   --space-3: 12px;
   --space-4: 16px;
@@ -40,6 +42,25 @@
   --page-gutter: 16px;
   --content-width: 1180px;
   --header-height: 120px;
+  /*
+   * Two inset systems, deliberately separate.
+   * --gutter-inline governs the document column and the header above it: a
+   * minimum clearance, so it takes max() against the landscape notch.
+   * --overlay-inset governs transient fixed chrome (toast, update prompt,
+   * centred sheet), which keeps its optical gap, so it adds the inset instead.
+   */
+  --gutter-inline: max(
+    var(--page-gutter),
+    env(safe-area-inset-left, 0px),
+    env(safe-area-inset-right, 0px)
+  );
+  --overlay-inset: var(--space-4);
+  /* The chip rail's scroll padding and its fade mask stops must move together. */
+  --rail-fade: 32px;
+  /* Every sticky-header scroll offset derives from this one value. */
+  --anchor-offset: calc(var(--header-height) + var(--space-4));
+  /* Read by the update-ready toast offset so the two never overlap. */
+  --update-prompt-height: 64px;
 }
 
 :root[data-theme="dark"] {
@@ -74,6 +95,7 @@
 
 html {
   scroll-behavior: smooth;
+  scroll-padding-top: var(--anchor-offset);
 }
 
 ::view-transition-old(root),
@@ -182,7 +204,7 @@ a {
   top: var(--space-3);
   left: var(--space-3);
   min-height: 44px;
-  padding: 10px var(--space-4);
+  padding: var(--space-3) var(--space-4);
   border-radius: var(--radius-pill);
   background: var(--text);
   color: var(--background);
@@ -205,7 +227,7 @@ a {
   grid-template-rows: 48px 56px;
   justify-items: center;
   gap: var(--space-2);
-  padding: var(--space-1) var(--space-3);
+  padding: var(--space-1) var(--gutter-inline);
   background: linear-gradient(
     to bottom,
     color-mix(in srgb, var(--background) 94%, transparent) 0%,
@@ -217,12 +239,12 @@ a {
 
 .pill-nav {
   display: flex;
-  max-width: calc(100vw - 24px);
+  max-width: 100%;
   height: 48px;
   align-items: center;
   justify-content: center;
   gap: var(--space-1);
-  padding: 2px var(--space-1);
+  padding: var(--space-05) var(--space-1);
   border: 1px solid color-mix(in srgb, var(--border) 88%, transparent);
   border-radius: 999px;
   background: var(--glass);
@@ -245,8 +267,8 @@ a {
   flex: 0 0 auto;
   align-items: center;
   justify-content: center;
-  gap: 5px;
-  padding: 0 10px;
+  gap: var(--space-1);
+  padding: 0 var(--space-2);
   border: 0;
   border-radius: var(--radius-pill);
   background: transparent;
@@ -424,7 +446,7 @@ a {
 .search-shell kbd {
   display: none;
   min-width: 30px;
-  padding: 3px 7px;
+  padding: var(--space-05) var(--space-2);
   border: 1px solid var(--border);
   border-radius: var(--radius-pill);
   color: var(--text-faint);
@@ -439,7 +461,7 @@ a {
   flex: 0 0 auto;
   align-items: center;
   margin-left: var(--space-2);
-  padding: 0 9px;
+  padding: 0 var(--space-2);
   border-radius: var(--radius-pill);
   background: var(--accent-soft);
   color: var(--accent);
@@ -479,8 +501,17 @@ a {
   top: calc(100% + var(--space-2));
   left: 50%;
   display: grid;
-  width: min(calc(100vw - 24px), 760px);
-  max-height: min(620px, calc(100vh - var(--header-height) - 16px));
+  width: min(calc(100vw - var(--gutter-inline) * 2), 760px);
+  /*
+   * svh, not dvh: the panel must fit the worst case (URL bar showing) rather
+   * than resize under the user's thumb as the bar collapses mid-interaction.
+   * The 100vh line is the fallback for engines that cannot parse svh.
+   */
+  max-height: min(620px, calc(100vh - var(--header-height) - var(--space-4)));
+  max-height: min(
+    620px,
+    calc(100svh - var(--header-height) - var(--space-4) - env(safe-area-inset-bottom, 0px))
+  );
   gap: var(--space-3);
   padding: var(--space-3);
   border: 1px solid color-mix(in srgb, var(--border) 90%, transparent);
@@ -510,12 +541,12 @@ a {
 .search-tool-group {
   display: grid;
   min-width: 0;
-  gap: 6px;
+  gap: var(--space-15);
 }
 
 .search-boundary {
   display: grid;
-  gap: 2px;
+  gap: var(--space-05);
   padding: var(--space-2) var(--space-3);
   border: 1px solid var(--border);
   border-radius: var(--radius-sm);
@@ -561,7 +592,7 @@ a {
 
 .recent-results {
   display: grid;
-  gap: 2px;
+  gap: var(--space-05);
 }
 
 .recent-option {
@@ -618,7 +649,7 @@ a {
 .command-results {
   display: grid;
   max-height: 344px;
-  gap: 2px;
+  gap: var(--space-05);
   overflow-y: auto;
   overscroll-behavior: contain;
   scrollbar-width: thin;
@@ -632,7 +663,7 @@ a {
   grid-template-columns: minmax(96px, auto) minmax(0, 1fr) auto;
   grid-template-rows: auto auto;
   align-items: center;
-  gap: 1px var(--space-3);
+  gap: var(--space-05) var(--space-3);
   padding: var(--space-2) var(--space-3);
   border: 0;
   border-radius: var(--radius-sm);
@@ -732,15 +763,15 @@ a {
   width: 100%;
   align-items: center;
   gap: var(--space-2);
-  padding: 0 32px 2px 0;
+  padding: 0 var(--rail-fade) var(--space-05) 0;
   overflow-x: auto;
   overscroll-behavior-inline: contain;
   scroll-padding-inline: var(--space-1);
   scroll-snap-type: inline proximity;
   touch-action: pan-x;
   scrollbar-width: none;
-  -webkit-mask-image: linear-gradient(to right, #000 0%, #000 calc(100% - 32px), transparent 100%);
-  mask-image: linear-gradient(to right, #000 0%, #000 calc(100% - 32px), transparent 100%);
+  -webkit-mask-image: linear-gradient(to right, #000 0%, #000 calc(100% - var(--rail-fade)), transparent 100%);
+  mask-image: linear-gradient(to right, #000 0%, #000 calc(100% - var(--rail-fade)), transparent 100%);
 }
 
 .search-prompts {
@@ -785,7 +816,7 @@ a {
   flex: 0 0 auto;
   align-items: center;
   justify-content: center;
-  gap: 6px;
+  gap: var(--space-15);
   padding: 0 var(--space-3);
   border: 1px solid var(--control-border);
   border-radius: var(--radius-pill);
@@ -843,12 +874,12 @@ a {
 .search-tools-footer > span {
   display: inline-flex;
   align-items: center;
-  gap: 6px;
+  gap: var(--space-15);
 }
 
 .search-tools-footer kbd {
   min-width: 24px;
-  padding: 2px 6px;
+  padding: var(--space-05) var(--space-15);
   border: 1px solid var(--border);
   border-radius: var(--radius-pill);
   color: var(--text-soft);
@@ -866,12 +897,15 @@ main,
 footer {
   width: min(100%, var(--content-width));
   margin: 0 auto;
+  /* Fallback for engines without max()/env(); the pair below supersedes it. */
   padding-right: var(--page-gutter);
   padding-left: var(--page-gutter);
+  padding-right: var(--gutter-inline);
+  padding-left: var(--gutter-inline);
 }
 
 .intro {
-  padding: var(--space-5) 0 var(--space-5);
+  padding: var(--space-5) 0 var(--space-4);
 }
 
 .intro-heading {
@@ -936,7 +970,7 @@ footer {
   width: 10px;
   height: 10px;
   align-self: start;
-  margin: 6px 5px 0;
+  margin: var(--space-15) var(--space-1) 0;
   border-radius: 50%;
   background: var(--accent);
   box-shadow: 0 0 0 6px var(--accent-soft);
@@ -945,7 +979,7 @@ footer {
 .source-status-content {
   display: grid;
   min-width: 0;
-  gap: 2px;
+  gap: var(--space-05);
 }
 
 .source-status-heading {
@@ -954,7 +988,7 @@ footer {
   align-items: center;
   justify-content: space-between;
   gap: var(--space-3);
-  margin-bottom: 2px;
+  margin-bottom: var(--space-05);
 }
 
 .source-status-heading strong {
@@ -975,7 +1009,7 @@ footer {
 .source-review-status {
   width: fit-content;
   margin-top: var(--space-1);
-  padding: 3px 8px;
+  padding: var(--space-05) var(--space-2);
   border-radius: var(--radius-pill);
   background: var(--danger-soft);
   color: var(--danger) !important;
@@ -993,7 +1027,7 @@ footer {
   flex: 0 0 auto;
   align-items: center;
   justify-content: center;
-  gap: 6px;
+  gap: var(--space-15);
   padding: 0 var(--space-3);
   border: 1px solid var(--control-border);
   border-radius: var(--radius-pill);
@@ -1014,15 +1048,15 @@ footer {
 }
 
 .content-section {
-  padding: var(--space-6) 0 var(--space-7);
+  padding: var(--space-6) 0;
   border-top: 1px solid var(--border-strong);
-  scroll-margin-top: calc(var(--header-height) + var(--space-4));
+  scroll-margin-top: var(--anchor-offset);
 }
 
 .section-heading {
   display: grid;
   gap: var(--space-4);
-  margin-bottom: var(--space-5);
+  margin-bottom: var(--space-4);
 }
 
 .section-heading h2 {
@@ -1109,7 +1143,7 @@ footer {
   min-width: 22px;
   min-height: 22px;
   place-items: center;
-  padding: 0 6px;
+  padding: 0 var(--space-15);
   border-radius: var(--radius-pill);
   background: var(--accent);
   color: var(--surface-strong);
@@ -1121,7 +1155,7 @@ footer {
   display: grid;
   min-width: 0;
   grid-template-columns: 1fr;
-  gap: var(--space-2);
+  gap: var(--space-3);
   margin-bottom: var(--space-4);
   padding: var(--space-2);
   border: 1px solid var(--border);
@@ -1196,8 +1230,8 @@ footer {
 .record-key {
   display: flex;
   flex-wrap: wrap;
-  gap: var(--space-2) var(--space-5);
-  padding: var(--space-2) 0 var(--space-4);
+  gap: var(--space-2) var(--space-4);
+  padding: var(--space-2) 0 var(--space-3);
   color: var(--text-faint);
   font-size: 12px;
 }
@@ -1211,7 +1245,7 @@ footer {
   display: inline-block;
   width: 6px;
   height: 6px;
-  margin-right: 5px;
+  margin-right: var(--space-1);
   border-radius: 50%;
   background: var(--danger);
 }
@@ -1234,7 +1268,7 @@ footer {
   gap: var(--space-2) var(--space-4);
   padding: var(--space-4) 0;
   border-top: 1px solid var(--border);
-  scroll-margin-top: calc(var(--header-height) + var(--space-4));
+  scroll-margin-top: var(--anchor-offset);
   transition:
     background-color var(--duration-fast) ease,
     border-color var(--duration-fast) ease;
@@ -1269,11 +1303,11 @@ footer {
 .statutory-flag {
   display: inline-flex;
   align-items: center;
-  gap: 6px;
+  gap: var(--space-15);
   width: max-content;
   max-width: 100%;
   margin-top: var(--space-2);
-  padding: 4px 8px;
+  padding: var(--space-1) var(--space-2);
   border-radius: var(--radius-pill);
   background: var(--accent-soft);
   color: var(--accent);
@@ -1292,8 +1326,10 @@ footer {
 }
 
 .statute-sheet {
-  width: min(calc(100vw - 32px), 720px);
-  max-height: min(720px, calc(100vh - 96px));
+  width: min(calc(100vw - var(--overlay-inset) * 2), 720px);
+  /* Fallback first; engines that parse dvh take the second declaration. */
+  max-height: min(720px, calc(100vh - var(--space-7) * 2));
+  max-height: min(720px, calc(100dvh - var(--space-7) * 2));
   padding: 0;
   border: 1px solid color-mix(in srgb, var(--border) 90%, transparent);
   border-radius: var(--radius-lg);
@@ -1321,6 +1357,9 @@ footer {
   align-items: start;
   gap: var(--space-3);
   padding: var(--space-4);
+  /* Full-bleed on phones, so the title must clear the landscape notch. */
+  padding-right: max(var(--space-4), env(safe-area-inset-right, 0px));
+  padding-left: max(var(--space-4), env(safe-area-inset-left, 0px));
   border-bottom: 1px solid var(--border);
 }
 
@@ -1336,7 +1375,7 @@ footer {
 .statute-sheet-close {
   min-width: 52px;
   min-height: 44px;
-  padding: 0 10px;
+  padding: 0 var(--space-2);
   border: 1px solid var(--control-border);
   border-radius: var(--radius-pill);
   background: color-mix(in srgb, var(--surface) 68%, transparent);
@@ -1353,6 +1392,8 @@ footer {
 
 .statute-sheet-body {
   padding: var(--space-4);
+  /* The bottom sheet reaches the physical edge; clear the home indicator. */
+  padding-bottom: calc(var(--space-4) + env(safe-area-inset-bottom, 0px));
   overflow-y: auto;
   overscroll-behavior: contain;
 }
@@ -1407,7 +1448,7 @@ footer {
   min-height: 44px;
   align-items: center;
   justify-content: center;
-  gap: 6px;
+  gap: var(--space-15);
   padding: 0 var(--space-3);
   border: 1px solid color-mix(in srgb, var(--accent) 40%, var(--border));
   border-radius: var(--radius-pill);
@@ -1538,13 +1579,13 @@ footer {
 .reporting-codes {
   display: flex;
   flex-wrap: wrap;
-  gap: 6px;
+  gap: var(--space-15);
   grid-column: 2;
   margin-top: var(--space-1);
 }
 
 .reporting-codes span {
-  padding: 3px 7px;
+  padding: var(--space-05) var(--space-2);
   border: 1px solid var(--border);
   border-radius: var(--radius-pill);
   background: color-mix(in srgb, var(--surface-muted) 82%, transparent);
@@ -1556,11 +1597,11 @@ footer {
 .mandatory-badge {
   display: inline-flex;
   align-items: center;
-  gap: 6px;
+  gap: var(--space-15);
   width: max-content;
   max-width: 100%;
   margin-top: var(--space-2);
-  padding: 4px 8px;
+  padding: var(--space-1) var(--space-2);
   border-radius: var(--radius-pill);
   background: var(--danger-soft);
   color: var(--danger);
@@ -1593,7 +1634,7 @@ footer {
 
 .official-heading {
   max-width: 68ch;
-  margin: 4px 0 0;
+  margin: var(--space-1) 0 0;
   color: var(--text-soft);
   font-size: 13px;
   font-weight: 520;
@@ -1713,7 +1754,7 @@ footer {
 .row-action {
   min-width: 52px;
   min-height: 44px;
-  padding: 0 10px;
+  padding: 0 var(--space-2);
   border: 1px solid var(--control-border);
   border-radius: var(--radius-pill);
   background: color-mix(in srgb, var(--surface) 68%, transparent);
@@ -1741,7 +1782,7 @@ mark {
 }
 
 .empty-state {
-  padding: var(--space-8) var(--space-4);
+  padding: var(--space-7) var(--space-4);
   border-top: 1px solid var(--border);
   text-align: center;
 }
@@ -1809,11 +1850,11 @@ mark {
   gap: var(--space-2) var(--space-3);
   padding: var(--space-5) 0;
   border-bottom: 1px solid var(--border);
-  scroll-margin-top: calc(var(--header-height) + var(--space-4));
+  scroll-margin-top: var(--anchor-offset);
 }
 
 .guide-number {
-  padding-top: 3px;
+  padding-top: var(--space-1);
   color: var(--text-faint);
   font-family: var(--font-mono);
   font-size: 12px;
@@ -1827,7 +1868,7 @@ mark {
 
 .guide-row div > p:last-child {
   max-width: 68ch;
-  margin: 6px 0 0;
+  margin: var(--space-15) 0 0;
   color: var(--text-soft);
   font-size: 14px;
 }
@@ -1836,7 +1877,7 @@ mark {
   grid-column: 2;
   width: max-content;
   min-height: 44px;
-  padding-top: 10px;
+  padding-top: var(--space-2);
   color: var(--accent);
   font-size: 12px;
   font-weight: 750;
@@ -1872,11 +1913,16 @@ mark {
 
 footer {
   display: flex;
-  min-height: 144px;
   align-items: flex-start;
   flex-direction: column;
   justify-content: center;
   gap: var(--space-4);
+  /*
+   * Longhands only: the shared `main, footer` rule owns the inline gutter, and
+   * a `padding` shorthand here would reset it to zero.
+   */
+  padding-top: var(--space-6);
+  padding-bottom: calc(var(--space-6) + env(safe-area-inset-bottom, 0px));
   border-top: 1px solid var(--border-strong);
   color: var(--text-soft);
   font-size: 12px;
@@ -1935,7 +1981,7 @@ footer a {
 }
 
 .trust-page code {
-  padding: 2px 5px;
+  padding: var(--space-05) var(--space-1);
   border-radius: 5px;
   background: var(--surface-muted);
   font-family: var(--font-mono);
@@ -1946,7 +1992,7 @@ footer a {
   display: flex;
   align-items: center;
   flex-wrap: wrap;
-  gap: 0 var(--space-3);
+  gap: var(--space-2) var(--space-3);
 }
 
 .trust-links a,
@@ -1967,9 +2013,9 @@ footer a {
 .toast {
   position: fixed;
   z-index: 90;
-  right: var(--space-4);
-  bottom: var(--space-4);
-  max-width: calc(100vw - 32px);
+  right: max(var(--overlay-inset), env(safe-area-inset-right, 0px));
+  bottom: calc(var(--overlay-inset) + env(safe-area-inset-bottom, 0px));
+  max-width: calc(100vw - var(--overlay-inset) * 2);
   padding: var(--space-3) var(--space-4);
   border-radius: var(--radius-pill);
   background: var(--text);
@@ -1992,12 +2038,12 @@ footer a {
 .update-prompt {
   position: fixed;
   z-index: 85;
-  right: var(--space-4);
-  bottom: var(--space-4);
-  left: var(--space-4);
+  right: max(var(--overlay-inset), env(safe-area-inset-right, 0px));
+  bottom: calc(var(--overlay-inset) + env(safe-area-inset-bottom, 0px));
+  left: max(var(--overlay-inset), env(safe-area-inset-left, 0px));
   display: grid;
-  width: min(calc(100vw - 32px), 520px);
-  min-height: 64px;
+  width: min(calc(100vw - var(--overlay-inset) * 2), 520px);
+  min-height: var(--update-prompt-height);
   grid-template-columns: minmax(0, 1fr) auto;
   align-items: center;
   gap: var(--space-3);
@@ -2030,7 +2076,7 @@ footer a {
 .update-prompt-copy {
   display: grid;
   min-width: 0;
-  gap: 1px;
+  gap: var(--space-05);
 }
 
 .update-prompt-copy strong {
@@ -2073,7 +2119,11 @@ footer a {
 }
 
 html.update-ready .toast {
-  bottom: calc(var(--space-4) + 96px);
+  /* Derived from the prompt it must clear, not guessed, and inset-aware. */
+  bottom: calc(
+    var(--overlay-inset) + env(safe-area-inset-bottom, 0px) + var(--update-prompt-height) +
+      var(--space-2)
+  );
 }
 
 .error-message {
@@ -2158,6 +2208,7 @@ html.update-ready .toast {
     width: 100vw;
     max-width: 100vw;
     max-height: 88vh;
+    max-height: 88svh;
     margin: auto auto 0;
     border-width: 1px 0 0;
     border-radius: var(--radius-lg) var(--radius-lg) 0 0;
@@ -2165,14 +2216,22 @@ html.update-ready .toast {
 
   .search-tools {
     gap: var(--space-2);
-    padding: var(--space-2);
+    padding: var(--space-2) var(--space-3);
+  }
+
+  /*
+   * The description wraps to its own row on a phone, so it needs more
+   * separation from the code column than the desktop two-column layout does.
+   */
+  .offense-row {
+    gap: var(--space-3) var(--space-4);
   }
 
   .command-option {
-    min-height: 82px;
+    min-height: 80px;
     grid-template-columns: minmax(0, 1fr) auto;
     grid-template-rows: auto auto auto;
-    gap: 2px var(--space-2);
+    gap: var(--space-05) var(--space-2);
   }
 
   .command-code {
@@ -2235,7 +2294,7 @@ html.update-ready .toast {
   }
 
   .intro {
-    padding-top: 36px;
+    padding-top: var(--space-6);
   }
 
   .intro-heading {
@@ -2265,6 +2324,7 @@ html.update-ready .toast {
     grid-template-columns: minmax(0, 1fr) auto;
     align-items: start;
     gap: var(--space-6);
+    margin-bottom: var(--space-5);
   }
 
   .results-meta,
@@ -2283,7 +2343,6 @@ html.update-ready .toast {
   .guide-row {
     grid-template-columns: 32px minmax(0, 1fr) auto;
     gap: var(--space-5);
-    padding: 26px 0;
   }
 
   .guide-row a {
@@ -2336,7 +2395,7 @@ html.update-ready .toast {
   }
 
   .offense-context {
-    margin-top: 6px;
+    margin-top: var(--space-15);
     line-height: 1.5;
   }
 

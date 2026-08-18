@@ -9,6 +9,7 @@
     "build:production": "npm run validate:release:production && node scripts/build-sites.mjs",
     "dev": "node scripts/build-lookup-index.mjs && node scripts/server.mjs",
     "test": "npm run build:draft && node --test",
+    "test:layout": "node scripts/build-lookup-index.mjs && node --test checks/layout-checks.mjs",
     "enrichment:citations": "node scripts/build-citation-model.mjs",
     "enrichment:probe": "node scripts/ilga-probe.mjs",
     "enrichment:verify": "node scripts/verify-ilga.mjs",

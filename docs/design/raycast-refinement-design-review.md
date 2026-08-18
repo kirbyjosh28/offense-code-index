@@ -24,8 +24,18 @@ The final interface has a stable 120px header, centered 48px navigation and 56px
 
 ## Verification notes
 
-- No horizontal page overflow at 320px or 375px.
+- No horizontal page overflow at 320px, 375px, 390px, or 430px.
 - Header height remains 120px while the search panel opens.
+- The floating header shell and the page content share one left edge at every breakpoint.
+- `main` and `footer` both retain the full inline gutter on each side.
+- The statute sheet is bottom-anchored and full-bleed on phones.
+- Wrapped footer links keep vertical separation between adjacent 44px targets.
+
+The first six are enforced by `npm run test:layout` (`checks/layout-checks.mjs`),
+which drives the preinstalled Chromium over CDP at each phone width. Two
+behaviours cannot be verified there and still need a device or the iOS Simulator:
+`env(safe-area-inset-*)` always resolves to 0 in Chromium, and with no dynamic
+URL bar `100svh`, `100dvh`, and `100vh` are identical.
 - “headlights” and “taillights” each return four relevant results in the interface.
 - Slash search shortcut is discoverable, optional, and ignores editable controls and modifier keys.
 - Escape closes the floating search tools and restores focus to the search field.
