@@ -16,7 +16,7 @@ import {
   serializeShareState,
 } from "./src/share-state.js";
 import { FAMILIES, familyFor } from "./src/family.js";
-import { elementsFor } from "./src/elements.js";
+import { elementsFor, emphasize } from "./src/elements.js";
 
 document.documentElement.classList.add("js");
 
@@ -381,8 +381,13 @@ const createOffenseRow = (offense) => {
 
   const descriptionColumn = document.createElement("div");
   descriptionColumn.className = "description-column";
+  const descriptionLabel = document.createElement("span");
+  descriptionLabel.className = "sr-only";
+  descriptionLabel.textContent = "February 2024 index label: ";
+
   const description = document.createElement("p");
   description.className = "offense-description";
+  description.append(descriptionLabel);
   description.append(highlight(offense.description, state.query));
   const context = document.createElement("p");
   context.className = "offense-context";
@@ -394,7 +399,7 @@ const createOffenseRow = (offense) => {
     officialHeading.textContent = offense.statutoryHeading;
     officialHeading.setAttribute(
       "aria-label",
-      `Official Illinois General Assembly title for ${offense.citation}: ${offense.statutoryHeading}`
+      `Official Illinois General Assembly section title for ${offense.citation}`
     );
   }
 
@@ -853,6 +858,32 @@ const loadStatutorySection = (sectionKey) => {
   return sectionRequests.get(sectionKey);
 };
 
+/**
+ * Render verbatim clauses, emphasising the qualifiers an officer has to satisfy.
+ *
+ * Emphasis is presentation only — the segments concatenate back to the exact statutory
+ * text, which test/elements.test.mjs asserts for every clause in the corpus.
+ */
+const createClauseList = (clauses, className) => {
+  const list = document.createElement("ul");
+  list.className = className;
+  for (const clause of clauses) {
+    const item = document.createElement("li");
+    for (const segment of emphasize(clause)) {
+      if (segment.emphasis) {
+        const mark = document.createElement("strong");
+        mark.className = "statutory-qualifier";
+        mark.textContent = segment.text;
+        item.append(mark);
+      } else {
+        item.append(document.createTextNode(segment.text));
+      }
+    }
+    list.append(item);
+  }
+  return list;
+};
+
 const createStatuteBlocks = (blocks) => {
   const container = document.createElement("div");
   container.className = "statute-blocks";
@@ -916,36 +947,48 @@ const createSheetContent = (offense, section) => {
 
     const label = document.createElement("p");
     label.className = "micro-label";
+    // Only claim to be showing the cited provision when that is what was found.
     label.textContent = elements.exact && elements.citedSubsection
-      ? `Key statutory language · ${elements.citedSubsection}`
-      : "Key statutory language";
+      ? `Elements · ${elements.citedSubsection}`
+      : elements.citedSubsection
+        ? `Elements · subsection (${elements.subsection})`
+        : "Elements · opening provision of the section";
     panel.append(label);
 
-    const list = document.createElement("ul");
-    list.className = "key-language-list";
-    for (const clause of elements.clauses) {
-      const item = document.createElement("li");
-      item.textContent = clause;
-      list.append(item);
-    }
-    panel.append(list);
+    panel.append(createClauseList(elements.elements, "key-language-list"));
 
-    // Say plainly when this is the enclosing subsection rather than the cited item.
-    // ILGA merges some nested provisions into their parent, and presenting a lead-in as
-    // the cited provision would be a quieter error than showing nothing.
+    if (elements.truncated > 0) {
+      const omitted = document.createElement("p");
+      omitted.className = "key-language-caveat";
+      omitted.textContent = `${elements.truncated} further ${elements.truncated === 1 ? "clause" : "clauses"} in this provision are not shown. Read the full text below.`;
+      panel.append(omitted);
+    }
+
+    // ILGA merges some nested provisions into their parent. Presenting a lead-in as the
+    // cited provision would be a quieter error than saying so plainly.
     if (!elements.exact && elements.citedSubsection) {
       const caveat = document.createElement("p");
       caveat.className = "key-language-caveat";
-      caveat.textContent = `Showing subsection (${elements.subsection}); the cited provision ${elements.citedSubsection} is not published separately. Read the full text below.`;
+      caveat.textContent = `The cited provision ${elements.citedSubsection} is not published separately; this is the enclosing subsection.`;
       panel.append(caveat);
     }
 
     const notReviewed = document.createElement("p");
     notReviewed.className = "key-language-caveat";
-    notReviewed.textContent = "Quoted verbatim from the statute and not reviewed by your agency. Elements and their application are for an officer to determine.";
+    notReviewed.textContent = "Quoted word for word from the statute and not reviewed by your agency. Which elements apply is for an officer to determine.";
     panel.append(notReviewed);
 
     fragment.append(panel);
+
+    if (elements.exceptions.length) {
+      const exceptionsPanel = document.createElement("section");
+      exceptionsPanel.className = "key-language key-exceptions";
+      const exceptionsLabel = document.createElement("p");
+      exceptionsLabel.className = "micro-label";
+      exceptionsLabel.textContent = "Important exceptions";
+      exceptionsPanel.append(exceptionsLabel, createClauseList(elements.exceptions, "key-language-list"));
+      fragment.append(exceptionsPanel);
+    }
   }
 
   if (section?.blocks?.length) {
@@ -1037,8 +1080,12 @@ const finishStatuteSheetClose = () => {
 };
 
 const closeStatuteSheet = () => {
-  if (elements.statuteSheet?.open) elements.statuteSheet.close();
-  finishStatuteSheetClose();
+  const sheet = elements.statuteSheet;
+  if (sheet?.open) sheet.close();
+  // Only tear down once the dialog has actually closed. Clearing unconditionally left an
+  // open sheet with an empty body whenever close() did not take effect — a field tool
+  // showing a statute heading over blank space is worse than one that stays open.
+  if (!sheet?.open) finishStatuteSheetClose();
 };
 
 const openStatuteSheet = async (offense, { returnFocusTo = null } = {}) => {

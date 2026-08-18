@@ -422,6 +422,9 @@ test("the statute sheet is one shared modal dialog, not a panel per row", () => 
   // Not every engine dispatches "close" — one embedded browser tested here never does —
   // so focus restoration and tear-down must not depend on that event alone.
   assert.match(app, /const finishStatuteSheetClose = \(\) =>/);
+  // Tearing down unconditionally left an open sheet with an empty body when close() did
+  // not take effect. A heading over blank space is worse than a sheet that stays open.
+  assert.match(app, /if \(!sheet\?\.open\) finishStatuteSheetClose\(\);/);
   assert.match(app, /event\.key !== "Escape"\) return;\s*\n\s*event\.preventDefault\(\);\s*\n\s*closeStatuteSheet\(\);/);
   assert.match(app, /sheetReturnFocus\?\.isConnected/);
   assert.match(app, /statuteButton\.setAttribute\("aria-haspopup", "dialog"\)/);
@@ -473,7 +476,6 @@ test("new controls join the shared motion and badge vocabularies", () => {
   assert.doesNotMatch(css, /line-height:\s*1\.6\b/);
 });
 
-
 test("the tools panel survives a click in browsers that do not focus buttons", () => {
   // Chromium focuses a <button> on click; Safari and Firefox do not. Without a pointer
   // guard the focusout handler saw focus on <body>, closed the panel and marked it
@@ -515,41 +517,65 @@ test("the row leads with the statute and demotes the 2024 publication", () => {
   assert.doesNotMatch(css, /\.source-proof-label\s*\{/s);
 });
 
-test("row headings are trimmed to the part that helps in the field", () => {
-  // Full ILGA headings repeat the citation and can run several lines; carrying them
-  // whole cost ~35KB gzip against ~10KB trimmed.
-  assert.match(build2, /const trimHeading = \(heading\) =>/);
-  assert.match(build2, /replace\(\/\^Sec\\\.\\s\*\[\\w\.\\-\]\+\\\.\\s\*\/, ""\)/);
-  assert.match(build2, /statutoryHeading: section\.rowHeading/);
-});
-
-test("key statutory language is quoted verbatim and never paraphrased", () => {
-  // Officers review this content in the field rather than a lawyer reviewing it first,
-  // so what they read is the statute itself. Every clause is a verbatim substring of
-  // what ILGA served; nothing here is written by the application.
+test("displayed statutory content is quoted verbatim and never paraphrased", () => {
+  // Plain language belongs to search. Everything the sheet displays is word for word
+  // from ilga.gov, so nothing here may rewrite, summarise, or reorder the statute.
   const elements = read("src/elements.js");
   assert.match(elements, /sourceText: clause/);
   assert.doesNotMatch(elements, /innerHTML/);
 
-  // Splitting must not rewrite: qualifiers like "knowingly" and "unless" survive because
-  // clauses are sliced on punctuation only.
+  // Cuts land on punctuation only, which is why qualifiers survive by construction.
   assert.match(elements, /split\(\/\(\?<=\[;:\]\)\\s\+\//);
+  assert.match(elements, /const CROSS_REFERENCE = /);
 
   assert.match(app, /elementsFor\(\{ blocks: section\.blocks/);
-  assert.match(app, /item\.textContent = clause/);
+  assert.match(app, /createClauseList\(elements\.elements, "key-language-list"\)/);
   assert.match(css, /\.key-language\s*\{/s);
 });
 
-test("the sheet says when it is showing an enclosing subsection, and that nothing is reviewed", () => {
-  // ILGA merges some nested provisions into their parent. Presenting a lead-in as the
-  // cited provision would be a quieter error than showing nothing at all.
-  assert.match(app, /elements\.exact && elements\.citedSubsection/);
-  assert.match(app, /is not published separately/);
+test("emphasis is presentation only and cannot alter the statute", () => {
+  // Qualifiers are marked so an officer can find them at a glance; the rendered text is
+  // byte-identical to the retrieved section.
+  assert.match(app, /for \(const segment of emphasize\(clause\)\)/);
+  assert.match(app, /mark\.textContent = segment\.text/);
+  assert.match(app, /document\.createTextNode\(segment\.text\)/);
+  assert.doesNotMatch(app, /innerHTML\s*=/);
+  assert.match(css, /\.statutory-qualifier\s*\{/s);
+});
+
+test("exceptions are separated, omissions are counted, and precision is not overstated", () => {
+  assert.match(app, /Important exceptions/);
+  assert.match(app, /key-exceptions/);
+  assert.match(css, /\.key-exceptions\s*\{/s);
+
+  // Silently dropping statutory text would be the worst failure available here.
+  assert.match(app, /elements\.truncated > 0/);
+  assert.match(app, /are not shown\. Read the full text below\./);
+
+  // A record with no cited subsection gets the section's opening provision, and says so.
+  assert.match(app, /Elements · opening provision of the section/);
+  assert.match(app, /is not published separately; this is the enclosing subsection/);
   assert.match(app, /not reviewed by your agency/);
 
-  // Officer review needs somewhere to land; with no backend that is a prefilled report
-  // the officer reads before sending.
+  // Officer review needs somewhere to land.
   assert.match(app, /const ISSUE_URL = /);
   assert.match(app, /Report an issue/);
   assert.match(app, /Do not include names, plates, case details, or any CJI/);
+});
+
+test("row titles are the full official heading, and the 2024 label is identified", () => {
+  // The row previously showed a trimmed, sometimes ellipsised heading while telling
+  // screen readers it was the official ILGA title.
+  assert.doesNotMatch(build2, /trimHeading/);
+  assert.match(build2, /statutoryHeading: section\.headingText/);
+  assert.match(app, /Official Illinois General Assembly section title for/);
+  assert.match(app, /February 2024 index label: /);
+});
+
+test("search vocabulary never reaches the rendered page", () => {
+  // Plain language exists to make search match. If any of it rendered, an officer could
+  // read an alias as though it were statutory wording.
+  for (const identifier of ["phraseAliases", "synonyms", "intentRules"]) {
+    assert.ok(!app.includes(identifier), `${identifier} must stay inside src/search.js`);
+  }
 });

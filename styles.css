@@ -1464,6 +1464,19 @@ footer {
   margin-bottom: var(--space-2);
 }
 
+/* Exceptions are the same surface as elements, distinguished by an accent edge rather
+   than another tinted box — the brief asks for fewer nested boxes, not more. */
+.key-exceptions {
+  border-left: 2px solid color-mix(in srgb, var(--accent) 55%, var(--border));
+}
+
+/* Emphasis only. The text is byte-identical to the statute; this changes weight and
+   colour so a qualifier is findable at a glance, and nothing else. */
+.statutory-qualifier {
+  color: var(--text);
+  font-weight: 750;
+}
+
 .key-language-caveat {
   max-width: 78ch;
   margin: var(--space-2) 0 0;
