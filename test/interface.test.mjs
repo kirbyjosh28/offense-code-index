@@ -330,15 +330,18 @@ test("command search preserves focus, contrast, and short-viewport access", () =
   );
 });
 
-test("the production bundle includes the fuzzy-search module", () => {
-  assert.match(build, /src", "search\.js"/);
-  assert.match(build, /src", "freshness\.js"/);
-  assert.match(build, /src", "share-state\.js"/);
+test("the production bundle derives its client modules from the application", () => {
+  // Naming the modules here is what allowed app.js to import a fourth module the build
+  // never copied. The list is now derived from app.js's imports, and
+  // test/sites-build.test.mjs asserts each one is actually served by the built bundle.
+  assert.match(build, /const clientModules = \[\.\.\.appSource\.matchAll/);
+  assert.match(build, /clientModules\.map\(\(file\) => cp\(/);
+  assert.match(build, /throw new Error\("No client modules found in app\.js imports\."\)/);
+  assert.doesNotMatch(build, /src", "search\.js"/, "client modules must not be hand-listed again");
   assert.match(build, /trustFiles/);
   assert.match(build, /config", "source-version\.json"/);
   assert.match(build, /artifact-checksums\.json/);
   assert.match(build, /sbom\.cdx\.json/);
-  assert.match(build, /client, "src", "search\.js"/);
   assert.match(build, /client, "version\.json"/);
   assert.match(build, /client, "index\.html"/);
 });
