@@ -1322,8 +1322,30 @@ const bindEvents = () => {
     setSearchExperienceOpen(true);
   });
 
+  /**
+   * Keep the tools panel open while the pointer is pressing something inside it.
+   *
+   * Chromium focuses a <button> when you click it, so the focusout check below saw
+   * focus still inside the search experience and left the panel alone. Safari and
+   * Firefox do not focus buttons on click: focus went to <body>, this handler closed
+   * the panel and marked it inert on the very next frame, and the click that followed
+   * landed on an inert subtree and never fired. Every common stop and quick filter was
+   * dead in those browsers while working perfectly in Chromium.
+   */
+  let pointerHeldInsideSearch = false;
+  elements.searchExperience.addEventListener("pointerdown", () => {
+    pointerHeldInsideSearch = true;
+  });
+  window.addEventListener("pointerup", () => {
+    pointerHeldInsideSearch = false;
+  });
+  window.addEventListener("pointercancel", () => {
+    pointerHeldInsideSearch = false;
+  });
+
   elements.searchExperience.addEventListener("focusout", () => {
     window.requestAnimationFrame(() => {
+      if (pointerHeldInsideSearch) return;
       if (elements.searchExperience.contains(document.activeElement)) return;
       setSearchExperienceOpen(false);
     });

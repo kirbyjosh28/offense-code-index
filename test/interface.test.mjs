@@ -471,3 +471,24 @@ test("new controls join the shared motion and badge vocabularies", () => {
   assert.doesNotMatch(css, /line-height:\s*1\.6\b/);
 });
 
+
+test("the tools panel survives a click in browsers that do not focus buttons", () => {
+  // Chromium focuses a <button> on click; Safari and Firefox do not. Without a pointer
+  // guard the focusout handler saw focus on <body>, closed the panel and marked it
+  // inert on the next frame, and the click landed on an inert subtree and never fired —
+  // so every common stop and quick filter was dead in those browsers.
+  assert.match(app, /let pointerHeldInsideSearch = false/);
+  assert.match(app, /searchExperience\.addEventListener\("pointerdown"/);
+  assert.match(app, /addEventListener\("pointerup"/);
+  assert.match(app, /addEventListener\("pointercancel"/);
+
+  const focusoutBody = app.slice(
+    app.indexOf('elements.searchExperience.addEventListener("focusout"'),
+    app.indexOf('elements.search.addEventListener("input"')
+  );
+  assert.ok(
+    focusoutBody.indexOf("if (pointerHeldInsideSearch) return;") <
+      focusoutBody.indexOf("setSearchExperienceOpen(false)"),
+    "the pointer guard must be checked before the panel is closed"
+  );
+});
