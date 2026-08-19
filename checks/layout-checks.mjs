@@ -130,9 +130,20 @@ test("interactive controls keep their tap targets on phones", async () => {
 
     const undersized = await page.evaluate(`(() => {
       const selector = "a[href], button, input, select";
+      // WCAG 2.2 SC 2.5.8 exempts targets sitting inline within a run of text.
+      // Detect that structurally: the link shares its parent with real text.
+      const isInlineInText = (node) => {
+        if (node.tagName !== "A") return false;
+        const parent = node.parentElement;
+        if (!parent) return false;
+        return [...parent.childNodes].some(
+          (child) => child.nodeType === 3 && child.textContent.trim().length > 0
+        );
+      };
       return [...document.querySelectorAll(selector)]
         .filter((node) => {
           if (node.closest("[hidden], [inert], .sr-only")) return false;
+          if (isInlineInText(node)) return false;
           const style = getComputedStyle(node);
           if (style.display === "none" || style.visibility === "hidden") return false;
           const box = node.getBoundingClientRect();

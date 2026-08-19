@@ -72,7 +72,7 @@ test("the one-page document exposes navigation, search, all sections, and source
   assert.match(html, /class="source-status" role="note" aria-labelledby="source-status-title"/);
   assert.match(html, /Source: official SOS Police publication/);
   assert.match(html, /not affiliated with or endorsed by Illinois or any government agency/);
-  assert.match(html, /Historical reporting reference only—not current law or legal advice/);
+  assert.match(html, /Historical reporting reference only\. Not current law or legal advice/);
   assert.match(html, /id="source-review-status">Content review due · Approval dates pending/);
   assert.match(html, /class="search-boundary" role="note"/);
   assert.match(html, /id="search-safety-instructions"/);
@@ -502,7 +502,7 @@ test("the row leads with the statute and demotes the 2024 publication", () => {
   // offence list — but the statute is the authority, so it is what the row shows first.
   assert.match(app, /const headlineCitation = offense\.fullCitation \?\? displayCode/);
   assert.match(app, /primaryCode\.append\(highlight\(headlineCitation, state\.query\)\)/);
-  assert.match(app, /codeLabel\.textContent = offense\.fullCitation \? "ILCS section" : "Source code"/);
+  assert.match(app, /codeLabel\.textContent = offense\.fullCitation \? "ILCS Section" : "Source Code"/);
 
   // The official ILGA section title appears on the row, not only inside the sheet.
   assert.match(app, /officialHeading\.className = "official-heading"/);
@@ -510,7 +510,7 @@ test("the row leads with the statute and demotes the 2024 publication", () => {
   assert.match(css, /\.official-heading\s*\{/s);
 
   // Copying a record yields the statute, which is what someone pasting one wants.
-  assert.match(app, /\$\{headlineCitation\}\$\{reporting\} — \$\{offense\.description\}/);
+  assert.match(app, /\$\{headlineCitation\}\$\{reporting\}: \$\{offense\.description\}/);
 
   // Demotion is visual weight only: the link keeps its 44px target.
   assert.match(css, /\.source-proof\s*\{[^}]*min-height:\s*44px/s);
@@ -544,7 +544,7 @@ test("emphasis is presentation only and cannot alter the statute", () => {
 });
 
 test("exceptions are separated, omissions are counted, and precision is not overstated", () => {
-  assert.match(app, /Important exceptions/);
+  assert.match(app, /Important Exceptions/);
   assert.match(app, /key-exceptions/);
   assert.match(css, /\.key-exceptions\s*\{/s);
 

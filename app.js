@@ -37,7 +37,7 @@ const MAX_RECENT_SELECTIONS = 5;
 const guides = [
   {
     id: "guide-index-scope",
-    title: "Index scope & reporting codes",
+    title: "Index Scope & Reporting Codes",
     pages: "PDF page 2",
     pdfPage: 2,
     description: "Publication limits, the current-law warning, and how Secretary of State Police uses four-digit reporting codes.",
@@ -58,42 +58,42 @@ const guides = [
   },
   {
     id: "guide-supreme-court-rules",
-    title: "Illinois Supreme Court rules",
+    title: "Illinois Supreme Court Rules",
     pages: "PDF pages 3–7",
     pdfPage: 3,
     description: "Rules 504, 529, 530, 531, 551, 552, 553, 554, and the Rule 501(g) definition.",
   },
   {
     id: "guide-required-appearance",
-    title: "Required appearance — Rule 551",
+    title: "Required Appearance Under Rule 551",
     pages: "PDF pages 5–6",
     pdfPage: 5,
     description: "Allegations and circumstances that require an in-person or remote court appearance.",
   },
   {
     id: "guide-traffic-release",
-    title: "Traffic enforcement & pretrial release",
+    title: "Traffic Enforcement & Pretrial Release",
     pages: "PDF pages 6–7",
     pdfPage: 6,
     description: "625 ILCS 5/6-308 and jurisdictions not yet in the Nonresident Violator Compact.",
   },
   {
     id: "guide-under-21",
-    title: "Drivers under age 21",
+    title: "Drivers Under Age 21",
     pages: "PDF page 7",
     pdfPage: 7,
     description: "Alcohol, graduated-driver, zero-tolerance, and phone-related provisions for drivers under 21.",
   },
   {
     id: "guide-plate-weights",
-    title: "License plate weight chart",
+    title: "License Plate Weight Chart",
     pages: "PDF page 11",
     pdfPage: 11,
     description: "Flat-weight, mileage, farm-truck, and farm-trailer designations and maximum gross weights.",
   },
   {
     id: "guide-placards-contacts",
-    title: "Disability placards & publication contacts",
+    title: "Disability Placards & Publication Contacts",
     pages: "PDF pages 54–56",
     pdfPage: 54,
     description: "Placard identification, publication ordering, report-form contacts, and corrections information.",
@@ -340,7 +340,7 @@ const createOffenseRow = (offense) => {
 
   const codeLabel = document.createElement("span");
   codeLabel.className = "micro-label";
-  codeLabel.textContent = offense.fullCitation ? "ILCS section" : "Source code";
+  codeLabel.textContent = offense.fullCitation ? "ILCS Section" : "Source Code";
   const primaryCode = document.createElement("h3");
   primaryCode.className = "primary-code";
   primaryCode.id = `${offense.id}-code`;
@@ -458,7 +458,7 @@ const createOffenseRow = (offense) => {
           .join(", ")})`
       : "";
     writeClipboard(
-      `${offense.mandatoryAppearance ? "*" : ""}${headlineCitation}${reporting} — ${offense.description}\nPossible match from the February 2024 source publication. Verify current ILCS and agency policy.`,
+      `${offense.mandatoryAppearance ? "*" : ""}${headlineCitation}${reporting}: ${offense.description}\nPossible match from the February 2024 source publication. Verify current ILCS and agency policy.`,
       `${displayCode} copied`
     );
   });
@@ -707,7 +707,7 @@ const renderSummary = (count) => {
   const strong = document.createElement("strong");
   strong.textContent = count.toLocaleString();
   const noun = count === 1 ? " offense" : " offenses";
-  const suffix = state.query ? ` matching “${state.query.trim()}”` : " — complete index";
+  const suffix = state.query ? ` matching “${state.query.trim()}”` : " · complete index";
   elements.resultSummary.replaceChildren(strong, document.createTextNode(`${noun}${suffix}`));
 };
 
@@ -985,7 +985,7 @@ const createSheetContent = (offense, section) => {
       exceptionsPanel.className = "key-language key-exceptions";
       const exceptionsLabel = document.createElement("p");
       exceptionsLabel.className = "micro-label";
-      exceptionsLabel.textContent = "Important exceptions";
+      exceptionsLabel.textContent = "Important Exceptions";
       exceptionsPanel.append(exceptionsLabel, createClauseList(elements.exceptions, "key-language-list"));
       fragment.append(exceptionsPanel);
     }
@@ -1018,7 +1018,7 @@ const createSheetContent = (offense, section) => {
   report.target = "_blank";
   report.rel = "noopener noreferrer";
   report.textContent = "Report an issue";
-  report.setAttribute("aria-label", `Report an issue with ${offense.citation} — opens a prefilled report in a new tab`);
+  report.setAttribute("aria-label", `Report an issue with ${offense.citation}, opens a prefilled report in a new tab`);
   {
     const title = `Record issue: ${offense.fullCitation ?? offense.code ?? offense.id}`;
     const body = [
@@ -1756,7 +1756,7 @@ const init = async () => {
       state.contentStatus.corpus.enabled !== true
     ) {
       showUnavailableLookup(
-        "Lookup temporarily unavailable",
+        "Lookup Temporarily Unavailable",
         state.contentStatus.emergencyControl.publicMessage
       );
       return;
@@ -1790,7 +1790,7 @@ const init = async () => {
   } catch (error) {
     renderStaticSections();
     showUnavailableLookup(
-      "Index unavailable",
+      "Index Unavailable",
       "The code index could not be loaded. Refresh the page or open the source publication."
     );
     console.error(error);
